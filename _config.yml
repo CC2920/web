@@ -28,7 +28,7 @@ author: sinedbo
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: https://jolly-ocean-0f6bb660f.2.azurestaticapps.net # production will be: 'https://www.cc2920.ca'
+url:  # production will be: 'https://www.cc2920.ca'
 baseurl: ''
 
 
