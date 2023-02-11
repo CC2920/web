@@ -14,6 +14,7 @@ Testing code
         <li><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>, folder={{ page.dir }}</li>
         {% endunless %}
     {% endfor %}
+    <br>{{ col.relative_directory }}
     <li>&nbsp;</li>
 </ul>
     {% endif %} 

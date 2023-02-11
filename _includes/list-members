@@ -6,9 +6,9 @@
   <div class="row list-row t15">
     <div class="columns small-3 medium-2 large-2 t15">
         {% if member.picture %}
-        <img src="{{ site.url }}{{ member.picture }}" title="{{ member.name }}">
+        <img src="{{ site.url }}{{ site.baseurl }}{{ member.picture }}" title="{{ member.name }}">
         {% else %}
-        <img src="{{ site.url }}/content/docs/profile.jpg" title="">
+        <img src="{{ site.url }}{{ site.baseurl }}/content/docs/profile.jpg" title="">
         {% endif %}
     </div>
     <div class="columns small-9 medium-10 large-10">

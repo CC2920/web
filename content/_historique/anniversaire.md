@@ -13,7 +13,7 @@ tags:
         <p>Vous avez un peu de temps, joiniez-vous à nous. Partager et invitér avec vos amis. </p>
     </div>
     <div class="columns small-4 medium-3 large-3" >
-        <img title="Logo du 50e avec dragon rouge du CC2920" src="{{ site.url }}/content/docs/historique/2920Dragon_C_50_sm.jpg" />
+        <img title="Logo du 50e avec dragon rouge du CC2920" src="{{ site.url }}{{ site.baseurl }}/content/docs/historique/2920Dragon_C_50_sm.jpg" />
     </div>
 </div>
 <div class="row column">

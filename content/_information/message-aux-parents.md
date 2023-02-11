@@ -14,11 +14,11 @@ Chers parents, votre appui est essentiel aux succès du corps de cadets. Vous po
 - En vous joignant au comité répondant
 - En nous apportant vos canettes et bouteilles vides.
 
-Vous désirez plus de renseignements? SVP, consultez l'onglet <a href="/comite-soutien">Comité de soutien</a>.
+Vous désirez plus de renseignements? SVP, consultez l'onglet <a href="{{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.page-presentation-comite-soutien }}">Comité de soutien</a>.
 
 N'hésitez pas à poser toutes vos questions aux membres du comité de soutien ou aux officiers présents, c'est toujours un plaisir de discuter avec vous!
 
-Pour plus d'information, veuillez lire la <a href='https://cc2920.ca/docs/acc/Lettreauxparents.pdf'>Lettre aux parents</a> ou contactez-nous au 819-568-2920
+Pour plus d'information, veuillez lire la <a href='{{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.documents-lettreauxparents }}'>Lettre aux parents</a> ou contactez-nous au 819-568-2920
 
 ## Témoignages de parents bénévoles
 <br/>

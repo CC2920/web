@@ -9,7 +9,17 @@
 {% assign sortedLinks = menuLink.dropdown | sort: "sortorder" %}
 <ul class="side-nav">
   {% for link in sortedLinks %}
-    <li><a href="{{ domain }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
+    {% if link.url contains 'http' %}
+      {% assign domain = '' %}
+      {% assign _baseurl = '' %}
+    {% elsif link.url == '#' %}
+      {% assign domain = '' %}
+      {% assign _baseurl = site.baseurl %}
+    {% else %}
+      {% assign domain = site.url %}
+      {% assign _baseurl = site.baseurl %}
+    {% endif %}
+    <li><a href="{{ domain }}{{ _baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
   {% endfor %}
   <li>&nbsp;</li>
 </ul>

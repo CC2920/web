@@ -4,16 +4,10 @@ layout: commandant
 title:  "Le Commandant"  
 breadcrumb: true
 
-categories:
-    - présentation  
-    - biographie
-tags:
+dates: "1998 - 1999"
+cmdt: "Biographie du Capitaine Steve Noël, CD"
+picture: "/content/docs/historique/CmdtNoelS.jpg"
 
-profile:
-  title: Biographie du Capitaine Steve Noël, CD
-  image:
-    title: "Capitaine Steve Noël"
-    url: "/content/docs/historique/BioNoelWeb.jpg"
 ---
 
 C’est dans la ville de Québec qu'il est né en 1968 et il joint les Forces canadiennes en 1986 en tant qu'artilleur.
