@@ -1,0 +1,20 @@
+
+<section>
+  {% assign commandants = include.list %}        
+  {% for bio in commandants %}
+  <div class="row list-row t15">
+    <div class="columns small-3 medium-2" >
+        {% if bio.picture %}
+        <img src="{{ site.url }}{{ bio.picture }}" title="{{ bio.cmdt }}" class="bio-picture-list">
+        {% else %}
+        <img src="{{ site.url }}/content/docs/profile.jpg" title="">
+        {% endif %}
+    </div>
+    <div class="columns small-9 medium-10">
+      <div class="bio-dates">{{ bio.dates }}</div>
+      <div class="bio-name">{{ bio.cmdt }}</div>
+      <a href="{{ site.url }}{{ bio.url }}">Biographie</a>
+  </div>
+  </div>
+  {% endfor %}
+</section>

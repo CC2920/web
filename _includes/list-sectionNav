@@ -1,0 +1,16 @@
+{% comment %}
+*  This loops sub-navigation items from the navigation.yml for the specified menu item (page)
+*
+{% endcomment %}
+
+
+{% assign menuLink = site.data.navigation | where:"title",include.title | first  %}
+{% if menuLink %}
+{% assign sortedLinks = menuLink.dropdown | sort: "sortorder" %}
+<ul class="side-nav">
+  {% for link in sortedLinks %}
+    <li><a href="{{ domain }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
+  {% endfor %}
+  <li>&nbsp;</li>
+</ul>
+{% endif %}

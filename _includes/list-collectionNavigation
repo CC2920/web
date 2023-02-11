@@ -1,0 +1,22 @@
+{% comment %}
+*   
+*   This include lets you loop through a collection to list
+*   all entries in that collection.
+*   
+*   If you set »published: false« in front matter of a collection page 
+*   the page gots filtered out via unless
+*
+*   Example: {% include list-collection collection='wordpress' %}
+*   
+{% endcomment %}
+
+{% assign sorted = site.[include.collection] | sort: 'title' | where: "include-in-nav", "true" %}
+
+<ul class="side-nav">
+  {% for navItem in sorted %}
+    {% unless navItem.published == false %}
+    <li class="{% if navItem.url == page.url %} active{% endif %}"><a href="{{ site.url }}{{ navItem.url }}">{{ navItem.title }}</a></li>
+    {% endunless %}
+  {% endfor %}
+  <li>&nbsp;</li>
+</ul>

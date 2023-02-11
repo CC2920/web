@@ -1,0 +1,20 @@
+- menu_name: "Communication"
+
+- name: "Nous-rejoindre"
+  url: "/nous-rejoindre/"
+  class: icon-message
+  title: "Nous rejoindre"
+
+# - name: "sitemap.xml"
+#   url: "/sitemap.xml"
+#   title: "Sitemap for Google Webmaster Tools"
+
+- name: Groupe Facebook
+  url: https://www.facebook.com/groups/cc2920Gatineau
+  class: icon-facebook
+  title: "Groupe Facebook des membres du CC2920"
+
+# - name: Groupe Facebook des anciens 
+#   url: https://www.facebook.com/groups/cc2920Gatineau
+#   class: icon-facebook
+#   title: "Groupe Facebook officielle des anciens membres et cadets du CC2920"

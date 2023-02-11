@@ -1,55 +1,314 @@
-# Welcome to Jekyll!
+# ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
+# 
+#      _____ _ __          _____      __  __  _
+#     / ___/(_) /____     / ___/___  / /_/ /_(_)___  ____ ______
+#     \__ \/ / __/ _ \    \__ \/ _ \/ __/ __/ / __ \/ __ `/ ___/
+#    ___/ / / /_/  __/   ___/ /  __/ /_/ /_/ / / / / /_/ (__  )
+#   /____/_/\__/\___/   /____/\___/\__/\__/_/_/ /_/\__, /____/
+#                                                 /____/
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# Title of your website
+title: 'Le Corp de cadet 2920'
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://cc2920.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  
+# The slogan describes your website and is used on homepage in <title> and other important places
+slogan: 'Fierté et excellence'
 
-# Build settings
-theme: minima
+# The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
+description: "Le site CC2920 est destiné à vous fournir une multitude d'informations concernant notre corps de cadets et les différentes activités qui y sont offertes."
+
+# The credits show up in the includes/_footer.html 
+credits: 'Géré via le répertoire <a href="https://github.com/CC2920/web/" target="_blank">CC2920 GitHub.com</a>'
+# This is for the editing function in _/includes/improve_content
+# Leave it empty if your site is not on GitHub/GitHub Pages
+improve_content: https://github.com/CC2920/web/edit/modifs
+
+# Main author of the website
+# See > authors.yml
+author: sinedbo
+
+# This URL is the main address for absolute links. Don't include a slash at the end.
+#
+url: https://jolly-ocean-0f6bb660f.2.azurestaticapps.net # production will be: 'https://www.cc2920.ca'
+baseurl: ''
+
+
+# This URL points directly to the images directory making
+# things easier to link to images in posts and templates. It needs a slash at the end.
+#
+# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
+# Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
+#
+urlimg: '/images/'
+
+# Logo size is 600x80 pixels
+logo: "logo.png"
+group_photo: "cc2920-photo-de-groupe.jpg"
+
+collections_dir: content
+collections:
+  communications:
+    output: true
+  drafts:
+    output: false
+  historique:
+    output: true
+  information:
+    output: true
+  presentation:
+    output: true
+  ressources: 
+    output: true
+  prix: 
+    output: true
+
+# Plugins
 plugins:
-  - jekyll-feed
+    - jekyll-gist
+    - jekyll-paginate
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
+
+#       ____              _             __  _
+#      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
+#     / /_/ / __ `/ __ `/ / __ \/ __ `/ __/ / __ \/ __ \
+#    / ____/ /_/ / /_/ / / / / / /_/ / /_/ / /_/ / / / /
+#   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
+#               /____/
 #
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
+paginate: 5                      # Paginates all X entries
+paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
+
+
+# Theme works best with Kramdown (using the table of contents function)
+markdown           : kramdown
+permalink          : /:categories/:title/
+highlight          : rouge
+excerpt_separator  : "<!--more-->"
+include            : ['.htaccess']
+# Exclude these files from your production _site
+exclude:
+    - .sass-cache
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - INSTALL.md
+    - vendor
+
+
+# The language setting is used in /includes/header.html for html-settings
+language: 'fr'
+
+
+# Used › default.html front-matter and compress.html
+# Options › http://jch.penibelst.de
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  profile: false
+  ignore:
+    envs: [development]
+
+
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+#       ____       ____            ____
+#      / __ \___  / __/___ ___  __/ / /_
+#     / / / / _ \/ /_/ __ `/ / / / / __/
+#    / /_/ /  __/ __/ /_/ / /_/ / / /_
+#   /_____/\___/_/  \__,_/\__,_/_/\__/
+#
+# Default Settings
+
+defaults:
+  -
+    scope:
+      path: '' 				# an empty string here means all files in the project
+      type: 'pages'
+    values:
+      show_meta: false 	# Hide metadata for all pages
+      comments: false
+      author: sinedbo     # Default author for pages
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+      show_meta: true   # Show metadata for all posts
+      # sidebar:        # Possible values › left, right › by default there will be no sidebar
+      comments: false
+      author: sinedbo     # Default author for posts
+  - 
+    scope: 
+      path: "content/_communications"
+      type: ""
+    values:
+      breadcrumb: true
+      layout: page-fullwidth
+      subheadline: Communiqué
+  -
+    scope:
+      path: 'content/_historique'
+      type: 'historique'
+    values:
+      breadcrumb: true
+      layout: 'page-fullwidth'
+      subheadline: "Historique"
+      header:
+        image_fullwidth: "musique-historique.jpeg"
+  -
+    scope:
+      path: 'content/_historique/notre-unite/'
+      type: 'historique'
+    values:
+      breadcrumb: true
+      layout: 'left-nav'
+      subheadline: "Historique de notre unité"
+      include-in-nav: true
+  -
+    scope:
+      path: 'content/_historique/commandants/'
+      type: 'historique'
+    values:
+      breadcrumb: true
+      layout: 'commandant'
+      subheadline: "Historique"
+      title: Biographie 
+  - 
+    scope: 
+      path: "content/_information"
+      type: "information"
+    values:
+      breadcrumb: true
+      layout: page-fullwidth
+      subheadline: Information
+      header:
+        image_fullwidth: "cc2920-2018-06-24.jpg"
+  - 
+    scope: 
+      path: "content/_presentation"
+      type: "presentation"
+    values:
+      breadcrumb: true
+      layout: page-fullwidth
+      subheadline: Présentation
+      header:
+        image_fullwidth: "cc2920-2018-06-24.jpg"
+  - 
+    scope: 
+      path: "content/_prix"
+      type: "prix"
+    values:
+      breadcrumb: true
+      layout: page-fullwidth
+      subheadline: "Prix et mérites"
+      header:
+        image_fullwidth: "cc2920-2018-06-24.jpg"
+  - 
+    scope: 
+      path: "content/_ressources"
+      type: "ressources"
+    values:
+      breadcrumb: true
+      layout: page-fullwidth
+      subheadline: "Ressources"
+      header:
+        image_fullwidth: "expedition-foret.jpg"
+
+#       _   __            _             __  _
+#      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
+#     /  |/ / __ `/ | / / / __ `/ __ `/ __/ / __ \/ __ \
+#    / /|  / /_/ /| |/ / / /_/ / /_/ / /_/ / /_/ / / / /
+#   /_/ |_/\__,_/ |___/_/\__, /\__,_/\__/_/\____/_/ /_/
+#                       /____/
+#
+#  Open _data/navigation.yml to adjust the left and right topbar navigation
+#
+
+
+
+#     _____ __________
+#    / ___// ____/ __ \
+#    \__ \/ __/ / / / /
+#   ___/ / /___/ /_/ /
+#  /____/_____/\____/    Verify Website to Webmaster Tools
+
+google_site_verification        : '00000'
+bing_webmastertools_id          : '00000'
+# yandex_site_verification      : ''
+# alexa_verify_id               : ''
+
+
+
+
+#       ______                __                __
+#      / ____/___ _________  / /_  ____  ____  / /__
+#     / /_  / __ `/ ___/ _ \/ __ \/ __ \/ __ \/ //_/
+#    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
+#   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
+
+og_image                             : ''
+og_locale                            : 'fr_CA'
+og_type                              : 'website'
+
+
+#      _____            _       __   __  ___         ___
+#     / ___/____  _____(_)___ _/ /  /  |/  /__  ____/ (_)___ _
+#     \__ \/ __ \/ ___/ / __ `/ /  / /|_/ / _ \/ __  / / __ `/
+#    ___/ / /_/ / /__/ / /_/ / /  / /  / /  __/ /_/ / / /_/ /
+#   /____/\____/\___/_/\__,_/_/  /_/  /_/\___/\__,_/_/\__,_/
+#
+#  Open _data/socialmedia.yml to adjust the left and right topbar navigation
+#
+
+# socialmedia:
+#     twitter   : sinedbo
+#     facebook  : sinedbo.media
+
+
+
+#      _____
+#     / ___/____ ___________
+#     \__ \/ __ `/ ___/ ___/
+#    ___/ / /_/ (__  |__  )     More › http://sass-lang.com/
+#   /____/\__,_/____/____/      More › http://jekyllrb.com/docs/assets/#sassscss
+#
+
+sass:
+    sass_dir : _sass
+    style    : :compressed
+
+
+#       ___                __      __  _
+#      /   |  ____  ____ _/ /_  __/ /_(_)_________
+#     / /| | / __ \/ __ `/ / / / / __/ / ___/ ___/
+#    / ___ |/ / / / /_/ / / /_/ / /_/ / /__(__  )
+#   /_/  |_/_/ /_/\__,_/_/\__, /\__/_/\___/____/      https://www.google.com/analytics/
+#                        /____/
+#
+# used in _includes/footer_scripts
+
+# google_analytics_tracking_id:
+
+
+
+#     ___              _     __           __
+#    /   |  __________(_)___/ /___  _____/ /_____  _____
+#   / /| | / ___/ ___/ / __  / __ \/ ___/ __/ __ \/ ___/
+#  / ___ |(__  ) /__/ / /_/ / /_/ / /__/ /_/ /_/ / /
+# /_/  |_/____/\___/_/\__,_/\____/\___/\__/\____/_/
+#
+#  Asciidoctor is a fast text processor and publishing toolchain for converting
+#  AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats.
+#
+#  https://github.com/asciidoctor/jekyll-asciidoc
+#  https://github.com/asciidoctor
+#
+#
+
+# asciidoctor-enabled: false
+# asciidoctor:
+#   description: 
+#   attributes:
+#     source-highlighter: coderay
+#     coderay-css: style
+#     icons: font
