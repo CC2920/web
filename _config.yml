@@ -28,8 +28,8 @@ author: sinedbo
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url:  # production will be: 'https://www.cc2920.ca'
-baseurl: ''
+url: 'https://cc2920.github.io/' # production will be: 'https://www.cc2920.ca'
+baseurl: 'web/'
 
 
 # This URL points directly to the images directory making
