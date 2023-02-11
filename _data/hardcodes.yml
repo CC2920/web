@@ -1,9 +1,13 @@
 page-ressource-protection-enfance: "/content/docs/protection_enfance.pdf"
 page-ressource-intimidation: "/ressources/agir-face-a-intimidation"
+page-presentation-comite-soutien: "/presentation/comite-soutien"
+
+documents-lettreauxparents: /content/docs/Lettre-aux-parents.pdf
 
 site-formation-en-ligne-priorite-jeunesse: "https://protegeonsnosenfants.ca/fr/contribuer/formation-en-ligne/priorite-jeunesse/?utm_campaign=sl&utm_term=/formationPJ"
 site-prix-subventions-et-bourses: "https://www.armycadetleague.ca/fr/prix-subventions-et-bourses/"
 site-resources-prix-duc-edimbourg: https://www.dukeofed.org/fr/resources-and-tools/participant-resources/
+site-programme-des-cadets: https://www.canada.ca/fr/ministere-defense-nationale/services/cadets-rangers-juniors-canadiens/cadets/ce-que-nous-faisons.html
 
 img-medaille-excellence: "/content/docs/prix-et-merite/meclrc.jpg"
 img-medaille-strathcona: "/content/docs/prix-et-merite/strathcona.jpg"

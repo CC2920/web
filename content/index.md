@@ -57,7 +57,7 @@ Les corps de cadets sont des organismes civils, parrainé conjointement par la L
 
 Les cadets ne s'engagent aucunement à servir comme militaires et peuvent quitter lorsqu'ils le désirent.
 
-<a href='https://www.canada.ca/fr/ministere-defense-nationale/services/cadets-rangers-juniors-canadiens/cadets/ce-que-nous-faisons.html'>Programme des cadets</a>
+<a href='{{ site.data.hardcodes.site-programme-des-cadets }}'>Programme des cadets</a>
 
 <div class="row t60">
 	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
@@ -84,7 +84,7 @@ Les cadets ne s'engagent aucunement à servir comme militaires et peuvent quitte
 
 Formation en ligne du Centre Canadien de la protection de l'enfance
 
-- [Ressource pour les parents et les chefs adultes]({{ site.url }}{{ site.data.hardcodes.page-ressource-protection-enfance}})
+- [Ressource pour les parents et les chefs adultes]({{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.page-ressource-protection-enfance}})
 - [Lien pour la Formation pour les parents de cadets]({{ site.data.hardcodes.site-formation-en-ligne-priorite-jeunesse }})
 
 *Cliquez sur « Acheter ». Sélectionnez la première formation répertoriée sur la page d’achat et entrez le code promo CCOParent.*
@@ -93,6 +93,6 @@ Formation en ligne du Centre Canadien de la protection de l'enfance
 ### Non à l'intimidation
 
 Votre enfant est la cible de gestes de violence ou d'intimidation ?
-- Comment [agir face à l'intimidation]({{ site.data.hardcodes.page-ressource-intimidation }})
+- Comment [agir face à l'intimidation]({{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.page-ressource-intimidation }})
 
 </section>

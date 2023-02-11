@@ -28,17 +28,17 @@ author: sinedbo
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://cc2920.github.io/' # production will be: 'https://www.cc2920.ca'
-baseurl: 'web/'
+url: 'https://cc2920.github.io' # production will be: 'https://www.cc2920.ca'
+baseurl: '/web'
 
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
 #
-# Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
-# Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
+# Example: <img src="{{ site.url }}{{ site.baseurl }}/images/{{ post.image.title }}" />
+# Markdown-Example for posts ![Image Text]({{ site.url }}{{ site.baseurl }}/images/image.jpg)
 #
-urlimg: '/images/'
+urlimg: '/images'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"

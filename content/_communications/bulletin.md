@@ -3,7 +3,7 @@ layout: page-fullwidth
 title:  "Bulletin d'information"
 subheadline: Communiqué
 
-permalink: "/communications/bulletin"
+permalink: "communications/bulletin"
 
 breadcrumb: true
 ---

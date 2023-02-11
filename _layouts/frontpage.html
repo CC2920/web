@@ -12,7 +12,7 @@ format: frontpage
 
 <div class="row t15 b20">
     <div class="small-12 columns">
-        <a href="{{ site.urlimg }}{{ site.group_photo }}" target="_blank"><img class="groupPhoto" src="{{ site.urlimg }}{{ site.group_photo }}" title="Photo de groupe" /></a>
+        <a href="{{ site.url }}{{ site.baseurl }}/images/{{ site.group_photo }}" target="_blank"><img class="groupPhoto" src="{{ site.url }}{{ site.baseurl }}/images/{{ site.group_photo }}" title="Photo de groupe" /></a>
     </div><!-- /.small-12.columns -->
 </div><!-- /.row -->
 
@@ -36,7 +36,7 @@ format: frontpage
             {% for post in site.posts limit:1 %}
             {% if post.image.homepage %}
             <p>
-                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title | escape_once }}"></a>
+                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img width="970" src="{{ site.url }}{{ site.baseurl }}/images/{{ post.image.homepage }}" alt="{{ page.title | escape_once }}"></a>
             </p>
 
             {% if post.image.caption_url and post.image.caption %}

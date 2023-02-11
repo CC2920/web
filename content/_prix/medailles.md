@@ -6,7 +6,7 @@ categories:
 
 <div class="row t30">
 <div class="medium-2 columns text-centre medaille" markdown="1">
-![Image de la Médaille Strathcona]({{ site.url }}{{ site.data.hardcodes.img-medaille-strathcona }} "Médaille Strathcona")
+![Image de la Médaille Strathcona]({{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.img-medaille-strathcona }} "Médaille Strathcona")
 
 </div> <!-- /column medium-3 -->
 <div class="medium-10 columns" markdown="1">
@@ -65,7 +65,7 @@ La Médaille Lord Strathcona est la plus haute récompense pouvant être décern
 
 <div class="row">
 <div class="medium-2 columns medaille" markdown="1">
-![Image de la Médaille d'excellence]({{ site.url }}{{ site.data.hardcodes.img-medaille-excellence }} "Médaille d'excellence")  
+![Image de la Médaille d'excellence]({{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.img-medaille-excellence }} "Médaille d'excellence")  
   
 </div>
 <div class="medium-10 columns" markdown="1">

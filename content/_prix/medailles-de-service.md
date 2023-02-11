@@ -5,7 +5,7 @@ title: "Médailles de service"
 
 <div class="row t30">
 <div class="medium-2 columns text-centre medaille" markdown="1">
-![Image de la Médaille de service des bénévoles]({{ site.url }}{{ site.data.hardcodes.img-medaille-benevole }} "Médaille de service des bénévoles")  
+![Image de la Médaille de service des bénévoles]({{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.img-medaille-benevole }} "Médaille de service des bénévoles")  
 
 </div> <!-- /column medium-3 -->
 <div class="medium-10 columns" markdown="1">
@@ -46,7 +46,7 @@ La Ligue des cadets de l’Armée du Canada (LCAC) a créé une distinction pour
 
 <div class="row">
 <div class="medium-2 columns medaille" markdown="1">
-![Image de la Médaille de service des cadets de l'armée (MSCA)]({{ site.url }}{{ site.data.hardcodes.img-medaille-excellence }} "Médaille de service des cadets de l'armée (MSCA)")  
+![Image de la Médaille de service des cadets de l'armée (MSCA)]({{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.img-medaille-excellence }} "Médaille de service des cadets de l'armée (MSCA)")  
   
 </div>
 <div class="medium-10 columns" markdown="1">

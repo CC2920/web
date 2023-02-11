@@ -7,7 +7,7 @@ categories:
 
 
 <div class="duc-edimbourg">
-<img src="{{ site.url }}{{ site.data.hardcodes.img-medaille-duc-edimbourg-bronze }}" title="Image du mérite bronze" /><img src="{{ site.url }}{{ site.data.hardcodes.img-medaille-duc-edimbourg-argent }}" title="Image du mérite argent" /><img src="{{ site.url }}{{ site.data.hardcodes.img-medaille-duc-edimbourg-or }}" title="Image du mérite or" />
+<img src="{{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.img-medaille-duc-edimbourg-bronze }}" title="Image du mérite bronze" /><img src="{{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.img-medaille-duc-edimbourg-argent }}" title="Image du mérite argent" /><img src="{{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.img-medaille-duc-edimbourg-or }}" title="Image du mérite or" />
 </div>
 
 Le Prix est un programme non compétitif reconnu internationalement, ouvert à tous et conçu pour encourager les jeunes à acquérir des compétences et des habitudes de vie positives. Il leur permet de se distinguer à un des trois niveaux : Bronze, Argent ou Or. Chaque participant qui termine avec succès un des trois niveaux de Mérite reçoit un insigne et un certificat. Pour en savoir plus sur le programme Le Prix international du Duc d’Édimbourg et sur les exigences de participation: [Ressources pour les participants]({{ site.data.hardcodes.site-resources-prix-duc-edimbourg }}).
