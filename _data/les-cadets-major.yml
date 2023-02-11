@@ -1,0 +1,22 @@
+#
+# Chaque groupe contient une list d'items représentant le/les cadet(s).
+#
+# Chaque items dand la liste représentant un cadet peut contenur son nom, le titre (grade) et l'URL de sa photo. 
+# Si aucune photo n'est disponible, vous pouvez spécifiée une photo de grade ou simplement le laissé vide afin d'indiqué au script d'utiliser une photo par défaut .
+#
+#
+
+- cadet:
+  name: "Adjuc Mélodie Lambert-Turcotte"
+  title: "Cadet Sergent-Major Régimentaire"
+  picture: "/content/docs/etat-major/Lambert-Turcotte.jpg"
+
+- cadet:
+  name: "Adjum Alexis Bouchard-Couvrette"
+  title: "Cadet-commandant adjoint"
+  picture: "/content/docs/etat-major/Bouchard-Couvrette_A.jpg"
+
+- cadet:
+  name: "Adjum Mathilde Lambert-Turcotte"
+  title: "Cadet Sergent-major"
+  picture: "/content/docs/etat-major/Lambert-Turcotte_adjum.jpg"

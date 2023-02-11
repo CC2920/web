@@ -1,0 +1,17 @@
+- name: GitHub
+  url: https://github.com/CC2920/web/
+  class: icon-github
+  title: Code source du site Web www.CC2920.ca
+
+- name: YouTube
+  url: "https://www.youtube.com/channel/UCUP77thggoJukBjgqCWKIHQ"
+  class: icon-youtube
+  title: "Chaîne YouTube"
+
+- name: Page Facebook
+  url: https://www.facebook.com/groups/cc2920Gatineau
+  class: icon-facebook
+  title: "Page Facebook officielle du CC2920"
+
+
+

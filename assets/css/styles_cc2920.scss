@@ -1,0 +1,134 @@
+---
+# Only the main Sass file needs front matter, rest is included from site.sass.sass_dir
+sitemap:
+  exclude: true
+---
+@charset "utf-8";
+
+@import "functions.scss";
+@import "01_settings_colors.scss";
+@import "02_settings_typography.scss";
+@import "03_settings_mixins_media_queries.scss";
+@import "04_settings_global.scss";
+@import "05_normalize.scss"; // normalize.css v3.0.2
+
+@import "foundation-components/top-bar";
+@import "foundation-components/accordion";
+@import "foundation-components/alert-boxes";
+@import "foundation-components/breadcrumbs";
+@import "foundation-components/block-grid";
+@import "foundation-components/button-groups";
+@import "foundation-components/buttons";
+@import "foundation-components/clearing";
+@import "foundation-components/dropdown";
+@import "foundation-components/dropdown-buttons";
+@import "foundation-components/flex-video";
+@import "foundation-components/forms";
+@import "foundation-components/grid";
+@import "foundation-components/inline-lists";
+@import "foundation-components/keystrokes";
+@import "foundation-components/panels";
+@import "foundation-components/reveal";
+@import "foundation-components/side-nav";
+@import "foundation-components/sub-nav";
+@import "foundation-components/tables";
+@import "foundation-components/thumbs";
+@import "foundation-components/top-bar";
+@import "foundation-components/type";
+@import "foundation-components/visibility";
+
+@import "06_typography.scss";
+@import "07_layout.scss";
+@import "foundation-components/grid";
+@import "09_elements.scss";
+
+{% if site.asciidoctor-enabled == true %}
+@import "10_asciidoc.scss";
+{% endif %}
+
+@import "11_syntax-highlighting.scss";
+
+
+
+
+
+#img.logo {
+  background: rgba( 255, 255, 255, 0.35 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 3px );
+  -webkit-backdrop-filter: blur( 3px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+//
+// Home page group photo 
+//
+img.groupPhoto {
+  box-shadow:
+    21.4px 10.7px 21.5px -69px rgba(0, 0, 0, 0.105),
+    29.3px 14.7px 34px -69px rgba(0, 0, 0, 0.154),
+    33.9px 16.9px 42px -69px rgba(0, 0, 0, 0.182),
+    37.1px 18.6px 48.5px -69px rgba(0, 0, 0, 0.204),
+    39.9px 20px 55.2px -69px rgba(0, 0, 0, 0.228),
+    43.3px 21.6px 62.6px -69px rgba(0, 0, 0, 0.26),
+    48.6px 24.3px 70.8px -69px rgba(0, 0, 0, 0.306),
+    62px 31px 80px -69px rgba(0, 0, 0, 0.37)
+  ;
+
+}
+
+//
+// default page modified date
+//
+.modified-date { 
+  font-size: 0.8em; 
+  padding-right: 30px;
+  padding-bottom: 5px;
+  color: #858585; 
+}
+
+//
+// profile list items (rows) 
+//
+
+.list-row {
+  -webkit-box-shadow:-5px -5px 54px 0px rgba(178,184,184,0.2);
+  -moz-box-shadow: -5px -5px 54px 0px rgba(178,184,184,0.2);
+  box-shadow: -5px -5px 54px 0px rgba(178,184,184,0.2);
+  padding: 15px; 
+}
+
+//
+// Biographies
+//
+h1.profileBioTitle {
+  font-size: 1.25em;
+  font-weight: bold;
+  color: $primary-color
+}
+
+.bio-picture-list {
+  width: 240px;
+}
+
+.bio-dates {
+  font-weight: normal;
+  font-size: 1.15em;
+}
+
+.bio-name {
+  font-size: 1.25em; 
+  font-weight: bold;
+}
+
+//
+// Medals
+//
+div.medaille img {
+  padding-top: 60px;
+}
+
+div.duc-edimbourg img {
+    width: 60px;
+  }

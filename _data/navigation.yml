@@ -1,0 +1,148 @@
+- title: Le CC2920
+  url: "/"
+  side: left
+  dropdown:
+  - title: "Message aux parents"
+    url: "/information/message-aux-parents/"
+    sortorder: 10
+  - title: "Inscriptions"
+    url: "/information/inscriptions/"
+    sortorder: 20
+  - title: "Instruction au Corps de Cadets"
+    url: "/information/instruction/"
+    sortorder: 30
+  - title: "Activités optionnelles"
+    url: "/information/activites-optionnelles"
+    sortorder: 40
+  - title: "Emplacement"
+    url: "/information/emplacements/"
+    sortorder: 50
+  - title: "Vêtements"
+    url: "/information/vetements/"
+    sortorder: 60
+  - title: "Financement"
+    url: "/information/financement"
+    sortorder: 70
+
+
+- title: Communications
+  url: "/communications/"
+  side: left
+  dropdown: 
+  - title: "Messages de la semaine"
+    url: "/communications/messages"
+    sortorder: 10
+  - title: "Bulletin" 
+    url: "/communications/bulletin"
+    sortorder: 20
+
+
+- title: "Présentation"
+  url: "/presentation/"
+  side: right
+  dropdown:
+  - title: "Le Commandant"
+    url: "/presentation/commandant/"
+    sortorder: 10
+  - title: "Le Personnel"
+    url: "/presentation/personnel/"
+    sortorder: 20
+  - title: "État-major Cadet"
+    url: "/presentation/etat-major-cadet/"
+    sortorder: 30
+  - title: "Nos équipes"
+    url: "/presentation/equipes/"
+    sortorder: 40
+  - title: "Comité de soutien"
+    url: "/presentation/comite-soutien/"
+    sortorder: 50
+  
+
+- title: "Historique"
+  url: "/historique/"
+  side: right
+  dropdown:
+  - title: "Le 50e anniversaire"
+    url: "/historique/anniversaire/"
+    sortorder: 10
+  - title: "Historique de notre unité"
+    url: "/historique/notre-unite/"
+    sortorder: 20
+  - title: "Commandants"
+    url: "/historique/commandants/"
+    sortorder: 30
+  - title: "Sergent-major régimentaire"
+    url: "/historique/cadets-commandants/"
+    sortorder: 40
+  - title: "Comité de soutien"
+    url: "/historique/comite-soutien/"
+    sortorder: 50
+  - title: "Camps d'été"
+    url: "/historique/souvenirs-camps-ete/"
+    sortorder: 60
+  
+
+- title: "Prix et mérites"
+  url: "/prix-merites/"
+  side: right
+  dropdown:
+  - title: "Médailles"
+    url: "/prix/medailles"
+    sortorder: 10
+  - title: "Médailles de service"
+    url: "/prix/medailles-de-service"
+    sortorder: 20
+  - title: "Prix du Duc d'Édimbourg"
+    url: "/prix/prix-duc-edimbourg"
+    sortorder: 30
+  - title: "Plaques et trophées"
+    url: "/prix/plaques-trophees"
+    sortorder: 40
+  - title: "Plaques et trophées efficacté"
+    url: "/prix/plaques-trophees-efficacite"
+    sortorder: 50
+  - title: "Tableau d'honneur"
+    url: "/prix/tableau-honneur"
+    sortorder: 60
+  - title: "Les cadets dans les Médias"
+    url: "/prix/medias"
+    sortorder: 70
+  - title: "Galerie de photos"
+    url: "/prix/photos"
+    sortorder: 80
+  - title: "Chaîne YouTube"
+    url: "https://www.youtube.com/channel/UCUP77thggoJukBjgqCWKIHQ"
+    sortorder: 90
+
+- title: Ressources
+  url: "/ressources/"
+  side: right
+  dropdown:
+  - title: "Horaire du vendredi soir"
+    url: "/ressources/horaire-du-vendredi-soir/"
+    sortorder: 10
+  - title: "Ordres courant"
+    url: "/ressources/ordres-courant/"
+    sortorder: 20
+  - title: "Ressources pour les instructeurs"
+    url: "/ressources/ressources-instructeurs/"
+    sortorder: 30
+  - title: "Ressources pour les musiciens"
+    url: "/ressources/ressources-musiciens/"
+    sortorder: 40
+  - title: "Camp d'été"
+    url: "/ressources/camps-ete/"
+    sortorder: 50
+  - title: "Expéditions"
+    url: "/ressources/expeditions/"
+    sortorder: 60
+  - title: "Liens Utiles"
+    url: "/ressources/liens-utiles/"
+    sortorder: 60
+
+
+# - title: "Recherche"
+#   url: "/recherche/"
+#   side: right
+
+

@@ -1,0 +1,23 @@
+
+<section>
+  <h2>{{ include.title }}</h2>
+  {% assign members = site.data.[include.list] %}        
+  {% for member in members %}
+  <div class="row list-row t15">
+    <div class="columns small-3 medium-2 large-2 t15">
+        {% if member.picture %}
+        <img src="{{ site.url }}{{ member.picture }}" title="{{ member.name }}">
+        {% else %}
+        <img src="{{ site.url }}/content/docs/profile.jpg" title="">
+        {% endif %}
+    </div>
+    <div class="columns small-9 medium-10 large-10">
+        <h4>{{ member.name }}</h4>
+        {{ member.title }}
+        {%if member.email %}
+        <div><a href="mailto:{{ member.email }}" >{{ member.email }}</a></div>
+        {% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</section>

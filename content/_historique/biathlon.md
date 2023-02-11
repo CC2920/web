@@ -1,0 +1,70 @@
+---
+title:  "Biathlon au 2920"  
+categories:
+    - historique
+    - biathlon
+tags:
+---
+
+Voici les nombreux faits saillants du biathlon au 2920 ! 
+
+- 1984-85:
+    - Première équipe 
+- 1993-94:
+    - Champions Outaouais (équipe masculine)  
+    - Christian Picard, médaille d'argent aux championnats nationaux de biathlon
+- 1994-95: 
+    - Christian Picard, 2e place aux championnats provinciaux
+- 1995-96:  
+    - Champions de l'Outaouais (équipes féminine et masculine)
+    - 2e place aux championnats provinciaux (équipe masculine)
+    - Maxime Robitaille, 1ère place  et Sébastien Sincennes 4e place et Yan Prévost, 5e place individuelle masculine aux championnats provinciaux
+    - 3e place aux championnats provinciaux, équipe féminine
+    - Michèle Marois, 4e, Mélanie Brossard 5e place et Julie Fortin, 7e place individuelle féminine aux championnats provinciaux
+- 1996-97:
+    - Christian Picard, 1ère place aux championnats provinciaux , médaille d'or aux championnats canadiens et récipiendaire du trophée Myriam Bédard
+    - Michèle Marois, 4e place aux championnats provinciaux
+- 1997-98, 1998-99, 1999-2000, 2000-01 et 2001-02:
+    - Champions de l'Outaouais (équipe féminine et masculine)
+- 2000-01:
+    - L'équipe de biathlon féminine termine en 4e place aux championnats provinciaux
+    - Audrey Attali remporte 1 médaille d'or et 1 médaille d'argent aux championnats canadiens
+- 2001-02:
+    - Audrey Attali remporte une médaille d'or et deux d'argent aux championnats nationaux.
+- 2002-03:
+    - L'équipe de biathlon féminine remporte le Championnat de l'Outaouais et remporte la médaille de bronze aux championnats provinciaux
+- 2003-04:
+    - Champions de l'Outaouais -Audrey Attali, Mareck Beaudoin-Bacon et Sophia Attali remportent 18 médailles aux championnats provinciaux et nationaux de biathlon juniors et seniors dont 10 médailles d'or.
+- 2004-05:
+    - Équipe féminine- 3e place aux championnats provinciaux,  1ère place aux championnats nationaux et équipe de l'année au Gala Méritas de Gatineau
+    - Mareck Beaudoin-Bacon, 4e place,  Sophia Attali, 6e Jessica Nilsson, 9e et Maryline Lacasse, 10e aux championnats provinciaux
+- 2005-06:
+    - Marilyne Lacasse - Médaille d'or et d'argent aux championnats nationaux
+    - champion du Championnat Excalibur.
+- 2006-07:
+    - Biathlon - Catherine Nilsson, 6e place individuelle et 3e place en équipe relais aux championnats provinciaux
+- 2007-08:
+    - Équipe féminine - 3e aux championnats provinciaux et championnes nationales par équipe
+    - Jessica Nillson - 1ère place et Élyse Veillette-Brosseau 4e place et Catherine Nillson - 7e place aux championnats provinciaux.
+    - 2e place, Championnat Excalibur
+- 2008-09:
+    - Équipe masculine- Champions Outaouais par équipe et 3e place aux championnats provinciaux par équipe
+    - Équipe féminine Championnes Outaouais par équipe et championnes provinciales par équipe
+    - Catherine Nilsson, 7e place aux championnats provinciaux de biathlon
+    - Élyse Veillette-Brosseau, 2e place aux championnats provinciaux, 3 médailles d'or et une médaille d'argent aux championnats nationaux. Trophée Nikkie Keddie - meilleure biathlète junior au Canada
+    - Jessica Nillson - 3e place aux championnats provinciaux de biathlon
+- 2009-10:
+    -Olivier Beaudoin-Mercier - 3e place aux championnats provinciaux, 1ère place en patrouille et 3e place en relais aux championnats nationaux
+    - Alexandre Lacroix, 5e place aux championnats provinciaux et Trophée Bruno St-Onge - Officiel de l'année au Championnat national
+- 2010-11:
+    - Olivier Beaudoin-Mercier - 1ère place catégorie sénior garçons aux championnats régionaux
+    -Elyse Veillette Brosseau - 1ère place catégorie sénior filles aux championnats régionaux
+- 2011-12:
+    - Elyse Veillette Brosseau - 1ère place catégorie benjamin filles aux championnats régionaux, provinciaux et nationaux
+- 2012-13:
+    - Nicholas Beaudoin-Mercier, 2e position catégorie Junior garçons 5 km au Championnat Régional de Biathlon Outaouais
+- 2013-2014:
+    - Nicholas Beaudoin-Mercier, médaille d'argent, catégorie Senior garçons et Guillaume Thibault, médaille de bronze, catégorie Junior garçons au Championnat Régional de Biathlon Outaouais.
+- 2017-18:
+    - Xavier Roy et Bastien Lambert-Turcotte, en plus de leur médaille d'or en équipe dans la catégorie ouverte masculine, ont aussi remporté respectivement une médaille d'or et une d'argent individuellement. 
+    - Gabrielle Haidar remporte une médaille de bronze dans la catégorie féminine sénior.
