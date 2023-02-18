@@ -39,7 +39,7 @@
 
 - title: "Présentation"
   url: "/presentation/"
-  side: right
+  side: left
   dropdown:
   - title: "Le Commandant"
     url: "/presentation/commandant/"
@@ -60,7 +60,7 @@
 
 - title: "Historique"
   url: "/historique/"
-  side: right
+  side: left
   dropdown:
   - title: "Le 50e anniversaire"
     url: "/historique/anniversaire/"
@@ -84,7 +84,7 @@
 
 - title: "Prix et mérites"
   url: "/prix-merites/"
-  side: right
+  side: left
   dropdown:
   - title: "Médailles"
     url: "/prix/medailles"
@@ -116,7 +116,7 @@
 
 - title: Ressources
   url: "/ressources/"
-  side: right
+  side: left
   dropdown:
   - title: "Horaire du vendredi soir"
     url: "/ressources/horaire-du-vendredi-soir/"
