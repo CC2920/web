@@ -31,15 +31,6 @@ author: sinedbo
 url: 'https://cc2920.github.io' # production will be: 'https://www.cc2920.ca'
 baseurl: '/web'
 
-
-# This URL points directly to the images directory making
-# things easier to link to images in posts and templates. It needs a slash at the end.
-#
-# Example: <img src="{{ site.url }}{{ site.baseurl }}/images/{{ post.image.title }}" />
-# Markdown-Example for posts ![Image Text]({{ site.url }}{{ site.baseurl }}/images/image.jpg)
-#
-urlimg: '/images'
-
 # Logo size is 600x80 pixels
 logo: "logo.png"
 group_photo: "cc2920-photo-de-groupe.jpg"
@@ -65,6 +56,11 @@ collections:
 plugins:
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-relative-links
+
+relative_links:
+  enabled:     true
+  collections: true
 
 
 #       ____              _             __  _
@@ -157,7 +153,7 @@ defaults:
         image_fullwidth: "musique-historique.jpeg"
   -
     scope:
-      path: 'content/_historique/notre-unite/'
+      path: 'content/_historique/notre-unite'
       type: 'historique'
     values:
       breadcrumb: true
@@ -166,13 +162,13 @@ defaults:
       include-in-nav: true
   -
     scope:
-      path: 'content/_historique/commandants/'
+      path: 'content/_historique/commandants'
       type: 'historique'
     values:
       breadcrumb: true
       layout: 'commandant'
       subheadline: "Historique"
-      title: Biographie 
+      title: Biographie
   - 
     scope: 
       path: "content/_information"
@@ -290,25 +286,3 @@ sass:
 # google_analytics_tracking_id:
 
 
-
-#     ___              _     __           __
-#    /   |  __________(_)___/ /___  _____/ /_____  _____
-#   / /| | / ___/ ___/ / __  / __ \/ ___/ __/ __ \/ ___/
-#  / ___ |(__  ) /__/ / /_/ / /_/ / /__/ /_/ /_/ / /
-# /_/  |_/____/\___/_/\__,_/\____/\___/\__/\____/_/
-#
-#  Asciidoctor is a fast text processor and publishing toolchain for converting
-#  AsciiDoc content to HTML5, DocBook 5 (or 4.5) and other formats.
-#
-#  https://github.com/asciidoctor/jekyll-asciidoc
-#  https://github.com/asciidoctor
-#
-#
-
-# asciidoctor-enabled: false
-# asciidoctor:
-#   description: 
-#   attributes:
-#     source-highlighter: coderay
-#     coderay-css: style
-#     icons: font

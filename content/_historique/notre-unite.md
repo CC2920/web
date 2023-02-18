@@ -1,7 +1,6 @@
 ---
 layout: left-nav
 title:  "Notre unité"  
-nav-collection: "periodes"
 categories:
     - historique
 tags:
