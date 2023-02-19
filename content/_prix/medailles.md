@@ -1,7 +1,5 @@
 ---
 title: "Médailles"
-categories: 
-    - prix-merite
 ---
 
 <div class="row t30">

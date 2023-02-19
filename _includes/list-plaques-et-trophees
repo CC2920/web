@@ -1,0 +1,41 @@
+{% comment %}
+*
+* Ceci inclus la liste des plaques et trophes dans la section des prix et merites
+*
+* Use ›  {% include plaques-et-trophee %}
+*
+{% endcomment %}
+
+{% capture urlpath %}
+{{ site.url }}{{ site.baseurl }}/prix/plaques-trophees
+{% endcapture %}
+<asside>
+<div class="">
+<b>Plaques et trophées décernés annuellement</b>
+
+<ul class="side-nav">
+    <li class="{% if page.url contains 'instructeur' %} active{% endif %}"><a href="{{ urlpath }}/instructeur-excellence/">Instructeur par excellence</a></li>
+    <li class="{% if page.url contains 'hull' %} active{% endif %}"><a href="{{ urlpath }}/regiment-hull/">Régiment De Hull</a></li>
+    <li class="{% if page.url contains 'amelioration' %} active{% endif %}"><a href="{{ urlpath }}/amelioration-annuelle/">Amélioration annuelle</a></li>
+    <li class="{% if page.url contains 'citation' %} active{% endif %}"><a href="{{ urlpath }}/citation-annuelle/">Citation Annuelle</a></li>
+    <li class="{% if page.url contains 'gervais' %} active{% endif %}"><a href="{{ urlpath }}/bgen-j-gervais/">BGén J. Gervais</a></li>
+    <li class="{% if page.url contains 'meloche' %} active{% endif %}"><a href="{{ urlpath }}/bgen-l-meloche/">BGén L. Meloche</a></li>
+    <li class="{% if page.url contains 'bourse' %} active{% endif %}"><a href="{{ urlpath }}/bourse-etudes/">Bourse d'études</a></li>
+</ul>
+</div>
+
+<div>
+<b>Plaques et trophées efficacité étoile et activité</b>
+
+<ul class="side-nav">
+    <li class="{% if page.url contains 'verte' %} active{% endif %}"><a href="{{ urlpath }}/efficacite-etoile-verte/">Efficacité étoile verte</a></li>
+    <li class="{% if page.url contains 'rouge' %} active{% endif %}"><a href="{{ urlpath }}/efficacite-etoile-rouge/">Efficacité étoile rouge</a></li>
+    <li class="{% if page.url contains 'argent' %} active{% endif %}"><a href="{{ urlpath }}/efficacite-etoile-argent/">Efficacité étoile argent</a></li>
+    <li class="{% if page.url contains 'or' %} active{% endif %}"><a href="{{ urlpath }}/efficacite-etoile-or/">Efficacité étoile or</a></li>
+    <li class="{% if page.url contains 'tir' %} active{% endif %}"><a href="{{ urlpath }}/efficacite-tir/">Efficacité tir</a></li>
+    <li class="{% if page.url contains 'biathlon' %} active{% endif %}"><a href="{{ urlpath }}/efficacite-biathlon/">Efficacité biathlon</a></li>
+    <li class="{% if page.url contains 'musique' %} active{% endif %}"><a href="{{ urlpath }}/efficacite-musique/">Efficacité musique</a></li>
+    <li class="{% if page.url contains 'physique' %} active{% endif %}"><a href="{{ urlpath }}/efficacite-conditionnement-physique/">Efficacité conditionnement physique</a></li>
+</ul>
+</div>
+</asside>
