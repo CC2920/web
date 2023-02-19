@@ -64,10 +64,10 @@
                       {% if dropdown_link.url contains 'http' %}
                         {% assign domain = '' %}
                         {% else %}
-                        {% assign domain = site.url %}
+                        {% assign domain = site.url | append: _baseurl %}
                       {% endif %}
 
-                      <li {% if dropdown_link.url == page.url %}class="active"{% endif %}><a {% if dropdown_link.class %}class="{{dropdown_link.class}}"{% endif %} href="{{ domain }}{{ _baseurl }}{{ dropdown_link.url }}"{% if dropdown_link.url contains 'http' %} target="_blank"{% endif %}>{{ dropdown_link.title | escape }}</a></li>
+                      <li {% if dropdown_link.url == page.url %}class="active"{% endif %}><a {% if dropdown_link.class %}class="{{dropdown_link.class}}"{% endif %} href="{{ domain }}{{ dropdown_link.url }}"{% if dropdown_link.url contains 'http' %} target="_blank"{% endif %}>{{ dropdown_link.title | escape }}</a></li>
                     {% endfor %}
                   </ul>
 
@@ -131,10 +131,10 @@
                       {% if dropdown_link.url contains 'http' %}
                         {% assign domain = '' %}
                         {% else %}
-                        {% assign domain = site.url %}
+                        {% assign domain = site.url | append: _baseurl %}
                       {% endif %}
 
-                      <li {% if dropdown_link.url == page.url %}class="active"{% endif %}><a {% if dropdown_link.class %}class="{{dropdown_link.class}}"{% endif %} href="{{ domain }}{{ _baseurl }}{{ dropdown_link.url }}"{% if dropdown_link.url contains 'http' %} target="_blank"{% endif %}>{{ dropdown_link.title | escape }}</a></li>
+                      <li {% if dropdown_link.url == page.url %}class="active"{% endif %}><a {% if dropdown_link.class %}class="{{dropdown_link.class}}"{% endif %} href="{{ domain }}{{ dropdown_link.url }}"{% if dropdown_link.url contains 'http' %} target="_blank"{% endif %}>{{ dropdown_link.title | escape }}</a></li>
                     {% endfor %}
                   </ul>
 
