@@ -12,7 +12,7 @@
     url: "/information/instruction/"
     sortorder: 30
   - title: "Activités optionnelles"
-    url: "/information/activites-optionnelles"
+    url: "/information/activites-optionnelles/"
     sortorder: 40
   - title: "Emplacement"
     url: "/information/emplacements/"
@@ -21,7 +21,7 @@
     url: "/information/vetements/"
     sortorder: 60
   - title: "Financement"
-    url: "/information/financement"
+    url: "/information/financement/"
     sortorder: 70
 
 
@@ -30,10 +30,10 @@
   side: left
   dropdown: 
   - title: "Messages de la semaine"
-    url: "/communications/messages"
+    url: "/communications/messages/"
     sortorder: 10
   - title: "Bulletin" 
-    url: "/communications/bulletin"
+    url: "/communications/bulletin/"
     sortorder: 20
 
 
@@ -83,32 +83,32 @@
   
 
 - title: "Prix et mérites"
-  url: "/prix-merites/"
+  url: "/prix-merite/"
   side: left
   dropdown:
   - title: "Médailles"
-    url: "/prix/medailles"
+    url: "/prix/medailles/"
     sortorder: 10
   - title: "Médailles de service"
-    url: "/prix/medailles-de-service"
+    url: "/prix/medailles-de-service/"
     sortorder: 20
   - title: "Prix du Duc d'Édimbourg"
-    url: "/prix/prix-duc-edimbourg"
+    url: "/prix/prix-duc-edimbourg/"
     sortorder: 30
   - title: "Plaques et trophées"
-    url: "/prix/plaques-trophees"
+    url: "/prix/plaques-trophees/"
     sortorder: 40
   - title: "Plaques et trophées efficacté"
-    url: "/prix/plaques-trophees-efficacite"
+    url: "/prix/plaques-trophees-efficacite/"
     sortorder: 50
   - title: "Tableau d'honneur"
-    url: "/prix/tableau-honneur"
+    url: "/prix/tableau-honneur/"
     sortorder: 60
   - title: "Les cadets dans les Médias"
-    url: "/prix/medias"
+    url: "/prix/medias/"
     sortorder: 70
   - title: "Galerie de photos"
-    url: "/prix/photos"
+    url: "/prix/photos/"
     sortorder: 80
   - title: "Chaîne YouTube"
     url: "https://www.youtube.com/channel/UCUP77thggoJukBjgqCWKIHQ"
@@ -141,8 +141,8 @@
     sortorder: 60
 
 
-# - title: "Recherche"
-#   url: "/recherche/"
-#   side: right
+- title: "Recherche"
+  url: "/recherche/"
+  side: right
 
 

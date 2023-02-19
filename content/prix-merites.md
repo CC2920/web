@@ -1,6 +1,5 @@
 ---
 layout: page
-collection: prix-merite
 title:  "Prix et mérites"
 breadcrumb: true
 header:
