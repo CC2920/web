@@ -132,3 +132,31 @@ div.medaille img {
 div.duc-edimbourg img {
     width: 60px;
   }
+
+// 
+// Plaques et trophees
+//
+div.plaques-trophees {
+  -webkit-box-shadow:-5px -5px 54px 0px rgba(178,184,184,0.2);
+  -moz-box-shadow: -5px -5px 54px 0px rgba(178,184,184,0.2);
+  box-shadow: -5px -5px 54px 0px rgba(178,184,184,0.2);
+  padding: 15px; 
+}
+div.plaques-trophees-img {
+  text-align: center;
+}
+div.plaques-trophees-img img {
+  width: 250px;
+  padding: 10px;
+}
+
+.plaques-trophees-title {
+  font-size: 1.1em;
+  text-align: center;
+  font-weight: bold;
+}
+
+.plaques-trophees-description {
+  font-size: 0.9em;
+  text-align: center;
+}

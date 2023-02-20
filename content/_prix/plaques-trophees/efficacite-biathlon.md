@@ -1,12 +1,13 @@
 ---
 title: "Efficacité biathlon"
 layout: plaques-et-trophees
+prix: 
+    images:
+      - filename: "tropheebiathlon.jpg"
+        title: "Le Trophée Efficacité Biathlon"
+    title: "Le Trophée Efficacité Biathlon"
+    description: "Le trophée du programme biathlon est remis au cadet ayant participé activement au pogramme du corps et représenté dignement l’unité aux différentes compétitions de biathlon. Cette discipline combine le ski de fond et le tir à la carabine. Deux récompenses sont remises aux candidats par excellence junior et senior du programme de biathlon du 2920."
 ---
-
-
-## Le Trophée Efficacité Biathlon
-![Image du trophée biathlon](_images/envedet/tropheebiathlon.jpg "Tir")  
-Le trophée du programme biathlon est remis au cadet ayant participé activement au pogramme du corps et représenté dignement l’unité aux différentes compétitions de biathlon. Cette discipline combine le ski de fond et le tir à la carabine. Deux récompenses sont remises aux candidats par excellence junior et senior du programme de biathlon du 2920.
 
 ### Récipiendaires
 

@@ -1,11 +1,13 @@
 ---
 title: "Efficacité conditionnement physique"
 layout: plaques-et-trophees
+prix: 
+    images:
+      - filename: "tropheetcpca.jpg"
+        title: "Le Trophée TCPCA"
+    title: "Le Trophée TCPCA"
+    description: "Le trophée du test de conditionnement physique des cadets de l'armée (TCPCA) est remis au cadet et à la cadette ayant les meilleurs résultats lors du test de conditionnement physique des cadets de l'Armée."
 ---
-
-## Le Trophée TCPCA 
-![Image du trophée TCPCA](_images/envedet/tropheetcpca.jpg "TPCPA")  
-Le trophée du test de conditionnement physique des cadets de l'armée (TCPCA) est remis au cadet et à la cadette ayant les meilleurs résultats lors du test de conditionnement physique des cadets de l'Armée.
 
 ### Récipiendaires
 

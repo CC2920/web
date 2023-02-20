@@ -1,12 +1,14 @@
 ---
 title: "Efficacité musique"
 layout: plaques-et-trophees
+prix: 
+    images:
+      - filename: "tropheemusique.jpg"
+        title: "Le Trophée Efficacité Musique"
+    title: "La trophée efficacité étoile Musique"
+    description: "Le trophée junior est décerné au cadet qui, tout en étant à sa première année comme musicien, a su démontrer des habiletés certaines et a maintenu un intérêt constant pour cette activité. Le trophée senior est remis au cadet qui, ayant plus d'une année d'expérience au sein de la musique, a su démontrer une habileté à transmettre efficacement ses connaissances aux autres musiciens."
 ---
 
-
-## Le Trophée Efficacité Musique
-![Image du trophée musique](_images/envedet/tropheemusique.jpg "Musique")  
-Le trophée junior est décerné au cadet qui, tout en étant à sa première année comme musicien, a su démontrer des habiletés certaines et a maintenu un intérêt constant pour cette activité. Le trophée senior est remis au cadet qui, ayant plus d'une année d'expérience au sein de la musique, a su démontrer une habileté à transmettre efficacement ses connaissances aux autres musiciens.
 
 ### Récipiendaires
 

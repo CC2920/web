@@ -1,11 +1,15 @@
 ---
 title: "Efficacité étoile argent"
 layout: plaques-et-trophees
+prix: 
+    images:
+      - filename: "etoileargent1.jpg"
+        title: "Plaque étoie argent (1)"
+      - filename: "etoileargent2.jpg"
+        title: "Plaque étoie argent (2)"
+    title: "La plaque efficacité étoile argent"
+    description: "Cette plaque est remise au cadet ou à la cadette du niveau étoile argent s'étant le plus distingué par ses qualités d'instructeur, par sa participation aux activités et par son esprit d'équipe."
 ---
-
-## La plaque efficacité étoile argent
-![Image de la Plaque étoile argent](_images/envedet/etoileargent2.jpg "Plaque étoile argent")![Image de la Plaque étoile argent](_images/envedet/etoileargent1.jpg "Plaque étoile argent")  
-Cette plaque est remise au cadet ou à la cadette du niveau étoile argent s'étant le plus distingué par ses qualités d'instructeur, par sa participation aux activités et par son esprit d'équipe.
 
 ### Récipiendaires
 
