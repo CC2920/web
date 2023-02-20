@@ -1,12 +1,13 @@
 ---
 title: "Efficacité tir"
 layout: plaques-et-trophees
+prix: 
+    images:
+      - filename: "tropheetir.jpg"
+        title: "Le Trophée Efficacité Tir"
+    title: "La trophée efficacité Tir"
+    description: "Le trophée du meilleur tireur junior est remis au cadet ou à la cadette ayant démontré persévérance et motivation dans l'amélioration de ses performances de tireur. Le trophée du meilleur tireur senior est remis au cadet ou à la cadette ayant démontré des qualités de tireur en plus de montrer des aptitudes à partager ses connaissances avec les autres."
 ---
-
-
-## Le Trophée Efficacité Tir
-![Image du trophée tir](_images/envedet/tropheetir.jpg "Tir")  
-Le trophée du meilleur tireur junior est remis au cadet ou à la cadette ayant démontré persévérance et motivation dans l'amélioration de ses performances de tireur. Le trophée du meilleur tireur senior est remis au cadet ou à la cadette ayant démontré des qualités de tireur en plus de montrer des aptitudes à partager ses connaissances avec les autres.
 
 ### Récipiendaires
 

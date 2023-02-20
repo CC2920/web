@@ -17,14 +17,7 @@ format: page-fullwidth
 
 <div class="row t30">
 	<div class="medium-4 columns" markdown="1">
-{% comment %}
-*
-* filter on current collection and relative folder
-*
-{% endcomment %}
-
-{% include list-plaques-et-trophees %}
-
+		{% include list-plaques-et-trophees %}
 	</div><!-- /.medium-4.columns -->
 	<div class="medium-8 columns">
 		<article>
@@ -32,12 +25,18 @@ format: page-fullwidth
 				{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
 				<h1>{{ page.title }}</h1>
 			</header>
+			<div class="row ">
+				<div class="columns plaques-trophees">
+					<div class="plaques-trophees-title">{{ page.prix.title }}</div>
+					<div class="plaques-trophees-img">
+						{% for img in page.prix.images %}
+							<img src="{{ site.url }}{{ site.baseurl }}/content/docs/prix-et-merites/{{ img.filename }}" title="{{ img.title }}" />				
+						{% endfor %}
+					</div>
+					<div class="plaques-trophees-description">{{ page.prix.description }}</div>
+				</div>
+			</div>
 
-			{% if page.teaser %}
-			<p class="teaser">
-				{{ page.teaser }}
-			</p>
-			{% endif %}
 
 			{{ content }}
 		</article>

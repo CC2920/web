@@ -83,7 +83,7 @@
   
 
 - title: "Prix et mérites"
-  url: "/prix-merite/"
+  url: "/prix-merites/"
   side: left
   dropdown:
   - title: "Médailles"
@@ -97,9 +97,6 @@
     sortorder: 30
   - title: "Plaques et trophées"
     url: "/prix/plaques-trophees/"
-    sortorder: 40
-  - title: "Plaques et trophées efficacté"
-    url: "/prix/plaques-trophees-efficacite/"
     sortorder: 50
   - title: "Tableau d'honneur"
     url: "/prix/tableau-honneur/"

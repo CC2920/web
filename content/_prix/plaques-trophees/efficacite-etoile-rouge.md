@@ -1,11 +1,17 @@
 ---
 title: "Efficacité étoile rouge"
 layout: plaques-et-trophees
+prix: 
+    images:
+      - filename: "etoilerouge1.jpg"
+        title: "Plaque étoie rouge (1)"
+      - filename: "etoilerouge2.jpg"
+        title: "Plaque étoie rouge (2)"
+    title: "La plaque efficacité étoile rouge"
+    description: "Cette plaque est remise au cadet ou à la cadette du niveau étoile rouge s'étant le plus démarqué au sein de son groupe par sa participation, son comportement, son esprit d'équipe et son sens de l'initiative."
+
 ---
 
-## La plaque efficacité étoile rouge   
-![Image de la Plaque étoile rouge](_images/envedet/etoilerouge2.jpg "Plaque étoile rouge")![Image de la Plaque étoile rouge](_images/envedet/etoilerouge1.jpg "Plaque étoile rouge")  
-Cette plaque est remise au cadet ou à la cadette du niveau étoile rouge s'étant le plus démarqué au sein de son groupe par sa participation, son comportement, son esprit d'équipe et son sens de l'initiative.
 
 ### Récipiendaires
 

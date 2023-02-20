@@ -1,12 +1,16 @@
 ---
-title: "efficacité étoile verte"
+title: "Efficacité étoile verte"
 layout: plaques-et-trophees
+prix: 
+    images:
+      - filename: "etoileverte1.jpg"
+        title: "Plaque étoie verte (1)"
+      - filename: "etoileverte2.jpg"
+        title: "Plaque étoie verte (2)"
+    title: "La plaque efficacité étoile verte"
+    description: "Cette plaque est décernée au cadet ou à la cadette du niveau étoile verte qui s’est le plus distingué par sa tenue, son comportement et sa participation aux activités durant sa première année au corps de cadets."
+
 ---
-
-
-## La plaque efficacité étoile verte    
-![Image de la Plaque étoile verte](_images/envedet/etoileverte2.jpg "Plaque étoile verte")![Image de la Plaque étoile verte](_images/envedet/etoileverte1.jpg "Plaque étoile verte")  
-Cette plaque est décernée au cadet ou à la cadette du niveau étoile verte qui s’est le plus distingué par sa tenue, son comportement et sa participation aux activités durant sa première année au corps de cadets.
 
 ### Récipiendaires
 

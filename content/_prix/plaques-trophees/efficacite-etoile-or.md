@@ -1,12 +1,16 @@
 ---
 title: "Efficacité étoile or"
 layout: plaques-et-trophees
+prix: 
+    images:
+      - filename: "etoileor1.jpg"
+        title: "Plaque étoie or (1)"
+      - filename: "etoileor2.jpg"
+        title: "Plaque étoie or (2)"
+    title: "La plaque efficacité étoile or"
+    description: "Cette plaque est remise au cadet ou à la cadette du niveau étoile or s’étant le plus démarqué de son groupe par sa tenue, son comportement, sa participation, son leadership ainsi que sa réussite de l’étoile nationale d'excellence."
+
 ---
-
-
-## La plaque efficacité étoile or
-![Image de la Plaque étoile or](_images/envedet/etoileor2.jpg "Plaque étoile or")![Image de la Plaque étoile or](_images/envedet/etoileor1.jpg "Plaque étoile or")  
-Cette plaque est remise au cadet ou à la cadette du niveau étoile or s’étant le plus démarqué de son groupe par sa tenue, son comportement, sa participation, son leadership ainsi que sa réussite de l’étoile nationale d'excellence.
 
 ### Récipiendaires
 
@@ -25,7 +29,7 @@ Cette plaque est remise au cadet ou à la cadette du niveau étoile or s’étan
 | 2011 | Audrey Lambert-Turcotte |
 | 2010 | Alexandre Dubé |
 | 2009 | David Hubert |
-| 2008 | Joshua Boisvert |
+| 2008 | Joshua Boisor |
 | 2007 | Judith Robidoux |
 | 2006 | Marie-Ève Lecavalier |
 | 2005 | Justin Demers |
