@@ -135,12 +135,13 @@ defaults:
       author: sinedbo     # Default author for posts
   - 
     scope: 
-      path: "content/_communications"
-      type: ""
+      path: 'content/_communications'
+      type: 'communications'
     values:
       breadcrumb: true
-      layout: page-fullwidth
-      subheadline: Communiqué
+      layout: 'left-nav'
+      subheadline: 'Communiqué'
+      include-in-nav: true
   -
     scope:
       path: 'content/_historique'
@@ -148,9 +149,9 @@ defaults:
     values:
       breadcrumb: true
       layout: 'page-fullwidth'
-      subheadline: "Historique"
+      subheadline: 'Historique'
       header:
-        image_fullwidth: "musique-historique.jpeg"
+        image_fullwidth: 'musique-historique.jpeg'
   -
     scope:
       path: 'content/_historique/notre-unite'
@@ -158,7 +159,7 @@ defaults:
     values:
       breadcrumb: true
       layout: 'left-nav'
-      subheadline: "Historique de notre unité"
+      subheadline: 'Historique de notre unité'
       include-in-nav: true
   -
     scope:
@@ -167,48 +168,48 @@ defaults:
     values:
       breadcrumb: true
       layout: 'commandant'
-      subheadline: "Historique"
-      title: Biographie
+      subheadline: 'Historique'
+      title: 'Biographie'
   - 
     scope: 
-      path: "content/_information"
-      type: "information"
+      path: 'content/_information'
+      type: 'information'
     values:
       breadcrumb: true
-      layout: page-fullwidth
-      subheadline: Information
+      layout: 'page-fullwidth'
+      subheadline: 'Information'
       header:
-        image_fullwidth: "cc2920-2018-06-24.jpg"
+        image_fullwidth: 'cc2920-2018-06-24.jpg'
   - 
     scope: 
-      path: "content/_presentation"
-      type: "presentation"
+      path: 'content/_presentation'
+      type: 'presentation'
     values:
       breadcrumb: true
-      layout: page-fullwidth
-      subheadline: Présentation
+      layout: 'page-fullwidth'
+      subheadline: 'Présentation'
       header:
-        image_fullwidth: "cc2920-2018-06-24.jpg"
+        image_fullwidth: 'cc2920-2018-06-24.jpg'
   - 
     scope: 
-      path: "content/_prix"
-      type: "prix"
+      path: 'content/_prix'
+      type: 'prix'
     values:
       breadcrumb: true
-      layout: page-fullwidth
-      subheadline: "Prix et mérites"
+      layout: 'page-fullwidth'
+      subheadline: 'Prix et mérites'
       header:
-        image_fullwidth: "cc2920-2018-06-24.jpg"
+        image_fullwidth: 'cc2920-2018-06-24.jpg'
   - 
     scope: 
-      path: "content/_ressources"
-      type: "ressources"
+      path: 'content/_ressources'
+      type: 'ressources'
     values:
       breadcrumb: true
-      layout: page-fullwidth
-      subheadline: "Ressources"
+      layout: 'page-fullwidth'
+      subheadline: 'Ressources'
       header:
-        image_fullwidth: "expedition-foret.jpg"
+        image_fullwidth: 'expedition-foret.jpg'
 
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____
