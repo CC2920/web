@@ -86,7 +86,7 @@
   
 
 - title: "Prix et mérites"
-  url: "/prix-merites/"
+  url: "/prix/"
   side: left
   dropdown:
   - title: "Médailles"

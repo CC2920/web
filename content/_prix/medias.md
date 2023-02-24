@@ -1,7 +1,14 @@
 ---
 title: "Les cadets dans les Médias"
 ---
-
+<div class="" markdown="1">
+<div class="panel radius" markdown="1">
+**Récompenses et expériences**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div>
 
 
 ## Durant l'été 2019, des cadets sont honorés au camp des cadets du Mont St-Sacrement.
@@ -12,25 +19,33 @@ title: "Les cadets dans les Médias"
     
 * 16 août - Le cadet Sergio Rubinos du corps de cadets 2920 Gatineau reçoit le trophée de l’efficacité générale des mains de l’instructeur civil Anne-Marie Légaré, directrice musicale de la musique Adagio. ![]({{ site.url }}{{ site.baseurl }}/content/docs/prix-et-merites/20190816_rubinos.jpg)
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Durant l'été 2019, un officier reçoit une mention élogieuse du commandant du camp d'été
 
 * L’Élof Maggie Lambert-Turcotte reçoit la mention élogieuse du commandant des mains du Lcol Christian Collin, CD, commandant du Centre et de l’Adjuc Richard Roger, CD, sergent-major. Pour son dévouement et son aide en dehors de son emploi estival. Elle a pris de son temps personnel pour donner des cours de théorie à des cadets et leur permettre ainsi de réussir à passer leur niveau musical. Elle a fait tout en son pouvoir pour modifier les horaires de manière à fournir des périodes de sport au moment qui était le plus favorable pour les musiques. Dévouée, elle n’a pas compté son temps pour propager les valeurs du CEMC. ![]({{ site.url }}{{ site.baseurl }}/content/docs/prix-et-merites/20190816_elofMLT.jpg)
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## 16 août 2019 - Centre d'entraînement des cadets de Trenton
 
 * Lors du défilé de remise des diplômes du Centre d'instruction des cadets de Trenton pour les cadets du cours de base de parachutisme qui a eu lieu sous la présidence d'honneur du major-général (retraité) David Fraser, le cadet Mathieu Larin de Gatineau a reçu le prix du Bgén R.R.Romses Top Jumper, décerné au cadet qui a excellé dans les deux phases du cours. [Article du Quinte News du 21 août 2019]({{ site.url }}{{ site.baseurl }}/content/docs/prix-et-merites/20190816_Para_Trenton.pdf) ![]({{ site.url }}{{ site.baseurl }}/content/docs/prix-et-merites/20190816_Para_Larin.jpg)
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## 17 août 2018, Centre d'entraînement des cadets de Valcartier
 
 * Félicitations à la cadette Mathilde Lambert-Turcotte qui sonne le rassemblement à la parade finale du CEC Valcartier. La cérémonie était présidée par le brigadier-général C. Mercier, OMM, MSM, CD, commandant adjoint de la 2e Division du Canada et de la Force opérationnelle interarmées (Est). ![]({{ site.url }}{{ site.baseurl }}/content/docs/prix-et-merites/20180814_mlturcotte.jpg)
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Durant l'été 2018, deux cadettes font honneur à la devise du 2920 : Fierté et excellence!
 
@@ -56,7 +71,9 @@ Arielle s’est distinguée de ses camarades par son leadership exemplaire enver
   
 Ces deux jeunes Gatinoises ont fièrement représenté le Corps de cadets 2920 Gatineau et la région de l’Outaouais durant l’été 2018. Nous leur espérons de réussir aussi bien dans l’avenir ! Félicitations les filles ! Fierté et excellence !
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Des cadets s’impliquent dans leur communauté
 
@@ -64,7 +81,9 @@ Les 17 et 18 février 2018, plusieurs jeunes du corps de cadets 2920 Gatineau se
   
 ![]({{ site.url }}{{ site.baseurl }}/content/docs/prix-et-merites/2018_baldeneige.jpg)
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Deux cadets du Corps de cadets 2920 se démarquent en compétition de biathlon
 
@@ -72,26 +91,34 @@ Le 4 février 2018 avait lieu la compétition régionale de biathlon des cadets 
   
 ![]({{ site.url }}{{ site.baseurl }}/content/docs/prix-et-merites/2018_biathlon.jpg)
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Durant l'été 2017, deux de nos cadettes ont été honorées durant leur camp d'été
 
 ![]({{ site.url }}{{ site.baseurl }}/content/docs/prix-et-merites/20171006_LaRevue.jpg)
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Philyp Poirier - Finaliste 2015, Lauréat avenir élève persévérant
 
 ![]({{ site.url }}{{ site.baseurl }}/content/docs/prix-et-merites/philyp_poirier.jpg)
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Expéditions régionales hivernales des cadets de l'armée 2015
 
 * Adjudants Pelletier-Arruda et Beaudoin-Mercier participent à l'expédition régionale hivernale dans Charlevoix du 1er au 7 mars 2015.
 * Adjudant Martin Éthier participer à l'expédition régionale hivernale avec les Rangers Juniors Canadiens de Puvirnituq du 10 au 17 mars 2015.
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Obtention de la qualification de cadet-maître
 
@@ -101,13 +128,17 @@ Le 1er décembre 2014, les cadets ci-dessous ont obtenu pour la première fois a
 * Cadet Adjudant-maître Mikaël Dufour
 * Cadet Adjudant Philyp Poirier
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Expédition internationale des cadets de l'armée 2014
 
 * Adj Marie-Soleil Blouin-Lecours participe à l'expédition internationale 2014 aura lieu du 6 au 21 septembre 2014 et se déroulera au Pérou.
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Expédition nationale des cadets de l'armée 2014
 
@@ -115,7 +146,9 @@ Le 1er décembre 2014, les cadets ci-dessous ont obtenu pour la première fois a
     L'expédition sera principalement composée de randonnée pédestre et de cyclotourisme.  
     Elle débutera à Thunder Bay puis se terminera à Sault Ste-Marie.
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Course estivale d'aventure "FOURAID" 2014
 
@@ -123,7 +156,9 @@ Le 1er décembre 2014, les cadets ci-dessous ont obtenu pour la première fois a
     récoltent la 2e place à la course d'aventure "FouRaid" le samedi 30 août 2014 à Valcartier.  
     [Article de Raymonde Theriault dans le 45e Nord.ca](http://www.45enord.ca/2014/09/fouraid-2014-les-cadets-se-lancent-dans-une-course-daventure-a-valcartier-photosvideo/)
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Été 2014 - Le cadet Léandre Benoit nommé meilleur cadet du cours expédition élémentaire
 
@@ -131,14 +166,18 @@ Le 1er décembre 2014, les cadets ci-dessous ont obtenu pour la première fois a
 _Publié le 6 août 2014 dans La Revue_  
   
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Récompense pour assiduité aux séances de tir récréatif
 
 La cadette Mélissa Lafontaine a été la gagnante de la journée récompense pour assiduité aux séances de tir récréatif du mercredi soir.  
 ![]({{ site.url }}{{ site.baseurl }}/content/docs/prix-et-merites/2014_Tir_Ruger_4.jpg)  
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Des cadets visitent l'hôtel de ville
 
@@ -146,7 +185,9 @@ Avant la séance du conseil du mardi 18 mars 2014, à l'hôtel de Ville de Gatin
 ![Garde d'Honneur, 27 mars 2014]({{ site.url }}{{ site.baseurl }}/content/docs/prix-et-merites/garde_fr_sm.jpg)  
 _Garde d'Honneur, 27 mars 2014_
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Le prix Colonel-Robert-Perron d'excellence en condition physique
 
@@ -157,27 +198,35 @@ Résultat Fille :   Véronique Patry (1ere place), Béatrice Thivierge (2e pla
 
 Résultat Gars :   Guillaume Lalonde (1ere place), Martin Ethier (2e place) et Nicholas Beaudoin-Mercier (3e place)
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Expéditions régionales hivernales des cadets de l'armée 2014
 
 * Adjum Mikaël Dufour participera à l'expédition régionale hivernale dans Charlevoix du 23 février au 1er mars 2014 et l'adjum Véronique Patry participera du 2 au 8 mars 2014.
 * Adj Marie-Soleil Blouin-Lecours participera à l'expédition régionale hivernale au Mont-Valin au Saguenay du 2 au 8 mars 2014.
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Course d'aventure "FOURAID" 2014
 
 * Les cadets Guillaume Lalonde, Marie-Soleil Blouin-Lecours et Mikaël Dufour ont participés à la course d'aventure "FouRaid" le samedi 25 janvier 2014 à Valcartier.  
     ![]({{ site.url }}{{ site.baseurl }}/content/docs/prix-et-merites/fouraid.jpg)
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Entrevue radiophonique au 104,7 FM
 
 * Jeudi le 28 novembre 2013, le Major Pierre Vallée et le cadet Samuel Malouin-Ladouceur ont participé à une entrevue radiophonique au 104,7 FM.
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Expédition nationale des cadets de l'armée 2013
 
@@ -187,14 +236,18 @@ Résultat Gars :   Guillaume Lalonde (1ere place), Martin Ethier (2e place) et
     Les cadets sont accompagnés de quatre officiers du Cadre des Instructeurs de Cadets, aussi venu des quatre coins du Canada.  
     Suivez les progrès de l'expédition nationale sur la page [Expedition des Cadets de l'Armée](http://www.cadets.ca/fr/nouvelles.page?doc=suivez-les-progres-de-expedition-nationale-des-cadets-de-armee/hktm9ayq).
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Récompenses Gala Méritas et parade finale CIECA Valcartier 2013
 
 * La cadette Clara Demers termine première de son peloton (Cours d'instruction générale)
 * L'adjudant-maître Guillaume Lalonde reçoit l'épinglette de mérite du Camp des cadets de Valcartier pour son implication remarquable au niveau du peleton et de ses excellentes qualités d'instructeur lors des expéditions de la Compagnie C.
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Été 2013 - Des cadettes en tournée
 
@@ -203,7 +256,9 @@ Résultat Gars :   Guillaume Lalonde (1ere place), Martin Ethier (2e place) et
     ![]({{ site.url }}{{ site.baseurl }}/content/docs/prix-et-merites/2013ete_tournee.jpg)  
     _Publié le 19 juillet 2013 dans Le Droit > Vie communautaire_
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Le prix Colonel-Robert-Perron d'excellence en condition physique
 
@@ -214,20 +269,26 @@ Résultat Fille :   Magalie Lanois (1ere place), Marianne Daigneault (2e place
 
 Résultat Gars :   Guillaume Lalonde (1ere place), Mikaël Dufour (2e place) et Martin Ethier (3e place)
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Expéditions régionales hivernales des cadets de l'armée 2013
 
 * Adjum Bianca Doucet, Adj Mikaël Dufour et Adj Marianne Daigneault participent à l'expédition régionale hivernale au Saguenay du 3 au 9 mars 2013.
 * Adjum Guillaume Lalonde et Adj Yannick Renaud participent à l'expédition régionale hivernale dans Charlevois du 3 au 9 mars 2013.
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Expéditions régionales estivales des cadets de l'armée 2012
 
 * Les cadets Mikaël Dufour, Guillaume Lalonde et Vincent Brassard participent à la course d'aventure régionale "FouRaid 2012" au début de septembre.
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## École de Musique des Cadets de la Région de l'Est (EMCRE) 2012
 
@@ -239,14 +300,18 @@ Résultat Gars :   Guillaume Lalonde (1ere place), Mikaël Dufour (2e place) e
 * Récompenses parade finale EMCRE 2012 :  
     Vincent Brassard a reçu le prix du lieutenant gouverneur, un prix extrèmement convoité!
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Centre National d'Instruction d'été des Cadets de l'Armée des Montagnes Rocheuses (CNIÉCAMR) 2012
 
 * Les cadets Mikaël Dufour et Guillaume Lalonde ont terminés avec succès le cours d'art du commandement et défi au Centre National d'Instruction d'été des Cadets de l'Armée des Montagnes Rocheuses en Alberta.
 * Guillaume Lalonde se distingue au CNIÉCAMR, il occupe la position d'adjudant de peloton lors de la parade finale!
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Le prix Colonel-Robert-Perron d'excellence en condition physique
 
@@ -259,7 +324,9 @@ Résultat Gars :   Antoine Boulé (1ere place), Guillaume Lalonde (2e place) e
 
 Deux de nos cadets se sont illustrés en se classant dans les 10 meilleurs résultats au Canada. Félicitation à l'adjudant Audrey Lambert-Turcotte pour sa neuvième place chez les cadettes et à l'adjudant Antoine Boulé pour sa huitième place chez les cadets. Deux Top-10 au pays!!! Bravo nous sommes fiers de vous deux!
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Récompenses Gala Méritas, parade finale CIECA Valcartier 2011
 
@@ -270,13 +337,17 @@ Deux de nos cadets se sont illustrés en se classant dans les 10 meilleurs résu
 * Cadet Philyp Poirier termine premier de son peloton (Cours d'instructeur de tir)
 * Cadet Guillaume Lalonde a été choisi meilleur cadet de la compagnie C (Cours d'instructeur en expédition), il occupe le poste de Sergent-major de la compagnie à la parade finale
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Expéditions nationales des cadets de l'armée
 
 * Denis Lévesque participe à l'expédition nationale à Churchill au Manitoba au mois de juin 2011.
 
-* * *
+<small markdown="1">[table des matières](#toc)</small>
+{: .text-right }
+***
 
 ## Expéditions régionales des cadets de l'armée
 
