@@ -1,11 +1,5 @@
 ---
-layout: page-fullwidth
 title:  "Bulletin d'information"
-subheadline: Communiqué
-
-permalink: "communications/bulletin/"
-
-breadcrumb: true
 ---
 
 Pour vous inscrire à notre bulletin d'information, SVP entrez votre courriel dans la case texte et soumettre votre demande. Un courriel vous sera envoyé afin de confirmer votre inscription.

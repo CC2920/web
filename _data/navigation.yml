@@ -26,15 +26,18 @@
 
 
 - title: Communications
-  url: "/communications/"
+  url: "/communications/messages/"
   side: left
   dropdown: 
   - title: "Messages de la semaine"
     url: "/communications/messages/"
     sortorder: 10
+  - title: "Information générale"
+    url: "/communications/information/"
+    sortorder: 10
   - title: "Bulletin" 
     url: "/communications/bulletin/"
-    sortorder: 20
+    sortorder: 30
 
 
 - title: "Présentation"
@@ -83,7 +86,7 @@
   
 
 - title: "Prix et mérites"
-  url: "/prix-merites/"
+  url: "/prix/"
   side: left
   dropdown:
   - title: "Médailles"

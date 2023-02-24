@@ -1,9 +1,5 @@
 ---
-layout: page-fullwidth
 title:  "Messages de la semaine"
-subheadline: Communiqué
-permalink: "communications/messages/"
-breadcrumb: true
 ---
 
 

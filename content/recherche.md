@@ -2,7 +2,7 @@
 layout: page
 title: "Recherche"
 sitemap: false
-permalink: "recherche"
+permalink: "/recherche/"
 ---
 
 
