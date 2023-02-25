@@ -1,5 +1,13 @@
 ---
 title:  "Messages de la semaine"
+
+activities: 
+    - date: 24-25-26 février
+      title: EEO pour le niveau or 
+    - date: 25 février
+      title: Formation intensive pour les recrues ayant 14 ans au 1er septembre 2023
+    - date: 10 mars
+      title: Congé de la semaine de relâche 
 ---
 
 
@@ -37,7 +45,11 @@ Tenue civil
  
 ## Activités à venir 
  
-
-- **24-25-26 février** : EEO pour le niveau or 
-- **25 février** : Formation intensive pour les recrues ayant 14 ans au 1er septembre 2023 
-- **10 mars** : Congé de la semaine de relâche 
+{% assign activities = page.activities %}        
+{% if activities %}
+<ul>
+{% for activity in activities %}
+<li><b>{{ activity.date }}</b>: {{ activity.title }}</li>
+{% endfor %}
+</ul>
+{% endif %}
