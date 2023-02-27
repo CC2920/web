@@ -1,0 +1,18 @@
+---
+layout: left-nav
+format: page-fullwidth
+---
+
+{{ content }}
+	
+<h2 class="b15">Activités à venir</h2>
+ 
+{% assign activities = page.activities %}        
+{% if activities %}
+<ul>
+{% for activity in activities %}
+<li><b>{{ activity.date }}</b>: {{ activity.title }}</li>
+{% endfor %}
+</ul>
+{% endif %}
+
