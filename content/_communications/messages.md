@@ -1,43 +1,41 @@
 ---
 title:  "Messages de la semaine"
+layout: "messages"
+
+activities: 
+    - date: 10 mars
+      title: Congé de la semaine de relâche 
+    - date: 25 mars et possiblement 26 mars 
+      title: Formation de secourisme, niveau rouge et plus. Nombre de places limité et une sélection aura lieu. Détails à venir et nous prendrons les inscriptions ce vendredi. 
 ---
 
 
-## Soirée du 24 février 
+**Semaine du 27 février**
+
+
+## Soirée du 3 mars 
  
-Tenue C5 pour tous 
+Tenue C1. Il y aura une parade du commandant en fin de soirée. Les parents sont invités à y assister à 20h15.
 
-Les résultats du NECPC de vendredi passé seront disponibles pour vérification sur place ce vendredi. Les normes sont disponibles ici. 
+Nous nous attendons à recevoir l’information pour les Programmes d’activités des cadets pour les camps de jour (PAC) et les camps d’été (CEC) dans les prochains jours. Si c’est le cas, nous tiendrons une séance d’information à 19h30 ce vendredi au corps de cadets. Les parents sont invités. Ce sera confirmé dans un autre message dès que nous recevons l’information.
 
-- **Niveau argent** : vous allez donner votre cours. Si vous avez une demande de matériel de dernière minute, écrivez-nous au 2920armee@cadets.gc.ca . 
-- **Niveau or** : les consignes pour l’EEO n’ont pas changé malgré le changement de date. Soyez au corps de cadets à 18h30 pour le départ avec votre matériel pour la fin de semaine. Voici à nouveau le reste de l’information ici. 
+Niveau argent : ceux qui n’ont pas donné leur cours ou qui ont une reprise à faire, soyez prêt. 
 
+## Réunion camp d’été cadet-cadre 1er mars
 
-## Formation intensive pour recrues 25 février 
-
-Les recrues ayant 14 ans au 1er septembre 2023 qui n’ont pas assisté à la séance de formation intensive à l’automne sont invitées à participer à cette autre séance pour sauter de niveau. Les cadets concernés, vous devriez avoir déjà été informés par le personnel de l’unité; dans le doute sur votre éligibilité, écrivez-nous au <2920armee@cadets.gc.ca>. 
-
-Tenue C3, 9h30 à 12h au corps de cadets 52 St-Rosaire. 
-
+Pour les cadets qui auront plus de 16 ans au 25 juin 2023 et les cadet-cadre actuels qui veullent appliquer sur les camps de cadet-cadre, il y aura une réunion le 1er mars de 19h00 a 20h30 heures en civil au 52 Saint-Rosaire. Vos parents sont les bienvenus. 
 
 ## Tir
 
-Les cadets qui ont été sélectionné pour l’équipe de tir auront une pratique le lundi 20 février de 18h30 à 21h au centre Nouvel-Horizon (100 rue de la Baie). 
+Les cadets qui ont été sélectionné pour l’équipe de tir auront une pratique le lundi 27 février de 18h30 à 21h au centre Nouvel-Horizon (100 rue de la Baie). 
 
 Tenue civil 
  
-La compétition aura lieu au manège militaire de Hull, le 12 mars prochain 
+La compétition aura lieu au manège militaire de Hull, le 12 mars prochain.
 
  
 ## Biathlon 
  
-Il y a une pratique interieur de tir sur les cibles de baithlon avec la carabine à air ce mercredi au centre Nouvel-Horizon (100 rue de la Baie).  
- 
-Tenue civil 
- 
-## Activités à venir 
- 
+Il n’y a pas de pratique biathlon cette semaine.
 
-- **24-25-26 février** : EEO pour le niveau or 
-- **25 février** : Formation intensive pour les recrues ayant 14 ans au 1er septembre 2023 
-- **10 mars** : Congé de la semaine de relâche 
+ 
