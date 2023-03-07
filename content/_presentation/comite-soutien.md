@@ -1,8 +1,39 @@
 ---
 title:  "Le comité de soutien"  
-categories:
-    - présentation  
-tags:
+
+le-comite-soutien: 
+    - member: 
+      name: M. Daniel P. Brunette
+      title: Président
+      email: cciv2920@gmail.com
+
+    - member: 
+      name: Vacant
+      title: Vice-Président
+
+    - member: 
+      name: Capt. Steve Noël
+      title: Trésorier
+
+    - member: 
+      name: Mme Ann Delaney
+      title: Secrétaire
+
+    - member: 
+      name: M. Denis Bogucki
+      title: Webmestre et Administrateur
+
+    - member: 
+      name: Mme Marie-Ève Tessier
+      title: Administratrice
+
+    - member: 
+      name: Mme Josée Chénier
+      title: Administratrice
+
+    - member: 
+      name: M. Pier-Luc Bélanger
+      title: Administrateur
 
 ---
 
@@ -32,7 +63,7 @@ Le contenu de cette liste vient du fichier "_data/le-comite-soutien.yml"
 {% endcomment %}
 
 {% include list-members 
-    list="le-comite-soutien" 
+    list=page.le-comite-soutien 
     title="Les membres du comité de soutien" 
 %}
 

@@ -1,7 +1,7 @@
 
 <section>
   <h2>{{ include.title }}</h2>
-  {% assign members = site.data.[include.list] %}        
+  {% assign members = include.list %}        
   {% for member in members %}
   <div class="row list-row t15">
     <div class="columns small-3 medium-2 large-2 t15">
