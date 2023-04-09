@@ -72,9 +72,6 @@ les-cadets-cadres:
 Voici l'équipe des cadets seniors qui supervisent et donnent des cours aux cadets.:
 
 
-{% comment %}
-Le contenu de cette liste vient du fichier "_data/les-cadet-major.yml" 
-{% endcomment %}
 
 {% include list-members 
     list=page.les-cadets-major
@@ -82,11 +79,7 @@ Le contenu de cette liste vient du fichier "_data/les-cadet-major.yml"
 %}
 
 
-{% comment %}
-Le contenu de cette liste vient du fichier "_data/les-cadets-cadres.yml" 
-{% endcomment %}
-
 {% include list-members 
     list=page.les-cadets-cadres
-    title="Les Cadets-Cadres"
+    title="Les Cadets-cadres"
 %}
