@@ -9,13 +9,13 @@ title: Le CC2920
   
 widget1:
   title: "Messages de la semaine"
-  url: '/communications/messages/'
+  url: '/communications/'
   image: 'messages.jpg'
   text: 'Consultez les messages de la semaine pour les dernières nouvelles du corps de cadet.'
 
 widget2:
   title: "Comment nous rejoindre"
-  url: '/nous-rejoindre'
+  url: '/information/comment-nous-rejoindre/'
   text: 'En personne, par téléphone ou via courriel, nous somme là pour adresser vos questions et supporter nos cadets !'
   image: 'quartier-maitre.jpg'
 

@@ -181,7 +181,8 @@ defaults:
       type: 'information'
     values:
       breadcrumb: true
-      layout: 'page-fullwidth'
+      layout: 'left-nav'
+      include-in-nav: true
       subheadline: 'Information'
       header:
         image_fullwidth: 'cc2920-2018-06-24.jpg'

@@ -2,20 +2,20 @@
   url: "/"
   side: left
   dropdown:
+  - title: "Comment nous rejoindre"
+    url: "/information/comment-nous-rejoindre/"
+    sortorder: 10
   - title: "Message aux parents"
     url: "/information/message-aux-parents/"
-    sortorder: 10
+    sortorder: 20
   - title: "Inscriptions"
     url: "/information/inscriptions/"
-    sortorder: 20
+    sortorder: 30
   - title: "Instruction au Corps de Cadets"
     url: "/information/instruction/"
-    sortorder: 30
+    sortorder: 40
   - title: "Activités optionnelles"
     url: "/information/activites-optionnelles/"
-    sortorder: 40
-  - title: "Emplacement"
-    url: "/information/emplacements/"
     sortorder: 50
   - title: "Vêtements"
     url: "/information/vetements/"
