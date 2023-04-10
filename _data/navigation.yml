@@ -26,7 +26,7 @@
 
 
 - title: Communications
-  url: "/communications/messages/"
+  url: "/communications/"
   side: left
   dropdown: 
   - title: "Messages de la semaine"
@@ -38,6 +38,9 @@
   - title: "Bulletin" 
     url: "/communications/bulletin/"
     sortorder: 30
+  - title: "Calendrer" 
+    url: "/communications/calendrier/"
+    sortorder: 40
 
 
 - title: "Présentation"
