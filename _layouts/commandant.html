@@ -16,7 +16,28 @@ format: page-fullwidth
 {% endif %}
 
 
+{% comment %}
+*
+*  Ceci vérifie si le template devrait lire la bioghraphie du dernier commandant (le commandant actuel)
+*
+{% endcomment %}
+{% if page.commandant-actuel != true %}
 
+	{% assign   dates      	= page.dates 	%}
+	{% assign   cmdtName 	= page.cmdt 	%}
+	{% assign   cmdtPicture = page.picture 	%}
+	{% assign   cmdtBio 	= page.content 	%}
+
+{% else %}
+
+	{% assign currentCmdt = site.historique | where: "layout", "commandant" | last %}
+
+	{% assign   dates       = currentCmdt.dates 	%}
+	{% assign   cmdtName 	= currentCmdt.cmdt 		%}
+	{% assign   cmdtPicture = currentCmdt.picture 	%}
+	{% assign   cmdtBio 	= currentCmdt.content 	%}
+
+{% endif %}
 
 <div class="row t30">
 	<div class="medium-12 columns">
@@ -27,11 +48,11 @@ format: page-fullwidth
 			</header>
 			<div class="t15">
 				<div class="left pr20 b30">
-					<img class="" width="240px" title="{{ page.cmdt }}" src="{{ site.url }}{{ site.baseurl }}{{ page.picture }}" />
+					<img class="" width="240px" title="{{ page.cmdt }}" src="{{ site.url }}{{ site.baseurl }}{{ cmdtPicture }}" />
 				</div>
 				<div itemprop="articleSection">
-					<h1 class="profileBioTitle">{{ page.cmdt }}</h1>	
-					{{ content }}
+					<h1 class="profileBioTitle">{{ cmdtName }}</h1>	
+					{{ cmdtBio }}
 				</div>
 			</div>
 		</article>
