@@ -1,14 +1,16 @@
 ---
 layout: left-nav
 format: page-fullwidth
+
+collection: communications
 ---
 
 {{ content }}
-	
-<h2 class="b15">Activités à venir</h2>
  
 {% assign activities = page.activities %}        
 {% if activities %}
+<h2 class="b15">Activités à venir</h2>
+
 <ul>
 {% for activity in activities %}
 <li><b>{{ activity.date }}</b>: {{ activity.title }}</li>

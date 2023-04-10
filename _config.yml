@@ -142,6 +142,11 @@ defaults:
       layout: 'left-nav'
       subheadline: 'Communiqué'
       include-in-nav: true
+      order:
+        - messages.md
+        - information.md
+        - bulletin.md
+        - calendrier.md
   -
     scope:
       path: 'content/_historique'
