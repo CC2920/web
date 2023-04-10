@@ -198,10 +198,6 @@ les-cadets-commandants:
     picture: /content/docs/historique/adjuc39_lambert-turcotte.jpg 
 ---
   
-  
-{% comment %}
-Le contenu de cette liste vient du fichier "_data/les-cadets-commandants.yml" 
-{% endcomment %}
 
 {% include list-members 
     list=page.les-cadets-commandants 
