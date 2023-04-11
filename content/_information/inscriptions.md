@@ -1,9 +1,5 @@
 ---
 title:  "Inscriptions"
-categories:
-    - information  
-tags:
-layout: page
 sidebar: info
 ---
 

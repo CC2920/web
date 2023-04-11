@@ -1,9 +1,5 @@
 ---
 title:  "Financement"
-categories:
-    - information
-    - financement
-tags:
 ---
 
 
