@@ -12,8 +12,8 @@ activities:
 
 ---
 
+**Semaine du 10 avril**
 
-**Semaine du 10 avril **
 
 ## Soirée du 14 avril
 
