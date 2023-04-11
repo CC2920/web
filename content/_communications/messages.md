@@ -3,39 +3,58 @@ title:  "Messages de la semaine"
 layout: "messages"
 
 activities: 
-    - date: 10 mars
-      title: Congé de la semaine de relâche 
-    - date: 25 mars et possiblement 26 mars 
-      title: Formation de secourisme, niveau rouge et plus. Nombre de places limité et une sélection aura lieu. Détails à venir et nous prendrons les inscriptions ce vendredi. 
+    - date: 15 avril 
+      title : souper régimentaire
+    - date: 6 mai en soirée 
+      title : gala des cadets
+    - date: 12, 13 et 14 mai 
+      title : exercice de printemps
+
 ---
 
 
-**Semaine du 27 février**
+**Semaine du 10 avril **
 
+## Soirée du 14 avril
 
-## Soirée du 3 mars 
- 
-Tenue C1. Il y aura une parade du commandant en fin de soirée. Les parents sont invités à y assister à 20h15.
-
-Nous nous attendons à recevoir l’information pour les Programmes d’activités des cadets pour les camps de jour (PAC) et les camps d’été (CEC) dans les prochains jours. Si c’est le cas, nous tiendrons une séance d’information à 19h30 ce vendredi au corps de cadets. Les parents sont invités. Ce sera confirmé dans un autre message dès que nous recevons l’information.
-
-Niveau argent : ceux qui n’ont pas donné leur cours ou qui ont une reprise à faire, soyez prêt. 
-
-## Réunion camp d’été cadet-cadre 1er mars
-
-Pour les cadets qui auront plus de 16 ans au 25 juin 2023 et les cadet-cadre actuels qui veullent appliquer sur les camps de cadet-cadre, il y aura une réunion le 1er mars de 19h00 a 20h30 heures en civil au 52 Saint-Rosaire. Vos parents sont les bienvenus. 
+Tenue C1A pour tous
 
 ## Tir
 
-Les cadets qui ont été sélectionné pour l’équipe de tir auront une pratique le lundi 27 février de 18h30 à 21h au centre Nouvel-Horizon (100 rue de la Baie). 
+Il n’y aura pas de tir le 10 avril.
 
-Tenue civil 
- 
-La compétition aura lieu au manège militaire de Hull, le 12 mars prochain.
+## Biathlon
 
- 
-## Biathlon 
- 
-Il n’y a pas de pratique biathlon cette semaine.
+La saison de biathlon est maintenant terminée. Tous doivent rapporter l’équipement de biathlon mercredi le 12 avril entre 18h30 et 19h00 au corps de cadets.
+Souper régimentaire
+
+Il y aura un souper régimentaire le samedi 15 avril au Centre Communautaire Jean-Renée Monette (89 Rue Jean-René-Monette, Gatineau), de 17h30 à 21h00.
+
+Tenue C2 pour le souper régimentaire :
+
+- pantalon
+- vareuse
+- chemise blanche
+- noeud papillon
+- pin du 50e, mais pas de béret ou plaque patronymique (name tag)
+- bottes
+
+*** Si vous n’êtes pas en mesure d'avoir la chemise blanche et le noeud papillon vous pouvez alors porter la chemise verte avec la cravate.
+
+## Camp d’été
+
+Les réponses de la sélection pour les emplois et les CEC devraient être reçu pour la fin avril.
+
+Pour les PAC, les réponses vous seront communiqués dès que disponibles.
+
+## Trophées et médailles
+
+Les cadets qui veulent appliquer pour la médaille Strathcona et la médaille de la légion royales canadiennes doivent écrire une lettre de présentation expliquant pourquoi il pense qu’il devrait obtenir cette médaille.
+
+La lettre devra être remise en personne le 14 avril lors de la soirée d’instruction au bureau du commandant pour 20h00.
+
+Voir : [Les critères des Médailles](https://1drv.ms/w/s!AprueECwzlJkpZ4Lf_5gJmt1z7hrwg?e=FwIvFx)
+
+
 
  
