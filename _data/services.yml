@@ -1,7 +1,7 @@
 - menu_name: "Communication"
 
-- name: "Nous-rejoindre"
-  url: "/nous-rejoindre/"
+- name: "Nous rejoindre"
+  url: "/information/comment-nous-rejoindre/"
   class: icon-message
   title: "Nous rejoindre"
 
