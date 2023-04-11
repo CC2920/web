@@ -1,9 +1,5 @@
 ---
 title:  "L'instruction au corps de cadets"
-categories:
-    - information
-tags:
-layout: page
 sidebar: info
 ---
 

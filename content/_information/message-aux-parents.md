@@ -1,9 +1,5 @@
 ---
 title:  "Message aux parents"
-categories:
-    - information
-tags:
-layout: page
 sidebar: info
 ---
 

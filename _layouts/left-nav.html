@@ -25,6 +25,12 @@ format: page-fullwidth
 
 {% include list-collectionNavigation collection=page.collection %}
 
+{% if page.sidebar == "info" %}
+<div class="t30">
+	{% include _info_sidebar.html %}
+</div><!-- /.medium-4.columns -->
+{% endif %}
+
 	</div><!-- /.medium-4.columns -->
 	<div class="medium-8 columns">
 		<article>

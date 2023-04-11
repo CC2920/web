@@ -1,9 +1,5 @@
 ---
 title:  "Vêtements du Corps de Cadets"
-categories:
-    - information
-    - vetements
-tags:
 ---
 
 

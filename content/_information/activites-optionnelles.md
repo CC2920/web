@@ -1,9 +1,5 @@
 ---
 title:  "Activités optionnelles"  
-categories:
-    - information
-tags:
-layout: page
 sidebar: info
 ---
 

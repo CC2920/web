@@ -3,6 +3,7 @@ page-ressource-intimidation: "/ressources/agir-face-a-intimidation/"
 page-presentation-comite-soutien: "/presentation/comite-soutien/"
 page-communications-bulletin:  "/communications/bulletin/"
 page-communications: "/communications/"
+page-comment-nous-rejoindre: "/information/comment-nous-rejoindre/"
 
 documents-lettreauxparents: /content/docs/Lettre-aux-parents.pdf
 
@@ -19,3 +20,7 @@ img-medaille-service-cadets-armee: "/content/docs/prix-et-merites/medaille-servi
 img-medaille-duc-edimbourg-bronze: "/content/docs/prix-et-merites/duc-bronze.jpg"
 img-medaille-duc-edimbourg-argent: "/content/docs/prix-et-merites/duc-argent.jpg"
 img-medaille-duc-edimbourg-or: "/content/docs/prix-et-merites/duc-or.jpg"
+
+facebook-page: "https://www.facebook.com/CC2920"
+facebook-group: "https://www.facebook.com/groups/cc2920Gatineau"
+facebook-group-anciens: "https://www.facebook.com/groups/37248710801"

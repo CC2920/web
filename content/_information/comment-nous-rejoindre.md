@@ -46,5 +46,11 @@ Nous occupons les locaux du chalet de l'ancien parc Saint-Rosaire. Le vendredi s
  <iframe width="500" height="300" src="https://maps.google.ca/maps?f=q&amp;source=s_q&amp;hl=fr&amp;geocode=&amp;q=100+Rue+de+la+Baie,+Gatineau,+Qu%C3%A9bec&amp;aq=0&amp;sll=45.467475,-75.691509&amp;sspn=0.004688,0.011319&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=100+Rue+de+la+Baie,+Gatineau,+Qu%C3%A9bec+J8T+3H7&amp;t=m&amp;z=14&amp;ll=45.461384,-75.69572&amp;output=embed"></iframe>
  <a href="http://maps.google.ca/maps?f=q&amp;source=embed&amp;hl=fr&amp;geocode=&amp;q=100+Rue+de+la+Baie,+Gatineau,+Qu%C3%A9bec&amp;aq=0&amp;sll=45.467475,-75.691509&amp;sspn=0.004688,0.011319&amp;vpsrc=0&amp;ie=UTF8&amp;hq=&amp;hnear=100+Rue+de+la+Baie,+Gatineau,+Qu%C3%A9bec+J8T+3H7&amp;t=m&amp;z=14&amp;ll=45.461384,-75.69572" style="color:#0000FF;text-align:left">Agrandir le plan</a>
 
-## Inscriptions
+## Réseaux sociaux
+
+### Facebook
+Nous avons une présence sur Facebook avec une [page officielle du 2920]({{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.facebook-page }}), et un [groupe privé]({{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.facebook-group }}).
+
+### Le Groupe des anciens
+Nous invitons les anciens cadets/cadettes, officiers, instructeurs et bénévoles du comité de soutien depuis 1973 à se joindre au groupe Facebook des [Anciens du 2920 Gatineau]({{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.facebook-group-anciens }}). 
 
