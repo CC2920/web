@@ -10,13 +10,12 @@ Pour des renseignements spécifiques sur le corps de cadets 2920 Gatineau ou sur
 - *Numéro de téléphone* : 819-568-2920
 - *En personne* : [52 rue Saint-Rosaire à Gatineau](#emplacements)
 
-*Adresse postale* :
+**Adresse postale** :<br>
+*Corps de cadets 2920 Gatineau*<br>
+*52 rue Saint-Rosaire, C.P. 82029*<br>
+*Gatineau (Québec)  J8T 8B6*<br>
 
-    Corps de cadets 2920 Gatineau
-    52 rue Saint-Rosaire, C.P. 82029
-    Gatineau (Québec)  J8T 8B6
-
-
+---
 
 Si vous avez des questions ou commentaires portant sur les cadets de l'armée au Québec, veuillez communiquer avec l'Unité Régionale de Soutien aux Cadets (Québec et Vallée de l'Outaouais) au 1-800-681-8180 ou par courriel: <ursce.ap@forces.gc.ca>
 
