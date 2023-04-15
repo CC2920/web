@@ -164,6 +164,7 @@ defaults:
     values:
       breadcrumb: true
       layout: 'left-nav'
+      include-in-nav: true
       subheadline: 'Historique de notre unité'
       include-in-nav: true
   -
@@ -192,7 +193,8 @@ defaults:
       type: 'presentation'
     values:
       breadcrumb: true
-      layout: 'page-fullwidth'
+      layout: 'left-nav'
+      include-in-nav: true
       subheadline: 'Présentation'
       header:
         image_fullwidth: 'cc2920-2018-06-24.jpg'
@@ -212,7 +214,8 @@ defaults:
       type: 'ressources'
     values:
       breadcrumb: true
-      layout: 'page-fullwidth'
+      layout: 'left-nav'
+      include-in-nav: true
       subheadline: 'Ressources'
       header:
         image_fullwidth: 'expedition-foret.jpg'
