@@ -75,9 +75,9 @@ Ils sont assistés de temps à autre par des civils, qui sont la plupart du temp
 
 
 {% comment %}
-
-   Le contenu de cette liste vient du fichier "_data/le-personnel.yml" 
-
+*
+*  Le code ci-dessous génêre la liste des membres gérées au début du fichier
+*
 {% endcomment %}
 
 {% include list-members list="le-personnel" title="" %}
