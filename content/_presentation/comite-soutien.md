@@ -35,6 +35,17 @@ le-comite-soutien:
       name: M. Pier-Luc Bélanger
       title: Administrateur
 
+    - member: 
+      name: Mme Jennifer Dostie
+      title: Administratrice
+
+    - member: 
+      name: Mme Kym Grenier
+      title: Administratrice
+
+    - member:
+      name: Mme Marie-Paul Vincent
+      title: Administratrice
 ---
 
 
