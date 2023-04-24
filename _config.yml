@@ -214,8 +214,7 @@ defaults:
       type: 'ressources'
     values:
       breadcrumb: true
-      layout: 'left-nav'
-      include-in-nav: true
+      layout: 'page-fullwidth'
       subheadline: 'Ressources'
       header:
         image_fullwidth: 'expedition-foret.jpg'

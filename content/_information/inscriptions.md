@@ -14,12 +14,14 @@ Vous devez apporter avec vous :
 - carte d'assurance maladie;
 - $ 3.00 pour la plaquette d'identité.
 
-**Qui peut s'inscrire ?**
+## Qui peut s'inscrire ?
 
-Garçons et filles de 12 à 18 ans;
-Intéressé par le programme des cadets;
-Permission des parents/tuteur légal.
-Combien ça coûte?
+- Garçons et filles de 12 à 18 ans;
+- Intéressé par le programme des cadets;
+- Permission des parents/tuteur légal.
 
-Aucuns frais d'inscription;
-L'uniforme est fourni gratuitement.
+
+### Combien ça coûte?
+
+- Aucuns frais d'inscription;
+- L'uniforme est fourni gratuitement.
