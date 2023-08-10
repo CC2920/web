@@ -74,9 +74,9 @@ Les cadets ne s'engagent aucunement à servir comme militaires et peuvent quitte
 </div><!-- /.row -->
 
 
-## Information aditionelle
+## Information additionnelle
 
-{% include list-sectionNav title=page.title %}
+{% include list-menuNavigation navigationKey="information" %}
 
 <section class="panel" markdown="1">
 

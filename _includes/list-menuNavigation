@@ -4,7 +4,7 @@
 {% endcomment %}
 
 
-{% assign menuLink = site.data.navigation | where:"title",include.title | first  %}
+{% assign menuLink = site.data.navigation | where:"navigationKey",page.navigationKey | first  %}
 {% if menuLink %}
 {% assign sortedLinks = menuLink.dropdown | sort: "sortorder" %}
 <ul class="side-nav">
@@ -19,7 +19,7 @@
       {% assign domain = site.url %}
       {% assign _baseurl = site.baseurl %}
     {% endif %}
-    <li><a href="{{ domain }}{{ _baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
+    <li class="{% if link.url == page.url %} active{% endif %}"><a href="{{ domain }}{{ _baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
   {% endfor %}
   <li>&nbsp;</li>
 </ul>
