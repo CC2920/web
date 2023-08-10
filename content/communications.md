@@ -1,6 +1,7 @@
 ---
 layout: communications
 title:  "Communications"  
+navigationKey: "communications"
 subheadline: 'Communiqué'
 breadcrumb: true
 permalink: "/communications/"

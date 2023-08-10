@@ -13,7 +13,7 @@ Si vous avez des canettes ou des bouteilles de vin, vous pouvez communiquer avec
 
 ### Items à la cantine (52 St. Rosaire)
 
-[Habillement civil du corps de cadets]({{ site.url }}/information/vetements/) : Les gilets sont disponibles au coût de 25$, de même que des casquettes et tuques au coût de 15$.
+[Habillement civil du corps de cadets]({{ site.url }}{{ site.baseurl }}/information/vetements/) : Les gilets sont disponibles au coût de 25$, de même que des casquettes et tuques au coût de 15$.
 
 ---
 

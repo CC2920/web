@@ -1,8 +1,5 @@
 ---
-title:  "Ressources pour les musiciens"  
-categories:
-    - ressouces 
-tags:
+title:  "Pour les musiciens"  
 ---
 
 ### Manuel de l'exercice et du cérémonial des forces canadiennes

@@ -9,7 +9,7 @@ En plus des cours du programme de l'étoile, le corps de cadets offre diverses a
 
 
 ## Biathlon
-Le biathlon est un sport qui combine deux disciplines séparées; traditionnellement, ceux-ci sont le ski de fond et le tir à la carabine. Le biathlon affiche des concurrents complétant une ronde de tir après chaque tour de parcours. Le défi du biathlon est d'être un tireur rapide et précis dans les conditions de stress aérobique. Le biathlon est une activité idéale pour des cadets parce qu'il implique l'utilisation sécuritaire des armes à feu, la forme physique, l'étiquette sportive et un style de vie saine. Notre [programme de biathlon](https://www.cc2920.ca/docs/Biathlon-information-2021-2022.pdf) est composé d'une équipe de filles et une de garçons.
+Le biathlon est un sport qui combine deux disciplines séparées; traditionnellement, ceux-ci sont le ski de fond et le tir à la carabine. Le biathlon affiche des concurrents complétant une ronde de tir après chaque tour de parcours. Le défi du biathlon est d'être un tireur rapide et précis dans les conditions de stress aérobique. Le biathlon est une activité idéale pour des cadets parce qu'il implique l'utilisation sécuritaire des armes à feu, la forme physique, l'étiquette sportive et un style de vie saine. Notre programme de biathlon est composé d'une équipe de filles et une de garçons.
 
 ## Tir récréatif
 Les cadets apprennent les rudiments du tir de précision à la carabine au travers du programme de l'étoile. De plus, ils doivent faire au moins une fois par année du tir de qualification lors des journées de tir organisées par le corps de cadets.

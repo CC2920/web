@@ -1,8 +1,5 @@
 ---
-title:  "Ressources pour les instructeurs"  
-categories:
-    - ressouces 
-tags:
+title:  "Pour les instructeurs"  
 ---
 
 * [Grille horaire 2020-2021](docs/horaire/Cadets_2020_2021_V2.3.xlsx) (version 2.3)
@@ -35,15 +32,15 @@ tags:
 
 ### Guides pédagogiques
 
-* [Guide pédagogique de l'étoile verte](guides_f.html#GS)  
+* [Guide pédagogique de l'étoile verte](guides-etoile-verte/)  
     Décembre 2016
-* [Guide pédagogique de l'étoile rouge](guides_f.html#RS)  
+* [Guide pédagogique de l'étoile rouge](guides-etoile-rouge/)  
     Décembre 2016
-* [Guide pédagogique de l'étoile argent](guides_f.html#SS)  
+* [Guide pédagogique de l'étoile argent](guides-etoile-argent/)  
     Décembre 2016
-* [Guide pédagogique de l'étoile d'or](guides_f.html#Gold)  
+* [Guide pédagogique de l'étoile d'or](guides-etoile-or)  
     Décembre 2016
-* [Guide pédagogique du niveau de Cadet-Maître](guides_f.html#Maitre)  
+* [Guide pédagogique du niveau de Cadet-Maître](guides-cadet-maitre)  
     Décembre 2016
 
 ### La Cyberintimidation

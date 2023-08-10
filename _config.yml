@@ -138,8 +138,9 @@ defaults:
       path: 'content/_communications'
       type: 'communications'
     values:
+      navigationKey: communications
       breadcrumb: true
-      layout: 'left-nav'
+      layout: 'page-side-navigation'
       subheadline: 'Communiqué'
       include-in-nav: true
       order:
@@ -152,6 +153,7 @@ defaults:
       path: 'content/_historique'
       type: 'historique'
     values:
+      navigationKey: historique
       breadcrumb: true
       layout: 'page-fullwidth'
       subheadline: 'Historique'
@@ -162,8 +164,9 @@ defaults:
       path: 'content/_historique/notre-unite'
       type: 'historique'
     values:
+      navigationKey: unite
       breadcrumb: true
-      layout: 'left-nav'
+      layout: 'page-side-navigation'
       include-in-nav: true
       subheadline: 'Historique de notre unité'
       include-in-nav: true
@@ -172,6 +175,7 @@ defaults:
       path: 'content/_historique/commandants'
       type: 'historique'
     values:
+      navigationKey: commandants
       breadcrumb: true
       layout: 'commandant'
       subheadline: 'Historique'
@@ -181,8 +185,9 @@ defaults:
       path: 'content/_information'
       type: 'information'
     values:
+      navigationKey: information
       breadcrumb: true
-      layout: 'left-nav'
+      layout: 'page-side-navigation'
       include-in-nav: true
       subheadline: 'Information'
       header:
@@ -192,8 +197,9 @@ defaults:
       path: 'content/_presentation'
       type: 'presentation'
     values:
+      navigationKey: presentation
       breadcrumb: true
-      layout: 'left-nav'
+      layout: 'page-side-navigation'
       include-in-nav: true
       subheadline: 'Présentation'
       header:
@@ -203,6 +209,7 @@ defaults:
       path: 'content/_prix'
       type: 'prix'
     values:
+      navigationKey: prix
       breadcrumb: true
       layout: 'page-fullwidth'
       subheadline: 'Prix et mérites'
@@ -213,9 +220,9 @@ defaults:
       path: 'content/_ressources'
       type: 'ressources'
     values:
+      navigationKey: ressources
       breadcrumb: true
-      layout: 'left-nav'
-      include-in-nav: true
+      layout: 'page-fullwidth'
       subheadline: 'Ressources'
       header:
         image_fullwidth: 'expedition-foret.jpg'

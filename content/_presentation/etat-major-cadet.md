@@ -1,5 +1,7 @@
 ---
-title:  "État-major Cadet"  
+title:  "État-major Cadet" 
+layout: page-side-navigation
+navigationKey: presentation
 
 #
 # Chaque groupe contient une list d'items représentant le/les cadet(s).
