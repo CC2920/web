@@ -141,7 +141,7 @@ defaults:
       navigationKey: communications
       breadcrumb: true
       layout: 'page-side-navigation'
-      subheadline: 'Communiqué'
+      subheadline: 'Communications'
       include-in-nav: true
       order:
         - messages.md
@@ -166,7 +166,7 @@ defaults:
     values:
       navigationKey: unite
       breadcrumb: true
-      layout: 'page-side-navigation'
+      layout: 'page-collection-navigation'
       include-in-nav: true
       subheadline: 'Historique de notre unité'
       include-in-nav: true

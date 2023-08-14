@@ -1,5 +1,5 @@
 ---
-layout: left-nav
+layout: page-collection-navigation
 title:  "Notre unité"  
 categories:
     - historique
