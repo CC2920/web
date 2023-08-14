@@ -166,7 +166,7 @@ defaults:
     values:
       navigationKey: unite
       breadcrumb: true
-      layout: 'page-side-navigation'
+      layout: 'page-collection-navigation'
       include-in-nav: true
       subheadline: 'Historique de notre unité'
       include-in-nav: true
