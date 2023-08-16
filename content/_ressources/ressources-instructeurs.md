@@ -2,33 +2,32 @@
 title:  "Pour les instructeurs"  
 ---
 
-* [Grille horaire 2020-2021](docs/horaire/Cadets_2020_2021_V2.3.xlsx) (version 2.3)
-* [Gestion des Inscriptions tardives](Guides/Gestion_Tardive/OAIC_40-01_Annexe_F.pdf)  
+* [Gestion des Inscriptions tardives](/content/docs/ressources/guides/gestion-tardives(OAIC_40-01_Annexe_F).pdf)  
       
     
-* [Guide d'accueil](docs/Guide_accueil5.pdf)
-* [Guide de l'uniforme](docs/Guide_uniformev3.pdf)
-* [Emplacement des écussons](docs/emplacementdesecussons.pdf)
-* [Guide du cadet en garnison](docs/acc/Guide_cadet_garnison.pdf)
-* [Paroles du Ô Canada](docs/O_Canada_paroles.pdf)
+* [Guide d'accueil](/content/docs/ressources/guide_accueil_5.pdf)
+* [Guide de l'uniforme](/content/docs/ressources/guide-uniforme.v3.pdf)
+* [Emplacement des écussons](/content/docs/ressources/emplacement-des-ecussons.pdf)
+* [Guide du cadet en garnison](/content/docs/ressources/guide_cadet_garnison.pdf)
+* [Paroles du Ô Canada](/content/docs/ressources/paroles-hymne-national-O-Canada.pdf)
 
 ### Plan de leçon
 
-* [Plan de leçon en classe](Guides/plandeleconenclasse.doc)
-* [Guide d'évaluation de l'instruction en classe](Guides/class_f.pdf)
+* [Plan de leçon en classe](/content/docs/ressources/guides/plan_de_lecon_en_classe.doc)
+* [Guide d'évaluation de l'instruction en classe](/content/docs/ressources/guides/guide_evaluation_instruction_en_classe.pdf)
 * [Aide mémoire aux instructeurs](Guides/aide_memoire_instructeur.pdf)  
       
     
-* [Plan de leçon d'exercice militaire](Guides/planexercicemilitaire.xls)
-* [Guide d'évaluation de l'instructeur d'exercice militaire](Guides/drill_f.pdf)
-* [Donner une leçon d'exercice militaire](Guides/Lecondedrill.pdf)  
+* [Plan de leçon d'exercice militaire](/content/docs/ressources/guides/planexercicemilitaire.xls)
+* [Guide d'évaluation de l'instructeur d'exercice militaire](/content/docs/ressources/guides/drill_f.pdf)
+* [Donner une leçon d'exercice militaire](/content/docs/ressources/guides/lecon_de_drill.pdf)  
       
     
-* [Guide des jeux éducatifs](Guides/Guide_jeux.pdf)
-* [Guide activités de cadets](Guides/Guide_activités_cadets.pdf)
-* [Guide du leader quant à l'apprentissage au sein du Programme des cadets](Guides/Guideleader.pdf)
-* [Demande de matériel - Quartier-maître](Guides/Demande_dequipement.pdf)
-* [Formulaire Évaluation](Guides/FormulaireEvaluationCadets2920.pdf)
+* [Guide des jeux éducatifs](/content/docs/ressources/guide_jeux.pdf)
+* [Guide activités de cadets](/content/docs/ressources/guide_activités_cadets.pdf)
+* [Guide du leader quant à l'apprentissage au sein du Programme des cadets](/content/docs/ressources/guide_leader.pdf)
+* [Demande de matériel - Quartier-maître](/content/docs/ressources/demande_equipement.pdf)
+* [Formulaire Évaluation](/content/docs/ressources/formulaire_evaluation_cadets_2920.pdf)
 
 ### Guides pédagogiques
 
