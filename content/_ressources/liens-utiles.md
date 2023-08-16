@@ -18,10 +18,8 @@ Vous trouverez ci-dessous quelques opportunités de bénévolat:
 * Je Bénévole  
     [jebenevole.ca](https://www.jebenevole.ca/)
 * Centre d'action bénévole de Gatineau  
-    [benevole.ncf.ca](http://benevole.ncf.ca/)
+    [https://www.cabgatineau.com](https://www.cabgatineau.com)
 * Centre d'action bénévole de Hull  
     [www.benevoles-outaouais.org](http://www.benevoles-outaouais.org/)
 * Réseau Biblio de l'Outaouais  
     [www.reseaubiblioduquebec.qc.ca](http://www.reseaubiblioduquebec.qc.ca/fr)
-* Bénévole de A à Z  
-    [www.benevolatdeaaz.org](http://www.benevolatdeaaz.org/fr/projets---par-pays/canada.html)

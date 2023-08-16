@@ -63,4 +63,5 @@ En septembre 2010, on comptait cinq membres du comité de soutien et quatre bén
 | 2018-2019 | Mélanie Croteau |     | Guylain Desrochers | Mélanie Simard | Alain Couvrette, Ann Delaney, Daisy Moreno, Simon Venne |
 | 2019-2020 | Mélanie Croteau | Mélanie Simard | Guylain Desrochers | Denis Bogucki | Daniel P. Brunette, Josée Chénier, Alain Couvrette, Ann Delaney, Valérie Lafrenière, Marie-Ève Tessier, Simon Venne |
 | 2020-2021 | Daniel Brunette |     | Guylain Desrochers | Ann Delaney | Denis Bogucki, Mélanie Bourdeau, Josée Chénier, Alain Couvrette, Érika Meunier, Valérie Lafrenière, Marie-Ève Tessier |
-
+| 2021-2022 | Daniel Brunette |     | Capt. Steve Noël | Ann Delaney | Denis Bogucki, Pier-Luc Bélanger, Josée Chénier, Marie-Ève Tessier |
+| 2022-2023 | Daniel Brunette |     | Capt. Steve Noël | Ann Delaney | Denis Bogucki, Josée Chénier, Marie-Ève Tessier, Jennifer Dostie, Jonathan Gauthier, Kim Grenier, Marie-Paul Vincent |

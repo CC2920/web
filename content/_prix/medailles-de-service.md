@@ -8,28 +8,31 @@ title: "Médailles de service"
 #
 # *******************************************************************
 recipiendaires-medaille-benevoles: 
+    - periode: 2023
+      benevoles: 
+        - M. Denis Lalonde (15 ans)
     - periode: 2015
       benevoles:
-        - Mme Martine Bédard
-        - Mme Alice Blouin
-        - M. Steve McDonald
-        - Mme Martine Paquette
-        - Mme Julie Richard
+        - Mme Martine Bédard  (7 ans)
+        - Mme Alice Blouin  (5 ans)
+        - M. Steve McDonald  (5 ans)
+        - Mme Martine Paquette  (5 ans)
+        - Mme Julie Richard  (7 ans)
     - periode: 2013
       benevoles: 
-        - M. Alain Courchesne
-        - Cplc René Duguay
-        - M. Léo Gravel
-        - M. Denis Lalonde
-        - Mme Josée Mainville
-        - M. André Lévesque
-        - M. Gilles Piché
-        - M. André Richer
-        - M. Sylvain Robidoux
+        - M. Alain Courchesne  (7 ans)
+        - Cplc René Duguay  (8 ans)
+        - M. Léo Gravel  (10 ans)
+        - M. Denis Lalonde  (5 ans)
+        - Mme Josée Mainville  (5 ans)
+        - M. André Lévesque (7 ans)
+        - M. Gilles Piché  (5 ans)
+        - M. André Richer (7 ans)
+        - M. Sylvain Robidoux  (6 ans)
     - periode: 2010	
       benevoles: 
-        - Mme Léane Marquis
-        - M. Guy Roy
+        - Mme Léane Marquis (5 ans)
+        - M. Guy Roy (15 ans)
 
 # ********************************************************************************
 #
