@@ -3,3 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+content/docs/ressources/guides/Verte/.DS_Store
+content/docs/ressources/guides/.DS_Store
+.gitignore
+content/docs/ressources/guides/.DS_Store

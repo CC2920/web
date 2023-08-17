@@ -3,15 +3,13 @@ title: Guide pédagogiques étoile verte
 permalink: "/ressources/guides-etoile-verte"
 ---
 
-## Étoile verte
-
- Introduction
+## Introduction
 
 * [Normes de qualification](Guides/Verte/ACRCCP701PG002_NQP.pdf)
 * [Introduction et table des matières](Guides/Verte/ACRCCP701PF002_Intro.pdf)
 * [Grades des cadets et officiers de l'Armée](Guides/Verte/Grades.pdf)
 
-OREN X01 - Participer à des activités sur le civisme
+## OREN X01 - Participer à des activités sur le civisme
 
 [Chapitre 1 OREN X01 - Participer à des activités sur le civisme](Guides/Verte/ORENX01.pdf)
 
@@ -25,14 +23,14 @@ OREN X01 - Participer à des activités sur le civisme
 * [OCOM MX01.01H - Participer à des ateliers d'apprentissage sur le civisme](Guides/Verte/OCOMMX01.01H.pdf)
 * [OCOM CX01.01 - Participer à des activités sur le civisme](Guides/Verte/OCOMCX01.01.pdf)
 
-OREN X02 - Effectuer un service communautaire
+## OREN X02 - Effectuer un service communautaire
 
 [Chapitre 2 OREN X02 - Effectuer un service communautaire](Guides/Verte/ORENX02.pdf)
 
 * [OCOM MX02.01 - Effectuer un service communautaire](Guides/Verte/OCOMMX02.01.pdf)
 * [OCOM CX02.01 - Effectuer un service communautaire](Guides/Verte/OCOMCX02.01.pdf)
 
-OREN 103 - Participer à titre de membre d'une équipe
+## OREN 103 - Participer à titre de membre d'une équipe
 
 [Chapitre 3 OREN 103 - Participer à titre de membre d'une équipe](Guides/Verte/OREN103.pdf)
 
@@ -43,7 +41,7 @@ OREN 103 - Participer à titre de membre d'une équipe
 * [OCOM C103.02 - Participer à des présentations de soi](Guides/Verte/OCOMC103.02.pdf)
 * [OCOM C103.03 - Participer à des activités de promotion du travail d'équipe](Guides/Verte/OCOMC103.03.pdf)
 
-OREN X04 - Faire le suivi de la participation aux activités
+## OREN X04 - Faire le suivi de la participation aux activités
 
 [Chapitre 4 OREN X04 - Faire le suivi de la participation aux activités](Guides/Verte/ORENX04.pdf)
 
@@ -56,7 +54,7 @@ OREN X04 - Faire le suivi de la participation aux activités
 * [OCOM CX04.04 - Assister à une présentation sur la condition physique personnelle et les saines habitudes de vie](Guides/Verte/OCOMCX04.04.pdf)
 * [OCOM CX04.05 - Assister à un événement sportif amateur](Guides/Verte/OCOMCX04.05.pdf)
 
-OREN X05 - Participer à des activités physique
+## OREN X05 - Participer à des activités physique
 
 [Chapitre 5 OREN X05 - Participer à des activités physique](Guides/Verte/ORENX05.pdf)
 
@@ -64,7 +62,7 @@ OREN X05 - Participer à des activités physique
 * [OCOM CX05.01 - Participer à des activités physique](Guides/Verte/OCOMCX05.01.pdf)
 * [OCOM CX05.02 - Participer à un tournoi](Guides/Verte/OCOMCX05.02.pdf)
 
-OREN 106 - Tirer avec la carabine à air comprimé des Cadets
+## OREN 106 - Tirer avec la carabine à air comprimé des Cadets
 
 [Chapitre 6 OREN 106 - Tirer avec la carabine à air comprimé des Cadets](Guides/Verte/OREN106.pdf)
 
@@ -76,7 +74,7 @@ OREN 106 - Tirer avec la carabine à air comprimé des Cadets
 * [OCOM C106.01 - Participer à un activité récréative de tir de précision](Guides/Verte/OCOMC106.01.pdf)
 * [OCOM C106.02 - Nettoyer et entreposer la carabine à air comprimé des cadets.](Guides/Verte/OCOMC106.02.pdf)
 
-OREN 107 - Servir dans un corps de cadets de l'Armée
+## OREN 107 - Servir dans un corps de cadets de l'Armée
 
 [Chapitre 7 OREN 107 - Servir dans un corps de cadets de l'Armée](Guides/Verte/OREN107.pdf)
 
@@ -91,7 +89,7 @@ OREN 107 - Servir dans un corps de cadets de l'Armée
 * [OCOM C107.03 - Participer à une activité relative à l'histoire du corps de cadets](Guides/Verte/OCOMC107.03.pdf)
 * [OCOM C107.04 - Etablir un contrat d'engagement commaunautaire](Guides/Verte/OCOMC107.04.pdf)
 
-OREN 108 - Exécuter les mouvements d'exercice militaire lors d'une cérémonie de revue annuelle
+## OREN 108 - Exécuter les mouvements d'exercice militaire lors d'une cérémonie de revue annuelle
 
 [Chapitre 8 OREN 108 - Exécuter les mouvements d'exercice militaire lors d'une cérémonie de revue annuelle](Guides/Verte/OREN108.pdf)
 
@@ -110,7 +108,7 @@ OREN 108 - Exécuter les mouvements d'exercice militaire lors d'une cérémonie 
 * [OCOM C108.01 - Exécuter des mouvements d'exercice militaire supplémentaires](Guides/Verte/OCOMC108.01.pdf)
 * [OCOM C108.02 - Participer à une compétition d'exercice militaire](Guides/Verte/OCOMC108.02.pdf)
 
-OREN 111 - Participer à des activités récréatives de biathlon d'été
+## OREN 111 - Participer à des activités récréatives de biathlon d'été
 
 [Chapitre 9 OREN 111 - Participer à des activités récréatives de biathlon d'été](Guides/Verte/OREN111.pdf)
 
@@ -119,7 +117,7 @@ OREN 111 - Participer à des activités récréatives de biathlon d'été
 * [OCOM C111.03 - Simuler un tir avec la carabine à air comprimé des cadets après une activité physique](Guides/Verte/OCOMC111.03.pdf)
 * [OCOM C111.04 - Participer à une activité récréative de biathlon d'été](Guides/Verte/OCOMC111.04.pdf)
 
-OREN X20 - Participer à des activités de familiarisation des FAC
+## OREN X20 - Participer à des activités de familiarisation des FAC
 
 [Chapitre 10 OREN X20 - Participer à des activités de familiarisation des FAC](Guides/Verte/ORENX20.pdf)
 
@@ -133,7 +131,7 @@ OREN X20 - Participer à des activités de familiarisation des FAC
 * [OCOM MX20.01H - Participer a des ateliers d'apprentissage sur la familiarisation des FAC](Guides/Verte/OCOMMX20.01H.pdf)
 * [OCOM CX20.01 - Participer à des activités de familiarisation des FAC](Guides/Verte/OCOMCX20.01.pdf)
 
-OREN 121 - Participer à un exercice d'entraînement en campagne (EEC) en bivouac d'une nuitée en tant que membre d'une équipe
+## OREN 121 - Participer à un exercice d'entraînement en campagne (EEC) en bivouac d'une nuitée en tant que membre d'une équipe
 
 [Chapitre 11 OREN 121 - Participer à un exercice d'entraînement en campagne (EEC) en bivouac d'une nuitée en tant que membre d'une équipe](Guides/Verte/OREN121.pdf)
 
@@ -152,7 +150,7 @@ OREN 121 - Participer à un exercice d'entraînement en campagne (EEC) en bivoua
 * [OCOM C121.04 - Reconnaître les effets du froid](Guides/Verte/OCOMC121.04.pdf)
 * [OCOM C121.05 - Participer à un entraînement par temps froid](Guides/Verte/OCOMC121.05.pdf)
 
-OREN 122 - Identifier un emplacement à l'aide d'une carte
+## OREN 122 - Identifier un emplacement à l'aide d'une carte
 
 [Chapitre 12 OREN 122 - Identifier un emplacement à l'aide d'une carte](Guides/Verte/OREN122.pdf)
 
@@ -164,7 +162,7 @@ OREN 122 - Identifier un emplacement à l'aide d'une carte
 * [OCOM M122.06 - Suivre un itinéraire dirigé par un commandant de section](Guides/Verte/OCOMM122.06.pdf)
 * [OCOM C122.01 - Pratiquer la navigation à titre de membre d'une équipe](Guides/Verte/OCOMC122.01.pdf)
 
-OREN 123 - Participer à une randonnée de jour
+## OREN 123 - Participer à une randonnée de jour
 
 [Chapitre 13 OREN 123 - Participer à une randonnée de jour](Guides/Verte/OREN123.pdf)
 

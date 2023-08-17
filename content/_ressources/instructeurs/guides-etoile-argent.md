@@ -4,12 +4,12 @@ permalink: "/ressources/guides-etoile-argent"
 ---
 
 
-Introduction
+## Introduction
 
 * [Normes de qualification](Guides/Argent/ACRCCP703PG002_NQP.pdf)
 * [Introduction et table des matières](Guides/Argent/ACRCCP703PF002_Intro.pdf)
 
-OREN X01 - Participer à des activités sur le civisme
+## OREN X01 - Participer à des activités sur le civisme
 
 [Chapitre 1 OREN X01 - Participer à des activités sur le civisme](Guides/Verte/ORENX01.pdf)
 
@@ -23,14 +23,14 @@ OREN X01 - Participer à des activités sur le civisme
 * [OCOM MX01.01H - Participer à des ateliers d'apprentissage sur le civisme](Guides/Verte/OCOMMX01.01H.pdf)
 * [OCOM CX01.01 - Participer à des activités sur le civisme](Guides/Verte/OCOMCX01.01.pdf)
 
-OREN X02 - Effectuer un service communautaire
+## OREN X02 - Effectuer un service communautaire
 
 [Chapitre 2 OREN X02 - Effectuer un service communautaire](Guides/Verte/ORENX02.pdf)
 
 * [OCOM MX02.01 - Effectuer un service communautaire](Guides/Verte/OCOMMX02.01.pdf)
 * [OCOM CX02.01 - Effectuer un service communautaire](Guides/Verte/OCOMCX02.01.pdf)
 
-OREN 303 - Exercer le rôle de chef d'équipe
+## OREN 303 - Exercer le rôle de chef d'équipe
 
 [Chapitre 3 OREN 303 - Exercer le rôle de chef d'équipe](Guides/Argent/OREN303.pdf)
 
@@ -44,7 +44,7 @@ OREN 303 - Exercer le rôle de chef d'équipe
 * [OCOM C303.01 - Diriger une activité de promotion du travail d'équipe](Guides/Argent/OCOMC303.01.pdf)
 * [OCOM C303.02 - Donner une présentation au sujet d'un chef](Guides/Argent/OCOMC303.02.pdf)
 
-OREN X04 - Faire le suivi de la participation aux activités
+## OREN X04 - Faire le suivi de la participation aux activités
 
 [Chapitre 4 OREN X04 - Faire le suivi de la participation aux activités](Guides/Verte/ORENX04.pdf)
 
@@ -57,7 +57,7 @@ OREN X04 - Faire le suivi de la participation aux activités
 * [OCOM CX04.04 - Assister à une présentation sur la condition physique personnelle et les saines habitudes de vie](Guides/Verte/OCOMCX04.04.pdf)
 * [OCOM CX04.05 - Assister à un événement sportif amateur](Guides/Verte/OCOMCX04.05.pdf)
 
-OREN X05 - Participer à des activités physique
+## OREN X05 - Participer à des activités physique
 
 [Chapitre 5 OREN X05 - Participer à des activités physique](Guides/Verte/ORENX05.pdf)
 
@@ -65,7 +65,7 @@ OREN X05 - Participer à des activités physique
 * [OCOM CX05.01 - Participer à des activités physique](Guides/Verte/OCOMCX05.01.pdf)
 * [OCOM CX05.02 - Participer à un tournoi](Guides/Verte/OCOMCX05.02.pdf)
 
-OREN 306 - Tirer avec la carabine à air comprimé des cadets pendant une activité récréative de tir de précision
+## OREN 306 - Tirer avec la carabine à air comprimé des cadets pendant une activité récréative de tir de précision
 
 [Chapitre 6 OREN 306 - Tirer avec la carabine à air comprimé des cadets pendant une activité récréative de tir de précision](Guides/Argent/OREN306.pdf)
 
@@ -74,7 +74,7 @@ OREN 306 - Tirer avec la carabine à air comprimé des cadets pendant une activi
 * [OCOM C306.02 - Corriger l'erreur de tir](Guides/Argent/OCOMC306.02.pdf)
 * [OCOM C306.03 - Adopter la position debout avec la carabine à air comprimé des cadets](Guides/Argent/OCOMC306.03.pdf)
 
-OREN 307 - Servir dans un corps de cadets de l'Armée
+## OREN 307 - Servir dans un corps de cadets de l'Armée
 
 [Chapitre 7 OREN 307 - Servir dans un corps de cadets de l'armée](Guides/Argent/OREN307.pdf)
 
@@ -85,7 +85,7 @@ OREN 307 - Servir dans un corps de cadets de l'Armée
 * [OCOM C307.02 - Participer à une présentation donnée par un officier de liaison - cadets](Guides/Argent/OCOMC307.02.pdf)
 * [OCOM C307.03 - Participer à une présentation donnée par un conférencier invité de la ligue des cadets de l'armée du canada](Guides/Argent/OCOMC307.03.pdf)
 
-OREN 308 - Diriger une escouade avant un rassemblement
+## OREN 308 - Diriger une escouade avant un rassemblement
 
 [Chapitre 8 OREN 308 - Diriger une escouade avant un rassemblement](Guides/Argent/OREN308.pdf)
 
@@ -94,7 +94,7 @@ OREN 308 - Diriger une escouade avant un rassemblement
 * [OCOM C308.01 - Exécuter de l'exercice militaire avec drapeaux](Guides/Argent/OCOMC308.01.pdf)
 * [OCOM C308.02 - Donner des commandements](Guides/Argent/OCOMC308.02.pdf)
 
-OREN 309 - Enseigner une leçon
+## OREN 309 - Enseigner une leçon
 
 [Chapitre 9 OREN 309 - Enseigner une leçon](Guides/Argent/OREN309.pdf)
 
@@ -112,14 +112,14 @@ OREN 309 - Enseigner une leçon
 * [OCOM C309.05 - Planifier une leçon d'exercice militaire](Guides/Argent/OCOMC309.05.pdf)
 * [OCOM C309.06 - Enseigner une leçon d'exercice militaire de 15 minutes](Guides/Argent/OCOMC309.06.pdf)
 
-OREN 311 - Participer à une activité récréative de biathlon d'été
+## OREN 311 - Participer à une activité récréative de biathlon d'été
 
 [Chapitre 10 OREN 311 - Participer à une activité récréative de biathlon d'été](Guides/Argent/OREN311.pdf)
 
 * [OCOM C311.01 - Pratiquer la visée et le tir à la carabine à air comprimé des cadets après une activité physique](Guides/Argent/OCOMC311.01.pdf)
 * [OCOM C311.02 - Participer à une activité récréative de biathlon d'été](Guides/Argent/OCOMC311.02.pdf)
 
-OREN X20 - Participer à des activités de familiarisation des FAC
+## OREN X20 - Participer à des activités de familiarisation des FAC
 
 [Chapitre 10 OREN X20 - Participer à des activités de familiarisation des FAC](Guides/Verte/ORENX20.pdf)
 
@@ -133,7 +133,7 @@ OREN X20 - Participer à des activités de familiarisation des FAC
 * [OCOM MX20.01H - Participer a des ateliers d'apprentissage sur la familiarisation des FAC](Guides/Verte/OCOMMX20.01H.pdf)
 * [OCOM CX20.01 - Participer à des activités de familiarisation des FAC](Guides/Verte/OCOMCX20.01.pdf)
 
-OREN 321 - Exercer les fonctions d'un chef d'équipe dans le cadre d'un exercice en campagne - bivouac - lors d'une fin de semaine
+## OREN 321 - Exercer les fonctions d'un chef d'équipe dans le cadre d'un exercice en campagne - bivouac - lors d'une fin de semaine
 
 [Chapitre 12 OREN 321 - Exercer les fonctions d'un chef d'équipe dans le cadre d'un exercice en campagne - bivouac - lors d'une fin de semaine](Guides/Argent/OREN321.pdf)
 
@@ -143,7 +143,7 @@ OREN 321 - Exercer les fonctions d'un chef d'équipe dans le cadre d'un exercice
 * [OCOM C321.02 - Identifier les mesures de sécurité à prendre lorsqu'on se déplace sur la neige et la glace](Guides/Argent/OCOMC321.02.pdf)
 * [OCOM C321.03 - Construire des commodités de campagne](Guides/Argent/OCOMC321.03.pdf)
 
-OREN 322 - Tracer l'emplacement sur une carte topographique à l'aide d'un récepteur GPS
+## OREN 322 - Tracer l'emplacement sur une carte topographique à l'aide d'un récepteur GPS
 
 [Chapitre 13 OREN 322 - Tracer l'emplacement sur une carte topographique à l'aide d'un récepteur GPS](Guides/Argent/OREN322.pdf)
 
@@ -158,7 +158,7 @@ OREN 322 - Tracer l'emplacement sur une carte topographique à l'aide d'un réce
 * [OCOM C322.03 - Identifier les principes de création d'une carte](Guides/Argent/OCOMC322.03.pdf)
 * [OCOM C322.04 - Dessiner la carte d'un endroit à l'intérieur du lieu d'instruction locale](Guides/Argent/OCOMC322.04.pdf)
 
-OREN 324 - Survivre lorsqu'on est perdu
+## OREN 324 - Survivre lorsqu'on est perdu
 
 [Chapitre 14 OREN 324 - Survivre lorsqu'on est perdu](Guides/Argent/OREN324.pdf)
 
@@ -173,7 +173,7 @@ OREN 324 - Survivre lorsqu'on est perdu
 * [OCOM C324.04 - reçueillir les plantes comestibles1](Guides/Argent/OCOMC324.04.pdf)
 * [OCOM C324.05 - Préparer un repas à partir de sources de nourriture trouvées en campagne](Guides/Argent/OCOMC324.05.pdf)
 
-OREN 325 - Identifier les compétences d'un chef d'activités en plein air
+## OREN 325 - Identifier les compétences d'un chef d'activités en plein air
 
 [Chapitre 15 OREN 325 - Identifier les compétences d'un chef d'activités en plein air](Guides/Argent/OREN325.pdf)
 
@@ -183,7 +183,7 @@ OREN 325 - Identifier les compétences d'un chef d'activités en plein air
 * [OCOM C325.01 - Communiquer au cours d'une expédition](Guides/Argent/OCOMC325.01.pdf)
 * [OCOM C325.02 - Participer à une présentation sur le Programme du Prix du DUC D'éDIMBOURG](Guides/Argent/OCOMC325.02.pdf)
 
-OREN 326 - Mettre en pratique les compétences en expédition
+## OREN 326 - Mettre en pratique les compétences en expédition
 
 [Chapitre 16 OREN 326 - Mettre en pratique les compétences en expédition](Guides/Argent/OREN326.pdf)
 

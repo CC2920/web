@@ -1,12 +1,13 @@
 ---
-title: Guide pédagogiques cadet-Maître
+title: Guide pédagogiques cadet-maître
 permalink: "/ressources/guides-cadet-maitre"
+
 ---
 
 
 ## Introduction
+  
 
-* [Normes de qualification](Guides/Maitre/ACRCCP705PG002_NQP.pdf)
 * [Journal de bord du cadet-maître](Guides/Maitre/ACRCCP705PW002_Journal.pdf)
 * [Introduction et table des matières](Guides/Maitre/ACRCCP705PF002_Intro.pdf)
 

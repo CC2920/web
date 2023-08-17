@@ -4,16 +4,16 @@ permalink: "/ressources/guides-etoile-or"
 ---
 
 
-### Introduction
+## Introduction
 
 * [Normes de qualification](Guides/Or/ACRCCP704PG002_NQP.pdf)
 * [Introduction et table des matières](Guides/Or/ACRCCP704PF002_Intro.pdf)
 
-### OREN 400 - Participer à l'instruction sur les relations sociales positives pour les jeunes
+## OREN 400 - Participer à l'instruction sur les relations sociales positives pour les jeunes
 
 [Chapitre 1 OREN 400 - Participer à l'instruction sur les relations sociales positives pour les jeunes](OREN400.pdf)
 
-### OREN X01 - Participer à des activités sur le civisme
+## OREN X01 - Participer à des activités sur le civisme
 
 [Chapitre 2 OREN X01 - Participer à des activités sur le civisme](Guides/Verte/ORENX01.pdf)>
 
@@ -27,14 +27,14 @@ permalink: "/ressources/guides-etoile-or"
 * [OCOM MX01.01H - Participer à des ateliers d'apprentissage sur le civisme](Guides/Verte/OCOMMX01.01H.pdf)
 * [OCOM CX01.01 - Participer à des activités sur le civisme](Guides/Verte/OCOMCX01.01.pdf)
 
-### OREN X02 - Effectuer un service communautaire
+## OREN X02 - Effectuer un service communautaire
 
 [Chapitre 3 OREN X02 - Effectuer un service communautaire](Guides/Verte/ORENX02.pdf)
 
 * [OCOM MX02.01 - Effectuer un service communautaire](Guides/Verte/OCOMMX02.01.pdf)
 * [OCOM CX02.01 - Effectuer un service communautaire](Guides/Verte/OCOMCX02.01.pdf)
 
-### OREN 403 - Agir à titre de chef d'équipe
+## OREN 403 - Agir à titre de chef d'équipe
 
 [Chapitre 4 OREN 403 - Agir à titre de chef d'équipe](Guides/Or/OREN403.pdf)
 
@@ -47,7 +47,7 @@ permalink: "/ressources/guides-etoile-or"
 * [OCOM C403.01 - Participer à un séminaire sur le leadership](Guides/Or/OCOMC403.01.pdf)
 * [OCOM C403.02 - Diriger une activité en soirée dans le cadre d'un exercice d'entraînement en campagne (eec)](Guides/Or/OCOMC403.02.pdf)
 
-### OREN X04 - Faire le suivi de la participation aux activités
+## OREN X04 - Faire le suivi de la participation aux activités
 
 [Chapitre 5 OREN X04 - Faire le suivi de la participation aux activités](Guides/Verte/ORENX04.pdf)
 
@@ -60,7 +60,7 @@ permalink: "/ressources/guides-etoile-or"
 * [OCOM CX04.04 - Assister à une présentation sur la condition physique personnelle et les saines habitudes de vie](Guides/Verte/OCOMCX04.04.pdf)
 * [OCOM CX04.05 - Assister à un événement sportif amateur](Guides/Verte/OCOMCX04.05.pdf)
 
-### OREN X05 - Participer à des activités physique
+## OREN X05 - Participer à des activités physique
 
 [Chapitre 6 OREN X05 - Participer à des activités physique](Guides/Verte/ORENX05.pdf)
 
@@ -68,7 +68,7 @@ permalink: "/ressources/guides-etoile-or"
 * [OCOM CX05.01 - Participer à des activités physique](Guides/Verte/OCOMCX05.01.pdf)
 * [OCOM CX05.02 - Participer à un tournoi](Guides/Verte/OCOMCX05.02.pdf)
 
-### OREN 406 - Tirer avec la carabine à air comprimé des cadets pendant une activité récréative de tir de précision
+## OREN 406 - Tirer avec la carabine à air comprimé des cadets pendant une activité récréative de tir de précision
 
 [Chapitre 7 OREN 406 - Tirer avec la carabine à air comprimé des cadets pendant une activité récréative de tir de précision](Guides/Or/OREN406.pdf)
 
@@ -76,7 +76,7 @@ permalink: "/ressources/guides-etoile-or"
 * [OCOM C406.01 - Assister l'officier de sécurité de champ de tir (o sécur tir)](Guides/Or/OCOMC406.01.pdf)
 * [OCOM C406.02 - Marquer les cibles de tir de précision](Guides/Or/OCOMC406.02.pdf)
 
-### OREN 407 - Servir dans un corps de cadets de l'Armée
+## OREN 407 - Servir dans un corps de cadets de l'Armée
 
 [Chapitre 8 OREN 407 - Servir dans un corps de cadets de l'armée](Guides/Or/OREN407.pdf)
 
@@ -85,7 +85,7 @@ permalink: "/ressources/guides-etoile-or"
 * [OCOM M407.03 - Décrire la structure d'un corps de cadets](Guides/Or/OCOMM407.03.pdf)
 * [OCOM C407.01 - Se préparer pour un conseil de mérite](Guides/Or/OCOMC407.01.pdf)
 
-### OREN 408 - Commander un peloton lors d'un rassemblement
+## OREN 408 - Commander un peloton lors d'un rassemblement
 
 [Chapitre 9 OREN 408 - Commander un peloton lors d'un rassemblement](Guides/Or/OREN408.pdf)
 
@@ -96,7 +96,7 @@ permalink: "/ressources/guides-etoile-or"
 * [OCOM C408.01 - Discuter de l'histoire de l'exercice militaire](Guides/Or/OCOMC408.01.pdf)
 * [OCOM C408.02 - Observer une reconstitution historique d'exercice militaire](Guides/Or/OCOMC408.01.pdf)
 
-### OREN 409 - Enseigner une leçon
+## OREN 409 - Enseigner une leçon
 
 [Chapitre 10 OREN 409 - Enseigner une leçon](Guides/Or/OREN409.pdf)
 
@@ -112,7 +112,7 @@ permalink: "/ressources/guides-etoile-or"
 * [OCOM C409.05 - Agir à titre d'instructeur adjoint d'exercice militaire](Guides/Or/OCOMC409.05.pdf)
 * [OCOM C409.06 - Enseigner une leçon d'exercice militaire de 30 minutes](Guides/Or/OCOMC409.06.pdf)
 
-### OREN X20 - Participer à des activités de familiarisation des FAC
+## OREN X20 - Participer à des activités de familiarisation des FAC
 
 [Chapitre 11 OREN X20 - Participer à des activités de familiarisation des FAC](Guides/Verte/ORENX20.pdf)
 
@@ -126,7 +126,7 @@ permalink: "/ressources/guides-etoile-or"
 * [OCOM MX20.01H - Participer a des ateliers d'apprentissage sur la familiarisation des FAC](Guides/Verte/OCOMMX20.01H.pdf)
 * [OCOM CX20.01 - Participer à des activités de familiarisation des FAC](Guides/Verte/OCOMCX20.01.pdf)
 
-### OREN 422 - Suivre une route à multi-étapes à l'aide d'un récepteur du systéme de positionnement global (GPS)
+## OREN 422 - Suivre une route à multi-étapes à l'aide d'un récepteur du systéme de positionnement global (GPS)
 
 [Chapitre 12 OREN 422 - Suivre une route à multi-étapes à l'aide d'un récepteur du systéme de positionnement global (GPS)](Guides/Or/OREN422.pdf)
 
@@ -140,7 +140,7 @@ permalink: "/ressources/guides-etoile-or"
 * [OCOM C422.05 - Déterminer un emplacement à l'aide d'une triangulation](Guides/Or/OCOMC422.05.pdf)
 * [OCOM C422.06 - Pratiquer la navigation à titre de membre d'un petit groupe](Guides/Or/OCOMC422.06.pdf)
 
-### OREN 424 - Utiliser les ressources naturelles en situation de survie
+## OREN 424 - Utiliser les ressources naturelles en situation de survie
 
 [Chapitre 13 OREN 424 - Utiliser les ressources naturelles en situation de survie](Guides/Or/OREN424.pdf)
 
@@ -152,7 +152,7 @@ permalink: "/ressources/guides-etoile-or"
 * [OCOM C424.03 - Utiliser des quenouilles](Guides/Or/OCOMC424.03.pdf)
 * [OCOM C424.04 - Préparer des remédes pour les malaises courants à l'aide de plantes médicinales](Guides/Or/OCOMC424.04.pdf)
 
-### OREN 425 - élaborer un plan d'expédition
+## OREN 425 - élaborer un plan d'expédition
 
 [Chapitre 14 OREN 425 - élaborer un plan d'expédition](Guides/Or/OREN425.pdf)
 
@@ -163,7 +163,7 @@ permalink: "/ressources/guides-etoile-or"
 * [OCOM C425.01 - Discuter des mesures à prendre lorsqu'une personne est perdue](Guides/Or/OCOMC425.01.pdf)
 * [OCOM C425.02 - Analyser des problèmes à l'aide d'une étude de cas d'expédition](Guides/Or/OCOMC425.02.pdf)
 
-### OREN 426 - Mettre en pratique les compétences en expédition
+## OREN 426 - Mettre en pratique les compétences en expédition
 
 [Chapitre 15 OREN 426 - Mettre en pratique les compétences en expédition](Guides/Or/OREN426.pdf)
 

@@ -3,16 +3,12 @@ title: Guide pédagogiques étoile rouge
 permalink: "/ressources/guides-etoile-rouge"
 ---
 
-
-## Étoile rouge
-
-
-Introduction
+## Introduction
 
 * [Normes de qualification](Guides/Rouge/ACRCCP702PG002_NQP.pdf)
 * [Introduction et table des matières](Guides/Rouge/ACRCCP702PF002_Intro.pdf)
 
-OREN X01 - Participer à des activités sur le civisme
+## OREN X01 - Participer à des activités sur le civisme
 
 [Chapitre 1 OREN X01 - Participer à des activités sur le civisme](Guides/Verte/ORENX01.pdf)
 
@@ -26,14 +22,14 @@ OREN X01 - Participer à des activités sur le civisme
 * [OCOM MX01.01H - Participer à des ateliers d'apprentissage sur le civisme](Guides/Verte/OCOMMX01.01H.pdf)
 * [OCOM CX01.01 - Participer à des activités sur le civisme](Guides/Verte/OCOMCX01.01.pdf)
 
-OREN X02 - Effectuer un service communautaire
+## OREN X02 - Effectuer un service communautaire
 
 [Chapitre 2 OREN X02 - Effectuer un service communautaire](Guides/Verte/ORENX02.pdf)
 
 * [OCOM MX02.01 - Effectuer un service communautaire](Guides/Verte/OCOMMX02.01.pdf)
 * [OCOM CX02.01 - Effectuer un service communautaire](Guides/Verte/OCOMCX02.01.pdf)
 
-OREN 203 - Démontrer des qualités de leadership auprès des pairs
+## OREN 203 - Démontrer des qualités de leadership auprès des pairs
 
 [Chapitre 3 OREN 203 - Démontrer des qualités de leadership auprès des pairs](Guides/Rouge/OREN203.pdf)
 
@@ -52,7 +48,7 @@ OREN 203 - Démontrer des qualités de leadership auprès des pairs
 * [OCOM C203.05 - Participer à des activités de renforcement de la confiance](Guides/Rouge/OCOMC203.05.pdf)
 * [OCOM C203.06 - Participer à des activités de résolution de problème](Guides/Rouge/OCOMC203.06.pdf)
 
-OREN X04 - Faire le suivi de la participation aux activités
+## OREN X04 - Faire le suivi de la participation aux activités
 
 [Chapitre 4 OREN X04 - Faire le suivi de la participation aux activités](Guides/Verte/ORENX04.pdf)
 
@@ -65,7 +61,7 @@ OREN X04 - Faire le suivi de la participation aux activités
 * [OCOM CX04.04 - Assister à une présentation sur la condition physique personnelle et les saines habitudes de vie](Guides/Verte/OCOMCX04.04.pdf)
 * [OCOM CX04.05 - Assister à un événement sportif amateur](Guides/Verte/OCOMCX04.05.pdf)
 
-OREN X05 - Participer à des activités physique
+## OREN X05 - Participer à des activités physique
 
 [Chapitre 5 OREN X05 - Participer à des activités physique](Guides/Verte/ORENX05.pdf)
 
@@ -73,7 +69,7 @@ OREN X05 - Participer à des activités physique
 * [OCOM CX05.01 - Participer à des activités physique](Guides/Verte/OCOMCX05.01.pdf)
 * [OCOM CX05.02 - Participer à un tournoi](Guides/Verte/OCOMCX05.02.pdf)
 
-OREN 206 - Tirer avec la carabine à air comprimé des cadets pendant une activité récréative de tir de précision
+## OREN 206 - Tirer avec la carabine à air comprimé des cadets pendant une activité récréative de tir de précision
 
 [Chapitre 6 OREN 206 - Tirer avec la carabine à air comprimé des cadets pendant une activité récréative de tir de précision](Guides/Rouge/OREN206.pdf)
 
@@ -82,7 +78,7 @@ OREN 206 - Tirer avec la carabine à air comprimé des cadets pendant une activi
 * [OCOM C206.02 - Pratiquer les techniques de visée](Guides/Rouge/OCOMC206.02.pdf)
 * [OCOM C206.03 - Pratiquer les techniques de tir](Guides/Rouge/OCOMC206.03.pdf)
 
-OREN 207 - Servir dans un corps de cadets de l'Armée
+## OREN 207 - Servir dans un corps de cadets de l'Armée
 
 [Chapitre 7 OREN 207 - Servir dans un corps de cadets de l'Armée](Guides/Rouge/OREN207.pdf)
 
@@ -93,7 +89,7 @@ OREN 207 - Servir dans un corps de cadets de l'Armée
 * [OCOM C207.01 - Identifier la structure des grades des cadets de la marine royale canadienne et de l'aviation royale du Canada](Guides/Rouge/OCOMC207.01.pdf)
 * [OCOM C207.02 - Visiter un corps de cadets ou un escadron local](Guides/Rouge/OCOMC207.02.pdf)
 
-OREN 208 - Exécuter de l'exercice militaire en tant que membre d'une escouade
+## OREN 208 - Exécuter de l'exercice militaire en tant que membre d'une escouade
 
 [Chapitre 8 OREN 208 - Exécuter de l'exercice militaire en tant que membre d'une escouade](Guides/Rouge/OREN208.pdf)
 
@@ -102,7 +98,7 @@ OREN 208 - Exécuter de l'exercice militaire en tant que membre d'une escouade
 * [OCOM C208.01 - S'exercer à une cérémonie militaire dans le cadre d'une revue](Guides/Rouge/OCOMC208.01.pdf)
 * [OCOM C208.02 - Exécuter des exercices militaires avec armes](Guides/Rouge/OCOMC208.02.pdf)
 
-OREN 211 - Participer à des activités récréatives de biathlon d'été
+## OREN 211 - Participer à des activités récréatives de biathlon d'été
 
 [Chapitre 9 OREN 211 - Participer à des activités récréatives de biathlon d'été](Guides/Rouge/OREN211.pdf)
 
@@ -111,7 +107,7 @@ OREN 211 - Participer à des activités récréatives de biathlon d'été
 * [OCOM C211.03 - Tirer avec la carabine à air comprimé des cadets en se servant d'une bretelle, après une activité physique](Guides/Rouge/OCOMC211.03.pdf)
 * [OCOM C211.04 - Participer à une activité compétitive de biathlon d'été](Guides/Rouge/OCOMC211.04.pdf)
 
-OREN X20 - Participer à des activités de familiarisation des FAC
+## OREN X20 - Participer à des activités de familiarisation des FAC
 
 [Chapitre 10 OREN X20 - Participer à des activités de familiarisation des FAC](Guides/Verte/ORENX20.pdf)
 
@@ -125,7 +121,7 @@ OREN X20 - Participer à des activités de familiarisation des FAC
 * [OCOM MX20.01H - Participer a des ateliers d'apprentissage sur la familiarisation des FAC](Guides/Verte/OCOMMX20.01H.pdf)
 * [OCOM CX20.01 - Participer à des activités de familiarisation des FAC](Guides/Verte/OCOMCX20.01.pdf)
 
-OREN 221 - Exécuter les tâches d'un membre d'une section pendant EEC - Bivouac - Lors d'une fin de semaine
+## OREN 221 - Exécuter les tâches d'un membre d'une section pendant EEC - Bivouac - Lors d'une fin de semaine
 
 [Chapitre 11 OREN 221 - Exécuter les tâches d'un membre d'une section pendant EEC - Bivouac - Lors d'une fin de semaine](Guides/Rouge/OREN221.pdf)
 
@@ -142,7 +138,7 @@ OREN 221 - Exécuter les tâches d'un membre d'une section pendant EEC - Bivouac
 * [OCOM C221.02 - Construire des commodités de campagne](Guides/Rouge/OCOMC221.02.pdf)
 * [OCOM C221.03 - Identifier les espéces d'arbres](Guides/Rouge/OCOMC221.03.pdf)
 
-OREN 222 - Naviguer le long d'un itinéraire en utilisant une carte et une boussole
+## OREN 222 - Naviguer le long d'un itinéraire en utilisant une carte et une boussole
 
 [Chapitre 12 OREN 222 - Naviguer le long d'un itinéraire en utilisant une carte et une boussole](Guides/Rouge/OREN222.pdf)
 
@@ -154,7 +150,7 @@ OREN 222 - Naviguer le long d'un itinéraire en utilisant une carte et une bouss
 * [OCOM M222.06 - Suivre un azimut magnétique de point à point](Guides/Rouge/OCOMM222.06.pdf)
 * [OCOM C222.01 - Pratiquer la navigation à l'aide d'une carte et d'une boussole](Guides/Rouge/OCOMC222.01.pdf)
 
-OREN 223 - Effectuer une randonnée pédestre le long d'un itinéraire dans le cadre d'un exercice incluant une nuit
+## OREN 223 - Effectuer une randonnée pédestre le long d'un itinéraire dans le cadre d'un exercice incluant une nuit
 
 [Chapitre 13 OREN 223 - Effectuer une randonnée pédestre le long d'un itinéraire dans le cadre d'un exercice incluant une nuit](Guides/Rouge/OREN223.pdf)
 
@@ -162,7 +158,7 @@ OREN 223 - Effectuer une randonnée pédestre le long d'un itinéraire dans le c
 * [OCOM M223.02 - Identifier les associations de randonnée pédestre et de montagne](Guides/Rouge/OCOMM223.02.pdf)
 * [OCOM M223.03 - Participer à une discussion sur comment franchir des obstacles au cours d'une randonnée en montagne](Guides/Rouge/OCOMM223.03.pdf)
 
-OREN 224 - Déterminer les mesures immédiates à prendre lorsqu'on est perdu
+## OREN 224 - Déterminer les mesures immédiates à prendre lorsqu'on est perdu
 
 [Chapitre 14 OREN 224 - Déterminer les mesures immédiates à prendre lorsqu'on est perdu](Guides/Rouge/OREN224.pdf)
 
