@@ -1,8 +1,8 @@
 ---
-layout: page-fullwidth
+layout: communications
 title:  "Communications"  
 navigationKey: "communications"
-subheadline: 'Communications'
+subheadline: ''
 breadcrumb: true
 permalink: "/communications/"
 ---
