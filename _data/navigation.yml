@@ -130,8 +130,8 @@
   - title: "Horaire du vendredi soir"
     url: "/ressources/horaire-du-vendredi-soir/"
     sortorder: 10
-  - title: "Ordres courant"
-    url: "/ressources/ordres-courant/"
+  - title: "Ressources pour les cadets"
+    url: "/ressources/ressources-cadets/"
     sortorder: 20
   - title: "Ressources pour les instructeurs"
     url: "/ressources/ressources-instructeurs/"
@@ -139,15 +139,21 @@
   - title: "Ressources pour les musiciens"
     url: "/ressources/ressources-musiciens/"
     sortorder: 40
+  - title: "Ressources pour le biathlon"
+    url: "/ressources/ressources-biathlon/"
+    sortorder: 45
   - title: "Camp d'été"
     url: "/ressources/camps-ete/"
     sortorder: 50
   - title: "Expéditions"
     url: "/ressources/expeditions/"
     sortorder: 60
+  - title: "Ordres courant"
+    url: "/ressources/ordres-courant/"
+    sortorder: 70
   - title: "Liens Utiles"
     url: "/ressources/liens-utiles/"
-    sortorder: 60
+    sortorder: 80
 
 
 - title: "Recherche"
