@@ -31,16 +31,11 @@ title:  "Pour les instructeurs"
 
 ### Guides pédagogiques
 
-* [Guide pédagogique de l'étoile verte]({{ site.url }}{{ site.baseurl }}/ressources/guides-etoile-verte/)  
-    Décembre 2016
-* [Guide pédagogique de l'étoile rouge]({{ site.url }}{{ site.baseurl }}/ressources/guides-etoile-rouge/)  
-    Décembre 2016
-* [Guide pédagogique de l'étoile argent]({{ site.url }}{{ site.baseurl }}/ressources/guides-etoile-argent/)  
-    Décembre 2016
-* [Guide pédagogique de l'étoile d'or]({{ site.url }}{{ site.baseurl }}/ressources/guides-etoile-or)  
-    Décembre 2016
-* [Guide pédagogique du niveau de Cadet-Maître]({{ site.url }}{{ site.baseurl }}/ressources/guides-cadet-maitre)  
-    Décembre 2016
+* [Guide pédagogique de l'étoile verte](guides-etoile-verte/) - Décembre 2016
+* [Guide pédagogique de l'étoile rouge](guides-etoile-rouge/) - Décembre 2016
+* [Guide pédagogique de l'étoile argent](guides-etoile-argent/) - Décembre 2016
+* [Guide pédagogique de l'étoile or](guides-etoile-or/) - Décembre 2016
+* [Guide pédagogique du niveau de Cadet-Maître](guides-cadet-maitre/) - Décembre 2016
 
 ### La Cyberintimidation
 
