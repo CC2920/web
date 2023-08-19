@@ -5,9 +5,10 @@
   class: icon-message
   title: "Nous rejoindre"
 
-# - name: "sitemap.xml"
-#   url: "/sitemap.xml"
-#   title: "Sitemap for Google Webmaster Tools"
+- name: "Les messages de la semaine"
+  url: "/communications"
+  class: icon-mail
+  title: "Les messages de la semaine"
 
 - name: Groupe Facebook
   url: https://www.facebook.com/groups/cc2920Gatineau

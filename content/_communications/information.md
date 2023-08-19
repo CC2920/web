@@ -4,7 +4,7 @@ title:  "Information Générale"
 
 ## Comité de soutien
 
-Le [comité de soutien](https://cc2920.ca/comite_f.html) est une organisation civile à but non lucratif qui a pour mission de soutenir le Corps de cadets de l’Armée 2920 Gatineau. Pour plus d’information sur les façons d’aider, veuillez communiquer avec Daniel Brunette par courriel au [danielpbrunette@gmail.com](mailto:danielpbrunette@gmail.com).
+Le comité de soutien est une organisation civile à but non lucratif qui a pour mission de soutenir le Corps de cadets de l’Armée 2920 Gatineau. Pour plus d’information sur les façons d’aider, veuillez communiquer avec Daniel Brunette par courriel au [danielpbrunette@gmail.com](mailto:danielpbrunette@gmail.com).
 
 ## Echange d’uniforme
 

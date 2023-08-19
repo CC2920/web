@@ -20,7 +20,7 @@ description: "Le site CC2920 est destiné à vous fournir une multitude d'inform
 credits: 'Géré via le répertoire <a href="https://github.com/CC2920/web/" target="_blank">CC2920 GitHub.com</a>'
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/CC2920/web/edit/modifs
+improve_content: https://github.com/CC2920/web/edit/main/content
 
 # Main author of the website
 # See > authors.yml
