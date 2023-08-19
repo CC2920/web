@@ -3,66 +3,52 @@ title:  "Le Personnel"
 
 le-personnel:
     - personnel:
-      picture: /content/docs/personnel/Noel.S.jpg
-      name: Capt Steve Noël
+      picture: /content/docs/personnel/Martel.M.jpg
+      name: Capt Mario Martel
       title: Commandant
-      email: Steve.Noel@cadets.gc.ca
+      email: 
     
     - personnel:
-      picture: /content/docs/personnel/Tremblay.K.jpg
-      name: Capt Karl Tremblay
-      title: Officier d'entraînement et commandant adjoint
-      email: Karl.Tremblay@cadets.gc.ca
+      picture: /content/docs/personnel/Hu.Zjpg
+      name: Capt Zhebin Hu
+      title: Officier d'entraînement
+      email: 
     
     - personnel:
-      picture: /content/docs/personnel/Lessard.S.jpg
-      name: Lt Stéphane Lessard
-      title: Officier d'instruction
-      email: Stephane.Lessard@cadets.gc.ca
-    
-    - personnel: 
-      picture: /content/docs/personnel/Mallet.E.jpg
-      name: Ens 1ère classe Etienne Mallet
+      picture: 
+      name: Lt Sandrine Larchet
       title: Officier d'administration
-      email: Etienne.Mallet@cadets.gc.ca
+      email: 
     
     - personnel: 
-      picture: /content/docs/personnel/Simard.S.jpg
+      picture: 
       name: Lt Sylvie Simard
       title: Officier d'approvisionnement
-      email: Sylvie.Simard@cadets.gc.ca
+      email: 
     
     - personnel: 
-      picture: /content/docs/personnel/Lessard.C.jpg
-      name: M. Callum Lessard
-      title: Adjoint à l'approvisionnement
+      picture: 
+      name: Elof Amélie Joncas
+      title: Responsable de niveau
       email: 
     
     - personnel: 
       picture: /content/docs/personnel/Myre.L.jpg
-      name: M. Louis Myre
-      title: Officier d'instruction du programme avancé
+      name: Adjuc. Louis Myre
+      title: Officier d'instruction 
       email: 
-    
-    - personnel: 
-      picture: /content/docs/personnel/Provencher.C.jpg
-      name: Élof Camille Provencher
-      title: Officier du niveau Argent et du tir 
-      email: 
-    
-    - personnel:
-      picture: /content/docs/personnel/Dufour.M.jpg
-      name: Élof Mikael Dufour
-      title: Officier du niveau vert
-      email: Mikael.Dufour@cadets.gc.ca
-    
+     
     - personnel: 
       picture: 
-      name: M. Jean-Charles Lucas
-      title: Chef Instructeur Biathlon
+      name: Cpl Sam Tremblay-Germain
+      title: Officier d'instruction 
+      email:  
+
+    - personnel: 
+      picture: 
+      name: IC Steve Duval
+      title: Officier d'instruction 
       email: 
-
-
 ---
 
 Voici l'équipe des adultes responsables de nos cadets.
@@ -80,4 +66,4 @@ Ils sont assistés de temps à autre par des civils, qui sont la plupart du temp
 *
 {% endcomment %}
 
-{% include list-members list="le-personnel" title="" %}
+{% include list-members list=page.le-personnel title="Le personel" %}

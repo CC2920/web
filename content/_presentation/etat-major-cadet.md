@@ -12,19 +12,19 @@ navigationKey: presentation
 #
 les-cadets-major:
     - cadet:
-      name: "Adjuc Mélodie Lambert-Turcotte"
+      name: "Adjuc Beata Rus"
       title: "Cadet Sergent-Major Régimentaire"
-      picture: "/content/docs/etat-major/Lambert-Turcotte.jpg"
+      picture: 
 
     - cadet:
-      name: "Adjum Alexis Bouchard-Couvrette"
+      name: "Adjum Louick Lamber-Turcotte"
       title: "Cadet-commandant adjoint"
-      picture: "/content/docs/etat-major/Bouchard-Couvrette_A.jpg"
+      picture: 
 
     - cadet:
-      name: "Adjum Mathilde Lambert-Turcotte"
+      name: "Adjum Lahmya Chapleau"
       title: "Cadet Sergent-major"
-      picture: "/content/docs/etat-major/Lambert-Turcotte_adjum.jpg"
+      picture: 
 
 
 
@@ -38,36 +38,35 @@ les-cadets-major:
 #
 les-cadets-cadres:
     - cadet: 
-      name: Adj. J. Lavoie
+      name: Sgt. Mathis Lalonde
       title: Cadet cadre & commandant de la garde des drapeaux
       picture: 
 
     - cadet: 
-      name: Adj. C. Olivier
-      title: Cadet cadre
-      picture: /content/docs/cadets-cadres/Olivier.jpg
-
-    - cadet: 
-      name: Adj. E. Rus
-      title: Cadet cadre / Tambour-major
-      picture: 
-
-    - cadet: 
-      name: Adj. C. Sabourin
-      title: Cadet cadre
-      picture: /content/docs/cadets-cadres/Sabourin.jpg
-
-    - cadet: 
-      name: Sgt. Z. Roy
-      title: Cadet cadre
-      picture: /content/docs/cadets-cadres/Roy.jpg
-
-    - cadet: 
-      name: Cplc. D. Loukou
+      name: Adj. Alexandre Bogucki
       title: Cadet cadre
       picture: 
 
+    - cadet: 
+      name: Adj. Raphael Brière
+      title: Cadet cadre
+      picture: 
 
+    - cadet: 
+      name: Adj. Patrick Delaney-Dufour
+      title: Cadet cadre
+      picture: 
+
+    - cadet: 
+      name: Adj. Mory Yacine Kaba
+      title: Cadet cadre
+      picture: 
+
+    - cadet: 
+      name: Adj. Méliane Legault 
+      title: Cadet cadre
+      picture: 
+      
 ---
 
 
