@@ -7,7 +7,7 @@
         {% if bio.picture %}
         <img src="{{ site.url }}{{ site.baseurl }}{{ bio.picture }}" title="{{ bio.cmdt }}" class="bio-picture-list">
         {% else %}
-        <img src="{{ site.url }}{{ site.baseurl }}/content/docs/profile.jpg" title="">
+        <img src="{{ site.url }}{{ site.baseurl }}/docs/profile.jpg" title="">
         {% endif %}
     </div>
     <div class="columns small-9 medium-10">
