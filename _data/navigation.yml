@@ -136,24 +136,18 @@
   - title: "Ressources pour les instructeurs"
     url: "/ressources/ressources-instructeurs/"
     sortorder: 30
-  - title: "Ressources pour les musiciens"
-    url: "/ressources/ressources-musiciens/"
-    sortorder: 40
-  - title: "Ressources pour le biathlon"
-    url: "/ressources/ressources-biathlon/"
-    sortorder: 45
   - title: "Camp d'été"
     url: "/ressources/camps-ete/"
-    sortorder: 50
+    sortorder: 40
   - title: "Expéditions"
     url: "/ressources/expeditions/"
-    sortorder: 60
+    sortorder: 50
   - title: "Ordres courant"
     url: "/ressources/ordres-courant/"
-    sortorder: 70
+    sortorder: 60
   - title: "Liens Utiles"
     url: "/ressources/liens-utiles/"
-    sortorder: 80
+    sortorder: 70
 
 
 - title: "Recherche"
