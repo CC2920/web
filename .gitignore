@@ -4,14 +4,14 @@ _site
 .jekyll-metadata
 vendor
 .DS_Store
-content/.DS_Store
-content/docs/.DS_Store
-content/docs/ressources/.DS_Store
-content/docs/ressources/guides/.DS_Store
-content/docs/ressources/guides/Argent/.DS_Store
-content/docs/ressources/guides/Rouge/.DS_Store
-content/docs/ressources/guides/Verte/.DS_Store
-content/docs/historique/.DS_Store
+.DS_Store
+docs/.DS_Store
+docs/ressources/.DS_Store
+docs/ressources/guides/.DS_Store
+docs/ressources/guides/Argent/.DS_Store
+docs/ressources/guides/Rouge/.DS_Store
+docs/ressources/guides/Verte/.DS_Store
+docs/historique/.DS_Store
 
 
 

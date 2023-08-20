@@ -1,4 +1,4 @@
-page-ressource-protection-enfance: "/content/docs/protection_enfance.pdf"
+page-ressource-protection-enfance: "/docs/protection_enfance.pdf"
 page-ressource-intimidation: "/ressources/agir-face-a-intimidation/"
 page-presentation-comite-soutien: "/presentation/comite-soutien/"
 page-communications-bulletin:  "/communications/bulletin/"
@@ -14,13 +14,13 @@ site-resources-prix-duc-edimbourg: "https://www.dukeofed.org/fr/resources-and-to
 site-programme-des-cadets: "https://www.canada.ca/fr/ministere-defense-nationale/services/cadets-rangers-juniors-canadiens/cadets/ce-que-nous-faisons.html"
 site-defense-nationale-coodonnees: "https://www.canada.ca/fr/ministere-defense-nationale/services/contactez-nous.html"
 
-img-medaille-excellence: "/content/docs/prix-et-merites/meclrc.jpg"
-img-medaille-strathcona: "/content/docs/prix-et-merites/strathcona.jpg"
-img-medaille-benevole: "/content/docs/prix-et-merites/medaille_benevole.jpg"
-img-medaille-service-cadets-armee: "/content/docs/prix-et-merites/medaille-service-cadets-armee.jpg"
-img-medaille-duc-edimbourg-bronze: "/content/docs/prix-et-merites/duc-bronze.jpg"
-img-medaille-duc-edimbourg-argent: "/content/docs/prix-et-merites/duc-argent.jpg"
-img-medaille-duc-edimbourg-or: "/content/docs/prix-et-merites/duc-or.jpg"
+img-medaille-excellence: "/docs/prix-et-merites/meclrc.jpg"
+img-medaille-strathcona: "/docs/prix-et-merites/strathcona.jpg"
+img-medaille-benevole: "/docs/prix-et-merites/medaille_benevole.jpg"
+img-medaille-service-cadets-armee: "/docs/prix-et-merites/medaille-service-cadets-armee.jpg"
+img-medaille-duc-edimbourg-bronze: "/docs/prix-et-merites/duc-bronze.jpg"
+img-medaille-duc-edimbourg-argent: "/docs/prix-et-merites/duc-argent.jpg"
+img-medaille-duc-edimbourg-or: "/docs/prix-et-merites/duc-or.jpg"
 
 facebook-page: "https://www.facebook.com/CC2920"
 facebook-group: "https://www.facebook.com/groups/cc2920Gatineau"
@@ -29,4 +29,4 @@ facebook-group-biathlon: "http://www.facebook.com/groups/162691720419991"
 
 google-docs-guides-pedagogiques: "https://drive.google.com/drive/folders/1YuJstHjci7dbGEdZhD0_PNAq_GD6lpNN?usp=sharing"
 
-docs_guides_pedagogiques: "/content/docs/ressources/guides"
+docs_guides_pedagogiques: "/docs/ressources/guides"

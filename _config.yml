@@ -20,7 +20,7 @@ description: "Le site CC2920 est destiné à vous fournir une multitude d'inform
 credits: 'Géré via le répertoire <a href="https://github.com/CC2920/web/" target="_blank">CC2920 GitHub.com</a>'
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/CC2920/web/edit/main/content
+improve_content: https://github.com/CC2920/web/edit/contributions
 
 # Main author of the website
 # See > authors.yml
@@ -35,7 +35,7 @@ baseurl: '/web'
 logo: "logo.png"
 group_photo: "cc2920-photo-de-groupe.jpg"
 
-collections_dir: content
+# ncollections_dir: content
 collections:
   communications:
     output: true
@@ -135,7 +135,7 @@ defaults:
       author: sinedbo     # Default author for posts
   - 
     scope: 
-      path: 'content/_communications'
+      path: '_communications'
       type: 'communications'
     values:
       navigationKey: communications
@@ -150,7 +150,7 @@ defaults:
         - calendrier.md
   -
     scope:
-      path: 'content/_historique'
+      path: '_historique'
       type: 'historique'
     values:
       navigationKey: historique
@@ -161,7 +161,7 @@ defaults:
         image_fullwidth: 'musique-historique.jpeg'
   -
     scope:
-      path: 'content/_historique/notre-unite'
+      path: '_historique/notre-unite'
       type: 'historique'
     values:
       navigationKey: unite
@@ -172,7 +172,7 @@ defaults:
       include-in-nav: true
   -
     scope:
-      path: 'content/_historique/commandants'
+      path: '_historique/commandants'
       type: 'historique'
     values:
       navigationKey: commandants
@@ -182,7 +182,7 @@ defaults:
       title: 'Biographie'
   - 
     scope: 
-      path: 'content/_information'
+      path: '_information'
       type: 'information'
     values:
       navigationKey: information
@@ -194,7 +194,7 @@ defaults:
         image_fullwidth: 'cc2920-2018-06-24.jpg'
   - 
     scope: 
-      path: 'content/_presentation'
+      path: '_presentation'
       type: 'presentation'
     values:
       navigationKey: presentation
@@ -206,7 +206,7 @@ defaults:
         image_fullwidth: 'cc2920-2018-06-24.jpg'
   - 
     scope: 
-      path: 'content/_prix'
+      path: '_prix'
       type: 'prix'
     values:
       navigationKey: prix
@@ -217,7 +217,7 @@ defaults:
         image_fullwidth: 'cc2920-2018-06-24.jpg'
   - 
     scope: 
-      path: 'content/_ressources'
+      path: '_ressources'
       type: 'ressources'
     values:
       navigationKey: ressources
