@@ -18,7 +18,8 @@ activities:
  
 ## Rentrée 8 septembre 
  
-La rentrée aura lieu le 8 septembre à 18h30 au 52 Saint-Rosaire. Plus d’information à venir, et parlez à  votre famille et amis du corps de cadets et invitez-les à venir s’inscrire. 
+La rentrée aura lieu le 8 septembre à 18h30 au 52 Saint-Rosaire. Les anciens, présentez-vous en tenue C5. Et parlez à  votre famille et amis du corps de cadets et invitez-les à venir s’inscrire. 
+Les nouveaux, voir le paragraphe suivant pour l'inscription.
  
 ## Inscription 
  
@@ -34,7 +35,7 @@ Date limite d’inscription est le 18 aout 2023 à 15h00
  
 ## Formation cadet-cadre 9 et 24 septembre 
  
-Les niveaux or et plus de cette année (donc niveau argent et plus de 2022-2023) sont invités à participer à une journée de formation intensive pour cadet-cadre le 9 septembre de 9h à 16h. Tenue combat et apportez votre lunch. 
+Les niveaux or et plus de cette année (donc niveau argent et plus de 2022-2023) doivenet participer à une journée de formation intensive pour cadet-cadre le 9 septembre de 9h à 16h. Tenue C5 et apportez votre lunch. 
 Il y aura aussi une formation pour cadet-cadre inter-unité le 24 septembre. Plus d’information à venir, mais notez la date à votre calendrier. 
  
 ## Course d’aventure Fouraid 
