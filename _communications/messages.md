@@ -20,7 +20,7 @@ activities:
  
 La rentrée aura lieu le 8 septembre à 18h30 au 52 Saint-Rosaire. 
  
-Les anciens, présentez-vous en tenue C5, et demandez à un de vos parents d'être présent entre 18h30 et 19h pour signer un formulaire. Essayez aussi vos uniformes si vous avez grandi durant l'été. Si c'est pour une pièce, il n'est pas nécessaire de prendre rendez-vous. Si c'est pour plusieurs, il sera possible de prenre rendez-vous pour un mercredi.
+Les anciens, présentez-vous en tenue C5, et demandez à un de vos parents d'être présent entre 18h30 et 19h pour signer un formulaire. Essayez aussi vos uniformes si vous avez grandi durant l'été. Si c'est pour une pièce, il n'est pas nécessaire de prendre rendez-vous. Si c'est pour plusieurs, il sera possible de prenre rendez-vous avec l'approvisionnement pour un mercredi.
  
 Les nouveaux, voir le paragraphe suivant pour l'inscription.
  
