@@ -18,7 +18,8 @@ activities:
  
 ## Rentrée 8 septembre 
  
-La rentrée aura lieu le 8 septembre à 18h30 au 52 Saint-Rosaire. Les anciens, présentez-vous en tenue C5. Et parlez à  votre famille et amis du corps de cadets et invitez-les à venir s’inscrire. 
+La rentrée aura lieu le 8 septembre à 18h30 au 52 Saint-Rosaire. 
+Les anciens, présentez-vous en tenue C5, et demandez à un de vos parents d'être présent entre 18h30 et 19h pour signer un formulaire. Essayez aussi vos uniformes si vous avez grandi durant l'été. Il sera possible de prenre rendez-vous pour échanger des pièces.
 Les nouveaux, voir le paragraphe suivant pour l'inscription.
  
 ## Inscription 
