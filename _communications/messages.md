@@ -30,12 +30,6 @@ L’inscription se fait dorénavant en ligne au lien suivant : [Outil d’inscri
  
 Les cadets désirant s’inscrire peuvent remplir le formulaire dès maintenant et se présenter à la rentrée avec les [documents requis]({{ site.url }}{{ site.baseurl }}/information/inscriptions), dont la liste est disponible sur notre site Internet ({{ site.url }}{{ site.baseurl }}/information/inscriptions) . 
  
-## Demande de bénévoles (Bouge, Bouge). 
- 
-Le 26 aout prochain les organisateurs de Bouge Bouge nous demandes des bénévoles pour une course à Limbour de 6h00 à 13h00. L’adresse exact de rencontre sera confirmé aux gens qui compléterons [le formulaire de bénévolat](https://docs.google.com/forms/d/1DBeDSy2l65FTyf9cEIylL0X6y5vCIKldIiLM5Jb9iQw/edit) 
- 
-Date limite d’inscription est le 18 aout 2023 à 15h00 
- 
 ## Formation cadet-cadre 9 et 24 septembre 
  
 Les niveaux or et plus de cette année (donc niveau argent et plus de 2022-2023) doivenet participer à une journée de formation intensive pour cadet-cadre le 9 septembre de 9h à 16h. Tenue C5 et apportez votre lunch. 
