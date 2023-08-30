@@ -7,6 +7,10 @@ activities:
       title: rentrée 
     - date: 9 septembre 
       title: formation locale de cadet-cadre 
+    - date: 17 septembre avant-midi 
+      title: activité de rappel militaire 
+    - date: 22 au 24 septembre 
+      title: EEA 
     - date: 24 septembre 
       title: formation régionale de cadet-cadre 
     - date: 7-8-9 octobre 
