@@ -34,6 +34,17 @@ Les cadets désirant s’inscrire peuvent remplir le formulaire dès maintenant 
  
 Les niveaux or et plus de cette année (donc niveau argent et plus de 2022-2023) doivenet participer à une journée de formation intensive pour cadet-cadre le 9 septembre de 9h à 16h. Tenue C5 et apportez votre lunch. 
 Il y aura aussi une formation pour cadet-cadre inter-unité le 24 septembre. Plus d’information à venir, mais notez la date à votre calendrier. 
+
+## Tour de rappel 17 septembre
+ 
+Pour les anciens cadets et les recrues qui auront complété leur inscription à ce moment-là, il y aura une activité optionnelle de rappel militaire le 17 septembre 2023 en avant-midi. Nous avons 20 places et linscription sera faite durant la soirée du 8 septembre. Plus de détails à venir pour les heures et le lieu de l'autobus pour se rendre.
+
+## Expédition étoile argent 22 au 24 septembre
+ 
+Cadets du niveau argent: l'expédition étoile argent réunit les unités de l'élément armée de la région de l'Outaouais pour un exercice de fin de semaine. L'activité principale sera le vélo de montagne, dans les sentiers de Montebello. Nous donnerons plus de détails et prendrons les inscriptions en personne la soirée du 8 septembre.  
+La participation à l'expédition n'est plus essentielle pour réussir le niveau argent, mais est requise pour participer plus tard aux camps d'été d'expédition, expéditions régionales et nationales et course d'aventure Fouraid.
+ 
+Cadets du niveau cadet-maître: nous pouvons aussi inscrire des cadet-cadre à cette activité. Écrivez-nous au plus tard le 6 septembre au 2920armee@cadets.gc.ca si vous êtes intéressés.
  
 ## Course d’aventure Fouraid 
  
