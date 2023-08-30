@@ -50,7 +50,7 @@ La participation à l'expédition n'est plus essentielle pour réussir le niveau
  
 Cadets du niveau cadet-maître: nous pouvons aussi inscrire des cadet-cadre à cette activité. Écrivez-nous au plus tard le 6 septembre au 2920armee@cadets.gc.ca si vous êtes intéressés.
  
-## Course d’aventure Fouraid 
+## Course d’aventure Fouraid 7 au 9 octobre
  
 La course d’aventure Fouraid est une compétition inter-unité d’orientation, course, vélo et canot. Elle aura lieu le 8 octobre, avec déplacement les 7 et 9 octobre. Les cadets qualifiées étoile or peuvent s’y inscrire et nous allons former des équipes de 2. Écrivez-nous au <2920armee@cadets.gc.ca> avant le 1er septembre pour plus d’information ou pour s’inscrire. 
  
