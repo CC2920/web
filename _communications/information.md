@@ -7,7 +7,9 @@ title:  "Information Générale"
 Le comité de soutien est une organisation civile à but non lucratif qui a pour mission de soutenir le Corps de cadets de l’Armée 2920 Gatineau. Pour plus d’information sur les façons d’aider, veuillez communiquer avec Daniel Brunette par courriel au [danielpbrunette@gmail.com](mailto:danielpbrunette@gmail.com).
 
 ## Echange d’uniforme
-
+ 
+L'échange d'uniforme est pour le moment en pause en ce début d'année.
+ 
 **Échange d’uniforme** : présentez-vous sans rendez-vous les mercredis de 17h30 à 18h30. Aucun échange d’uniforme ne sera effectué sans rendez-vous le vendredi soir.
 
 **Échange d’écusson** : présentez-vous sans rendez-vous entre 18h et 18h15 le vendredi soir ou les mercredis de 17h30 à 18h30 avec vos vieux écussons en mains.
