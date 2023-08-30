@@ -35,7 +35,7 @@ Les cadets désirant s’inscrire peuvent remplir le formulaire dès maintenant 
 Les niveaux or et plus de cette année (donc niveau argent et plus de 2022-2023) doivenet participer à une journée de formation intensive pour cadet-cadre le 9 septembre de 9h à 16h. Tenue C5 et apportez votre lunch. 
 Il y aura aussi une formation pour cadet-cadre inter-unité le 24 septembre. Plus d’information à venir, mais notez la date à votre calendrier. 
 
-## Tour de rappel 17 septembre
+## Descente en rappel 17 septembre
  
 Pour les anciens cadets et les recrues qui auront complété leur inscription à ce moment-là, il y aura une activité optionnelle de rappel militaire le 17 septembre 2023 en avant-midi. Nous avons 20 places et linscription sera faite durant la soirée du 8 septembre. Plus de détails à venir pour les heures et le lieu de l'autobus pour se rendre.
 
