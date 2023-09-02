@@ -34,7 +34,7 @@ Les cadets désirant s’inscrire peuvent remplir le formulaire dès maintenant 
  
 ## Formation cadet-cadre 9 et 24 septembre 
  
-Les niveaux or et plus de cette année (donc niveau argent et plus de 2022-2023) doivent participer à une journée de formation intensive pour cadet-cadre le 9 septembre de 9h à 16h. Tenue civile et apportez votre lunch. 
+Les niveaux or et plus de cette année (donc niveau argent et plus de 2022-2023) doivent participer à une journée de formation intensive pour cadet-cadre le 9 septembre de 9h à 16h. Tenue civile et apportez papier, crayon et votre lunch. 
 Il y aura aussi une formation pour cadet-cadre inter-unité le 24 septembre. Plus d’information à venir, mais notez la date à votre calendrier. 
 
 ## Descente en rappel 17 septembre
