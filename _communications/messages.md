@@ -13,8 +13,6 @@ activities:
       title: EEA 
     - date: 24 septembre 
       title: formation régionale de cadet-cadre 
-    - date: 7-8-9 octobre 
-      title: course d’aventure Fouraid 
     - date: 20-21-22 octobre
       title: exercice aventurier (à confirmer) 
 
@@ -36,12 +34,13 @@ Les cadets désirant s’inscrire peuvent remplir le formulaire dès maintenant 
  
 ## Formation cadet-cadre 9 et 24 septembre 
  
-Les niveaux or et plus de cette année (donc niveau argent et plus de 2022-2023) doivenet participer à une journée de formation intensive pour cadet-cadre le 9 septembre de 9h à 16h. Tenue C5 et apportez votre lunch. 
+Les niveaux or et plus de cette année (donc niveau argent et plus de 2022-2023) doivent participer à une journée de formation intensive pour cadet-cadre le 9 septembre de 9h à 16h. Tenue civile et apportez votre lunch. 
 Il y aura aussi une formation pour cadet-cadre inter-unité le 24 septembre. Plus d’information à venir, mais notez la date à votre calendrier. 
 
 ## Descente en rappel 17 septembre
  
-Pour les anciens cadets et les recrues qui auront complété leur inscription à ce moment-là, il y aura une activité optionnelle de rappel militaire le 17 septembre 2023 en avant-midi. Nous avons 20 places et linscription sera faite durant la soirée du 8 septembre. Plus de détails à venir pour les heures et le lieu de l'autobus pour se rendre.
+Pour les anciens cadets et les recrues qui auront complété leur inscription à ce moment-là, il y aura une activité optionnelle de rappel militaire le 17 septembre 2023. L'inscription sera faite durant la soirée du 8 septembre et nous avons 40 places.
+Départ du 52 St-Rosaire à 7h30 et retour à 13h. Apportez une collation. Tenue civile ou C5.
 
 ## Expédition étoile argent 22 au 24 septembre
  
@@ -49,10 +48,6 @@ Cadets du niveau argent: l'expédition étoile argent réunit les unités de l'�
 La participation à l'expédition n'est plus essentielle pour réussir le niveau argent, mais est requise pour participer plus tard aux camps d'été d'expédition, expéditions régionales et nationales et course d'aventure Fouraid.
  
 Cadets du niveau cadet-maître: nous pouvons aussi inscrire des cadet-cadre à cette activité. Écrivez-nous au plus tard le 6 septembre au 2920armee@cadets.gc.ca si vous êtes intéressés.
- 
-## Course d’aventure Fouraid 7 au 9 octobre
- 
-La course d’aventure Fouraid est une compétition inter-unité d’orientation, course, vélo et canot. Elle aura lieu le 8 octobre, avec déplacement les 7 et 9 octobre. Les cadets qualifiées étoile or peuvent s’y inscrire et nous allons former des équipes de 2. Écrivez-nous au <2920armee@cadets.gc.ca> avant le 1er septembre pour plus d’information ou pour s’inscrire. 
  
 ## Résultats du secourisme 
  
