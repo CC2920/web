@@ -22,7 +22,7 @@ activities:
  
 La rentrée aura lieu le 8 septembre à 18h30 au 52 Saint-Rosaire. 
  
-Les anciens, présentez-vous en t-shirt de l'unité, et demandez à un de vos parents d'être présent entre 18h30 et 19h pour signer un formulaire. Si vous avez grandi durant l'été, essayez en avance votre uniforme voir si vous avez des pièces à échanger quand sera le temps pour les échanges.
+Les anciens, présentez-vous en t-shirt de l'unité, et demandez à un de vos parents d'être présent entre 18h30 et 19h pour signer un formulaire. Si vous avez grandi durant l'été, essayez votre uniforme cette semaine et apportez-le durant la soirée pour échange.
  
 Les nouveaux, voir le paragraphe suivant pour l'inscription.
  
