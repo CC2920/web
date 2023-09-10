@@ -28,7 +28,7 @@ Les nouveaux, voir le paragraphe suivant pour l'inscription.
  
 L’inscription se fait dorénavant en ligne au lien suivant : [Outil d’inscription en ligne pour les cadets](https://www.canada.ca/fr/ministere-defense-nationale/services/cadets-rangers-juniors-canadiens/cadets/rejoignez-nous/outil-inscription-en-ligne.html). 
  
-Les cadets désirant s’inscrire peuvent remplir le formulaire dès maintenant et se présenter à la rentrée avec les [documents requis]({{ site.url }}{{ site.baseurl }}/information/inscriptions), dont la liste est disponible sur notre site Internet ({{ site.url }}{{ site.baseurl }}/information/inscriptions) . 
+Les cadets désirant s’inscrire peuvent remplir le formulaire et se présenter le vendredi avec les [documents requis]({{ site.url }}{{ site.baseurl }}/information/inscriptions), dont la liste est disponible sur notre site Internet ({{ site.url }}{{ site.baseurl }}/information/inscriptions) . 
 
 L'habillement des recrues ayant finalisé leur inscription débutera le 18 septembre. Les rendez-vous seront donnés lors de la soirée du 15 septembre.
 
