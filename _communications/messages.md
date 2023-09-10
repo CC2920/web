@@ -25,10 +25,9 @@ Les anciens, n'oubliez pas de rapporter le formulaire de validation annuelle au 
  
 ## Inscription et habillement
  
-Les cadets désirant s’inscrire peuvent remplir le formulaire [Outil d’inscription en ligne pour les cadets](https://www.canada.ca/fr/ministere-defense-nationale/services/cadets-rangers-juniors-canadiens/cadets/rejoignez-nous/outil-inscription-en-ligne.html) et se présenter le vendredi avec les [documents requis](https://www.cc2920.ca/information/inscriptions)). 
+Les cadets désirant s’inscrire peuvent remplir le formulaire [Outil d’inscription en ligne pour les cadets](https://www.canada.ca/fr/ministere-defense-nationale/services/cadets-rangers-juniors-canadiens/cadets/rejoignez-nous/outil-inscription-en-ligne.html) et se présenter le vendredi avec les [documents requis](https://www.cc2920.ca/information/inscriptions). 
 
 L'habillement des recrues ayant finalisé leur inscription débutera le 18 septembre. Les rendez-vous seront donnés lors de la soirée du 15 septembre.
-
 
 ## Descente en rappel 17 septembre
  
