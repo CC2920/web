@@ -13,8 +13,11 @@ activities:
 Les soirées d'instruction régulières ont lieu du 18h30 à 21h au 52 Saint-Rosaire.
 
 Niveau vert (toutes les recrues) : tenue civile
+
 Niveau rouge : tenue sportive avec t-shirt de l'unité
+
 Niveau argent : tenue C3
+
 Niveau or : tenue C5
  
 Les anciens, n'oubliez pas de rapporter le formulaire de validation annuelle au plus tard le 23 septembre. Il sera possible de les récupérer ce vendredi si cela n'a pas été fait vendredi passé. Si vous avez grandi durant l'été, essayez votre uniforme cette semaine et apportez-le pour échange ou pour recevoir un rendez-vous pour échange.
