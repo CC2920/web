@@ -32,6 +32,7 @@ L'habillement des recrues ayant finalisé leur inscription débutera le 18 septe
 ## Descente en rappel 17 septembre
  
 Pour les anciens cadets et les recrues qui auront complété leur inscription, il y aura une activité optionnelle de rappel militaire le 17 septembre 2023. Il reste de la place après la soirée du 8 septembre, alors l'inscription sera encore possible la soirée du 15 septembre. Nous avons 40 places.
+
 Départ du 52 St-Rosaire à 7h30 et retour à 13h. Apportez une collation. Tenue civile ou C5.
 
 ## Conseil de mérite, semaine du 18 septembre
@@ -40,7 +41,8 @@ Pour les cadets de grade sergent et plus intéressés à postuler sur le grade d
 
 ## Expédition étoile argent 22 au 24 septembre
  
-Cadets du niveau argent: l'expédition étoile argent réunit les unités de l'élément armée de la région de l'Outaouais pour un exercice de fin de semaine. L'activité principale sera le vélo de montagne, dans les sentiers de Montebello. Plus de détails et inscription le 15 septembre.  
+Cadets du niveau argent: l'expédition étoile argent réunit les unités de l'élément armée de la région de l'Outaouais pour un exercice de fin de semaine. L'activité principale sera le vélo de montagne, dans les sentiers de Montebello. Plus de détails et inscription le 15 septembre.
+
 La participation à l'expédition n'est plus essentielle pour réussir le niveau argent, mais est requise pour participer plus tard aux camps d'été d'expédition, expéditions régionales et nationales et course d'aventure Fouraid.
 
 ## Formation cadet-cadre 24 septembre 
