@@ -47,7 +47,7 @@ La participation à l'expédition n'est plus essentielle pour réussir le niveau
 
 ## Formation cadet-cadre 24 septembre 
  
-Pour les niveaux or et plus, une formation pour cadet-cadre inter-unité aura lieu le 24 septembre. Plusieurs conférences et ateliers pratiques sont prévus. Contactez-nous au 2920armee@cadets.gc.ca pour vous inscrire.
+Pour les niveaux or et plus, une formation pour cadet-cadre inter-unité aura lieu le 24 septembre. Plusieurs conférences et ateliers pratiques sont prévus. Contactez-nous au 2920armee@cadets.gc.ca ou informez capt Martel au plus tard le 15 septembre pour vous inscrire.
 
 Départ de 6h30 en autobus de Gatineau pour le manège de Salaberry (2100 boulevard Le Carrefour, Laval), retour à 18h45. Dîner fourni. 
 
