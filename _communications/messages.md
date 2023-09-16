@@ -4,7 +4,7 @@ layout: "messages"
 
 activities: 
     - date: 20-21-22 octobre
-      title: exercice aventurier (à confirmer) 
+      title: exercice aventurier
 
 ---
  
