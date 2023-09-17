@@ -30,7 +30,7 @@ Pour les cadets déjà inscrits, elle aura lieu au manège militaire de Hull. He
 
 ## Demande de bénévole Bouge Bouge 24 septembre
 
-Bouge Bouge organise un événement de course à pied à l'Université d'Ottawa et nous comptons envoyer une délégation de cadets bénévole. Plus d'informations et inscription ce vendredi.
+Bouge Bouge organise un événement de course à pied à l'Université d'Ottawa et nous comptons envoyer une délégation de cadets bénévole. Heures exactes à venir ce vendredi.
 
 ## Parade du commandant 29 septembre
 
