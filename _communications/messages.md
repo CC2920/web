@@ -16,25 +16,21 @@ Niveau vert (toutes les recrues) : tenue civile
 
 Tous les autres : C5 et apporter C3 sur une housse
  
-Les anciens, n'oubliez pas de rapporter le formulaire de validation annuelle. Il sera possible de les récupérer ce vendredi si cela n'a pas été fait vendredi passé.
-
-## Conseil de mérite, 20 septembre
-
-Pour les cadets ayant postulé, le conseil de mérite aura lieu le 20 septembre.
+Les anciens, n'oubliez pas de rapporter le formulaire de validation annuelle. Il sera possible de les récupérer ce vendredi si cela n'a pas encore été fait.
 
 ## Expédition étoile argent 22 au 24 septembre
  
-Cadets du niveau argent: l'expédition étoile argent réunit les unités de l'élément armée de la région de l'Outaouais pour un exercice de fin de semaine. L'activité principale sera le vélo de montagne, dans les sentiers de Montebello. Plus de détails et inscription le 15 septembre.
+Cadets du niveau argent: l'expédition étoile argent réunit les unités de l'élément armée de la région de l'Outaouais pour un exercice de fin de semaine. L'activité principale sera le vélo de montagne, dans les sentiers de Montebello. Départ 18h15 le vendredi du 52 St-Rosaire, retour à 15h le dimanche. 
 
 La participation à l'expédition n'est plus essentielle pour réussir le niveau argent, mais est requise pour participer plus tard aux camps d'été d'expédition, expéditions régionales et nationales et course d'aventure Fouraid.
 
 ## Formation de cadet-cadre 24 septembre 
 
-Pour les cadets déjà inscrits, elle aura lieu au manège militaire de Hull. Détails à venir.
+Pour les cadets déjà inscrits, elle aura lieu au manège militaire de Hull. Heures à venir. Tenue C3.
 
 ## Demande de bénévole Bouge Bouge 24 septembre
 
-Bouge Bouge organise un événement de course à pied à l'Université d'Ottawa et nous comptons envoyer une délégation de cadets bénévole. Plus d'information et inscription lors de la soirée du 15 septembre.
+Bouge Bouge organise un événement de course à pied à l'Université d'Ottawa et nous comptons envoyer une délégation de cadets bénévole. Plus d'informations et inscription ce vendredi.
 
 ## Parade du commandant 29 septembre
 
