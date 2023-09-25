@@ -5,7 +5,7 @@ layout: "messages"
 activities: 
     - date: 6 octobre
       title: congé
-    - date: 20-21-22 octobre
+    - date: 20 au 22 octobre
       title: exercice aventurier
     - date: 25 octobre
       title: rencontre de parents
@@ -19,3 +19,8 @@ Il y aura une parade du commandant en fin de soirée. Les parents et amis sont i
 Niveau vert (toutes les recrues) : tenue civile propre, idéalement chandail blanc et pantalon noir
 
 Les anciens : C1. Et n'oubliez pas de rapporter le formulaire de validation annuelle.
+
+## Exercice aventurier 20 au 22 octobre
+ 
+Voici l'information. La feuille d'autorisation sera distribuée le 29 septembre.
+
