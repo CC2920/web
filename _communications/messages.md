@@ -22,7 +22,7 @@ Les anciens : tenue C1. Et n'oubliez pas de rapporter le formulaire de validatio
 
 ## Exercice aventurier 20 au 22 octobre
  
-Voici l'information:  
-[lien]([https://1drv.ms/b/s!AkTIfKmoB8nugfpur1EJMgbHt3Js0g?e=s0jbE5])
+Voici l'information:  [lien](https://1drv.ms/b/s!AkTIfKmoB8nugfpur1EJMgbHt3Js0g?e=s0jbE5)
+
 La feuille d'autorisation sera distribuée le 29 septembre.
 
