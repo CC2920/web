@@ -18,7 +18,7 @@ Il y aura une parade du commandant en fin de soirée. Les parents et amis sont i
 
 Niveau vert (toutes les recrues) : tenue civile propre, idéalement chandail blanc et pantalon noir
 
-Les autres : tenue C1. Et n'oubliez pas de rapporter le formulaire de validation annuelle.
+Les autres : tenue C1. Et n'oubliez pas de rapporter le formulaire de validation annuelle si ce n'est pas encore fait.
 
 ## Exercice aventurier 20 au 22 octobre
  
