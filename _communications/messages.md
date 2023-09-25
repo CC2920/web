@@ -23,7 +23,6 @@ Les anciens : tenue C1. Et n'oubliez pas de rapporter le formulaire de validatio
 ## Exercice aventurier 20 au 22 octobre
  
 Voici l'information:  
-[lien]([https://www.canada.ca/fr/ministere-defense-nationale/services/cadets-rangers-juniors-canadiens/cadets/o365-cadets/integration-cadet.html](https://1drv.ms/b/s!AkTIfKmoB8nugfpur1EJMgbHt3Js0g?e=s0jbE5))
-
+[lien]([https://1drv.ms/b/s!AkTIfKmoB8nugfpur1EJMgbHt3Js0g?e=s0jbE5])
 La feuille d'autorisation sera distribuée le 29 septembre.
 
