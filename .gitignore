@@ -7,10 +7,10 @@ vendor
 .DS_Store
 docs/.DS_Store
 docs/ressources/.DS_Store
-docs/ressources/guides/.DS_Store
-docs/ressources/guides/argent/.DS_Store
-docs/ressources/guides/rouge/.DS_Store
-docs/ressources/guides/verte/.DS_Store
+docs/ressources/Guides/.DS_Store
+docs/ressources/Guides/Argent/.DS_Store
+docs/ressources/Guides/Rouge/.DS_Store
+docs/ressources/Guides/Verte/.DS_Store
 docs/historique/.DS_Store
 
 
@@ -19,3 +19,6 @@ docs/historique/.DS_Store
 
 
 
+.DS_Store
+.DS_Store
+.DS_Store
