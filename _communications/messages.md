@@ -7,6 +7,12 @@ activities:
       title: exercice aventurier
     - date: 25 octobre
       title: rencontre de parents
+    - date: début novembre (à confirmer)
+      title: campagne du coquelicot
+    - date: 11 novembre
+      title: activité du Jour du souvenir
+    - date: 18 novembre
+      title: course d'orientation
 
 ---
  
