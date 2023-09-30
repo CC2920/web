@@ -20,6 +20,10 @@ activities:
  
 Congé
 
+## Récompenses reçues à la parade
+
+Félicitation aux récipiendaires. Pour savoir où coudre vos écussons, regardez le guide de l'uniforme sous [lien](https://www.cc2920.ca/ressources/ressources-cadets/) . Pour obtenir les épaulettes et le 2e écusson de grade pour le brassard correspondant au nouveau grade que vous avez obtenu, allez voir l'approvisionnement sans rendez-vous le vendredi soir entre 18h et 18h15 avec vos anciennes épaulettes et écusson pour échange.
+ 
 ## Exercice aventurier 20 au 22 octobre
  
 Voici l'information:  [lien](https://1drv.ms/b/s!AkTIfKmoB8nugfpur1EJMgbHt3Js0g?e=s0jbE5)
