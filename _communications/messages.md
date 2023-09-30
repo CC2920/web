@@ -26,4 +26,4 @@ Voici l'information:  [lien](https://1drv.ms/b/s!AkTIfKmoB8nugfpur1EJMgbHt3Js0g?
 
 La feuille d'autorisation a été distribuée le 29 septembre. D'autres copies seront disponibles le 13 octobre. 
 
-Ceux qui ont des restrictions alimentaires, vous devez l'inscrire sur les feuilles mais aussi écrivez-vous-les au 2920armee@cadets.gc.ca dès que possible pour que nous puissions planifier les repas en conséquence.
+Ceux qui ont des restrictions alimentaires, vous devez l'inscrire sur le coupon-réponse mais aussi écrivez-vous-les au 2920armee@cadets.gc.ca dès que possible pour que nous puissions planifier les repas en conséquence.
