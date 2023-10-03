@@ -8,8 +8,6 @@ Le comité de soutien est une organisation civile à but non lucratif qui a pour
 
 ## Echange d’uniforme
  
-L'échange d'uniforme est pour le moment en pause en ce début d'année.
- 
 **Échange d’uniforme** : présentez-vous sans rendez-vous les mercredis de 17h30 à 18h30. Aucun échange d’uniforme ne sera effectué sans rendez-vous le vendredi soir.
 
 **Échange d’écusson** : présentez-vous sans rendez-vous entre 18h et 18h15 le vendredi soir ou les mercredis de 17h30 à 18h30 avec vos vieux écussons en mains.
