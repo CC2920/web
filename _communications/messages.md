@@ -3,6 +3,8 @@ title:  "Messages de la semaine"
 layout: "messages"
 
 activities: 
+    - date: 14 octobre
+      title: cueillette de bouteilles (besoin de parents, tuteurs et autres bénévoles avec voiture)
     - date: 20 au 22 octobre
       title: exercice aventurier
     - date: 25 octobre
