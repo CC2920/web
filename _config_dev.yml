@@ -5,7 +5,7 @@
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-url: 		  'https://www.cc2920.ca'
+url: 		  'https://127.0.0.1'
 baseurl: 	''
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support

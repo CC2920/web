@@ -4,6 +4,10 @@ title:  "Bulletin d'information"
 
 Pour vous inscrire à notre bulletin d'information, SVP entrez votre courriel dans la case texte et soumettre votre demande. Un courriel vous sera envoyé afin de confirmer votre inscription.
 
+<!-- Not yet functional ***********************************************************************
+
+
+
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
@@ -56,6 +60,9 @@ $.extend($.validator.messages, {
         max: $.validator.format("Veuillez entrer une valeur inférieure ou égale à {0}."),
         min: $.validator.format("Veuillez entrer une valeur supérieure ou égale à {0}.")
 });}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
+
+
+*********************************************************************** -->
 
 
 <form class="form-inline" method="post" action="https://www.cc2920.ca/register.php">
