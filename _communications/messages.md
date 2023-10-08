@@ -4,7 +4,7 @@ layout: "messages"
 
 activities: 
     - date: 14 octobre
-      title: cueillette de bouteilles (besoin de parents, tuteurs et autres bénévoles avec voiture)
+      title: cueillette de bouteilles
     - date: 20 au 22 octobre
       title: exercice aventurier
     - date: 25 octobre
