@@ -18,9 +18,11 @@ activities:
 
 ---
  
-## Soirée du 6 octobre 
+## Soirée du 13 octobre 
  
-Congé
+Niveau vert : venez en civil avec votre uniforme de parade sur un support
+Niveaux rouge et or : tenue C5
+Niveau argent : tenue sportive intérieure
 
 ## Récompenses reçues à la parade
 
