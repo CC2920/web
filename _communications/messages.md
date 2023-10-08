@@ -20,7 +20,7 @@ activities:
  
 ## Soirée du 13 octobre 
  
-Niveau vert : venez en civil avec votre uniforme de parade sur un support
+Niveau vert : tenue C3
 
 Niveaux rouge et or : tenue C5
 
