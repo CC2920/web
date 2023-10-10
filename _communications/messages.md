@@ -4,7 +4,7 @@ layout: "messages"
 
 activities: 
     - date: 14 octobre
-      title: cueillette de bouteilles (besoin de parents, tuteurs et autres bénévoles avec voiture)
+      title: cueillette de bouteilles
     - date: 20 au 22 octobre
       title: exercice aventurier
     - date: 25 octobre
@@ -18,9 +18,21 @@ activities:
 
 ---
  
-## Soirée du 6 octobre 
+## Soirée du 13 octobre 
  
-Congé
+Niveau vert : tenue C3
+
+Niveaux rouge et or : tenue C5
+
+Niveau argent : tenue sportive intérieure
+
+## Cueillette de bouteilles 14 octobre
+
+La cueillette de bouteilles est une des activités de financement que nous organisons dans le but d'organiser certaines de nos activités ou acheter du matériel pour elles. Il s'agit de porte-à-porte sur des trajets prédéfinis où les résidents ont déjà reçu un avis préalable. Nous avons besoin d'autant de cadets que possible de même que de parents avec des autos pour réaliser ces trajets. 
+
+9h à 15h, départ et arrivée du 52 St-Rosaire, apportez votre lunch. 
+
+Tenue civile avec le t-shirt rouge de l'unité (vous pouvez porter des vêtements civils chauds en-dessous s'il fait froid en gardant le t-shirt comme couche extérieure, pour assurer la visilité de l'unité).
 
 ## Récompenses reçues à la parade
 
