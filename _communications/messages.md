@@ -20,11 +20,11 @@ activities:
  
 N'oubliez pas de regarder la météo à Ripon le jeudi soir. 
 
-Revoici l'information:  [lien](https://1drv.ms/b/s!AkTIfKmoB8nugfpur1EJMgbHt3Js0g?e=s0jbE5)
+Revoici l'information:  [Exercice aventurier du 20 au 22 octobre](https://1drv.ms/b/s!AkTIfKmoB8nugfpur1EJMgbHt3Js0g?e=s0jbE5)
 
 La feuille d'autorisation a été distribuée ces derniers vendredis. D'autres copies seront disponibles ce vendredi. Elle doit être retournée signée avant d'embarquer dans l'autobus.
 
-Ceux qui ont des restrictions alimentaires, vous devez l'inscrire sur le coupon-réponse mais aussi écrivez-vous-les au 2920armee@cadets.gc.ca dès que possible pour que nous puissions planifier les repas en conséquence.
+Ceux qui ont des restrictions alimentaires, vous devez l'inscrire sur le coupon-réponse mais aussi écrivez-vous-les au <2920armee@cadets.gc.ca> dès que possible pour que nous puissions planifier les repas en conséquence.
 
 ## Cueillette de bouteilles 
 Le corps de cadets souhaite remercier tous les cadets et parents qui ont participés à la collecte de bouteilles du 14 octobre.
@@ -37,8 +37,8 @@ Il y aura une rencontre pour les parents le 25 octobre au gymnase de l’école 
 
 La campagne de coquelicots débutera bientôt. Nous aurons besoin de cadets pour les journées du 28 et 29 octobre ainsi que les 4 et 5 novembre pour la vente de coquelicots pour les quarts de travail qui se divisent comme suit : 
 
--	9 h 30 à 13 h 00 (2 cadets à chaque site)
--	13 h 00 à 17 h 00 (2 cadets à chaque site)
+-	de 9 h 30 à 13 h 00 (2 cadets à chaque site)
+-	de 13 h 00 à 17 h 00 (2 cadets à chaque site)
 
 Emplacements : 
 				
