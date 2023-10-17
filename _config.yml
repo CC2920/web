@@ -35,6 +35,8 @@ baseurl: '/web'
 logo: "logo.png"
 group_photo: "cc2920-photo-de-groupe.jpg"
 
+favicon-32x32: favicon-32x32.png
+
 # ncollections_dir: content
 collections:
   communications:
