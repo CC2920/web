@@ -47,4 +47,4 @@ Les recrues pourront participer aux séances de tir une fois après la passation
 
 Voici l'information:  [lien](https://1drv.ms/b/s!AkTIfKmoB8nugfwPNPP-LMF-fjU1lA?e=CVoJth) . Le document n'a pas besoin de nous être rapporté.
 
-À noter que l'activité a été déplacée au dimanche plutôt que le samedi des messages précédents dû au conflit d'horaire avec la clinique musicale du samedi.
+À noter que l'activité a été déplacée au dimanche plutôt que le samedi des messages de la semaine précédents dû à un conflit d'horaire avec la clinique musicale du samedi.
