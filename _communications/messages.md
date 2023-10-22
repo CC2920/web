@@ -18,12 +18,12 @@ activities:
 ---
 ## Soirée du 27 octobre
 
-La soirée sera sous le thème d'Halloween. Venez avec votre costume d'Hallowwen! Il y aura un concours de déguisement.
+La soirée sera sous le thème d'Halloween. Venez avec votre costume! Il y aura un concours de déguisement.
 
 
 ## Suivi de l'exercice aventurier
  
-Merci et bon travail à ceux qui ont été présents à l'exercice malgré la météo. Si vous avez des commentaires que vous n'avez pas pu nous faire part encore, vous pouvez nous écrire au 2920armee@cadets.gc.ca . Aussi, nous avons encore quelques objets perdus; écrfvez-nous si vous avez perdu de quoi.
+Merci et bon travail à ceux qui ont été présents à l'exercice malgré la météo. Si vous avez des commentaires que vous n'avez pas pu nous en faire part encore, vous pouvez nous écrire au 2920armee@cadets.gc.ca . Aussi, nous avons encore quelques objets perdus; si vous avez perdu de quoi, écrivez-nous avec une petite description de l'objet.
 
 ## Rencontre de parents – 25 octobre
 
