@@ -33,7 +33,7 @@ Il y aura une rencontre pour les parents le 25 octobre au gymnase de l’école 
 
 La distribution de coquelicot dans différents magasins de Gatineau est une activité de la Légion royale canadienne à laquelle notre corps de cadets participe dans le cadre des activités du jour du Souvenir. Nous aurons 11 kiosques les 29 et 30 octobre et les 4 et 5 novembre et avons besoin de votre participation!
 
-Inscrivez-vous dans le lien suivant : [lien](https://1drv.ms/b/s!AkTIfKmoB8nugfpur1EJMgbHt3Js0g?e=s0jbE5) . Si vous avez de la difficulté à ajouter votre nom au document, écrivez-nous au 2920armee@cadets.gc.ca pour le groupe et le moment qui vous intéresse.
+Inscrivez-vous dans le lien suivant : [lien](https://1drv.ms/w/s!AkTIfKmoB8nugfwN74h_3jG5jTPxAw?e=KcfKsi) . Si vous avez de la difficulté à ajouter votre nom au document, écrivez-nous au 2920armee@cadets.gc.ca pour le groupe et le moment qui vous intéresse.
 
 Nous nous attendons à au moins 2 demi-journées par cadet. Il n’y a pas de maximum tant qu’il reste de la place. 
 
