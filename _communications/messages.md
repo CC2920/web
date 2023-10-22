@@ -3,31 +3,27 @@ title:  "Messages de la semaine"
 layout: "messages"
 
 activities: 
-    - date: 20 au 22 octobre
-      title: exercice aventurier
+
     - date: 25 octobre
       title: rencontre de parents
-    - date: début novembre (à confirmer)
+    - date: 27-28 octobre, 4-5 novembre
       title: campagne du coquelicot
     - date: 11 novembre
       title: activité du Jour du souvenir
     - date: 18 novembre
+      title: clinique musicale (information à venir)
+    - date: 19 novembre
       title: course d'orientation
 
 ---
+## Soirée du 27 octobre
+
+La soirée sera sous le thème d'Halloween. Venez avec votre costume d'Hallowwen! Il y aura un concours de déguisement.
+
+
+## Suivi de l'exercice aventurier
  
-## Exercice aventurier 20 au 22 octobre
- 
-N'oubliez pas de regarder la météo à Ripon le jeudi soir. 
-
-Revoici l'information:  [lien](https://1drv.ms/b/s!AkTIfKmoB8nugfpur1EJMgbHt3Js0g?e=s0jbE5)
-
-La feuille d'autorisation a été distribuée ces derniers vendredis. D'autres copies seront disponibles ce vendredi. Elle doit être retournée signée avant d'embarquer dans l'autobus.
-
-Ceux qui ont des restrictions alimentaires, vous devez l'inscrire sur le coupon-réponse mais aussi écrivez-vous-les au 2920armee@cadets.gc.ca dès que possible pour que nous puissions planifier les repas en conséquence.
-
-## Cueillette de bouteilles 
-Le corps de cadets souhaite remercier tous les cadets et parents qui ont participés à la collecte de bouteilles du 14 octobre.
+Merci et bon travail à ceux qui ont été présents à l'exercice malgré la météo. Si vous avez des commentaires que vous n'avez pas pu nous faire part encore, vous pouvez nous écrire au 2920armee@cadets.gc.ca . Aussi, nous avons encore quelques objets perdus; écrfvez-nous si vous avez perdu de quoi.
 
 ## Rencontre de parents – 25 octobre
 
@@ -35,23 +31,20 @@ Il y aura une rencontre pour les parents le 25 octobre au gymnase de l’école 
 
 ## Campagne de coquelicots
 
-La campagne de coquelicots débutera bientôt. Nous aurons besoin de cadets pour les journées du 28 et 29 octobre ainsi que les 4 et 5 novembre pour la vente de coquelicots pour les quarts de travail qui se divisent comme suit : 
+La distribution de coquelicot dans différents magasins de Gatineau est une activité de la Légion royale canadienne à laquelle notre corps de cadets participe dans le cadre des activités du jour du Souvenir. Nous aurons 11 kiosques les 29 et 30 octobre et les 4 et 5 novembre et avons besoin de votre participation!
 
--	9 h 30 à 13 h 00 (2 cadets à chaque site)
--	13 h 00 à 17 h 00 (2 cadets à chaque site)
+Inscrivez-vous dans le lien suivant : [lien](https://1drv.ms/b/s!AkTIfKmoB8nugfpur1EJMgbHt3Js0g?e=s0jbE5) . Si vous avez de la difficulté à ajouter votre nom au document, écrivez-nous au 2920armee@cadets.gc.ca pour le groupe et le moment qui vous intéresse.
 
-Emplacements : 
-				
--	Super C (St-Louis)
--	Walmart (La Gappe)
--	Provigo Tassé
--	Metro (Gréber)
--	Toy R Us
--	IGA (Gréber)
--	Super C (Maloney)
--	Maxi (Maloney)
--	Walmart (Maloney)
--	Maxi (de la Savane)
+Nous nous attendons à au moins 2 demi-journées par cadet. Il n’y a pas de maximum tant qu’il reste de la place. 
 
-Ansi que 2 cadets de 10h15 à 16h00 au musée de l’Histoire.
-		
+## Tir
+
+Pour les anciens seulement, les séances de tir du lundi soir commencent le 30 octobre au 100 rue de la Baie de 18h à 20h.
+
+Les recrues pourront participer aux séances de tir une fois après la passation d'un cours de sécurité sur le tir, prévu en novembre.
+
+## Course d'orientation 19 novembre
+
+Voici l'information:  [lien](https://1drv.ms/b/s!AkTIfKmoB8nugfwPNPP-LMF-fjU1lA?e=CVoJth) . Le document n'a pas besoin de nous être rapporté.
+
+À noter que l'activité a été déplacée au dimanche plutôt que le samedi des messages précédents dû au conflit d'horaire avec la clinique musicale du samedi.
