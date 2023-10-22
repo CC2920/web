@@ -29,7 +29,7 @@ Merci et bon travail à ceux qui ont été présents à l'exercice malgré la m�
 
 Il y aura une rencontre pour les parents le 25 octobre au gymnase de l’école Nouvel-Horizon, situé au 100, rue la Baie de 19h00 à 20h30.
 
-## Campagne de coquelicots
+## Campagne de coquelicot
 
 La distribution de coquelicot dans différents magasins de Gatineau est une activité de la Légion royale canadienne à laquelle notre corps de cadets participe dans le cadre des activités du jour du Souvenir. Nous aurons 11 kiosques les 29 et 30 octobre et les 4 et 5 novembre et avons besoin de votre participation!
 
