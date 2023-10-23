@@ -39,7 +39,7 @@ Nous nous attendons à au moins 2 demi-journées par cadet. Il n’y a pas de ma
 
 ## Tir
 
-Pour les anciens seulement, les séances de tir du lundi soir commencent le 30 octobre au 100 rue de la Baie de 18h à 20h.
+Pour les anciens seulement, les séances de tir du lundi soir commencent le 30 octobre au 100 rue de la Baie de 18h à 20h30.
 
 Les recrues pourront participer aux séances de tir une fois après la passation d'un cours de sécurité sur le tir, prévu en novembre.
 
