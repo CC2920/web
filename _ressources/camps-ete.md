@@ -11,11 +11,6 @@ L'instruction d'été vise à soutenir et à enrichir l'instruction des corps de
 
 Dans le cadre du programme d'instruction d'été, les cadets, normalement, progresseront pendant l'été en participant à un cours de deux semaines, ensuite à un cours de trois semaines et finalement à un cours de six semaines.
 
-[Présentation sur les camp d'été 2019](/docs/acc/Camps2022.pdf).
-
-Formulaire à remplir : [Demande de participation cours, postes et activités](/docs/acc/DemandeCamp.pdf)
-
-
 ---
 
 
@@ -339,6 +334,4 @@ Applications à soumettre via Forteresse avant le 15 mars
 
 ## Informations sur les camps d'été :
 
-- [Brochure d'informations sur les camp d'été](docs/camps/Brochure_camps2013_V2.pdf)
-- Cahier d'information [Camps d'été 2019](docs/camps/Cahier_Info_CIEC_2019.pdf) (format pdf)
 - [Entraînement d'été des cadets 2022](https://www.canada.ca/fr/ministere-defense-nationale/services/cadets-rangers-juniors-canadiens/cadets/activites-ete/ete2022.html)

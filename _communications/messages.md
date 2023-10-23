@@ -43,6 +43,7 @@ Pour les anciens seulement, les séances de tir du lundi soir commencent le 30 o
 
 Les recrues pourront participer aux séances de tir une fois après la passation d'un cours de sécurité sur le tir, prévu en novembre.
 
+
 ## Course d'orientation 19 novembre
 
 Voici l'information:  [lien](https://1drv.ms/b/s!AkTIfKmoB8nugfwPNPP-LMF-fjU1lA?e=CVoJth) . Le document n'a pas besoin de nous être rapporté.
