@@ -4,34 +4,23 @@ layout: "messages"
 
 activities: 
 
-    - date: 25 octobre
-      title: rencontre de parents
-    - date: 28-29 octobre, 4-5 novembre
+    - date: 4-5 novembre
       title: campagne du coquelicot
     - date: 11 novembre
       title: activité du Jour du souvenir
     - date: 18 novembre
-      title: clinique musicale (information à venir)
+      title: formation intensive pour recrues et clinique musicale (information à venir)
     - date: 19 novembre
       title: course d'orientation
 
 ---
-## Soirée du 27 octobre
+## Soirée du 3 novembre
 
-La soirée sera sous le thème d'Halloween. Venez avec votre costume! Il y aura un concours de déguisement.
-
-
-## Suivi de l'exercice aventurier
- 
-Merci et bon travail à ceux qui ont été présents à l'exercice malgré la météo. Si vous avez des commentaires que vous n'avez pas pu nous faire part encore, vous pouvez nous écrire au 2920armee@cadets.gc.ca . Aussi, nous avons encore quelques objets perdus; si vous avez perdu de quoi, écrivez-nous avec une petite description de l'objet.
-
-## Rencontre de parents – 25 octobre
-
-Il y aura une rencontre pour les parents le 25 octobre au gymnase de l’école Nouvel-Horizon, situé au 100, rue la Baie de 19h00 à 20h30.
+Tenue C1. Les parents sont invités d'assister à la parade du commandant à 20h.
 
 ## Campagne de coquelicot
 
-La distribution de coquelicot dans différents magasins de Gatineau est une activité de la Légion royale canadienne à laquelle notre corps de cadets participe dans le cadre des activités du jour du Souvenir. Nous aurons 11 kiosques les 28 et 29 octobre et les 4 et 5 novembre et avons besoin de votre participation!
+La distribution de coquelicot dans différents magasins de Gatineau est une activité de la Légion royale canadienne à laquelle notre corps de cadets participe dans le cadre des activités du jour du Souvenir. Nous aurons 7 kiosques les 4 et 5 novembre et avons besoin de votre participation!
 
 Plus d'information et inscription dans le lien suivant : [lien](https://1drv.ms/w/s!AkTIfKmoB8nugfwN74h_3jG5jTPxAw?e=KcfKsi) . Si vous avez de la difficulté à ajouter votre nom au document, écrivez-nous au 2920armee@cadets.gc.ca pour le groupe et le moment qui vous intéresse.
 
@@ -43,6 +32,11 @@ Pour les anciens seulement, les séances de tir du lundi soir commencent le 30 o
 
 Les recrues pourront participer aux séances de tir une fois après la passation d'un cours de sécurité sur le tir, prévu en novembre.
 
+## Formation intensive pour recrues 18 novembre
+
+Pour les recrues qui ont sauté de niveau dû à leur âge, il y aura une journée de formation intensive pour vous mettre à jour sur vos nouveaux niveaux respectifs. Le critère d'éligibilité est d'avoir 13 ans au 1er septembre 2023. 
+
+Tenue ??. 8h à 16h, lieu à être déterminé (100 rue de la Baie ou 52 Saint-Rosaire), apportez un lunch froid.
 
 ## Course d'orientation 19 novembre
 
