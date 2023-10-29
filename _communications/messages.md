@@ -12,11 +12,13 @@ activities:
       title: formation intensive pour recrues et clinique musicale (information à venir)
     - date: 19 novembre
       title: course d'orientation
+    - date: 25 novembre
+      title: course guignolée
 
 ---
 ## Soirée du 3 novembre
 
-Tenue C1. Les parents sont invités d'assister à la parade du commandant à 20h.
+Tenue C1. Les parents sont invités d'assister à la parade du commandant à 20h30.
 
 ## Campagne de coquelicot
 
@@ -28,13 +30,9 @@ Nous nous attendons à au moins 2 demi-journées par cadet. Il n’y a pas de ma
 
 ## Parade du jour du Souvenir 11 novembre
 
-13h à 15h30
+Le corps de cadets participera au défilé du jour du Souvenir de Gatineau. Rendez-vous à 13h au 86 rue de la Baie en tenue C3 avec tuque et manteau et fin vers 15h30.
 
-## Tir
-
-Pour les anciens seulement, les séances de tir du lundi soir commencent le 30 octobre au 100 rue de la Baie de 18h à 20h30.
-
-Les recrues pourront participer aux séances de tir une fois après la passation d'un cours de sécurité sur le tir, prévu en novembre.
+Les parents qui veulent assister à la parade sont priés d'être présent au cénotaphe angle Gréber et St-Louis 
 
 ## Formation intensive pour recrues 18 novembre
 
@@ -47,3 +45,14 @@ Tenue civile, apportez vos bottes de parade et votre ensemble de cirage. 8h à 1
 Voici l'information:  [lien](https://1drv.ms/b/s!AkTIfKmoB8nugfwPNPP-LMF-fjU1lA?e=CVoJth) . Le document n'a pas besoin de nous être rapporté.
 
 À noter que l'activité a été déplacée au dimanche plutôt que le samedi des messages de la semaine précédents dû à un conflit d'horaire avec la clinique musicale du samedi.
+
+## Guignolée 25 novembre
+
+
+
+
+## Tir
+
+Pour les anciens seulement, les séances de tir du lundi soir commencent le 30 octobre au 100 rue de la Baie de 18h à 20h30.
+
+Les recrues pourront participer aux séances de tir une fois après la passation d'un cours de sécurité sur le tir, prévu en novembre.
