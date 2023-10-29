@@ -40,7 +40,7 @@ Les recrues pourront participer aux séances de tir une fois après la passation
 
 Pour les recrues qui ont sauté de niveau dû à leur âge, il y aura une journée de formation intensive pour vous mettre à jour sur vos nouveaux niveaux respectifs. Le critère d'éligibilité est d'avoir 13 ans au 1er septembre 2023. 
 
-Tenue ??. 8h à 16h, lieu à être déterminé (100 rue de la Baie ou 52 Saint-Rosaire), apportez un lunch froid.
+Tenue civile, apportez vos bottes de parade et votre ensemble de cirage. 8h à 16h, lieu à être déterminé (100 rue de la Baie ou 52 Saint-Rosaire), apportez un lunch froid.
 
 ## Course d'orientation 19 novembre
 
