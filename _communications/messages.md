@@ -7,7 +7,7 @@ activities:
     - date: 4-5 novembre
       title: campagne du coquelicot
     - date: 11 novembre
-      title: activité du Jour du souvenir
+      title: activité du jour du souvenir
     - date: 18 novembre
       title: formation intensive pour recrues et clinique musicale (information à venir)
     - date: 19 novembre
