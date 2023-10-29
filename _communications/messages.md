@@ -26,6 +26,10 @@ Plus d'information et inscription dans le lien suivant : [lien](https://1drv.ms/
 
 Nous nous attendons à au moins 2 demi-journées par cadet. Il n’y a pas de maximum tant qu’il reste de la place. 
 
+## Parade du jour du Souvenir 11 novembre
+
+13h à 15h30
+
 ## Tir
 
 Pour les anciens seulement, les séances de tir du lundi soir commencent le 30 octobre au 100 rue de la Baie de 18h à 20h30.
