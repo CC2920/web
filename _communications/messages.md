@@ -18,7 +18,7 @@ activities:
 ---
 ## Soirée du 3 novembre
 
-Tenue C1. Les parents sont invités d'assister à la parade du commandant à 20h30.
+Tenue C1. Les parents qui désirent assister à la parade du commandant peuvent se présenter à 20h30.
 
 ## Campagne de coquelicot
 
@@ -36,15 +36,13 @@ Pour les parents qui souhaitent assister à l'événement, la cérémonie en tan
 
 ## Formation intensive pour recrues 18 novembre
 
-Pour les recrues qui ont sauté de niveau dû à leur âge, il y aura une journée de formation intensive pour vous mettre à jour sur vos nouveaux niveaux respectifs. Le critère d'éligibilité est d'avoir 13 ans au 1er septembre 2023. 
+Pour les recrues qui ont sauté de niveau dû à leur âge, il y aura une journée de formation intensive de mise à niveau pour l'instruction que vous avez sauté. Le critère d'éligibilité est d'avoir 13 ans au 1er septembre 2023. 
 
 Tenue civile, apportez vos bottes de parade et votre ensemble de cirage. 8h à 16h, lieu à être déterminé (100 rue de la Baie ou 52 Saint-Rosaire), apportez un lunch froid.
 
 ## Course d'orientation 19 novembre
 
 Voici l'information:  [lien](https://1drv.ms/b/s!AkTIfKmoB8nugfwPNPP-LMF-fjU1lA?e=CVoJth) . Le document n'a pas besoin de nous être rapporté.
-
-À noter que l'activité a été déplacée au dimanche plutôt que le samedi des messages de la semaine précédents dû à un conflit d'horaire avec la clinique musicale du samedi.
 
 ## Guignolée 25 novembre
 
