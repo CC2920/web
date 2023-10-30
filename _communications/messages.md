@@ -32,7 +32,7 @@ Nous nous attendons à au moins 2 demi-journées par cadet. Il n’y a pas de ma
 
 Le corps de cadets participera au défilé du jour du Souvenir de Gatineau. Rendez-vous à 13h au 86 rue de la Baie en tenue C3 avec tuque et manteau et fin vers 15h30.
 
-Les parents qui veulent assister à la parade sont priés d'être présent au cénotaphe angle Gréber et St-Louis 
+Pour les parents qui souhaitent assister à l'événement, la cérémonie en tant que telle aura lieu au cénotaphe angle Gréber et St-Louis.
 
 ## Formation intensive pour recrues 18 novembre
 
@@ -48,8 +48,7 @@ Voici l'information:  [lien](https://1drv.ms/b/s!AkTIfKmoB8nugfwPNPP-LMF-fjU1lA?
 
 ## Guignolée 25 novembre
 
-
-
+Comme l'année passée, l'activité consiste en la distribution en porte-à-porte d'enveloppe de dons pour la paroisse Jean XXIII dans le cadre de la Guignolée de Noël. Elle aura lieu de 10h à 13h. Nous aurons aussi besoin de parents avec véhicule.
 
 ## Tir
 
