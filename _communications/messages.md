@@ -56,3 +56,7 @@ Comme l'année passée, l'activité consiste en la distribution en porte-à-port
 Pour les anciens seulement, les séances de tir du lundi soir commencent le 30 octobre au [100 rue de la Baie](/information/comment-nous-rejoindre/) de 18h à 20h30.
 
 Les recrues pourront participer aux séances de tir une fois après la passation d'un cours de sécurité sur le tir, prévu en novembre.
+
+## Sondage camp d'été et NECPC
+
+Le national qui s'occupe des grandes lignes du programme des cadets fait un sondage concernant les camps d'été et la mise à jour du test de conditionnement physique des cadets. Tous les cadets sont invités à y participer. Voici le [lien](https://interceptum.com/si/fr/6702493)
