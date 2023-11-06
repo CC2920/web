@@ -49,7 +49,7 @@ Comme l'année passée, l'activité consiste en la distribution en porte-à-port
 
 ## Tir
 
-Pour les anciens seulement, les séances de tir du lundi soir commencent le 30 octobre au [100 rue de la Baie](/information/comment-nous-rejoindre/) de 18h à 20h30.
+Pour les anciens seulement, les séances de tir du lundi soir ont lieu au [100 rue de la Baie](/information/comment-nous-rejoindre/) de 18h à 20h30.
 
 Les recrues pourront participer aux séances de tir une fois après la passation d'un cours de sécurité sur le tir, prévu le 10 novembre pour les verts et le 18 novembre pour ceux qui ont sauté de niveau.
 
