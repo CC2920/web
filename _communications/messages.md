@@ -20,7 +20,7 @@ Tenue C5
 
 ## Parade du jour du Souvenir 11 novembre
 
-Le corps de cadets participera au défilé du jour du Souvenir de Gatineau. Rendez-vous à 13h au 86 rue de la Baie en tenue C3 avec tuque et manteau. Le tout se termine vers 15h30.
+Le corps de cadets participera au défilé du jour du Souvenir de Gatineau. Rendez-vous à 13h au 86 rue de la Baie en tenue C3 avec tuque et manteau. Le tout se terminera vers 15h30.
 
 Pour les parents qui souhaitent assister à l'événement, la cérémonie en tant que telle aura lieu au cénotaphe [angle Gréber et St-Louis](https://maps.app.goo.gl/7J7ebBG4ABAzwCeH9).
 
