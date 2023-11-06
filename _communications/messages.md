@@ -55,7 +55,7 @@ Les recrues pourront participer aux séances de tir une fois après la passation
 
 ## Peloton de précision
 
-Le peloton de précision débute ce mercredi de 18h30 à 20h au 100 rue de la Baie. Tenue C3.
+Le peloton de précision débute ce mercredi de 18h30 à 20h au 100 rue de la Baie. Tenue civile.
 
 ## Sondage camp d'été et NECPC
 
