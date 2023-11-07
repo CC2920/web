@@ -30,17 +30,20 @@ Pour les recrues qui ont sauté de niveau dû à leur âge, il y aura une journ�
 
 Tenue civile, apportez vos bottes de parade et votre ensemble de cirage. 8h à 16h, lieu à être déterminé (100 rue de la Baie ou 52 Saint-Rosaire), apportez un lunch froid.
 
-## Musique et clinique musicale 18 novembre
+## Musique (hebdomadaire) et clinique musicale du 18 novembre
 
-La clinique musicale de la région de l'Outaouais aura lieu le 18 novembre de 9h à 17h au 1900 Dauphin Road, Ottawa. C'est l'occasion pour les cadets musiciens, nouveaux ou non, de recevoir une formation intensive pour débuter l'année. Écrivez-nous au 2920armee@cadets.gc.ca avec votre nom et l'instrument que vous dériez jouer si vous voulez vous inscrire et n'avez pas encore donné votre nom. Vous êtes responsable de votre transport et repas, tenue C3C.
+Les pratiques régulières de la musique débutent ce dimanche. Que vous ayez déjà donné votre nom ou non, merci de remplir le sondage suivant : [Sondage de participation hebdomadaire à la musique](https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOUFVVVJTRUxBRVFEMElFOExaRFA0RFlGUyQlQCN0PWcu)
 
-Les pratiques régulières de la musique débutent ce dimanche. Que vous ayez déjà donné votre nom ou non, merci de remplir le sondage suivant.  [lien](https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOUFVVVJTRUxBRVFEMElFOExaRFA0RFlGUyQlQCN0PWcu)
+Les cadets musiciens des différentes unités de cadets de la région se rencontreront les DIMANCHE matin 9h-12h au Régiment de Hull au 188 Alexandre-Taché Blvd, Gatineau, Quebec J8Y 3L5 (pour l'instant). La tenue est civile. 
+Les cadets du 2920 sont encouragés à venir à partir de la semaine prochaine, le 12 novembre
+
+La clinique musicale de la région de l'Outaouais aura lieu le 18 novembre de 9h à 17h au [1900 Dauphin Road, Ottawa](https://maps.app.goo.gl/R4ChrHnirSbvJaXa6). C'est l'occasion pour les cadets musiciens, nouveaux ou non, de recevoir une formation intensive pour débuter l'année. Écrivez-nous au <2920armee@cadets.gc.ca> avec votre nom et l'instrument que vous dériez jouer si vous voulez vous inscrire et n'avez pas encore donné votre nom. Vous êtes responsable de votre transport et repas, tenue [C3C](https://www.cc2920.ca/docs/ressources/guide_uniforme.v3.pdf).
 
 Il n'est pas nécessaire d'avoir de l'expérience préalable pour participer aux activités de musique.
 
 ## Course d'orientation 19 novembre
 
-Voici l'information: [Orienteering.pdf](https://1drv.ms/b/s!AkTIfKmoB8nugfwPNPP-LMF-fjU1lA?e=CVoJth). 
+Voici l'information : [Orienteering.pdf](https://1drv.ms/b/s!AkTIfKmoB8nugfwPNPP-LMF-fjU1lA?e=CVoJth). 
 Le document n'a pas besoin de nous être rapporté.
 
 ## Guignolée 25 novembre
@@ -59,4 +62,4 @@ Le peloton de précision débute ce mercredi de 18h à 20h30 au 100 rue de la Ba
 
 ## Sondage camp d'été et NECPC
 
-Le national qui s'occupe des grandes lignes du programme des cadets fait un sondage concernant les camps d'été et la mise à jour du test de conditionnement physique des cadets. Tous les cadets sont invités à y participer. Voici le [lien](https://interceptum.com/si/fr/6702493)
+Le national qui s'occupe des grandes lignes du programme des cadets fait un sondage concernant les camps d'été et la mise à jour du test de conditionnement physique des cadets. Tous les cadets sont invités à y participer. Voici le [Sondage d'été 2023](https://interceptum.com/si/fr/6702493)
