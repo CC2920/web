@@ -4,9 +4,9 @@ title:  "Bulletin d'information"
 
 Pour vous inscrire à notre bulletin d'information, SVP entrez votre courriel dans la case texte et soumettre votre demande. Un courriel vous sera envoyé afin de confirmer votre inscription.
 
-<!-- Not yet functional ***********************************************************************
-
-
+<!-- *********************************************************************** -->
+<!-- Script fourni par le service de MailChimp -->
+<!-- *********************************************************************** -->
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
@@ -62,20 +62,6 @@ $.extend($.validator.messages, {
 });}(jQuery));var $mcj = jQuery.noConflict(true);</script></div>
 
 
-*********************************************************************** -->
+<!-- *********************************************************************** -->
 
-
-<form class="form-inline" method="post" action="https://www.cc2920.ca/register.php">
-    <div class="form-group">
-        <label for="inputEmail" class="col-sm-2 control-label">Courriel</label>
-        <div class="col-sm-10">
-            <input type="email" class="form-control" name="inputEmail" placeholder="Courriel">
-        </div>
-    </div>
-    <div class="form-group">
-        <div>
-            <button type="submit" class="btn btn-default" name="register" value="Enregistrer">Enregistrer</button>
-        </div>
-    </div>
-</form>
 
