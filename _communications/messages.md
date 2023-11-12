@@ -14,15 +14,11 @@ activities:
       title: course guignolée
 
 ---
-## Soirée du 10 novembre
+## Soirée du 17 novembre
 
-Tenue C5
+Tenue C5, avec en plus le manteau des cadets.
 
-## Parade du jour du Souvenir 11 novembre
-
-Le corps de cadets participera au défilé du jour du Souvenir de Gatineau. Rendez-vous à 13h au 86 rue de la Baie en tenue C3 avec tuque et manteau. Le tout se terminera vers 15h30.
-
-Pour les parents qui souhaitent assister à l'événement, la cérémonie en tant que telle aura lieu au cénotaphe [angle Gréber et St-Louis](https://maps.app.goo.gl/7J7ebBG4ABAzwCeH9), débutant autour de 13h30.
+À partir de ce vendredi jusqu'à l'annonce du contraire au printemps, venez avec le manteau, gants et tuque des cadets en plus de l'uniforme de la soirée. SVP collez un ruban adhésif de type duct tape à l'intérieur du manteau sur lequel vous écrivez votre nom, afin de ne pas mélanger les manteaux.
 
 ## Formation intensive pour recrues 18 novembre
 
@@ -58,7 +54,7 @@ Les recrues pourront participer aux séances de tir une fois après la passation
 
 ## Peloton de précision
 
-Le peloton de précision débute ce mercredi de 18h30 à 20h30 au 100 rue de la Baie. Tenue civile.
+Le peloton de précision débute ce mercredi de 18h30 à 20h30 au 100 rue de la Baie. Tenue civile avec bottes de parade.
 
 ## Sondage camp d'été et NECPC
 
