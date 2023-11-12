@@ -24,9 +24,9 @@ Tenue C5, avec en plus le manteau des cadets.
 
 Pour les recrues qui ont sauté de niveau dû à leur âge, il y aura une journée de formation intensive de mise à niveau pour l'instruction que vous avez sauté. Le critère d'éligibilité est d'avoir 13 ans au 1er septembre 2023. 
 
-Tenue civile, apportez vos bottes de parade et votre ensemble de cirage. 8h à 16h, lieu à être déterminé (100 rue de la Baie ou 52 Saint-Rosaire), apportez un lunch froid.
+Tenue civile, apportez vos bottes de parade et votre ensemble de cirage. 8h à 16h, 100 rue de la Baie, apportez un lunch froid.
 
-## Musique (hebdomadaire) et clinique musicale du 18 novembre
+## Musique hebdomadaire et clinique musicale du 18 novembre
 
 Les pratiques régulières de la musique débutent ce dimanche. Que vous ayez déjà donné votre nom ou non, merci de remplir le sondage suivant : [Sondage de participation hebdomadaire à la musique](https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOUFVVVJTRUxBRVFEMElFOExaRFA0RFlGUyQlQCN0PWcu)
 
