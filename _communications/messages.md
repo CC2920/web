@@ -50,11 +50,11 @@ Comme l'année passée, l'activité consiste en la distribution en porte-à-port
 
 Pour les anciens seulement, les séances de tir du lundi soir ont lieu au [100 rue de la Baie](/information/comment-nous-rejoindre/) de 18h à 20h30.
 
-Les recrues pourront participer aux séances de tir une fois après la passation d'un cours de sécurité sur le tir, prévu le 10 novembre pour les verts et le 18 novembre pour ceux qui ont sauté de niveau.
+Les recrues qui ont passé le test de manutention d'arme aussi peuvent venir. Pour ceux qui ont sauté de niveau et les verts qui ont manqué l'occasion vendredi passé, le test aura lieu le 18 novembre.
 
 ## Peloton de précision
 
-Le peloton de précision débute ce mercredi de 18h30 à 20h30 au 100 rue de la Baie. Tenue civile avec bottes de parade.
+Le peloton de précision a lieu les mercredis de 18h30 à 20h30 au 100 rue de la Baie. Tenue civile avec bottes de parade.
 
 ## Sondage camp d'été et NECPC
 
