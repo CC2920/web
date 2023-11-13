@@ -14,23 +14,19 @@ activities:
       title: course guignolée
 
 ---
-## Soirée du 10 novembre
+## Soirée du 17 novembre
 
-Tenue C5
+Tenue C5, avec en plus le manteau des cadets.
 
-## Parade du jour du Souvenir 11 novembre
-
-Le corps de cadets participera au défilé du jour du Souvenir de Gatineau. Rendez-vous à 13h au 86 rue de la Baie en tenue C3 avec tuque et manteau. Le tout se terminera vers 15h30.
-
-Pour les parents qui souhaitent assister à l'événement, la cérémonie en tant que telle aura lieu au cénotaphe [angle Gréber et St-Louis](https://maps.app.goo.gl/7J7ebBG4ABAzwCeH9), débutant autour de 13h30.
+À partir de ce vendredi jusqu'à l'annonce du contraire au printemps, venez avec le manteau, gants et tuque des cadets en plus de l'uniforme de la soirée. SVP collez un ruban adhésif de type duct tape à l'intérieur du manteau sur lequel vous écrivez votre nom, afin de ne pas mélanger les manteaux.
 
 ## Formation intensive pour recrues 18 novembre
 
 Pour les recrues qui ont sauté de niveau dû à leur âge, il y aura une journée de formation intensive de mise à niveau pour l'instruction que vous avez sauté. Le critère d'éligibilité est d'avoir 13 ans au 1er septembre 2023. 
 
-Tenue civile, apportez vos bottes de parade et votre ensemble de cirage. 8h à 16h, lieu à être déterminé (100 rue de la Baie ou 52 Saint-Rosaire), apportez un lunch froid.
+Tenue civile, apportez vos bottes de parade et votre ensemble de cirage. 8h à 16h, 100 rue de la Baie, apportez un lunch froid.
 
-## Musique (hebdomadaire) et clinique musicale du 18 novembre
+## Musique hebdomadaire et clinique musicale du 18 novembre
 
 Les pratiques régulières de la musique débutent ce dimanche. Que vous ayez déjà donné votre nom ou non, merci de remplir le sondage suivant : [Sondage de participation hebdomadaire à la musique](https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOUFVVVJTRUxBRVFEMElFOExaRFA0RFlGUyQlQCN0PWcu)
 
@@ -54,11 +50,11 @@ Comme l'année passée, l'activité consiste en la distribution en porte-à-port
 
 Pour les anciens seulement, les séances de tir du lundi soir ont lieu au [100 rue de la Baie](/information/comment-nous-rejoindre/) de 18h à 20h30.
 
-Les recrues pourront participer aux séances de tir une fois après la passation d'un cours de sécurité sur le tir, prévu le 10 novembre pour les verts et le 18 novembre pour ceux qui ont sauté de niveau.
+Les recrues qui ont passé le test de manutention d'arme aussi peuvent venir. Pour ceux qui ont sauté de niveau et les verts qui ont manqué l'occasion vendredi passé, le test aura lieu le 18 novembre.
 
 ## Peloton de précision
 
-Le peloton de précision débute ce mercredi de 18h à 20h30 au 100 rue de la Baie. Tenue civile.
+Le peloton de précision a lieu les mercredis de 18h30 à 20h30 au 100 rue de la Baie. Tenue civile avec bottes de parade.
 
 ## Sondage camp d'été et NECPC
 
