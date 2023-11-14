@@ -4,8 +4,6 @@ layout: "messages"
 
 activities: 
 
-    - date: 11 novembre
-      title: parade du jour du Souvenir
     - date: 18 novembre
       title: formation intensive pour recrues et clinique musicale
     - date: 19 novembre
@@ -14,30 +12,25 @@ activities:
       title: course guignolée
 
 ---
-## Soirée du 10 novembre
+## Soirée du 17 novembre
 
-Tenue C5
+[Tenue C5]({{ site.data.hardcodes.url_guide_uniforme }}), avec en plus le manteau des cadets.
 
-## Parade du jour du Souvenir 11 novembre
-
-Le corps de cadets participera au défilé du jour du Souvenir de Gatineau. Rendez-vous à 13h au 86 rue de la Baie en tenue C3 avec tuque et manteau. Le tout se terminera vers 15h30.
-
-Pour les parents qui souhaitent assister à l'événement, la cérémonie en tant que telle aura lieu au cénotaphe [angle Gréber et St-Louis](https://maps.app.goo.gl/7J7ebBG4ABAzwCeH9), débutant autour de 13h30.
+À partir de ce vendredi jusqu'à l'annonce du contraire au printemps, venez avec le manteau, gants et tuque des cadets en plus de l'uniforme de la soirée. SVP collez un ruban adhésif de type duct tape à l'intérieur du manteau sur lequel vous écrivez votre nom, afin de ne pas mélanger les manteaux.
 
 ## Formation intensive pour recrues 18 novembre
 
 Pour les recrues qui ont sauté de niveau dû à leur âge, il y aura une journée de formation intensive de mise à niveau pour l'instruction que vous avez sauté. Le critère d'éligibilité est d'avoir 13 ans au 1er septembre 2023. 
 
-Tenue civile, apportez vos bottes de parade et votre ensemble de cirage. 8h à 16h, lieu à être déterminé (100 rue de la Baie ou 52 Saint-Rosaire), apportez un lunch froid.
+Tenue civile, apportez vos bottes de parade et votre ensemble de cirage. 8h à 16h, 100 rue de la Baie, apportez un lunch froid.
 
-## Musique (hebdomadaire) et clinique musicale du 18 novembre
+## Musique hebdomadaire et clinique musicale du 18 novembre
 
 Les pratiques régulières de la musique débutent ce dimanche. Que vous ayez déjà donné votre nom ou non, merci de remplir le sondage suivant : [Sondage de participation hebdomadaire à la musique](https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOUFVVVJTRUxBRVFEMElFOExaRFA0RFlGUyQlQCN0PWcu)
 
 Les cadets musiciens des différentes unités de cadets de la région se rencontreront les DIMANCHE matin 9h-12h au Régiment de Hull au 188 Alexandre-Taché Blvd, Gatineau, Quebec J8Y 3L5 (pour l'instant). La tenue est civile. 
-Les cadets du 2920 sont encouragés à venir à partir de la semaine prochaine, le 12 novembre
 
-La clinique musicale de la région de l'Outaouais aura lieu le 18 novembre de 9h à 17h au [1900 Dauphin Road, Ottawa](https://maps.app.goo.gl/R4ChrHnirSbvJaXa6). C'est l'occasion pour les cadets musiciens, nouveaux ou non, de recevoir une formation intensive pour débuter l'année. Écrivez-nous au <2920armee@cadets.gc.ca> avec votre nom et l'instrument que vous dériez jouer si vous voulez vous inscrire et n'avez pas encore donné votre nom. Vous êtes responsable de votre transport et repas, tenue [C3C](https://www.cc2920.ca/docs/ressources/guide_uniforme.v3.pdf).
+La clinique musicale de la région de l'Outaouais aura lieu le 18 novembre de 9h à 17h au [1900 Dauphin Road, Ottawa](https://maps.app.goo.gl/R4ChrHnirSbvJaXa6). C'est l'occasion pour les cadets musiciens, nouveaux ou non, de recevoir une formation intensive pour débuter l'année. Écrivez-nous au <2920armee@cadets.gc.ca> avec votre nom et l'instrument que vous dériez jouer si vous voulez vous inscrire et n'avez pas encore donné votre nom. Vous êtes responsable de votre transport et repas, tenue [C3C]{{ site.data.hardcodes.url_guide_uniforme }}.
 
 Il n'est pas nécessaire d'avoir de l'expérience préalable pour participer aux activités de musique.
 
@@ -54,12 +47,23 @@ Comme l'année passée, l'activité consiste en la distribution en porte-à-port
 
 Pour les anciens seulement, les séances de tir du lundi soir ont lieu au [100 rue de la Baie](/information/comment-nous-rejoindre/) de 18h à 20h30.
 
-Les recrues pourront participer aux séances de tir une fois après la passation d'un cours de sécurité sur le tir, prévu le 10 novembre pour les verts et le 18 novembre pour ceux qui ont sauté de niveau.
+Les recrues qui ont passé le test de manutention d'arme aussi peuvent venir. Pour ceux qui ont sauté de niveau et les verts qui ont manqué l'occasion vendredi passé, le test aura lieu le 18 novembre.
 
 ## Peloton de précision
 
-Le peloton de précision débute ce mercredi de 18h à 20h30 au 100 rue de la Baie. Tenue civile.
+Le peloton de précision a lieu les mercredis de 18h30 à 20h30 au [100 rue de la Baie](/information/comment-nous-rejoindre/). Tenue civile avec bottes de parade.
 
 ## Sondage camp d'été et NECPC
 
 Le national qui s'occupe des grandes lignes du programme des cadets fait un sondage concernant les camps d'été et la mise à jour du test de conditionnement physique des cadets. Tous les cadets sont invités à y participer. Voici le [Sondage d'été 2023](https://interceptum.com/si/fr/6702493)
+
+
+## Tirage d'un panier cadeau
+
+Le comité de soutien organise un tirage d'un panier cadeau contenant des cartes cadeaux et bouteilles de vin (d'une valeur totale approximative de 160,00 $) au profit du CC2920. Le tirage et la remise du panier se fera le 17 décembre. 
+
+30 billets par cadets seront distribués ce vendredi. Chaque billet se vend 0,99 $. (18 ans et plus pour participer)
+
+Pour les cadets et cadettes, il y aura également des prix pour celui ou celle ayant vendu(e) le plus de billets, ainsi qu’un prix pour le billet qui aura été tiré (le billet gagnant), et un dernier prix pour la participation.
+
+
