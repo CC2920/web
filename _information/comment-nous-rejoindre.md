@@ -49,16 +49,16 @@ Pour des renseignements spécifiques sur le corps de cadets 2920 Gatineau ou sur
 
 Si vous avez des questions ou commentaires portant sur les cadets de l'armée au Québec, veuillez communiquer avec l'Unité Régionale de Soutien aux Cadets (Québec et Vallée de l'Outaouais) au 1-800-681-8180 ou par courriel: <ursce.ap@forces.gc.ca>
 
-Si vous avez des questions ou commentaires portant sur le programme des cadets ou sur les cadets de l'armée de façon générale, veuillez communiquer avec les [Affaires publiques du Chef Réserves et Cadets]({{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.site-defense-nationale-coodonnees }}), au Quartier général de la Défense nationale, à Ottawa.
+Si vous avez des questions ou commentaires portant sur le programme des cadets ou sur les cadets de l'armée de façon générale, veuillez communiquer avec les [Affaires publiques du Chef Réserves et Cadets]({{ site.data.hardcodes.site-defense-nationale-coodonnees }}), au Quartier général de la Défense nationale, à Ottawa.
 
 
 ## Réseaux sociaux et communications
 
 ### Facebook
-Nous avons une présence sur Facebook avec une [page officielle du 2920]({{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.facebook-page }}), et un [groupe privé]({{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.facebook-group }}).
+Nous avons une présence sur Facebook avec une [page officielle du 2920]({{ site.data.hardcodes.facebook-page }}), et un [groupe privé]({{ site.data.hardcodes.facebook-group }}).
 
 ### Le Groupe des anciens
-Nous invitons les anciens cadets/cadettes, officiers, instructeurs et bénévoles du comité de soutien depuis 1973 à se joindre au groupe Facebook des [Anciens du 2920 Gatineau]({{ site.url }}{{ site.baseurl }}{{ site.data.hardcodes.facebook-group-anciens }}). 
+Nous invitons les anciens cadets/cadettes, officiers, instructeurs et bénévoles du comité de soutien depuis 1973 à se joindre au groupe Facebook des [Anciens du 2920 Gatineau]({{ site.data.hardcodes.facebook-group-anciens }}). 
 
 ### Nos communiqués
 
