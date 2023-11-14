@@ -56,3 +56,14 @@ Le peloton de précision a lieu les mercredis de 18h30 à 20h30 au [100 rue de l
 ## Sondage camp d'été et NECPC
 
 Le national qui s'occupe des grandes lignes du programme des cadets fait un sondage concernant les camps d'été et la mise à jour du test de conditionnement physique des cadets. Tous les cadets sont invités à y participer. Voici le [Sondage d'été 2023](https://interceptum.com/si/fr/6702493)
+
+
+## Tirage d'un panier cadeau
+
+Le comité de soutien organise un tirage d'un panier cadeau contenant des cartes cadeaux et bouteilles de vin (d'une valeur totale approximative de 160,00 $) au profit du CC2920. Le tirage et la remise du panier se fera le 17 décembre. 
+
+30 billets par cadets seront distribués ce vendredi. Chaque billet se vend 0,99 $. (18 ans et plus pour participer)
+
+Pour les cadets et cadettes, il y aura également des prix pour celui ou celle ayant vendu(e) le plus de billets, ainsi qu’un prix pour le billet qui aura été tiré (le billet gagnant), et un dernier prix pour la participation.
+
+
