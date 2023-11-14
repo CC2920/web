@@ -28,9 +28,9 @@ Tenue civile, apportez vos bottes de parade et votre ensemble de cirage. 8h à 1
 
 Les pratiques régulières de la musique débutent ce dimanche. Que vous ayez déjà donné votre nom ou non, merci de remplir le sondage suivant : [Sondage de participation hebdomadaire à la musique](https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOUFVVVJTRUxBRVFEMElFOExaRFA0RFlGUyQlQCN0PWcu)
 
-Les cadets musiciens des différentes unités de cadets de la région se rencontreront les DIMANCHE matin 9h-12h au Régiment de Hull au 188 Alexandre-Taché Blvd, Gatineau, Quebec J8Y 3L5 (pour l'instant). La tenue est civile. 
+Les cadets musiciens des différentes unités de cadets de la région se rencontreront les dimanche matins de 9h-12h au Régiment de Hull au 188 Alexandre-Taché Blvd, Gatineau, Quebec J8Y 3L5 (pour l'instant). La tenue est civile. 
 
-La clinique musicale de la région de l'Outaouais aura lieu le 18 novembre de 9h à 17h au [1900 Dauphin Road, Ottawa](https://maps.app.goo.gl/R4ChrHnirSbvJaXa6). C'est l'occasion pour les cadets musiciens, nouveaux ou non, de recevoir une formation intensive pour débuter l'année. Écrivez-nous au <2920armee@cadets.gc.ca> avec votre nom et l'instrument que vous dériez jouer si vous voulez vous inscrire et n'avez pas encore donné votre nom. Vous êtes responsable de votre transport et repas, tenue [C3C]{{ site.data.hardcodes.url_guide_uniforme }}.
+La clinique musicale de la région de l'Outaouais aura lieu le 18 novembre de 9h à 17h au [1900 Dauphin Road, Ottawa](https://maps.app.goo.gl/R4ChrHnirSbvJaXa6). C'est l'occasion pour les cadets musiciens, nouveaux ou non, de recevoir une formation intensive pour débuter l'année. Écrivez-nous au <2920armee@cadets.gc.ca> avec votre nom et l'instrument que vous dériez jouer si vous voulez vous inscrire et n'avez pas encore donné votre nom. Vous êtes responsable de votre transport et repas, tenue [C3C]({{ site.data.hardcodes.url_guide_uniforme }}).
 
 Il n'est pas nécessaire d'avoir de l'expérience préalable pour participer aux activités de musique.
 
