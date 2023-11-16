@@ -14,19 +14,18 @@ les-cadets-major:
     - cadet:
       name: "Adjuc Lahmya Chapleau"
       title: "Cadet-commandant"
-      picture: 
+      picture:
 
     - cadet:
       name: "Adjum Mathis Lalonde"
       title: "Adjudant-Maitre de parade"
-      picture: 
+      picture:
 
     - cadet:
       name: "Adjum Zakaryane Geron"
       title: "Adjudant-Maitre Instruction"
-      picture: 
+      picture:
 
-			
 # Chaque groupe contient une list d'items représentant un cadet(te).
 #
 # Chaque items dand la liste représentant un cadet peut contenur son nom, le titre (grade) et l'URL de sa photo. 
@@ -82,9 +81,7 @@ les-cadets-cadres:
     - cadet: 
       name: Adj Samuel Leduc
       title: Senior responsable niveau Vert
-      picture:        
-
-		
+      picture:
 ---
 
 
