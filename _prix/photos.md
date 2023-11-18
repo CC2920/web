@@ -158,4 +158,14 @@ title: "Galerie de photos"
 
 ### 2022-present
 
-* novembre 2022 - [Parade du Souvenir](https://photos.app.goo.gl/1MffXfa6gbsucscN9)
+* [49e revue annuelle - juin 2022](https://photos.app.goo.gl/gFPQfYLVHjQow3Fr5)
+* [Parade du commandant - novembre 2022](https://photos.app.goo.gl/frSb64NAkAQsdMuZA)
+* [Parade du Souvenir - novembre 2022](https://photos.app.goo.gl/1MffXfa6gbsucscN9)
+* [Parade du 50e - janvier 2023](https://photos.app.goo.gl/htQx9BcGTKdMzmxp7)
+* [Parade du commandant - mars 2023](https://photos.app.goo.gl/Md6KhcRNp3gV3L8T9)
+* [Souper régimentaire - avril 2023](https://photos.app.goo.gl/5qNCYtQEmG24RUdw6)
+* [Gala - mai 2023](https://photos.app.goo.gl/7ymPZMjSz1PYLrHq9)
+* [Cérémonial 2023 (50e)](https://photos.app.goo.gl/QkHNrBXTNJNyW94v8)
+* [Parade du commandant - septembre 2023](https://photos.app.goo.gl/iBau7ejWwCGdvKuGA)
+* [Parade du commandant - novembre 2023](https://photos.app.goo.gl/NGBgJUqdrbdvoLab8)
+* [Parade du Souvenir - novembre 2023](https://photos.app.goo.gl/iyeY7XVQ6BJ5TLp59)
