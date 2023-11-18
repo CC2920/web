@@ -9,7 +9,7 @@ le-personnel:
     email: 
   
   - personnel:
-    picture: /docs/personnel/Hu.Zjpg
+    picture: 
     name: Capt Zhebin HU
     title: Officier d’entrainement
     email: 
