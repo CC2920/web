@@ -2,53 +2,59 @@
 title:  "Le Personnel"  
 
 le-personnel:
-    - personnel:
-      picture: /docs/personnel/Martel.M.jpg
-      name: Capt Mario Martel
-      title: Commandant
-      email: 
-    
-    - personnel:
-      picture: /docs/personnel/Hu.Zjpg
-      name: Capt Zhebin Hu
-      title: Officier d'entraînement
-      email: 
-    
-    - personnel:
-      picture: 
-      name: Lt Sandrine Larchet
-      title: Officier d'administration
-      email: 
-    
-    - personnel: 
-      picture: 
-      name: Lt Sylvie Simard
-      title: Officier d'approvisionnement
-      email: 
-    
-    - personnel: 
-      picture: 
-      name: Elof Amélie Joncas
-      title: Responsable de niveau
-      email: 
-    
-    - personnel: 
-      picture: /docs/personnel/Myre.L.jpg
-      name: Adjuc. Louis Myre
-      title: Officier d'instruction 
-      email: 
-     
-    - personnel: 
-      picture: 
-      name: Cpl Sam Tremblay-Germain
-      title: Officier d'instruction 
-      email:  
+  - personnel:
+    picture: /docs/personnel/Martel.M.jpg
+    name: Capt Mario Martel CD2
+    title: Commandant
+    email: 
+  
+  - personnel:
+    picture: 
+    name: Capt Zhebin HU
+    title: Officier d’entrainement
+    email: 
 
-    - personnel: 
-      picture: 
-      name: IC Steve Duval
-      title: Officier d'instruction 
-      email: 
+  - personnel:
+    picture: 
+    name: Capt T Levasseur
+    title: Officier d’administration
+    email: 
+  
+  - personnel:
+    picture: 
+    name: Lt Sylivie Simard
+    title: Officier d’approvisionnement
+    email: 
+
+  - personnel:
+    picture: 
+    name: I.C. Frank Metlej
+    title: Responsable Niveau Or
+    email: 
+
+  - personnel:
+    picture: 
+    name: Sdt Sam Tremblay-Germain
+    title: Responsable Niveau Argent
+    email: 
+
+  - personnel:
+    picture: 
+    name: Elof Amelie Joncas
+    title: Responsable Niveau Rouge
+    email: 
+  
+  - personnel:
+    picture: 
+    name: Cpl Brain Laberge
+    title: Responsable Niveau Vert
+    email: 
+
+  - personnel:
+    picture: 
+    name: I.C. Beata Rus
+    title: Responsable Niveau Vert
+    email:
 ---
 
 Voici l'équipe des adultes responsables de nos cadets.
