@@ -2,6 +2,25 @@
 title:  "Financement"
 ---
 
+### Panier cadeau pour le temps des fêtes
+
+Le comité de soutien organise un tirage d'un panier cadeau (d'une valeur totale approximative de 160,00 $) au profit du CC2920. Le tirage et la remise du panier se fera le 17 décembre. 
+
+![Panier cadeau pour le tirage](panier-cadeau-2023.jpg)
+
+Le panier contient :
+- 3 bouteilles de vins de 15$, 
+- 5 cartes cadeaux de 25$, 
+- chandelle,
+- sachets épicure, 
+- billets pour achats à la cantine des cadets,
+- ensemble de cire (linge et brosse) pour les bottes des cadets
+
+
+Chaque billet se vend 0,99 $. (18 ans et plus pour participer). 30 billets ont été remis à chaque cadet mais des billets additionnels seront en vente à la cantine. 
+
+Bonne chance !
+
 
 ### Cartes-cadeaux - Achat (Fundscrip)
 
