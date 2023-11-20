@@ -20,6 +20,12 @@ Jusqu'à l'annonce du contraire au printemps, venez avec le manteau, gants et tu
 
 Comme l'année passée, l'activité consiste en la distribution en porte-à-porte d'enveloppe de dons pour la paroisse Jean XXIII dans le cadre de la Guignolée de Noël. Elle aura lieu de 10h à 13h. Nous aurons aussi besoin de parents avec véhicule.
 
+## Musique 26 novembre
+
+Une pratique de la musique conjointe aura lieu ce dimanche le 26 novembre au Régiment de Hull (188 Alexandre-Taché Blvd, Gatineau), mais ce sera exceptionnellement de 10 à 12h, puisque le Régiment est occupé avant 10h. Apportez votre instrument de musique : allez voir Mme Rus ce vendredi soir pour recevoir votre instrument, ou mercredi si vous serez absent vendredi. Vous n'avez pas besoin d'expérience musicale pour joindre la musique. 
+
+Merci à ceux qui ont participé à la clinique musicale samedi passé.
+
 ## Tir et peloton de précision
 
 Pour les anciens et les recrues ayant passé le test de manutention d'arme, les séances de tir du lundi soir ont lieu au [100 rue de la Baie](/information/comment-nous-rejoindre/) de 18h à 20h30.
@@ -28,9 +34,9 @@ Le peloton de précision a lieu les mercredis de 18h30 à 20h30 au [100 rue de l
 
 ## Tirage d'un panier cadeau
 
-Le comité de soutien organise un tirage d'un panier cadeau contenant des cartes cadeaux et bouteilles de vin (d'une valeur totale approximative de 160,00 $) au profit du CC2920. Le tirage et la remise du panier se fera le 17 décembre. 
+Le comité de soutien organise un tirage d'un panier cadeau contenant des cartes cadeaux et bouteilles de vin (d'une valeur totale approximative de 160,00 $) au profit du CC2920. Le tirage et la remise du panier se fera le 17 décembre. (18 ans et plus pour participer.)
 
-30 billets par cadet ont été distribués vendredi passé. Chaque billet se vend 0,99 $. (18 ans et plus pour participer)
+30 billets par cadet ont été distribués vendredi passé. Chaque billet se vend 0,99 $. Rapportez l'argent des billets vendus à la cantine les vendredi soirs.
 
 Pour les cadets et cadettes, il y aura également des prix pour celui ou celle ayant vendu(e) le plus de billets, ainsi qu’un prix pour le billet qui aura été tiré (le billet gagnant), et un dernier prix pour la participation.
 
