@@ -12,7 +12,7 @@ activities:
 ---
 ## Soirée du 24 novembre
 
-[Tenue C5]({{ site.data.hardcodes.url_guide_uniforme }}), avec en plus le manteau des cadets.
+Tenue C5, avec en plus le manteau des cadets.
 
 Jusqu'à l'annonce du contraire au printemps, venez avec le manteau, gants et tuque des cadets en plus de l'uniforme de la soirée. SVP collez un ruban adhésif de type duct tape à l'intérieur du manteau sur lequel vous écrivez votre nom, afin de ne pas mélanger les manteaux.
 
