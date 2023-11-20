@@ -17,7 +17,7 @@ Le panier contient :
 - ensemble de cire (linge et brosse) pour les bottes des cadets
 
 
-Chaque billet se vend 0,99 $. (18 ans et plus pour participer). 30 billets ont été remis à chaque cadet mais des billets additionnels seront en vente à la cantine. 
+Chaque billet se vend 0,99 $. (18 ans et plus pour participer). 30 billets ont été remis à chaque cadet mais des billets additionnels seront disponible à la cantine. 
 
 Bonne chance !
 
