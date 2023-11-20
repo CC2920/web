@@ -10,7 +10,7 @@ activities:
       title: activité de Noël en soirée
 
 ---
-## Soirée du 25 novembre
+## Soirée du 24 novembre
 
 [Tenue C5]({{ site.data.hardcodes.url_guide_uniforme }}), avec en plus le manteau des cadets.
 
