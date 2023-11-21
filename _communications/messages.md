@@ -18,7 +18,11 @@ Jusqu'à l'annonce du contraire au printemps, venez avec le manteau, gants et tu
 
 ## Guignolée 25 novembre
 
-Comme l'année passée, l'activité consiste en la distribution en porte-à-porte d'enveloppe de dons pour la paroisse Jean XXIII dans le cadre de la Guignolée de Noël. Elle aura lieu de 10h à 13h. Nous aurons aussi besoin de parents avec véhicule.
+Cette activité consiste en la distribution en porte-à-porte d’enveloppe de dons pour la paroisse Jean XXIII dans le cadre de la Guignolée de Noël. Elle aura lieu de 9h30 à 13h. Nous aurons aussi *besoin de parents avec véhicule*. 
+
+Tenue : civil, avec tuques et gants 
+
+Départ du corps de cadets au [52 St-Rosaire, Gatineau](/information/comment-nous-rejoindre/#le-quartier-maître-52-rue-saint-rosaire)
 
 ## Musique 26 novembre
 
@@ -34,9 +38,9 @@ Le peloton de précision a lieu les mercredis de 18h30 à 20h30 au [100 rue de l
 
 ## Tirage d'un panier cadeau
 
-Le comité de soutien organise un tirage d'un panier cadeau contenant des cartes cadeaux et bouteilles de vin (d'une valeur totale approximative de 160,00 $) au profit du CC2920. Le tirage et la remise du panier se fera le 17 décembre. (18 ans et plus pour participer.)
+Le comité de soutien organise un [tirage d'un panier cadeau](/information/financement/#panier-cadeau-pour-le-temps-des-f%C3%AAtes) au profit du CC2920. Le tirage et la remise du panier se fera le 17 décembre. (18 ans et plus pour participer.)
 
-30 billets par cadet ont été distribués vendredi passé. Chaque billet se vend 0,99 $. Rapportez l'argent et le talon des billets vendus à la cantine les vendredi soirs.
+30 billets ont été remis à chaque cadet mais des billets additionnels seront disponible à la cantine.
 
 Pour les cadets et cadettes, il y aura également des prix pour celui ou celle ayant vendu(e) le plus de billets, ainsi qu’un prix pour le billet qui aura été tiré (le billet gagnant), et un dernier prix pour la participation.
 
