@@ -4,33 +4,21 @@ layout: "messages"
 
 activities: 
 
-    - date: 25 novembre
-      title: guignolée
     - date: 16 décembre
       title: activité de Noël en soirée
 
 ---
-## Soirée du 24 novembre
+## Soirée du 1er décembre
 
-Tenue C5, avec en plus le manteau des cadets.
+Tenue sportive avec le t-shirt de l'unité
 
-Jusqu'à l'annonce du contraire au printemps, venez avec le manteau, gants et tuque des cadets en plus de l'uniforme de la soirée. SVP collez un ruban adhésif de type duct tape à l'intérieur du manteau sur lequel vous écrivez votre nom, afin de ne pas mélanger les manteaux.
+## Biathlon
 
-## Guignolée 25 novembre
+texte
 
-Cette activité consiste en la distribution en porte-à-porte d’enveloppe de dons pour la paroisse Jean XXIII dans le cadre de la Guignolée de Noël. Elle aura lieu de 9h30 à 13h. Nous aurons aussi *besoin de parents avec véhicule*. 
+## Musique, tir et peloton de précision
 
-Tenue : civil, avec tuques et gants 
-
-Départ du corps de cadets au [52 St-Rosaire, Gatineau](/information/comment-nous-rejoindre/#le-quartier-maître-52-rue-saint-rosaire)
-
-## Musique 26 novembre
-
-Une pratique de la musique conjointe aura lieu ce dimanche le 26 novembre au Régiment de Hull (188 Alexandre-Taché Blvd, Gatineau), mais ce sera exceptionnellement de 10 à 12h, puisque le Régiment est occupé avant 10h. Apportez votre instrument de musique : allez voir Mme Rus ce vendredi soir pour recevoir votre instrument, ou mercredi si vous serez absent vendredi. Vous n'avez pas besoin d'expérience musicale pour joindre la musique. 
-
-Merci à ceux qui ont participé à la clinique musicale samedi passé.
-
-## Tir et peloton de précision
+La musique a lieu les dimanches de 9h à 12h au Régiment de Hull (188 Alexandre-Taché Blvd, Gatineau). Apportez votre instrument.
 
 Pour les anciens et les recrues ayant passé le test de manutention d'arme, les séances de tir du lundi soir ont lieu au [100 rue de la Baie](/information/comment-nous-rejoindre/) de 18h à 20h30.
 
@@ -40,7 +28,7 @@ Le peloton de précision a lieu les mercredis de 18h30 à 20h30 au [100 rue de l
 
 Le comité de soutien organise un [tirage d'un panier cadeau](/information/financement/#panier-cadeau-pour-le-temps-des-f%C3%AAtes) au profit du CC2920. Le tirage et la remise du panier se fera le 17 décembre. (18 ans et plus pour participer.)
 
-30 billets ont été remis à chaque cadet mais des billets additionnels seront disponible à la cantine.
+30 billets ont été remis à chaque cadet mais des billets additionnels seront disponible à la cantine. Rapportez l'argent et les talons de billets vendus à la cantine, au plus tard le 15 décembre.
 
 Pour les cadets et cadettes, il y aura également des prix pour celui ou celle ayant vendu(e) le plus de billets, ainsi qu’un prix pour le billet qui aura été tiré (le billet gagnant), et un dernier prix pour la participation.
 
