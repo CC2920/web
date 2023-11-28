@@ -34,6 +34,8 @@ Grandeur disponible adulte : S, M, L, XL
 
 Pour passer une commande veuillez écrire à cciv2920@gmail.com en indiquant clairement le nom du cadet(te), la quantité, la grandeur, AVEC ou SANS nom de famille. Puis, envoyer votre transfert électronique à cette même adresse avant le 8 décembre. Il est aussi possible de commander et payer directement à la cantine,  au plus tard le 8 décembre.
 
+![Chandail conton-ouaté]({{ site.baseurl }}/docs/accessoires/chandail-coton-ouate-rouge.jpg)
+
 ## Tirage d'un panier cadeau
 
 Le comité de soutien organise un [tirage d'un panier cadeau](/information/financement/#panier-cadeau-pour-le-temps-des-f%C3%AAtes) au profit du CC2920. Le tirage et la remise du panier se fera le 17 décembre. (18 ans et plus pour participer.)
