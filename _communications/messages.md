@@ -27,6 +27,7 @@ Le peloton de précision a lieu les mercredis de 18h30 à 20h30 au [100 rue de l
 Le comité de soutien vous offre l'opportunité unique de commander un coton ouaté du CC2920 qui pourra être porté lors de vos activités tel que le t-shirt rouge. Il aura le logo en arrière et 2920 / Fierté et Excellence en avant.
 
 Avec nom de famille: 45.00$
+
 Sans nom: 40.00$
 
 Grandeur disponible adulte : S, M, L, XL
