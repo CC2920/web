@@ -12,17 +12,26 @@ activities:
 
 Tenue sportive avec le t-shirt de l'unité
 
-## Biathlon
+## Activités optionnelles
 
-texte
+La musique a lieu les dimanches au Régiment de Hull (188 Alexandre-Taché Blvd, Gatineau) de 8h45h à 13h. Apportez votre instrument.
 
-## Musique, tir et peloton de précision
+Le biathlon a lieu les dimanches au parc du Lac-Beauchamp de 9h à 12h. Tenue civile avec bouteille d'eau.
 
-La musique a lieu les dimanches de 9h à 12h au Régiment de Hull (188 Alexandre-Taché Blvd, Gatineau). Apportez votre instrument.
-
-Pour les anciens et les recrues ayant passé le test de manutention d'arme, les séances de tir du lundi soir ont lieu au [100 rue de la Baie](/information/comment-nous-rejoindre/) de 18h à 20h30.
+Le tir a lieu le lundi soir au [100 rue de la Baie](/information/comment-nous-rejoindre/) de 18h à 20h30.
 
 Le peloton de précision a lieu les mercredis de 18h30 à 20h30 au [100 rue de la Baie](/information/comment-nous-rejoindre/). Tenue civile avec bottes de parade.
+
+## Commande de coton ouaté
+
+Le comité de soutien vous offre l'opportunité unique de commander un coton ouaté du CC2920 qui pourra être porté lors de vos activités tel que le t-shirt rouge. Il aura le logo en arrière et 2920 / Fierté et Excellence en avant.
+
+Avec nom de famille: 45.00$
+Sans nom: 40.00$
+
+Grandeur disponible adulte : S, M, L, XL
+
+Pour passer une commande veuillez écrire à cciv2920@gmail.com en indiquant clairement le nom du cadet(te), la quantité, la grandeur, AVEC ou SANS nom de famille. Puis, envoyer votre transfert électronique à cette même adresse avant le 8 décembre. Il est aussi possible de commander et payer directement à la cantine,  au plus tard le 8 décembre.
 
 ## Tirage d'un panier cadeau
 
