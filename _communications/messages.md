@@ -5,12 +5,14 @@ layout: "messages"
 activities: 
 
     - date: 16 décembre
-      title: activité de Noël en soirée
+      title: activité de Noël
 
 ---
-## Soirée du 1er décembre
+## Soirée du 8 décembre
 
-Tenue sportive avec le t-shirt de l'unité
+Tenue C1
+
+Les parents sont invités à assister à la parade du commandant qui débutera à 20h15.
 
 ## Activités optionnelles
 
@@ -43,6 +45,10 @@ Le comité de soutien organise un [tirage d'un panier cadeau](/information/finan
 30 billets ont été remis à chaque cadet mais des billets additionnels seront disponible à la cantine. Rapportez l'argent et les talons de billets vendus à la cantine, au plus tard le 15 décembre.
 
 Pour les cadets et cadettes, il y aura également des prix pour celui ou celle ayant vendu(e) le plus de billets, ainsi qu’un prix pour le billet qui aura été tiré (le billet gagnant), et un dernier prix pour la participation.
+
+## Activité de Noël 16 décembre
+
+texte
 
 ## Congé des fêtes
 
