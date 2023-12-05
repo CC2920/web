@@ -5,36 +5,35 @@ layout: "messages"
 activities: 
 
     - date: 16 décembre
-      title: activité de Noël
+      title: activité de Noël en soirée
 
 ---
 ## Soirée du 8 décembre
 
-Tenue C1
+Tenue de cérémonie C1A
 
 Les parents sont invités à assister à la parade du commandant qui débutera à 20h15.
 
 ## Activités optionnelles
 
-La musique a lieu les dimanches au Régiment de Hull (188 Alexandre-Taché Blvd, Gatineau) de 8h45h à 13h. Apportez votre instrument.
+- La musique a lieu cette semaine au [Centre Eugène Sauvageau, 179 Mutchmore](https://www.gatineau.ca/portail/default.aspx?p=ado_gatineau/details&id=1686) de 8h45 à 13h00. Apportez votre instrument.
 
-Le biathlon a lieu les dimanches au parc du Lac-Beauchamp de 9h à 12h. Tenue civile avec bouteille d'eau.
+- Le biathlon a lieu cette semaine samedi 9 décembre au parc du Lac-Beauchamp de 9h00 à 12h00. Tenue civile avec bouteille d’eau.
 
-Le tir a lieu le lundi soir au [100 rue de la Baie](/information/comment-nous-rejoindre/) de 18h à 20h30.
+- Le tir a lieu le lundi soir au [100 rue de la Baie](/information/comment-nous-rejoindre/) de 18h à 20h30.
 
-Le peloton de précision a lieu les mercredis de 18h30 à 20h30 au [100 rue de la Baie](/information/comment-nous-rejoindre/). Tenue civile avec bottes de parade.
+- Le peloton de précision a lieu les mercredis de 18h30 à 20h30 au [100 rue de la Baie](/information/comment-nous-rejoindre/). Tenue civile avec bottes de parade.
 
 ## Commande de coton ouaté
 
 Le comité de soutien vous offre l'opportunité unique de commander un coton ouaté du CC2920 qui pourra être porté lors de vos activités tel que le t-shirt rouge. Il aura le logo en arrière et 2920 / Fierté et Excellence en avant.
 
-Avec nom de famille: 45.00$
-
-Sans nom: 40.00$
+- Avec nom de famille: 45.00$
+- Sans nom: 40.00$
 
 Grandeur disponible adulte : S, M, L, XL
 
-Pour passer une commande veuillez écrire à cciv2920@gmail.com en indiquant clairement le nom du cadet(te), la quantité, la grandeur, AVEC ou SANS nom de famille. Puis, envoyer votre transfert électronique à cette même adresse avant le 8 décembre. Il est aussi possible de commander et payer directement à la cantine,  au plus tard le 8 décembre.
+Pour passer une commande veuillez écrire à <cciv2920@gmail.com> en indiquant clairement le nom du cadet(te), la quantité, la grandeur, AVEC ou SANS nom de famille. Puis, envoyer votre transfert électronique à cette même adresse avant le 8 décembre. Il est aussi possible de commander et payer directement à la cantine,  au plus tard le 8 décembre.
 
 ![Chandail conton-ouaté]({{ site.baseurl }}/docs/accessoires/chandail-coton-ouate-rouge.jpg)
 
@@ -48,7 +47,7 @@ Pour les cadets et cadettes, il y aura également des prix pour celui ou celle a
 
 ## Activité de Noël 16 décembre
 
-texte
+L'activité de Noël aura lieu le 16 décembre de 18h00 à 21h00 au centre communautaire Daniel-Lafortune. Nous vous attendons pour manger un chaleureux repas de Pizza. Afin de combler le menu, nous vous invitons sur une base volontaire seulement de partager vos meilleures recettes d'entrée ou de desserts (aucun repas principal). Suite au sondages, vendredi le 8 décembre, nous allons vous donner de plus ample information sur les portions nécessaires. Nos cadets du niveau Argent vous ont également concocté une panoplie d'activités afin de rendre cette soirée mémorable entre pairs. Une tenue civile décontractée sera de mise pour toute la soirée. Noté que cette activité est réservée seulement aux cadets du CC2920.
 
 ## Congé des fêtes
 
