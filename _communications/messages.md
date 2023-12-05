@@ -47,7 +47,11 @@ Pour les cadets et cadettes, il y aura également des prix pour celui ou celle a
 
 ## Activité de Noël 16 décembre
 
-L'activité de Noël aura lieu le 16 décembre de 18h00 à 21h00 au centre communautaire Daniel-Lafortune. Nous vous attendons pour manger un chaleureux repas de Pizza. Afin de combler le menu, nous vous invitons sur une base volontaire seulement de partager vos meilleures recettes d'entrée ou de desserts (aucun repas principal). Suite au sondages, vendredi le 8 décembre, nous allons vous donner de plus ample information sur les portions nécessaires. Nos cadets du niveau Argent vous ont également concocté une panoplie d'activités afin de rendre cette soirée mémorable entre pairs. Une tenue civile décontractée sera de mise pour toute la soirée. Noté que cette activité est réservée seulement aux cadets du CC2920.
+L'activité de Noël aura lieu le 16 décembre de 18h00 à 21h00 au centre communautaire Daniel-Lafortune. Nous vous attendons pour manger un chaleureux repas de Pizza. 
+
+Afin de combler le menu, nous vous invitons sur une base volontaire seulement de partager vos meilleures recettes d'entrée ou de desserts (aucun repas principal). Nous vous demandons de préciser via le forumaire suivant: [Sondage pour recettes d'entrée ou de dessert](https://docs.google.com/forms/d/1J6YdqhwHDx6cPpP3sGqSe9_DqLdm2dKZ-iSvYCB24pM/edit). Suite au sondages, vendredi le 8 décembre, nous allons vous donner de plus ample information sur les portions nécessaires. 
+
+Nos cadets du niveau Argent vous ont également concocté une panoplie d'activités afin de rendre cette soirée mémorable entre pairs. Une tenue civile décontractée sera de mise pour toute la soirée. Noté que cette activité est réservée seulement aux cadets du CC2920.
 
 ## Congé des fêtes
 
