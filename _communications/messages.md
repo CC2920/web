@@ -16,7 +16,7 @@ Les parents sont invités à assister à la parade du commandant qui débutera �
 
 ## Activités optionnelles
 
-- La musique a lieu cette semaine au [Centre Eugène Sauvageau, 179 Mutchmore](https://www.gatineau.ca/portail/default.aspx?p=ado_gatineau/details&id=1686) de 8h45 à 13h00. Apportez votre instrument.
+- La musique a lieu cette semaine au [Centre communautaire St-Jean-Breboeuf, 70 Rue Moreau de 8h45 à 13h00. Apportez votre instrument.
 
 - Le biathlon a lieu cette semaine samedi 9 décembre au parc du Lac-Beauchamp de 9h00 à 12h00. Tenue civile avec bouteille d’eau.
 
