@@ -16,7 +16,7 @@ Les parents sont invités à assister à la parade du commandant qui débutera �
 
 ## Activités optionnelles
 
-- La musique a lieu cette semaine au [Centre Communautaire St-Jean-Breboeuf, 70 Rue Moreau,Gatineau](de 8h45 à 13h00. Apportez votre instrument.
+- La musique a lieu cette semaine au Centre Communautaire St-Jean-Breboeuf, [70 Rue Moreau, Gatineau]([70 Rue Moreau, Gatineau, QC J8T 3Y7](https://maps.app.goo.gl/iY47mRkMx19DxnWNA)) de 8h45 à 13h00. Apportez votre instrument.
 
 - Le biathlon a lieu cette semaine samedi 9 décembre au parc du Lac-Beauchamp de 9h00 à 12h00. Tenue civile avec bouteille d’eau.
 
