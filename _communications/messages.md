@@ -14,6 +14,8 @@ Tenue C5 pour tous
 
 ## Activités optionnelles
 
+Les activités optionnelles seront en pause du 18 décembre au 7 janvier.
+
 - La musique a lieu cette semaine au Centre Communautaire St-Jean-Brébeuf, [70 Rue Moreau, Gatineau](https://maps.app.goo.gl/iY47mRkMx19DxnWNA) de 8h45 à 13h00. Apportez votre instrument.
 
 - Le biathlon a lieu cette semaine samedi 9 décembre au parc du Lac-Beauchamp de 9h00 à 12h00. Tenue civile avec bouteille d’eau.
