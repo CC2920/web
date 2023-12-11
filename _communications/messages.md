@@ -6,7 +6,10 @@ layout: "messages"
 ## Soirée du 15 décembre
 
 Tenue sportive avec t-shirt rouge pour le niveau vert
+
 C5 pour les autres
+
+Niveau or, pensez à sur quel niveau vous voulez être après Noël, on va vous poser la question ce vendredi.
 
 ## Activités optionnelles
 
