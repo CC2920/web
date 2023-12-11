@@ -45,3 +45,7 @@ Nos cadets du niveau argent vous ont également concocté une panoplie d'activit
 ## Congé des fêtes
 
 Il n'y aura pas de soirée d'instruction les 22 et 29 décembre et le 5 janvier.
+
+## Dons
+
+Il est possible de faire des dons au Comité de soutien du Corps de cadets pour appuyer les activités supplémentaires qui se déroulent tout au long de l'année.  Voir les opinions sur le site Web et communiquez avec le cciv2920@gmail.com si vous avez des questions.  
