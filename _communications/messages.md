@@ -2,40 +2,33 @@
 title:  "Messages de la semaine"
 layout: "messages"
 
-activities: 
-
-    - date: 16 décembre
-      title: activité de Noël en soirée
-
 ---
-## Soirée du 8 décembre
+## Soirée du 15 décembre
 
-Tenue de cérémonie C1A
+Tenue sportive avec t-shirt rouge pour le niveau vert
 
-Les parents sont invités à assister à la parade du commandant qui débutera à 20h15.
+C5 pour les autres
+
+Niveau or, pensez à sur quel niveau vous voulez être après Noël, on va vous poser la question ce vendredi.
 
 ## Activités optionnelles
 
-- La musique a lieu cette semaine au Centre Communautaire St-Jean-Breboeuf, [70 Rue Moreau, Gatineau](https://maps.app.goo.gl/iY47mRkMx19DxnWNA) de 8h45 à 13h00. Apportez votre instrument.
+Les activités optionnelles seront en pause du 20 décembre au 7 janvier.
 
-- Le biathlon a lieu cette semaine samedi 9 décembre au parc du Lac-Beauchamp de 9h00 à 12h00. Tenue civile avec bouteille d’eau.
+- Le tir a lieu lieu le lundi 11 décembre de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
-- Le tir a lieu le lundi soir au [100 rue de la Baie](/information/comment-nous-rejoindre/) de 18h à 20h30.
+- Le peloton de précision a lieu le mercredi 13 décembre de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade.
 
-- Le peloton de précision a lieu les mercredis de 18h30 à 20h30 au [100 rue de la Baie](/information/comment-nous-rejoindre/). Tenue civile avec bottes de parade.
+- Le biathlon a lieu le samedi 16 décembre de 9h00 à 12h30. Tenue civile au Camp Forture, 300 Chemin Dunlop. Apportez l'équipement ainsi qu'une bouteille d’eau et collation energétique.
 
-## Commande de coton ouaté
+- La musique a lieu le dimanche 17 décembre de 8h45 à 13h00. Tenue civile au Manège Militaire de Hull, 188 Boulevard Alexandre-taché. Apportez votre instrument.
 
-Le comité de soutien vous offre l'opportunité unique de commander un coton ouaté du CC2920 qui pourra être porté lors de vos activités tel que le t-shirt rouge. Il aura le logo en arrière et 2920 / Fierté et Excellence en avant.
+## Biathlon
 
-- Avec nom de famille: 45.00$
-- Sans nom: 40.00$
+- Les cadets qui participe au programme de biathlon cette année doivent venir chercher leur équipemnt mardi le 12 décembre au corps de cadets entre 18h00 et 19h00.
 
-Grandeur disponible adulte : S, M, L, XL
+- Les cadets qui ont encore leur manteau de biathlon et qui ne participe pas cette année au biathlon doivent rapporter leur manteau et s'ils ont encore de l'équipement le vendredi le 15 décembre.
 
-Pour passer une commande veuillez écrire à <cciv2920@gmail.com> en indiquant clairement le nom du cadet(te), la quantité, la grandeur, AVEC ou SANS nom de famille. Puis, envoyer votre transfert électronique à cette même adresse avant le 8 décembre. Il est aussi possible de commander et payer directement à la cantine,  au plus tard le 8 décembre.
-
-![Chandail conton-ouaté]({{ site.baseurl }}/docs/accessoires/chandail-coton-ouate-rouge.jpg)
 
 ## Tirage d'un panier cadeau
 
@@ -47,12 +40,16 @@ Pour les cadets et cadettes, il y aura également des prix pour celui ou celle a
 
 ## Activité de Noël 16 décembre
 
-L'activité de Noël aura lieu le 16 décembre de 18h00 à 21h00 au centre communautaire Daniel-Lafortune. Nous vous attendons pour manger un chaleureux repas de Pizza. 
+L'activité de Noël aura lieu le 16 décembre de 18h00 à 21h00 au centre communautaire Daniel-Lafortune, 448 Rue de Pointe-Gatineau. Nous vous attendons pour manger un chaleureux repas de pizza. 
 
-Afin de combler le menu, nous vous invitons sur une base volontaire seulement de partager vos meilleures recettes d'entrée ou de desserts (aucun repas principal). Nous vous demandons de préciser via le forumaire suivant: [Sondage pour recettes d'entrée ou de dessert](https://docs.google.com/forms/d/1J6YdqhwHDx6cPpP3sGqSe9_DqLdm2dKZ-iSvYCB24pM/edit). Suite au sondages, vendredi le 8 décembre, nous allons vous donner de plus ample information sur les portions nécessaires. 
+Afin de combler le menu, nous vous invitons sur une base volontaire seulement de partager vos meilleures recettes d'entrée ou de desserts (aucun repas principal). Nous vous demandons de préciser via le forumaire suivant: [Sondage pour recettes d'entrée ou de dessert](https://docs.google.com/forms/d/1J6YdqhwHDx6cPpP3sGqSe9_DqLdm2dKZ-iSvYCB24pM/edit). Suite au sondages qui doit être complété pour au plus tard le mardi 12 décembre 16h00 nous allons communiquer avec les gens qui aurons repondu au sondage le 13 décembre pour vous donner de plus ample information sur les portions nécessaires. 
 
-Nos cadets du niveau Argent vous ont également concocté une panoplie d'activités afin de rendre cette soirée mémorable entre pairs. Une tenue civile décontractée sera de mise pour toute la soirée. Noté que cette activité est réservée seulement aux cadets du CC2920.
+Nos cadets du niveau argent vous ont également concocté une panoplie d'activités afin de rendre cette soirée mémorable entre pairs. Une tenue civile décontractée sera de mise pour toute la soirée. Noté que cette activité est réservée seulement aux cadets du CC2920.
 
 ## Congé des fêtes
 
 Il n'y aura pas de soirée d'instruction les 22 et 29 décembre et le 5 janvier.
+
+## Dons
+
+Il est possible de faire des dons au Comité de soutien du Corps de cadets pour appuyer les activités supplémentaires qui se déroulent tout au long de l'année. [Voir les options sur le site Web](https://www.cc2920.ca/information/financement/#don) et communiquez avec le <cciv2920@gmail.com> si vous avez des questions.  
