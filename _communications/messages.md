@@ -5,7 +5,8 @@ layout: "messages"
 ---
 ## Soirée du 15 décembre
 
-Tenue C5 pour tous
+Tenue sportive avec t-shirt rouge pour le niveau vert
+C5 pour les autres
 
 ## Activités optionnelles
 
