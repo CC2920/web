@@ -19,9 +19,9 @@ Les activités optionnelles seront en pause du 20 décembre au 7 janvier.
 
 - Le peloton de précision a lieu le mercredi 13 décembre de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade.
 
-- Le biathlon a lieu le samedi 16 décembre de 9h00 à 12h30. Tenue civile a camp forture,(300 Chemin Dunlop). Apportez l"équipement ainsi qu'une bouteille d’eau et collation energétique.
+- Le biathlon a lieu le samedi 16 décembre de 9h00 à 12h30. Tenue civile au Camp Forture, 300 Chemin Dunlop. Apportez l'équipement ainsi qu'une bouteille d’eau et collation energétique.
 
-- La musique a lieu le dimanche 17 décembre de 8h45 à 13h00. Tenue civile au Manège Militaire de Hull, [188 Boulevard Alexandre-taché). Apportez votre instrument.
+- La musique a lieu le dimanche 17 décembre de 8h45 à 13h00. Tenue civile au Manège Militaire de Hull, 188 Boulevard Alexandre-taché. Apportez votre instrument.
 
 ## Biathlon
 
@@ -40,9 +40,9 @@ Pour les cadets et cadettes, il y aura également des prix pour celui ou celle a
 
 ## Activité de Noël 16 décembre
 
-L'activité de Noël aura lieu le 16 décembre de 18h00 à 21h00 au centre communautaire Daniel-Lafortune. (448 Rue de Pointe-Gatineau) Nous vous attendons pour manger un chaleureux repas de pizza. 
+L'activité de Noël aura lieu le 16 décembre de 18h00 à 21h00 au centre communautaire Daniel-Lafortune, 448 Rue de Pointe-Gatineau. Nous vous attendons pour manger un chaleureux repas de pizza. 
 
-Afin de combler le menu, nous vous invitons sur une base volontaire seulement de partager vos meilleures recettes d'entrée ou de desserts (aucun repas principal). Nous vous demandons de préciser via le forumaire suivant: [Sondage pour recettes d'entrée ou de dessert](https://docs.google.com/forms/d/1J6YdqhwHDx6cPpP3sGqSe9_DqLdm2dKZ-iSvYCB24pM/edit). Suite au sondages qui doit être complété pour au plus tard le mardi 12 décembre 16h00.  Nous allons communiquer avec les gnes qui aurons repondu au sondage le 13 décembre pour vous donner de plus ample information sur les portions nécessaires. 
+Afin de combler le menu, nous vous invitons sur une base volontaire seulement de partager vos meilleures recettes d'entrée ou de desserts (aucun repas principal). Nous vous demandons de préciser via le forumaire suivant: [Sondage pour recettes d'entrée ou de dessert](https://docs.google.com/forms/d/1J6YdqhwHDx6cPpP3sGqSe9_DqLdm2dKZ-iSvYCB24pM/edit). Suite au sondages qui doit être complété pour au plus tard le mardi 12 décembre 16h00 nous allons communiquer avec les gens qui aurons repondu au sondage le 13 décembre pour vous donner de plus ample information sur les portions nécessaires. 
 
 Nos cadets du niveau argent vous ont également concocté une panoplie d'activités afin de rendre cette soirée mémorable entre pairs. Une tenue civile décontractée sera de mise pour toute la soirée. Noté que cette activité est réservée seulement aux cadets du CC2920.
 
@@ -52,4 +52,4 @@ Il n'y aura pas de soirée d'instruction les 22 et 29 décembre et le 5 janvier.
 
 ## Dons
 
-Il est possible de faire des dons au Comité de soutien du Corps de cadets pour appuyer les activités supplémentaires qui se déroulent tout au long de l'année.  Voir les opinions sur le site Web et communiquez avec le cciv2920@gmail.com si vous avez des questions.  
+Il est possible de faire des dons au Comité de soutien du Corps de cadets pour appuyer les activités supplémentaires qui se déroulent tout au long de l'année. [Voir les options sur le site Web](https://www.cc2920.ca/information/financement/#don) et communiquez avec le <cciv2920@gmail.com> si vous avez des questions.  
