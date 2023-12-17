@@ -3,52 +3,22 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée du 15 décembre
+## Congé des fêtes
 
-Tenue sportive avec t-shirt rouge pour le niveau vert
-
-C5 pour les autres
-
-Niveau or, pensez à sur quel niveau vous voulez être après Noël, on va vous poser la question ce vendredi.
+Il n'y aura pas de soirée d'instruction les 22 et 29 décembre et le 5 janvier. On se revoit le 12 janvier.
 
 ## Activités optionnelles
 
 Les activités optionnelles seront en pause du 20 décembre au 7 janvier.
 
-- Le tir a lieu lieu le lundi 11 décembre de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
+- Le tir a lieu lieu les lundis de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
-- Le peloton de précision a lieu le mercredi 13 décembre de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade.
+- Le peloton de précision a lieu les mercredi de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade.
 
-- Le biathlon a lieu le samedi 16 décembre de 9h00 à 12h30. Tenue civile au Camp Forture, 300 Chemin Dunlop. Apportez l'équipement ainsi qu'une bouteille d’eau et collation energétique.
+- Le biathlon a lieu les samedis de 9h00 à 12h30. Tenue civile au Camp Forture, 300 Chemin Dunlop. Apportez l'équipement ainsi qu'une bouteille d’eau et collation energétique.
 
-- La musique a lieu le dimanche 17 décembre de 8h45 à 13h00. Tenue civile au Manège Militaire de Hull, 188 Boulevard Alexandre-taché. Apportez votre instrument.
+- La musique a lieu les dimanche de 8h45 à 13h00. Tenue civile au Manège Militaire de Hull, 188 Boulevard Alexandre-taché. Apportez votre instrument.
 
-## Biathlon
-
-- Les cadets qui participe au programme de biathlon cette année doivent venir chercher leur équipemnt mardi le 12 décembre au corps de cadets entre 18h00 et 19h00.
-
-- Les cadets qui ont encore leur manteau de biathlon et qui ne participe pas cette année au biathlon doivent rapporter leur manteau et s'ils ont encore de l'équipement le vendredi le 15 décembre.
-
-
-## Tirage d'un panier cadeau
-
-Le comité de soutien organise un [tirage d'un panier cadeau](/information/financement/#panier-cadeau-pour-le-temps-des-f%C3%AAtes) au profit du CC2920. Le tirage et la remise du panier se fera le 17 décembre. (18 ans et plus pour participer.)
-
-30 billets ont été remis à chaque cadet mais des billets additionnels seront disponible à la cantine. Rapportez l'argent et les talons de billets vendus à la cantine, au plus tard le 15 décembre.
-
-Pour les cadets et cadettes, il y aura également des prix pour celui ou celle ayant vendu(e) le plus de billets, ainsi qu’un prix pour le billet qui aura été tiré (le billet gagnant), et un dernier prix pour la participation.
-
-## Activité de Noël 16 décembre
-
-L'activité de Noël aura lieu le 16 décembre de 18h00 à 21h00 au centre communautaire Daniel-Lafortune, 448 Rue de Pointe-Gatineau. Nous vous attendons pour manger un chaleureux repas de pizza. 
-
-Afin de combler le menu, nous vous invitons sur une base volontaire seulement de partager vos meilleures recettes d'entrée ou de desserts (aucun repas principal). Nous vous demandons de préciser via le forumaire suivant: [Sondage pour recettes d'entrée ou de dessert](https://docs.google.com/forms/d/1J6YdqhwHDx6cPpP3sGqSe9_DqLdm2dKZ-iSvYCB24pM/edit). Suite au sondages qui doit être complété pour au plus tard le mardi 12 décembre 16h00 nous allons communiquer avec les gens qui aurons repondu au sondage le 13 décembre pour vous donner de plus ample information sur les portions nécessaires. 
-
-Nos cadets du niveau argent vous ont également concocté une panoplie d'activités afin de rendre cette soirée mémorable entre pairs. Une tenue civile décontractée sera de mise pour toute la soirée. Noté que cette activité est réservée seulement aux cadets du CC2920.
-
-## Congé des fêtes
-
-Il n'y aura pas de soirée d'instruction les 22 et 29 décembre et le 5 janvier.
 
 ## Dons
 
