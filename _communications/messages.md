@@ -26,7 +26,7 @@ Il est possible de faire des dons au Comité de soutien du Corps de cadets pour 
 
 ## Activités à venir
 
-13 janvier: visite de musée
+13 janvier: visite au Musée de la nature
 
 26 au 28 janvier: expédition étoile or (niveau or seulement)
 
