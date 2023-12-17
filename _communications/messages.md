@@ -1,8 +1,8 @@
 ---
 title:  "Messages de la semaine"
 layout: "messages"
-
 ---
+
 ## Soirée du 15 décembre
 
 Tenue sportive avec t-shirt rouge pour le niveau vert
