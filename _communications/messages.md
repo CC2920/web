@@ -9,11 +9,11 @@ Il n'y aura pas de soirée d'instruction les 22 et 29 décembre et le 5 janvier.
 
 ## Activités optionnelles
 
-Les activités optionnelles seront en pause du 20 décembre au 7 janvier.
+Les activités optionnelles seront en pause du 21 décembre au 7 janvier.
 
 - Le tir a lieu lieu les lundis de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
-- Le peloton de précision a lieu les mercredi de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade.
+- Le peloton de précision a lieu les mercredi de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade. Pour le 20 décembre, apportez votre ensemble de cirage et si vous le désirez des collations.
 
 - Le biathlon a lieu les samedis de 9h00 à 12h30. Tenue civile au Camp Forture, 300 Chemin Dunlop. Apportez l'équipement ainsi qu'une bouteille d’eau et collation energétique.
 
