@@ -23,3 +23,13 @@ Les activités optionnelles seront en pause du 20 décembre au 7 janvier.
 ## Dons
 
 Il est possible de faire des dons au Comité de soutien du Corps de cadets pour appuyer les activités supplémentaires qui se déroulent tout au long de l'année. [Voir les options sur le site Web](https://www.cc2920.ca/information/financement/#don) et communiquez avec le <cciv2920@gmail.com> si vous avez des questions.  
+
+## Activités à venir
+
+13 janvier: visite de musée
+
+26 au 28 janvier: expédition étoile or (niveau or seulement)
+
+28 janvier: compétition de biathlon de zone
+
+9 au 11 février: exercice hivernal
