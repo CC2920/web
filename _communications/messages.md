@@ -35,7 +35,7 @@ Il est possible de faire des dons au Comité de soutien du Corps de cadets pour 
 
 13 janvier: visite au Musée canadien de la nature
 
-26 au 28 janvier: expédition étoile or (niveau or seulement)
+26 au 28 janvier: expédition étoile or (niveau or seulement). Raquette et ski de fond au menu dans le parc de la Gatineau et coucher en tente. Plus d'information à venir.
 
 28 janvier: compétition de biathlon de zone
 
