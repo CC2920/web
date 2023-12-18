@@ -19,6 +19,13 @@ Les activités optionnelles seront en pause du 21 décembre au 7 janvier.
 
 - La musique a lieu les dimanche de 8h45 à 13h00. Tenue civile au Manège Militaire de Hull, 188 Boulevard Alexandre-taché. Apportez votre instrument.
 
+## Tirage de Noël
+
+Le gagnant du tirage de Noël est M. St-Pierre. Le cadet qui vous a vendu le billet va vous contacter pour la remise du prix. 
+
+Les top 4 vendeurs de billets sont les cadets suivants : 1- Jacob St-Louis. 2- Cédrik Tremblay-Racine. 3- Milan Yoann Monney Mbedi. 4- Jenny-Lee Beaudoin-Frigon.
+
+Merci à tous d'avoir contribué à la campagne de financement.
 
 ## Dons
 
