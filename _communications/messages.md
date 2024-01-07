@@ -3,13 +3,19 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Congé des fêtes
+## Soirée du 12 janvier
 
-Il n'y aura pas de soirée d'instruction les 22 et 29 décembre et le 5 janvier. On se revoit le 12 janvier.
+Tenue sportive pour le niveau rouge. Tenue C5 pour les autres niveaux. 
+
+## Musée canadien de la nature 13 janvier
+
+Les cadets devront donner leur présence lors de la reprise de l’instruction le 12 janvier. 
+
+Départ des autobus pour le musée à 9h30 du 52 St-Rosaire. Retour à 16h00
+
+Le cadet est responsable d’apporter un repas froid. Tenue civile.
 
 ## Activités optionnelles
-
-Les activités optionnelles seront en pause du 21 décembre au 6 janvier.
 
 - Le tir a lieu lieu les lundis de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
@@ -17,23 +23,7 @@ Les activités optionnelles seront en pause du 21 décembre au 6 janvier.
 
 - Le biathlon a lieu les samedis de 9h00 à 12h30. Tenue civile au Camp Forture, 300 Chemin Dunlop. Apportez l'équipement ainsi qu'une bouteille d’eau et collation energétique.
 
-- La musique a lieu les dimanche de 8h45 à 13h00. Tenue civile au Manège Militaire de Hull, 188 Boulevard Alexandre-taché. Apportez votre instrument. Exceptionnellement le 7 janvier, elle aura lieu au Centre Eugène-Sauvageau, 179 rue Mutchmore.
-
-## Tirage de Noël
-
-Le gagnant du tirage de Noël est M. St-Pierre. Le cadet qui vous a vendu le billet va vous contacter pour la remise du prix. 
-
-Les top 4 vendeurs de billets sont les cadets suivants : 
-1. Jacob St-Louis
-2. Cédrik Tremblay-Racine
-3. Milan Yoann Monney Mbedi
-4. Jenny-Lee Beaudoin-Frigon.
-
-Merci à tous d'avoir contribué à la campagne de financement.
-
-## Dons
-
-Il est possible de faire des dons au Comité de soutien du Corps de cadets pour appuyer les activités supplémentaires qui se déroulent tout au long de l'année. [Voir les options sur le site Web](https://www.cc2920.ca/information/financement/#don) et communiquez avec le <cciv2920@gmail.com> si vous avez des questions.  
+- La musique a lieu les dimanche de 8h45 à 13h00. Tenue civile au Manège Militaire de Hull, 188 Boulevard Alexandre-taché. Apportez votre instrument. 
 
 ## Activités à venir
 
