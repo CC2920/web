@@ -35,7 +35,7 @@ Le cadet est responsable d’apporter un repas froid. Tenue civile.
 
 9 au 11 février: exercice hivernal
 
-## Conseil de merite
+## Conseil de mérite
 
 Commme vous le savez notre cadet commamandant nous quitte. Cela veut donc dire qu'il nous faudra un nouveau cadet commandant ainsi qu'un nouvel adjum.
 
