@@ -27,8 +27,20 @@ Le cadet est responsable d’apporter un repas froid. Tenue civile.
 
 ## Activités à venir
 
+26 janvier : parade du commandant et parade de changement de cadet-commandant
+
 26 au 28 janvier: expédition étoile or (niveau or seulement). Raquette et ski de fond au menu dans le parc de la Gatineau et coucher en tente. Plus d'information à venir.
 
 28 janvier: compétition de biathlon de zone
 
 9 au 11 février: exercice hivernal
+
+## Conseil de merite
+
+Commme vous le savez notre cadet commamandant nous quitte. Cela veut donc dire qu'il nous faudra un nouveau cadet commandant ainsi qu'un nouvel adjum.
+
+Pour les cadets seniors, vous pourrez appliquer sur le poste que vous désirez, soit Sergent-major Régimentaire (SMR), Sergent-major de Compagnie (SMC) ou Sergent-major d'Instruction (SMI).
+
+Le processus de sélection débutera avec une lettre de présentation que vous devrez me soumettre en format PDF au plus tard le 11 janvier à l'adresse de courriel: amelie.joncas@cadets.gc.ca. Cette lettre devra contenir une brève description de vous, de votre parcours, de vos exploits, de vos motivations ainsi que vos futurs plans pour le corps de cadets.
+
+Suite à l'analyse de vos lettre, vous serez convoqués en entrevue avec le comité de sélection dont je vais présider.
