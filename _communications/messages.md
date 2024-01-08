@@ -27,7 +27,7 @@ Le cadet est responsable d’apporter un repas froid. Tenue civile.
 
 ## Activités à venir
 
-26 janvier : parade du commandant et parade de changement de cadet-commandant
+26 janvier : parade du commandant et parade de changement de cadet commandant
 
 26 au 28 janvier: expédition étoile or (niveau or seulement). Raquette et ski de fond au menu dans le parc de la Gatineau et coucher en tente. Plus d'information à venir.
 
