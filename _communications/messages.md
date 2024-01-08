@@ -43,4 +43,4 @@ Pour les cadets seniors, vous pourrez appliquer sur le poste que vous désirez, 
 
 Le processus de sélection débutera avec une lettre de présentation que vous devrez me soumettre en format PDF au plus tard le 11 janvier à l'adresse de courriel: amelie.joncas@cadets.gc.ca. Cette lettre devra contenir une brève description de vous, de votre parcours, de vos exploits, de vos motivations ainsi que vos futurs plans pour le corps de cadets.
 
-Suite à l'analyse de vos lettre, vous serez convoqués en entrevue avec le comité de sélection dont je vais présider.
+Suite à l'analyse de vos lettre, vous serez convoqués en entrevue avec le comité de sélection.
