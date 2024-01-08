@@ -19,15 +19,13 @@ Le cadet est responsable d’apporter un repas froid. Tenue civile.
 
 - Le tir a lieu les lundis de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
-- Le peloton de précision a lieu les mercredis de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade. Pour le 20 décembre, apportez votre ensemble de cirage et si vous le désirez des collations.
+- Le peloton de précision a lieu les mercredis de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade. 
 
-- Le biathlon a lieu les samedis de 9h00 à 12h30. Tenue civile au Camp Fortune, 300 Chemin Dunlop. Apportez l'équipement ainsi qu'une bouteille d’eau et collation energétique.
+- Le biathlon a lieu les samedis de 8h00 à 13h00. Tenue civile au Camp Fortune, 300 Chemin Dunlop. Apportez l'équipement ainsi qu'une bouteille d’eau et collation energétique.
 
 - La musique a lieu les dimanches de 8h45 à 13h00. Tenue civile au Manège militaire de Hull, 188 Boulevard Alexandre-taché. Apportez votre instrument. 
 
 ## Activités à venir
-
-13 janvier: visite au Musée canadien de la nature
 
 26 au 28 janvier: expédition étoile or (niveau or seulement). Raquette et ski de fond au menu dans le parc de la Gatineau et coucher en tente. Plus d'information à venir.
 
