@@ -27,17 +27,14 @@ Le cadet est responsable d’apporter un repas froid. Tenue civile.
 
 ## Activités à venir
 
-26 janvier : parade du commandant et parade de changement de cadet commandant
-
-26 au 28 janvier: expédition étoile or (niveau or seulement). Raquette et ski de fond au menu dans le parc de la Gatineau et coucher en tente. Plus d'information à venir.
-
-28 janvier: compétition de biathlon de zone
-
-9 au 11 février: exercice hivernal
+- **26 janvier** : parade du commandant et parade de changement de cadet commandant
+- **26 au 28 janvier** : expédition étoile or (niveau or seulement). Raquette et ski de fond au menu dans le parc de la Gatineau et coucher en tente. Plus d'information à venir.
+- **28 janvier** : compétition de biathlon de zone
+- **9 au 11 février** : exercice hivernal
 
 ## Conseil de mérite
 
-Commme vous le savez notre cadet commamandant nous quitte. Cela veut donc dire qu'il nous faudra un nouveau cadet commandant ainsi qu'un nouvel adjum.
+Comme vous le savez notre cadet commandant nous quitte. Cela veut donc dire qu'il nous faudra un nouveau cadet commandant ainsi qu'un nouvel adjum.
 
 Pour les cadets seniors, vous pourrez appliquer sur le poste que vous désirez, soit Sergent-major Régimentaire (SMR), Sergent-major de Compagnie (SMC) ou Sergent-major d'Instruction (SMI).
 
