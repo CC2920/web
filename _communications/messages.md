@@ -3,41 +3,37 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée du 12 janvier
+## Soirée du 19 janvier
 
-Tenue sportive pour le niveau rouge. Tenue C5 pour les autres niveaux. 
+Tenue C5 tenue d'instruction pour tous. 
 
-## Musée canadien de la nature 13 janvier
-
-Les cadets devront donner leur présence lors de la reprise de l’instruction le 12 janvier. 
-
-Départ des autobus pour le musée à 9h30 du 52 St-Rosaire. Retour à 16h00
-
-Le cadet est responsable d’apporter un repas froid. Tenue civile.
+Les musiciens doivent apporter leur instrument de musique et les partitions
 
 ## Activités optionnelles
 
-- Le tir a lieu les lundis de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
+- Le tir a lieu lundi 15 janvier de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
-- Le peloton de précision a lieu les mercredis de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade. 
+- Le peloton de précision a lieu mercredi 17 janvier de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade. 
 
-- Le biathlon a lieu les samedis de 8h00 à 13h00. Tenue civile au Camp Fortune, 300 Chemin Dunlop. Apportez l'équipement ainsi qu'une bouteille d’eau et collation energétique.
+- Le biathlon a lieu samedi 20 janvier de 8h00 à 13h00. Tenue civile au Camp Fortune, 300 Chemin Dunlop. Apportez l'équipement ainsi qu'une bouteille d’eau et collation energétique.
 
-- La musique a lieu les dimanches de 8h45 à 13h00. Tenue civile au Manège militaire de Hull, 188 Boulevard Alexandre-taché. Apportez votre instrument. 
+- La musique a lieu dimanche 21 janvier de 8h45 à 13h00. Tenue civile au Centre Eugene-Sauvageau, 179 Mutchmore . Apportez votre instrument. 
 
 ## Activités à venir
 
 - **26 janvier** : parade du commandant et parade de changement de cadet commandant
 - **26 au 28 janvier** : expédition étoile or (niveau or seulement). Raquette et ski de fond au menu dans le parc de la Gatineau et coucher en tente. Plus d'information à venir.
-- **28 janvier** : compétition de biathlon de zone
+- **27 et 28 janvier** : compétition de biathlon de zone
 - **9 au 11 février** : exercice hivernal
+- **24 février** : Journée d'activité sportives
+- **24 février** : Souper spaghetti
 
-## Conseil de mérite
+## Competition de biathlon du 27et 28 janvier
 
-Comme vous le savez notre cadet commandant nous quitte. Cela veut donc dire qu'il nous faudra un nouveau cadet commandant ainsi qu'un nouvel adjum.
+Le responsable de la compétition a besoin de cadets et de parents pour aider a l'organisation de la compétition de biathlon régionle du 27 et 28 janvier.  Les personnes qui sont intéressé doivent donner leur nom vendredi le 19 janvier.
 
-Pour les cadets seniors, vous pourrez appliquer sur le poste que vous désirez, soit Sergent-major Régimentaire (SMR), Sergent-major de Compagnie (SMC) ou Sergent-major d'Instruction (SMI).
+Les personnes doivent être disponible de 8h00 a 16h00 le samedi et/ou le dimanche.  
 
-Le processus de sélection débutera avec une lettre de présentation que vous devrez me soumettre en format PDF au plus tard le 11 janvier à l'adresse de courriel: amelie.joncas@cadets.gc.ca. Cette lettre devra contenir une brève description de vous, de votre parcours, de vos exploits, de vos motivations ainsi que vos futurs plans pour le corps de cadets.
+La compétition aura lieu a Camp Fortune sur le site de biatlon au chalet des érables.
 
-Suite à l'analyse de vos lettre, vous serez convoqués en entrevue avec le comité de sélection.
+Les personnes seront contacter personnellement dans la semaine du 21 janvier pour leur donner plus de details sur leur tache durant la compétition.
