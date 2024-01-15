@@ -21,10 +21,10 @@ Les musiciens doivent apporter leur instrument de musique et les partitions
 
 ## Activités à venir
 
-- **26 janvier** : parade du commandant et parade de changement de cadet commandant
-- **26 au 28 janvier** : expédition étoile or (niveau or seulement). Raquette et ski de fond au menu dans le parc de la Gatineau et coucher en tente. Plus d'information à venir.
-- **27 et 28 janvier** : compétition de biathlon de zone
-- **9 au 11 février** : exercice hivernal
+- **26 janvier** : Parade du commandant et parade de changement de cadet commandant
+- **26 au 28 janvier** : Expédition étoile or (niveau or seulement). Raquette et ski de fond au menu dans le parc de la Gatineau et coucher en tente. Plus d'information à venir.
+- **27 et 28 janvier** : Compétition de biathlon de zone
+- **9 au 11 février** : Exercice hivernal
 - **24 février** : Journée d'activité sportives
 - **24 février** : Souper spaghetti
 
