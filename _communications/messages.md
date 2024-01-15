@@ -28,7 +28,11 @@ Les musiciens doivent apporter leur instrument de musique et les partitions
 - **24 février** : Journée d'activité sportives
 - **24 février** : Souper spaghetti
 
-## Competition de biathlon du 27 et 28 janvier
+## Recrutement
+
+Les cadets qui apporterons une nouvelle inscription entre le 16 janvier et le 16 février, seront éligible a un tirage lors de la parade du commandant de février.
+
+## Compétition de biathlon du 27 et 28 janvier
 
 Le responsable de la compétition a besoin de cadets et de parents pour aider a l'organisation de la compétition de biathlon régionale du 27 et 28 janvier.  Les personnes qui sont intéressé doivent donner leur nom vendredi le 19 janvier à l'administration du corps de cadets.
 
