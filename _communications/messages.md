@@ -15,9 +15,9 @@ Les musiciens doivent apporter leur instrument de musique et les partitions
 
 - Le peloton de précision a lieu mercredi 17 janvier de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade. 
 
-- Le biathlon a lieu samedi 20 janvier de 8h00 à 13h00. Tenue civile au Camp Fortune, 300 Chemin Dunlop. Apportez l'équipement ainsi qu'une bouteille d’eau et collation energétique.
+- Le biathlon a lieu samedi 20 janvier de 8h00 à 13h00. Tenue civile au Camp Fortune, 300 Chemin Dunlop. Apportez l'équipement ainsi qu'une bouteille d’eau et collation énergétique.
 
-- La musique a lieu dimanche 21 janvier de 8h45 à 13h00. Tenue civile au Centre Eugene-Sauvageau, 179 Mutchmore . Apportez votre instrument. 
+- La musique a lieu dimanche 21 janvier de 8h45 à 13h00. Tenue civile au Centre Eugèene-Sauvageau, 179 Mutchmore . Apportez votre instrument. 
 
 ## Activités à venir
 
@@ -30,7 +30,7 @@ Les musiciens doivent apporter leur instrument de musique et les partitions
 
 ## Competition de biathlon du 27et 28 janvier
 
-Le responsable de la compétition a besoin de cadets et de parents pour aider a l'organisation de la compétition de biathlon régionle du 27 et 28 janvier.  Les personnes qui sont intéressé doivent donner leur nom vendredi le 19 janvier.
+Le responsable de la compétition a besoin de cadets et de parents pour aider a l'organisation de la compétition de biathlon régionale du 27 et 28 janvier.  Les personnes qui sont intéressé doivent donner leur nom vendredi le 19 janvier à l'administration du corps de cadets.
 
 Les personnes doivent être disponible de 8h00 a 16h00 le samedi et/ou le dimanche.  
 
