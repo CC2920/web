@@ -33,7 +33,7 @@ La compétition aura lieu a Camp Fortune sur le site de biatlon au chalet des é
 
 Les personnes seront contacter personnellement dans la semaine du 21 janvier pour leur donner plus de details sur leur tache durant la compétition.
 
-## Levée de fond / Souper spaghetti
+## Levée de fonds / Souper spaghetti
 
 Ayant comme objectif d'amasser des fonds pour subventionner les activités des jeunes dont l'expédition de printemps ainsi que l'activité de fin d'année, nous sollicitons la participation de TOUS afin de vendre les 300 billets pour cet évènement qui aura lieu le 24 février prochain à la Légion royale canadienne filiale 58 de Gatineau (86, rue de la Baie, Gatineau). 
 
