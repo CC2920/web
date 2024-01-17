@@ -5,7 +5,9 @@ layout: "messages"
 
 ## Soirée du 19 janvier
 
-Tenue C5 tenue d'instruction pour tous. 
+Tenue C5 tenue d'instruction pour niveau vert /  rouge et or 
+
+Tenue de sport pour le niveau argent. 
 
 Les musiciens doivent apporter leur instrument de musique et les partitions
 
