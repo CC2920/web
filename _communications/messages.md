@@ -7,7 +7,7 @@ layout: "messages"
 
 Tenue C5 tenue d'instruction pour niveau vert /  rouge et or 
 
-Tenue de sport pour les niveau argent. 
+Tenue de sport pour le niveau argent. 
 
 Les musiciens doivent apporter leur instrument de musique et les partitions
 
