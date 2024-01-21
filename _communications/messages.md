@@ -17,7 +17,7 @@ Les musiciens doivent apporter leur instrument de musique et les partitions
 
 - Le peloton de précision a lieu mercredi 24 janvier de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade. 
 
-- Le biathlon a lieu samedi 27 janvier de 8h00 à 13h00. Tenue civile au Camp Fortune, 300 Chemin Dunlop. Apportez l'équipement ainsi qu'une bouteille d’eau et collation énergétique.
+- Voir ci-dessous pour la compétition de biathlon.
 
 - La musique a lieu dimanche 28 janvier de 8h45 à 13h00. Tenue civile au Centre Eugèene-Sauvageau, 179 Mutchmore . Apportez votre instrument. 
 
