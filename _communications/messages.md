@@ -18,7 +18,7 @@ Les musiciens doivent apporter leur instrument de musique et les partitions
 
 - Le peloton de précision a lieu mercredi 24 janvier de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade. 
 
-- Compétition de biathlon le 27 et 28 janvier de 8h00 à 16h00 au camp forturne, voir les détails ci-dessous.
+- Compétition de biathlon le 27 et 28 janvier de 8h00 à 17h00 au camp forturne, voir les détails ci-dessous.
 
 - La musique a lieu dimanche 28 janvier de 8h45 à 13h00. Tenue civile au Centre Eugène-Sauvageau, 179 Mutchmore . Apportez votre instrument. 
 
@@ -47,7 +47,7 @@ Le responsable de la compétition a besoin de cadets et de parents pour aider à
 
 Veuillez compléter le formulaire https://forms.office.com/r/qBNj5danYK avant le 25 janvier, si vous désirez être bénévoles lors de la compétition.  Ceci s'addresse autant aux cadets et aux parents des cadets. 
 
-Les personnes doivent être disponible de 8h00 à 16h00 le samedi et/ou le dimanche.  
+Les personnes doivent être disponible de 8h00 à 17h00 le samedi et/ou le dimanche.  
 
 La compétition aura lieu au Camp Fortune sur le site de biatlon au chalet des érables. 
 
