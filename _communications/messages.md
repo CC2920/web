@@ -20,7 +20,7 @@ Les musiciens doivent apporter leur instrument de musique et les partitions
 
 - Compétition de biathlon le 27 et 28 janvier de 8h00 à 16h00 au camp forturne, voir les détails ci-dessous.
 
-- La musique a lieu dimanche 28 janvier de 8h45 à 13h00. Tenue civile au Centre Eugèene-Sauvageau, 179 Mutchmore . Apportez votre instrument. 
+- La musique a lieu dimanche 28 janvier de 8h45 à 13h00. Tenue civile au Centre Eugène-Sauvageau, 179 Mutchmore . Apportez votre instrument. 
 
 
 ## Recrutement
