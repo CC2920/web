@@ -62,7 +62,7 @@ La guide du participant se trouve ici, en gardant en tête que les activités se
 https://1drv.ms/w/s!AkTIfKmoB8nugopZrDXBm0ua40WKCw
 
 
-## Clinique de musique 27 janvier ##
+## Clinique de musique 27 janvier
 
 Une clinique de musique théorique aura lieu le 27 janvier à compter de 10h00 via Teams pour les cadets qui se sont inscrits. 
 
@@ -75,7 +75,7 @@ Les cadets devront être à l'aise avec cadets365.
 Si vous avez des problèmes avec cadets365 veuillez nous contacter ou venir au corps de cadets mercredi 24 janvier entre 18h00 et 19h00.
 
 
-## Exercice hivernal##
+## Exercice hivernal
 
 Les cadets doivent compléter obligatoirement le sondage pour l"exercice hivernal pour 26 janvier au lien suivant https://docs.google.com/forms/d/16JmYZ6jiyusXgbrrsKsWdm5P-oHemrWQ3a70JFV-grs/edit
 
