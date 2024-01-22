@@ -34,7 +34,7 @@ Les cadets qui apporterons une nouvelle inscription entre le 16 janvier et le 16
 - **26 au 28 janvier** : Expédition étoile or (niveau or seulement). Raquette et ski de fond au menu dans le parc de la Gatineau et coucher en tente.
 - **27 et 28 janvier** : Compétition de biathlon de zone
 - **27 janvier** : Clinique de musique (examens théoriques) via Teams
-- **3 février** : Clinique de musique (examnes pratiques) 
+- **3 février** : Clinique de musique (examens pratiques) 
 - **9 au 11 février** : Exercice hivernal
 - **17 et 18 février** : Compétition de biathlon provinciale à Valcartier.
 - **24 février** : Journée d'activité sportives
