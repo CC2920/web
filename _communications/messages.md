@@ -45,7 +45,7 @@ Les cadets qui apporterons une nouvelle inscription entre le 16 janvier et le 16
 
 Le responsable de la compétition a besoin de cadets et de parents pour aider à l'organisation de la compétition de biathlon régionale du 27 et 28 janvier.  
 
-Veuillez compléter le formulaire https://forms.office.com/r/qBNj5danYK avant le 25 janvier, si vous désirez être bénévoles lors de la compétition.  Ceci s'addresse autant aux cadets et aux parents des cadets. 
+Veuillez compléter le formulaire <https://forms.office.com/r/qBNj5danYK> avant le 25 janvier, si vous désirez être bénévoles lors de la compétition. Ceci s'addresse autant aux cadets et aux parents des cadets. 
 
 Les personnes doivent être disponible de 8h00 à 17h00 le samedi et/ou le dimanche.  
 
@@ -58,15 +58,15 @@ Le samedi 27 janvier sera pour la catégorie développement et le dimanche 28 ja
 
 Pour les niveaux or inscrits à l'expédition étoile or, le départ se fera à 19h le vendredi et le retour à 14h le dimanche.
 
-La guide du participant se trouve ici, en gardant en tête que les activités seront raquette et ski de fond.
-https://1drv.ms/w/s!AkTIfKmoB8nugopZrDXBm0ua40WKCw
+La guide du participant se trouve ici, en gardant en tête que les activités seront raquette et ski de fond:
+<https://1drv.ms/w/s!AkTIfKmoB8nugopZrDXBm0ua40WKCw>
 
 
 ## Clinique de musique 27 janvier
 
 Une clinique de musique théorique aura lieu le 27 janvier à compter de 10h00 via Teams pour les cadets qui se sont inscrits. 
 
-Les cadets vont recevoir une invitation dans leur courriel de cadets365.  Ils doivent se connecter au minimum 20 minutes à l'avance sur l'application TEAMS
+Les cadets vont recevoir une invitation dans leur courriel de cadets365. Ils doivent se connecter au minimum 20 minutes à l'avance sur l'application TEAMS.
 
 Les cadets doivent s'assurer que leur caméra et leur micro sont fonctionnel et devront avoir leur caméra active pour toute la durée de la formation théorique.
 
@@ -77,16 +77,20 @@ Si vous avez des problèmes avec cadets365 veuillez nous contacter ou venir au c
 
 ## Exercice hivernal
 
-Les cadets doivent compléter obligatoirement le sondage pour l"exercice hivernal pour 26 janvier au lien suivant https://docs.google.com/forms/d/16JmYZ6jiyusXgbrrsKsWdm5P-oHemrWQ3a70JFV-grs/edit
+Les cadets doivent compléter obligatoirement le **sondage** pour l"exercice hivernal **pour 26 janvier** au lien suivant : <https://docs.google.com/forms/d/16JmYZ6jiyusXgbrrsKsWdm5P-oHemrWQ3a70JFV-grs/edit>
 
 
-## Levée de fonds / Souper spaghetti
+## Souper spaghetti
 
-Ayant comme objectif d'amasser des fonds pour subventionner les activités des jeunes dont l'expédition de printemps ainsi que l'activité de fin d'année, nous sollicitons la participation de TOUS afin de vendre les 300 billets pour cet évènement qui aura lieu le 24 février prochain à la Légion royale canadienne filiale 58 de Gatineau (86, rue de la Baie, Gatineau). 
+Vendredi prochain, les cadets recevront une enveloppe contenant 4 billets. Si vous désirez avoir plus de billets, veuillez envoyer un courriel <cciv2920@gmail.com> ou passer à la cantine le vendredi soir.
 
-### Billets
+Nous sollicitons votre collaboration afin de vendre les 300 billets pour le souper spaghetti annuel qui aura lieu le 24 février prochain de 17h00 à 18h30 à la Légion royale canadienne filiale 58 de Gatineau au 86, rue de la Baie, Gatineau.
 
-Les billets seront en vente à la cantine au coût de 15$/adulte, et 10$/cadet(te) ou enfant de 12 ans et moins (argent comptant ou transfert électronique à <cciv2920@gmail.com>). 
+Les billets sont au coût de 15$/adulte, et 10$/cadet(te) ou enfant de 12 ans et moins (argent comptant ou transfert électronique à *cciv2920@gmail.com*). L’argent comptant des billets vendus, ou tout billet non vendu, doit être retourné au corps de cadets avant le vendredi 16 février. Aucun billet ne sera vendu à la porte la soirée même du souper spaghetti.
 
-### Enchère silencieux
-De plus, un enchère silencieux aura lieu lors de cette soirée. De ce fait, si vous ou votre entourage avez une entreprise qui souhaiterait encourager nos jeunes en faisant un don n'hésitez surtout pas à communiquer avec un membre du comité à la cantine le vendredi soir ou en écrivant à <cciv2920@gmail.com>.
+Ce souper a comme objectif d’amasser des fonds pour subventionner les activités des jeunes dont l’expédition de printemps ainsi que l’activité de fin d’année.
+
+**Enchère silencieuse**
+
+Une enchère silencieuse aura lieu lors de la soirée du souper spaghetti. Si vous êtes membre d’une entreprise ou si vous connaissez une entreprise qui souhaiterait encourager nos jeunes en faisant un don, n’hésitez surtout pas à communiquer avec un membre du comité à la cantine le vendredi soir ou en écrivant à <cciv2920@gmail.com>.
+
