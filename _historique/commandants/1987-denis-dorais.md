@@ -1,6 +1,6 @@
 ---
 dates: "1987 - 1994"
-cmdt: "Major Denis Dorais, CD"
+cmdt: "Capitaine Denis Dorais, CD"
 picture: "/docs/historique/CmdtDoraisDenis.jpg"
 ---
 
