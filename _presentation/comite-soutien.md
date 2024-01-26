@@ -3,20 +3,20 @@ title:  "Le comité de soutien"
 
 le-comite-soutien: 
     - member: 
-      name: M. Daniel P. Brunette
+      name: M. Daniel Brunette
       title: Président
       email: cciv2920@gmail.com
 
     - member: 
-      name: Vacant
-      title: Vice-Président
-
-    - member: 
-      name: Capt. Steve Noël
-      title: Trésorier
-
-    - member: 
       name: Mme Ann Delaney
+      title: Vice-Présidente
+
+    - member: 
+      name: Mme Marie-Paul Vincent
+      title: Trésorière
+
+    - member: 
+      name: Mme Marie-Pascale Thibault 
       title: Secrétaire
 
     - member: 
@@ -28,23 +28,15 @@ le-comite-soutien:
       title: Administratrice
 
     - member: 
-      name: Mme Josée Chénier
+      name: M. Jonathan Gauthier 
       title: Administratrice
 
     - member: 
-      name: M. Pier-Luc Bélanger
+      name: Mme Cynthia Blouin 
       title: Administrateur
 
     - member: 
-      name: Mme Jennifer Dostie
-      title: Administratrice
-
-    - member: 
-      name: Mme Kym Grenier
-      title: Administratrice
-
-    - member:
-      name: Mme Marie-Paul Vincent
+      name: Mme Lizanne Sarrazin Poirier 
       title: Administratrice
 ---
 
