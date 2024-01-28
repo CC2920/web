@@ -10,13 +10,11 @@ Pour tous, tenue civile pour passer la majeure partie de la soirée à l'extéri
 
 ## Activités optionnelles
 
-- Le tir a lieu lundi 22 janvier de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
+- Le tir a lieu lundi 29 janvier de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
-- Le peloton de précision a lieu mercredi 24 janvier de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade. 
+- Le peloton de précision a lieu mercredi 31 janvier de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade. 
 
-- Compétition de biathlon le 27 et 28 janvier de 8h00 à 17h00 au camp forturne, voir les détails ci-dessous.
-
-- La musique a lieu dimanche 28 janvier de 8h45 à 13h00. Tenue civile au Centre Eugène-Sauvageau, 179 Mutchmore . Apportez votre instrument. 
+- La musique a lieu dimanche 4 février de 8h45 à 13h00. Tenue civile au Centre Eugène-Sauvageau, 179 Mutchmore . Apportez votre instrument. 
 
 ## Recrutement
 
