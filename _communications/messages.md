@@ -18,25 +18,13 @@ Pour tous, tenue civile pour passer la majeure partie de la soirée à l'extéri
 
 - La musique a lieu dimanche 28 janvier de 8h45 à 13h00. Tenue civile au Centre Eugène-Sauvageau, 179 Mutchmore . Apportez votre instrument. 
 
-
 ## Recrutement
 
 Les cadets qui apporterons une nouvelle inscription entre le 16 janvier et le 16 février, seront éligible à un tirage lors de la parade du commandant de février.
 
-
-## Activités à venir
-
-- **3 février** : Clinique de musique (examens pratiques) 
-- **9 au 11 février** : Exercice hivernal
-- **17 et 18 février** : Compétition de biathlon provinciale à Valcartier.
-- **24 février** : Journée d'activité sportives
-- **24 février** : Souper spaghetti
-
-
 ## Exercice hivernal
 
 Les cadets doivent compléter obligatoirement le **sondage** pour l"exercice hivernal **pour 26 janvier** au lien suivant : <https://docs.google.com/forms/d/16JmYZ6jiyusXgbrrsKsWdm5P-oHemrWQ3a70JFV-grs/edit>
-
 
 ## Souper spaghetti
 
@@ -51,4 +39,12 @@ Ce souper a comme objectif d’amasser des fonds pour subventionner les activit�
 **Enchère silencieuse**
 
 Une enchère silencieuse aura lieu lors de la soirée du souper spaghetti. Si vous êtes membre d’une entreprise ou si vous connaissez une entreprise qui souhaiterait encourager nos jeunes en faisant un don, n’hésitez surtout pas à communiquer avec un membre du comité à la cantine le vendredi soir ou en écrivant à <cciv2920@gmail.com>.
+
+## Activités à venir
+
+- **3 février** : Clinique de musique (examens pratiques) 
+- **9 au 11 février** : Exercice hivernal
+- **17 et 18 février** : Compétition de biathlon provinciale à Valcartier.
+- **24 février** : Journée d'activité sportives
+- **24 février** : Souper spaghetti
 
