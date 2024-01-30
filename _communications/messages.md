@@ -1,69 +1,96 @@
 ---
 title:  "Messages de la semaine"
 layout: "messages"
-
-activities: 
-
-    - date: 18 novembre
-      title: formation intensive pour recrues et clinique musicale
-    - date: 19 novembre
-      title: course d'orientation
-    - date: 25 novembre
-      title: course guignolée
-
 ---
-## Soirée du 17 novembre
 
-[Tenue C5]({{ site.data.hardcodes.url_guide_uniforme }}), avec en plus le manteau des cadets.
+## Soirée du 26 janvier
 
-À partir de ce vendredi jusqu'à l'annonce du contraire au printemps, venez avec le manteau, gants et tuque des cadets en plus de l'uniforme de la soirée. SVP collez un ruban adhésif de type duct tape à l'intérieur du manteau sur lequel vous écrivez votre nom, afin de ne pas mélanger les manteaux.
+Tenue C1 pour tous.
 
-## Formation intensive pour recrues 18 novembre
+Les parents et amis sont invités pour la parade du commandant à 20h. 
 
-Pour les recrues qui ont sauté de niveau dû à leur âge, il y aura une journée de formation intensive de mise à niveau pour l'instruction que vous avez sauté. Le critère d'éligibilité est d'avoir 13 ans au 1er septembre 2023. 
-
-Tenue civile, apportez vos bottes de parade et votre ensemble de cirage. 8h à 16h, 100 rue de la Baie, apportez un lunch froid.
-
-## Musique hebdomadaire et clinique musicale du 18 novembre
-
-Les pratiques régulières de la musique débutent ce dimanche. Que vous ayez déjà donné votre nom ou non, merci de remplir le sondage suivant : [Sondage de participation hebdomadaire à la musique](https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOUFVVVJTRUxBRVFEMElFOExaRFA0RFlGUyQlQCN0PWcu)
-
-Les cadets musiciens des différentes unités de cadets de la région se rencontreront les dimanche matins de 9h-12h au Régiment de Hull au 188 Alexandre-Taché Blvd, Gatineau, Quebec J8Y 3L5 (pour l'instant). La tenue est civile. 
-
-La clinique musicale de la région de l'Outaouais aura lieu le 18 novembre de 9h à 17h au [1900 Dauphin Road, Ottawa](https://maps.app.goo.gl/R4ChrHnirSbvJaXa6). C'est l'occasion pour les cadets musiciens, nouveaux ou non, de recevoir une formation intensive pour débuter l'année. Écrivez-nous au <2920armee@cadets.gc.ca> avec votre nom et l'instrument que vous dériez jouer si vous voulez vous inscrire et n'avez pas encore donné votre nom. Vous êtes responsable de votre transport et repas, tenue [C3C]({{ site.data.hardcodes.url_guide_uniforme }}).
-
-Il n'est pas nécessaire d'avoir de l'expérience préalable pour participer aux activités de musique.
-
-## Course d'orientation 19 novembre
-
-Voici l'information : [Orienteering.pdf](https://1drv.ms/b/s!AkTIfKmoB8nugfwPNPP-LMF-fjU1lA?e=CVoJth). 
-Le document n'a pas besoin de nous être rapporté.
-
-## Guignolée 25 novembre
-
-Comme l'année passée, l'activité consiste en la distribution en porte-à-porte d'enveloppe de dons pour la paroisse Jean XXIII dans le cadre de la Guignolée de Noël. Elle aura lieu de 10h à 13h. Nous aurons aussi besoin de parents avec véhicule.
-
-## Tir
-
-Pour les anciens seulement, les séances de tir du lundi soir ont lieu au [100 rue de la Baie](/information/comment-nous-rejoindre/) de 18h à 20h30.
-
-Les recrues qui ont passé le test de manutention d'arme aussi peuvent venir. Pour ceux qui ont sauté de niveau et les verts qui ont manqué l'occasion vendredi passé, le test aura lieu le 18 novembre.
-
-## Peloton de précision
-
-Le peloton de précision a lieu les mercredis de 18h30 à 20h30 au [100 rue de la Baie](/information/comment-nous-rejoindre/). Tenue civile avec bottes de parade.
-
-## Sondage camp d'été et NECPC
-
-Le national qui s'occupe des grandes lignes du programme des cadets fait un sondage concernant les camps d'été et la mise à jour du test de conditionnement physique des cadets. Tous les cadets sont invités à y participer. Voici le [Sondage d'été 2023](https://interceptum.com/si/fr/6702493)
+Les musiciens doivent apporter leur instrument de musique et les partitions
 
 
-## Tirage d'un panier cadeau
+## Activités optionnelles
 
-Le comité de soutien organise un tirage d'un panier cadeau contenant des cartes cadeaux et bouteilles de vin (d'une valeur totale approximative de 160,00 $) au profit du CC2920. Le tirage et la remise du panier se fera le 17 décembre. 
+- Le tir a lieu lundi 22 janvier de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
-30 billets par cadets seront distribués ce vendredi. Chaque billet se vend 0,99 $. (18 ans et plus pour participer)
+- Le peloton de précision a lieu mercredi 24 janvier de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade. 
 
-Pour les cadets et cadettes, il y aura également des prix pour celui ou celle ayant vendu(e) le plus de billets, ainsi qu’un prix pour le billet qui aura été tiré (le billet gagnant), et un dernier prix pour la participation.
+- Compétition de biathlon le 27 et 28 janvier de 8h00 à 17h00 au camp forturne, voir les détails ci-dessous.
 
+- La musique a lieu dimanche 28 janvier de 8h45 à 13h00. Tenue civile au Centre Eugène-Sauvageau, 179 Mutchmore . Apportez votre instrument. 
+
+
+## Recrutement
+
+Les cadets qui apporterons une nouvelle inscription entre le 16 janvier et le 16 février, seront éligible à un tirage lors de la parade du commandant de février.
+
+
+## Activités à venir
+
+- **26 janvier** : Parade du commandant et parade de changement de cadet commandant
+- **26 au 28 janvier** : Expédition étoile or (niveau or seulement). Raquette et ski de fond au menu dans le parc de la Gatineau et coucher en tente.
+- **27 et 28 janvier** : Compétition de biathlon de zone
+- **27 janvier** : Clinique de musique (examens théoriques) via Teams
+- **3 février** : Clinique de musique (examens pratiques) 
+- **9 au 11 février** : Exercice hivernal
+- **17 et 18 février** : Compétition de biathlon provinciale à Valcartier.
+- **24 février** : Journée d'activité sportives
+- **24 février** : Souper spaghetti
+
+  
+## Compétition de biathlon du 27 et 28 janvier
+
+Le responsable de la compétition a besoin de cadets et de parents pour aider à l'organisation de la compétition de biathlon régionale du 27 et 28 janvier.  
+
+Veuillez compléter le formulaire <https://forms.office.com/r/qBNj5danYK> avant le 25 janvier, si vous désirez être bénévoles lors de la compétition. Ceci s'addresse autant aux cadets et aux parents des cadets. 
+
+Les personnes doivent être disponible de 8h00 à 17h00 le samedi et/ou le dimanche.  
+
+La compétition aura lieu au Camp Fortune sur le site de biatlon au chalet des érables. 
+
+Le samedi 27 janvier sera pour la catégorie développement et le dimanche 28 janvier sera la compétition de zone pour le classement pour aller au provincial.
+
+
+## EEO 26 au 28 janvier
+
+Pour les niveaux or inscrits à l'expédition étoile or, le départ se fera à 19h le vendredi et le retour à 14h le dimanche.
+
+La guide du participant se trouve ici, en gardant en tête que les activités seront raquette et ski de fond:
+<https://1drv.ms/w/s!AkTIfKmoB8nugopZrDXBm0ua40WKCw>
+
+
+## Clinique de musique 27 janvier
+
+Une clinique de musique théorique aura lieu le 27 janvier à compter de 10h00 via Teams pour les cadets qui se sont inscrits. 
+
+Les cadets vont recevoir une invitation dans leur courriel de cadets365. Ils doivent se connecter au minimum 20 minutes à l'avance sur l'application TEAMS.
+
+Les cadets doivent s'assurer que leur caméra et leur micro sont fonctionnel et devront avoir leur caméra active pour toute la durée de la formation théorique.
+
+Les cadets devront être à l'aise avec cadets365.  
+
+Si vous avez des problèmes avec cadets365 veuillez nous contacter ou venir au corps de cadets mercredi 24 janvier entre 18h00 et 19h00.
+
+
+## Exercice hivernal
+
+Les cadets doivent compléter obligatoirement le **sondage** pour l"exercice hivernal **pour 26 janvier** au lien suivant : <https://docs.google.com/forms/d/16JmYZ6jiyusXgbrrsKsWdm5P-oHemrWQ3a70JFV-grs/edit>
+
+
+## Souper spaghetti
+
+Vendredi prochain, les cadets recevront une enveloppe contenant 4 billets. Si vous désirez avoir plus de billets, veuillez envoyer un courriel <cciv2920@gmail.com> ou passer à la cantine le vendredi soir.
+
+Nous sollicitons votre collaboration afin de vendre les 300 billets pour le souper spaghetti annuel qui aura lieu le 24 février prochain de 17h00 à 18h30 à la Légion royale canadienne filiale 58 de Gatineau au 86, rue de la Baie, Gatineau.
+
+Les billets sont au coût de 15$/adulte, et 10$/cadet(te) ou enfant de 12 ans et moins (argent comptant ou transfert électronique à *cciv2920@gmail.com*). L’argent comptant des billets vendus, ou tout billet non vendu, doit être retourné au corps de cadets avant le vendredi 16 février. Aucun billet ne sera vendu à la porte la soirée même du souper spaghetti.
+
+Ce souper a comme objectif d’amasser des fonds pour subventionner les activités des jeunes dont l’expédition de printemps ainsi que l’activité de fin d’année.
+
+**Enchère silencieuse**
+
+Une enchère silencieuse aura lieu lors de la soirée du souper spaghetti. Si vous êtes membre d’une entreprise ou si vous connaissez une entreprise qui souhaiterait encourager nos jeunes en faisant un don, n’hésitez surtout pas à communiquer avec un membre du comité à la cantine le vendredi soir ou en écrivant à <cciv2920@gmail.com>.
 
