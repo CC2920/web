@@ -12,6 +12,12 @@ title: "2022 à aujourd'hui Capitaine Mario Martel"
 * mai 2023 - [Gala et soirée](https://photos.app.goo.gl/7ymPZMjSz1PYLrHq9)
 * mai 2023 - [50e Revue annuelle](https://photos.app.goo.gl/QkHNrBXTNJNyW94v8)
 
-* ## 2023-2024
+## 2023-2024
 
+* septembre 2023 - [Parade du commandant](https://photos.app.goo.gl/iBau7ejWwCGdvKuGA)
+* novembre 2023 - [Parade du commandant](https://photos.app.goo.gl/NGBgJUqdrbdvoLab8)
+* novembre 2023 - [Parade du Souvenir](https://photos.app.goo.gl/iyeY7XVQ6BJ5TLp59)
+* décembre 2023 - [Parade du commandant](https://photos.app.goo.gl/Duu3LivrV69jXgTx5)
 * janvier 2024 - [Parade du commandant](https://photos.app.goo.gl/HfkSSrCvM3vexaG1A)
+
+
