@@ -26,13 +26,13 @@ Les cadets doivent compléter obligatoirement le **sondage** pour l"exercice hiv
 
 ## Souper spaghetti
 
-Vendredi prochain, les cadets recevront une enveloppe contenant 4 billets. Si vous désirez avoir plus de billets, veuillez envoyer un courriel <cciv2920@gmail.com> ou passer à la cantine le vendredi soir.
+**Billets**
 
-Nous sollicitons votre collaboration afin de vendre les 300 billets pour le souper spaghetti annuel qui aura lieu le 24 février prochain de 17h00 à 18h30 à la Légion royale canadienne filiale 58 de Gatineau au 86, rue de la Baie, Gatineau.
+Vendredi dernier, les cadets ont reçu une enveloppe contenant 4 billets à vendre pour le souper spaghetti. Les billets sont à vendre au coût de 15$/adulte, et 10$/cadet(te) ou enfant de 12 ans et moins. Le paiement des billets est à remettre en argent comptant à la cantine ou par transfert électronique à <cciv2920@gmail.com> (en indiquant le nom du cadet qui les a vendus).
 
-Les billets sont au coût de 15$/adulte, et 10$/cadet(te) ou enfant de 12 ans et moins (argent comptant ou transfert électronique à *cciv2920@gmail.com*). L’argent comptant des billets vendus, ou tout billet non vendu, doit être retourné au corps de cadets avant le vendredi 16 février. Aucun billet ne sera vendu à la porte la soirée même du souper spaghetti.
+Ce souper spaghetti a comme objectif d’amasser des fonds pour subventionner les activités des jeunes dont l’expédition de printemps ainsi que l’activité de fin d’année.
 
-Ce souper a comme objectif d’amasser des fonds pour subventionner les activités des jeunes dont l’expédition de printemps ainsi que l’activité de fin d’année.
+Des billets supplémentaires sont disponibles à la cantine.
 
 **Enchère silencieuse**
 
