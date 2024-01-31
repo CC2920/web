@@ -5,16 +5,20 @@ layout: "messages"
 
 ## Soirée du 2 février
 
-Pour tous, tenue civile pour passer la majeure partie de la soirée à l'extérieur, et une paire d'espadrille de rechange pour l'intérieur.
+Pour tous, tenue civile 
+
+Pour les niveaux vert et rouge l'instruction sera à l'ecole Nouvel-Horizon dans la salle Polyvalente au 100 Rue La Baie pour cette semaine.
+
+Pour les niveaux argent et Or l'instuction sera au 52 St-Rosaire cette semaine. 
 
 
 ## Activités optionnelles
 
-- Le tir a lieu lundi 29 janvier de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
+- La musique a lieu dimanche 4 février de 8h45 à 13h00. Tenue civile au Centre Eugène-Sauvageau, 179 Mutchmore . Apportez votre instrument.
 
-- Le peloton de précision a lieu mercredi 31 janvier de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade. 
+- Le tir a lieu lundi 5 février de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
-- La musique a lieu dimanche 4 février de 8h45 à 13h00. Tenue civile au Centre Eugène-Sauvageau, 179 Mutchmore . Apportez votre instrument. 
+- Le peloton de précision a lieu mercredi 7 février de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade. 
 
 ## Recrutement
 
@@ -22,7 +26,7 @@ Les cadets qui apporterons une nouvelle inscription entre le 16 janvier et le 16
 
 ## Exercice hivernal
 
-Les cadets doivent compléter obligatoirement le **sondage** pour l"exercice hivernal **pour 26 janvier** au lien suivant : <https://docs.google.com/forms/d/16JmYZ6jiyusXgbrrsKsWdm5P-oHemrWQ3a70JFV-grs/edit>
+La feuilles avec la liste de matériel sera remis au cadets qui iront a l'exercice deu 9 au 11 février vendredi soir.
 
 ## Souper spaghetti
 
@@ -40,7 +44,6 @@ Une enchère silencieuse aura lieu lors de la soirée du souper spaghetti. Si vo
 
 ## Activités à venir
 
-- **3 février** : Clinique de musique (examens pratiques) 
 - **9 au 11 février** : Exercice hivernal
 - **17 et 18 février** : Compétition de biathlon provinciale à Valcartier.
 - **24 février** : Journée d'activité sportives
