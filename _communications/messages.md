@@ -11,6 +11,7 @@ Pour les niveaux vert et rouge l'instruction sera à l'ecole Nouvel-Horizon dans
 
 Pour les niveaux argent et Or l'instuction sera au 52 St-Rosaire cette semaine. 
 
+les ors et les staffs vont sur leurs niveaux attribué lors de la parade de vendredi dernier
 
 ## Activités optionnelles
 
