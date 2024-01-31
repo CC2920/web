@@ -27,7 +27,7 @@ Les cadets qui apporterons une nouvelle inscription entre le 16 janvier et le 16
 
 ## Exercice hivernal
 
-La feuilles avec la liste de matériel sera remis au cadets qui iront a l'exercice du 9 au 11 février vendredi soir.
+La feuille avec la liste de matériel sera remise aux cadets qui participeront a l'exercice du 9 au 11 février vendredi soir.
 
 ## Souper spaghetti
 
