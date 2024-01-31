@@ -7,15 +7,15 @@ layout: "messages"
 
 Pour tous, tenue civile 
 
-Pour les niveaux vert et rouge l'instruction sera à l'ecole Nouvel-Horizon dans la salle Polyvalente au 100 Rue La Baie pour cette semaine.
+Pour les niveaux vert et rouge, l'instruction sera à l'école Nouvel-Horizon dans la salle Polyvalente au 100 Rue La Baie pour cette semaine.
 
-Pour les niveaux argent et Or l'instuction sera au 52 St-Rosaire cette semaine. 
+Pour les niveaux argent et or, l'instuction sera au 52 St-Rosaire cette semaine. 
 
-les niveau or et les staffs vont avec leur niveau attribué lors de la parade de vendredi dernier
+Les niveaux or et les staffs vont avec leur niveau attribué lors de la parade de vendredi dernier.
 
 ## Activités optionnelles
 
-- La musique a lieu dimanche 4 février de 8h45 à 13h00. Tenue civile au Centre Eugène-Sauvageau, 179 Mutchmore . Apportez votre instrument.
+- La musique a lieu dimanche 4 février de 8h45 à 13h00. Tenue civile au Centre Eugène-Sauvageau, 179 Mutchmore. Apportez votre instrument.
 
 - Le tir a lieu lundi 5 février de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
@@ -27,13 +27,13 @@ Les cadets qui apporterons une nouvelle inscription entre le 16 janvier et le 16
 
 ## Exercice hivernal
 
-La feuille avec la liste de matériel sera remise aux cadets qui participeront a l'exercice du 9 au 11 février vendredi soir.
+La feuille avec la liste de matériel sera remise aux cadets qui participeront à l'exercice du 9 au 11 février vendredi soir.
 
 ## Souper spaghetti
 
 **Billets**
 
-Vendredi dernier, les cadets ont reçu une enveloppe contenant 4 billets à vendre pour le souper spaghetti. Les billets sont à vendre au coût de 15$/adulte, et 10$/cadet(te) ou enfant de 12 ans et moins. Le paiement des billets est à remettre en argent comptant à la cantine ou par transfert électronique à <cciv2920@gmail.com> (en indiquant le nom du cadet qui les a vendus).
+Vendredi dernier, les cadets ont reçu une enveloppe contenant 4 billets à vendre pour le souper spaghetti. Les billets sont à vendre au coût de 15$/adulte, et 10$/cadet(te) ou enfant de 12 ans et moins. Le paiement des billets est à remettre en argent comptant à la cantine ou par transfert électronique à <cciv2920@gmail.com> (en indiquant le nom du cadet qui les a vendu).
 
 Ce souper spaghetti a comme objectif d’amasser des fonds pour subventionner les activités des jeunes dont l’expédition de printemps ainsi que l’activité de fin d’année.
 
