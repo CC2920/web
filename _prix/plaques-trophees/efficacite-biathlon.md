@@ -13,6 +13,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2023 | Jr Alexis Martel <br>Sr Jacob St-Louis |
+| 2022 | Jr Malika Viau <br>Sr Alexandre Bogucki |
 | 2021 | Aucun récipiendaire |
 | 2020 | Jr Sébastien Brunette  <br>Sr Yannick Olivier |
 | 2019 | Jr Antoine St-Louis  <br>Sr Christian Olivier |
