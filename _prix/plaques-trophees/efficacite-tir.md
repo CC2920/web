@@ -13,6 +13,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2023 | Jr Samuel Leduc <br>Sr Louick Lambert-Turcotte |
+| 2022 | Jr Audrey Patenaude <br>Sr Julie-Anne Adam |
 | 2021 | Aucun récipiendaire |
 | 2020 | Jr Antoine St-Louis  <br>Sr Yanick Olivier |
 | 2019 | Jr Mathis Bouchard-Couvrette  <br>Sr Mathieu Larin |

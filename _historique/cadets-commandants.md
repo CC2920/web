@@ -195,7 +195,28 @@ les-cadets-commandants:
   - adjc:
     year: 2020-2021
     name: Adjudant-Chef Mélodie Lambert-Turcotte
-    picture: /docs/historique/adjuc39_lambert-turcotte.jpg 
+    picture: /docs/historique/adjuc39_lambert-turcotte.jpg
+
+  - adjc:
+    year: 2021-2022
+    name: Adjudant-Chef Mathilde Lambert-Turcotte
+    picture: /docs/historique/adjuc40_mathilde-lambert-turcotte.jpg 
+ 
+  - adjc:
+    year: 2022-2023
+    name: Adjudant-Chef Beata Rus
+    picture: /docs/historique/adjuc41_Beata-Rus.jpg 
+
+  - adjc:
+    year: 2023-2024
+    name: Adjudant-Chef Lahmya Chapleau
+    picture: /docs/historique/adjuc42_Lahmya-Chapleau.jpg 
+
+  - adjc:
+    year: 2024-
+    name: Adjudant-Chef Méliane Legault
+    picture: /docs/historique/adjuc43_Meliane-Legault.jpg 
+    
 ---
   
 

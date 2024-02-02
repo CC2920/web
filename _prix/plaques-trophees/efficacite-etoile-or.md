@@ -16,6 +16,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2023 | Zakaryane Géron |
+| 2022 | Julie-Anne Adam |
 | 2021 | Jasmine Pilon |
 | 2020 | Zachary Charette |
 | 2019 | Mathilde Lambert-Turcotte |

@@ -15,6 +15,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2023 | Dominic Bogucki |
+| 2022 | Raphaël Asselin |
 | 2021 | Meliane Legault |
 | 2020 | Loic Thibeault |
 | 2019 | Beata Rus |
