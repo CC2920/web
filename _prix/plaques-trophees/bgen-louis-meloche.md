@@ -13,6 +13,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2023 | Sébastien Brunette |
+| 2022 | Jasmine Pilon |
 | 2021 | Mathilde Lambert-Turcotte |
 | 2020 | Cydonie Sabourin |
 | 2019 | Cydonie Sabourin |
