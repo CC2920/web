@@ -14,6 +14,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2023 | Aucun récipiendaire |
+| 2022 | Aucun récipiendaire |
 | 2021 | Aucun récipiendaire |
 | 2020 | Jr Zack Lambert-Turcotte  <br>Sr Beata Rus |
 | 2019 | Jr Louick Lambert-Turcotte  <br>Sr Beata Rus |
