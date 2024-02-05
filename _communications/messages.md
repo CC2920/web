@@ -68,9 +68,9 @@ Rappel du coût des différents billets:
 - **24 février** : Souper spaghetti. (souper de financement)
 - **9 mars** : Compétition de tir régionale.
 
-- ## Administration
+## Administration
 
-- Il est important d'apporter votre carte d'assurance maladie dès que vous en recevez une nouvelle pour que l'on mettre a jour celle-ci dans votre dossier.
+Il est important d'apporter votre carte d'assurance maladie dès que vous en recevez une nouvelle pour que l'on mettre a jour celle-ci dans votre dossier.
 
-- Si vous avez encore des documents médicales a rapporter vous devez les apporter le plus rapidement possible car ceux-ci doivent être a jour si vous voulez appliquer sur des camps d'été ou activités qui sont régionales.
+Si vous avez encore des documents médicales a rapporter vous devez les apporter le plus rapidement possible car ceux-ci doivent être a jour si vous voulez appliquer sur des camps d'été ou activités qui sont régionales.
   
