@@ -41,19 +41,22 @@ Aucun équipement électronique ne sera autoriser pour des raisons de sécurité
 Voici la liste matériel a apporter : [Liste de materiel.pdf](https://github.com/CC2920/web/files/14157709/Liste.de.materiel.pdf)
 
 
-## Souper spaghetti
+## Souper spaghetti du 24 février
 
-**Billets**
+**Date limite pour payer les billets: 16 février**
 
-Tous les cadets ont reçu une enveloppe contenant 4 billets à vendre pour le souper spaghetti. Les billets sont à vendre au coût de 15$/adulte, et 10$/cadet(te) ou enfant de 12 ans et moins. Le paiement des billets est à remettre en argent comptant à la cantine ou par transfert électronique à <cciv2920@gmail.com> (en indiquant le nom du cadet qui les a vendu).
+Méthodes de paiement: 
+- Virement Interac: cciv2920@gmail.com
+- En argent comptant à la cantine
 
-Ce souper spaghetti a comme objectif d’amasser des fonds pour subventionner les activités des jeunes dont l’expédition de printemps ainsi que l’activité de fin d’année.
+Les billets non vendus doivent être retournés à la cantine au plus tard le 16 février. Au besoin, des billets supplémentaires peuvent être obtenus à la cantine.
 
-Des billets supplémentaires sont disponibles à la cantine et il sera possible de rapporter les billets vendues ou d'en obtenir d'autres mercredi le 7 fevrier au corps de cadets entre 18h00 et 19h00. 
+L’objectif de cette collecte est d'amasser des fonds pour payer de belles activités aux cadets. Nous comptons sur votre précieuse collaboration. 
 
-**Enchère silencieuse**
+Rappel du coût des différents billets:
+- 15$/adulte
+- 10$/ cadet(te) ou enfant de 12 ans et moins
 
-Une enchère silencieuse aura lieu lors de la soirée du souper spaghetti. Si vous êtes membre d’une entreprise ou si vous connaissez une entreprise qui souhaiterait encourager nos jeunes en faisant un don, n’hésitez surtout pas à communiquer avec un membre du comité à la cantine le vendredi soir ou en écrivant à <cciv2920@gmail.com>.
 
 ## Activités à venir
 
