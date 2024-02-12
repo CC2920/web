@@ -43,15 +43,15 @@ Voici la liste matériel a apporter : [Liste de materiel.pdf](https://github.com
 
 ## Souper spaghetti du 24 février
 
-**Date limite pour payer les billets: 16 février**
+**Dernière semaine pour payer, obtenir ou retourner des billets**
+ 
+Date limite ce vendredi 16 février. Aucun billet non vendu ne doit être en circulation au-delà de cette date. Nous comptons sur votre précieuse collaboration. 
 
 Méthodes de paiement: 
-- Virement Interac: cciv2920@gmail.com
+- Virement Interac: *cciv2920@gmail.com*
 - En argent comptant à la cantine
 
-Les billets non vendus doivent être retournés à la cantine au plus tard le 16 février. Au besoin, des billets supplémentaires peuvent être obtenus à la cantine.
-
-L’objectif de cette collecte est d'amasser des fonds pour payer de belles activités aux cadets. Nous comptons sur votre précieuse collaboration. 
+La cantine sera ouverte excetionellement ce mercredi soir de 18h30 à 20h15 pour vous accueillir ainsi que vendredi comme à l'habitude.
 
 Rappel du coût des différents billets:
 - 15$/adulte
