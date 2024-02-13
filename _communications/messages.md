@@ -15,7 +15,7 @@ Tenue d'instruction pour tous (C5)
    
 -  Mercredi 14 février pratique de précision de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade.
 
- - Dimanche 18 février pratique de musique de 8h45 à 13h00. Tenue civile au Manege militaire de Hull. Apportez votre instrument.
+ - Dimanche 18 février pratique de musique de 8h45 à 13h00. Tenue civile au Manège militaire de Hull. Apportez votre instrument.
 
  - Lundi 19 février Pratique de tir pour l'équipe de compétition de tir UNIQUEMENT de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
@@ -42,9 +42,9 @@ Rappel du coût des différents billets:
 
 ## Sortie Lac des Loups
 
-- Nous allons faire une sortie de sport au Lac des loup de 24 février
+Nous allons faire une sortie de sport au Lac des loup le 24 février.
 
-- Les cadets doivent completer le sondage suivant https://docs.google.com/forms/d/13XUYJRhjMshb4e3HGS3u_IZC7Tbla-5GhLn0OtZ5LfA/edit
+Les cadets doivent compléter le sondage suivant : https://docs.google.com/forms/d/13XUYJRhjMshb4e3HGS3u_IZC7Tbla-5GhLn0OtZ5LfA/edit
   
 ## Activités à venir
 
