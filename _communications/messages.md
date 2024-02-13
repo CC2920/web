@@ -3,43 +3,25 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée du 9 février
+## Soirée du 16 février
 
-- Seulement les cadets qui se sont inscrits pour l'activité hivernal ou qui ont reçu une confirmation de participation doivent se présenter au corps de cadets ce vendredi en civil avec leur bagages. 
-
-- Les autres cadets sont en congés.
+Tenue d'instruction pour tous (C5)
 
 ## Activités optionnelles
-
-- Dimanche 4 février pratique de musique de 8h45 à 13h00. Tenue civile au Centre Eugène-Sauvageau, 179 Mutchmore. Apportez votre instrument.
-
-- Lundi 5 février pratique de tir de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
-
-- Mercredi 7 févier pratique du peloton de précision de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade.
-
-- Dimanche 11 février pratique de musique de 8h45 à 13h00. pour les cadets qui ne seront pas à l'exercice. Tenue civile au Manege militaire de Hull. Apportez votre instrument.
 
 - Lundi 12 février Compétition de tir du corps de cadets pour décider qui représentera le corps de cadets à la compétition régionale de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
 -  Mercredi 14 février sélection des cadets pour les couleurs de 18h30 a 19h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade.
    
 -  Mercredi 14 février pratique de précision de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade.
- 
+
+ - Dimanche 18 février pratique de musique de 8h45 à 13h00. Tenue civile au Manege militaire de Hull. Apportez votre instrument.
+
+ - Lundi 19 février Pratique de tir pour l'équipe de compétition de tir UNIQUEMENT de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
 ## Recrutement
 
 Les cadets qui apporterons une nouvelle inscription entre le 16 janvier et le 16 février, seront éligible à un tirage lors de la parade du commandant de février.
-
-## Exercice hivernal
-
-Les cadets participants devront se présenter au corps de cadets pour 18h30 le 9 février avec leur matériel et le retour est prévue pour 16h00 le 11 février.
-
-Tous devront avoir leur carte d'assurance maladie VALIDE et en leur possession pour embarquer dans l'autobus.
-
-Aucun équipement électronique ne sera autoriser pour des raisons de sécurité car nous seront dehors durant la fin de semaine
-
-Voici la liste matériel a apporter : [Liste de materiel.pdf](https://github.com/CC2920/web/files/14157709/Liste.de.materiel.pdf)
-
 
 ## Souper spaghetti du 24 février
 
@@ -51,17 +33,21 @@ Méthodes de paiement:
 - Virement Interac: *cciv2920@gmail.com*
 - En argent comptant à la cantine
 
-La cantine sera ouverte excetionellement ce mercredi soir de 18h30 à 20h15 pour vous accueillir ainsi que vendredi comme à l'habitude.
+La cantine sera ouverte exceptionellement ce mercredi soir de 18h30 à 20h15 pour vous accueillir ainsi que vendredi comme à l'habitude.
 
 Rappel du coût des différents billets:
 - 15$/adulte
 - 10$/ cadet(te) ou enfant de 12 ans et moins
 
 
+## Sortie Lac des Loups
+
+- Nous allons faire une sortie de sport au Lac des loup de 24 février
+
+- Les cadets doivent completer le sondage suivant https://docs.google.com/forms/d/13XUYJRhjMshb4e3HGS3u_IZC7Tbla-5GhLn0OtZ5LfA/edit
+  
 ## Activités à venir
 
-- **9 au 11 février** : Exercice hivernal.
-- **12 février** : Compétition pour la sélection de l'équipe de tir
 - **14 février** : Sélection des cadets pour les couleurs.
 - **17 et 18 février** : Compétition de biathlon provinciale à Valcartier.
 - **24 février** : Journée d'activité sportives.
