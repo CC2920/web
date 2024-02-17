@@ -44,7 +44,7 @@ Rappel du coût des différents billets:
 
 Nous allons faire une sortie de sport au Lac des loup le 24 février.
 
-Les cadets doivent compléter le sondage suivant : https://docs.google.com/forms/d/13XUYJRhjMshb4e3HGS3u_IZC7Tbla-5GhLn0OtZ5LfA/edit
+Les cadets doivent compléter le sondage suivant : <https://docs.google.com/forms/d/13XUYJRhjMshb4e3HGS3u_IZC7Tbla-5GhLn0OtZ5LfA/edit>
   
 ## Activités à venir
 
