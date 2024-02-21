@@ -11,15 +11,15 @@ Tenue de cérémonie pour tous (C1)
 
 -  Mercredi 21 février pratique de précision de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade.
 
- - Dimanche 24 février pratique de musique de 8h45 à 13h00. Tenue civile au Manège militaire de Hull. Apportez votre instrument.
+ - Dimanche 25 février pratique de musique de 8h45 à 13h00. Tenue civile au Manège militaire de Hull. Apportez votre instrument.
 
- - Dimanche 24 février défi Jean-Philippe Le Guellec de 9h00 a 13h00 Tenue civile avec espadrille au [100 rue de la Baie](/information/comment-nous-rejoindre/).
+ - Dimanche 25 février défi Jean-Philippe Le Guellec de 9h00 a 13h00 Tenue civile avec espadrille au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
- - Lundi 25 février Pratique de tir pour l'équipe de compétition de tir UNIQUEMENT de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
+ - Lundi 26 février Pratique de tir pour l'équipe de compétition de tir UNIQUEMENT de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
 ## Sortie Lac des Loups
 
-Nous allons faire une sortie de sport au Lac des loup. 
+Nous allons faire une sortie de sport au Lac des loup (24 février de 8h30 a 14h00).
 
 Les cadets doivent compléter le sondage pour au plus tard le mercredi 21 février 21h00 au lien suivant : <https://docs.google.com/forms/d/13XUYJRhjMshb4e3HGS3u_IZC7Tbla-5GhLn0OtZ5LfA/edit>
 
