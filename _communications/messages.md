@@ -27,6 +27,15 @@ Le départ se fera du corps de cadets du 52 St-Rosaire à 8h30 samedi le 24 fév
 Tenue civile hivernale.
 Apportez une collation.
 Si vous avez vos patins ou raquettes les apporter.
+
+## Souper spaghetti du 24 février
+ 
+Le souper spaghetti aura lieu ce samedi à la Légion, Filiale 58 au 86, rue de la Baie, Gatineau de 17h00 à 18h30. 
+
+Merci aux donateurs d’items pour la vente aux enchères, à la Légion pour leur soutien, et à tous ayant contribués à cette activité de financement.  
+
+Rappel : aucun billet ne sera en vente à la porte.
+
   
 ## Activités à venir
 
