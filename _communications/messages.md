@@ -3,56 +3,47 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée du 16 février
+## Soirée du 23 février
 
-Tenue d'instruction pour tous (C5)
+Tenue de cérémonie pour tous (C1)
 
 ## Activités optionnelles
 
-- Lundi 12 février Compétition de tir du corps de cadets pour décider qui représentera le corps de cadets à la compétition régionale de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
+-  Mercredi 21 février pratique de précision de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade.
 
--  Mercredi 14 février sélection des cadets pour les couleurs de 18h30 a 19h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade.
-   
--  Mercredi 14 février pratique de précision de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade.
+ - Dimanche 24 février pratique de musique de 8h45 à 13h00. Tenue civile au Manège militaire de Hull. Apportez votre instrument.
 
- - Dimanche 18 février pratique de musique de 8h45 à 13h00. Tenue civile au Manège militaire de Hull. Apportez votre instrument.
+ - Dimanche 24 février défi Jean-Philippe Le Guellec de 9h00 a 13h00 Tenue civile avec espadrille au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
- - Lundi 19 février Pratique de tir pour l'équipe de compétition de tir UNIQUEMENT de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
-
-## Recrutement
-
-Les cadets qui apporterons une nouvelle inscription entre le 16 janvier et le 16 février, seront éligible à un tirage lors de la parade du commandant de février.
-
-## Souper spaghetti du 24 février
-
-**Dernière semaine pour payer, obtenir ou retourner des billets**
- 
-Date limite ce vendredi 16 février. Aucun billet non vendu ne doit être en circulation au-delà de cette date. Nous comptons sur votre précieuse collaboration. 
-
-Méthodes de paiement: 
-- Virement Interac: *cciv2920@gmail.com*
-- En argent comptant à la cantine
-
-La cantine sera ouverte exceptionellement ce mercredi soir de 18h30 à 20h15 pour vous accueillir ainsi que vendredi comme à l'habitude.
-
-Rappel du coût des différents billets:
-- 15$/adulte
-- 10$/ cadet(te) ou enfant de 12 ans et moins
-
+ - Lundi 25 février Pratique de tir pour l'équipe de compétition de tir UNIQUEMENT de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
 ## Sortie Lac des Loups
 
-Nous allons faire une sortie de sport au Lac des loup le 24 février.
+Nous allons faire une sortie de sport au Lac des loup. 
 
-Les cadets doivent compléter le sondage suivant : <https://docs.google.com/forms/d/13XUYJRhjMshb4e3HGS3u_IZC7Tbla-5GhLn0OtZ5LfA/edit>
+Les cadets doivent compléter le sondage pour au plus tard le mercredi 21 février 21h00 au lien suivant : <https://docs.google.com/forms/d/13XUYJRhjMshb4e3HGS3u_IZC7Tbla-5GhLn0OtZ5LfA/edit>
+
+Le départ se fera du corps de cadets du 52 St-Rosaire à 8h30 samedi le 24 février et nous seront de retour pour 14h00.  
+Tenue civile hivernale.
+Apportez une collation.
+Si vous avez vos patins ou raquettes les apporter.
+
+## Souper spaghetti du 24 février
+ 
+Le souper spaghetti aura lieu ce samedi à la Légion, Filiale 58 au 86, rue de la Baie, Gatineau de 17h00 à 18h30. 
+
+Merci aux donateurs d’items pour la vente aux enchères, à la Légion pour leur soutien, et à tous ayant contribués à cette activité de financement.  
+
+Rappel : aucun billet ne sera en vente à la porte.
+
   
 ## Activités à venir
 
-- **14 février** : Sélection des cadets pour les couleurs.
-- **17 et 18 février** : Compétition de biathlon provinciale à Valcartier.
 - **24 février** : Journée d'activité sportives.
 - **24 février** : Souper spaghetti. (souper de financement)
-- **9 mars** : Compétition de tir régionale.
+- **10 mars** : Compétition de tir régionale.
+- **16 mars** Souper régimentaire du corps de cadets.
+- **6 avril** Collecte de bouteilles.
 
 ## Administration
 
