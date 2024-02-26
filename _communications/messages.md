@@ -21,7 +21,7 @@ Tenue de sport pour tous
 
 ## Souper spaghetti du 24 février
  
-Merci aux parents, amis et aux cadets pour votre participation au souper spaghette
+Merci aux parents, amis et aux cadets pour votre participation au souper spaghetti.
   
 ## Activités à venir
 
