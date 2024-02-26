@@ -25,9 +25,9 @@ Merci aux parents, amis et aux cadets pour votre participation au souper spaghet
 
 ## Souper régimentaire 
 
-- LE 16 mars aura lieu le souper régmentaire pour les cadets du 2920.
+ Le 16 mars aura lieu le souper régmentaire pour les cadets du 2920.
 
-- Un sondage pour le choix de repas sera publié dans les messages de la semaine prochaine.  Les cadets devront compléter ce sondage avant pour le 8 mars au plus tard.
+Un sondage pour le choix de repas sera publié dans les messages de la semaine prochaine. Les cadets devront compléter ce sondage avant pour le 8 mars au plus tard.
   
 ## Activités à venir
 
