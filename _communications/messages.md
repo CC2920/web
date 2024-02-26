@@ -3,44 +3,34 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée du 23 février
+## Soirée du 1 mars
 
-Tenue de cérémonie pour tous (C1)
+Tenue de sport pour tous
 
 ## Activités optionnelles
 
--  Mercredi 21 février pratique de précision de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade.
+-  Lundi 26 février  Pratique de tir pour l'équipe de compétition de tir UNIQUEMENT de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
- - Dimanche 25 février pratique de musique de 8h45 à 13h00. Tenue civile au Manège militaire de Hull. Apportez votre instrument.
+-  Mercredi 28 février pratique de précision de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade.
 
- - Dimanche 25 février défi Jean-Philippe Le Guellec de 9h00 a 13h00 Tenue civile avec espadrille au [100 rue de la Baie](/information/comment-nous-rejoindre/).
+ - Samedi 2 mars Fomation sur le fartage des ski pour les cadets du biathlon et retour du materiel. De 9h00 a 12h00 au 52 St-Rosaire
+     
+ - Dimanche 3 mars pratique de musique de 8h45 à 13h00. Tenue civile lieu a confirmer. Apportez votre instrument.
 
- - Lundi 26 février Pratique de tir pour l'équipe de compétition de tir UNIQUEMENT de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
-
-## Sortie Lac des Loups
-
-Nous allons faire une sortie de sport au Lac des loup (24 février de 8h30 a 14h00).
-
-Les cadets doivent compléter le sondage pour au plus tard le mercredi 21 février 21h00 au lien suivant : <https://docs.google.com/forms/d/13XUYJRhjMshb4e3HGS3u_IZC7Tbla-5GhLn0OtZ5LfA/edit>
-
-Le départ se fera du corps de cadets du 52 St-Rosaire à 8h30 samedi le 24 février et nous seront de retour pour 14h00.  
-Tenue civile hivernale.
-Apportez une collation.
-Si vous avez vos patins ou raquettes les apporter.
-
+ - Lundi 4 mars  A confirer Pratique de tir pour l'équipe de compétition de tir UNIQUEMENT de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
+ - 
 ## Souper spaghetti du 24 février
  
-Le souper spaghetti aura lieu ce samedi à la Légion, Filiale 58 au 86, rue de la Baie, Gatineau de 17h00 à 18h30. 
+Merci aux parents, amis et aux cadets pour votre participation au souper spaghetti.
 
-Merci aux donateurs d’items pour la vente aux enchères, à la Légion pour leur soutien, et à tous ayant contribués à cette activité de financement.  
+## Souper régimentaire 
 
-Rappel : aucun billet ne sera en vente à la porte.
+- LE 16 mars aura lieu le souper régmentaire pour les cadets du 2920.
 
+- Un sondage pour le choix de repas sera publié dans les messages de la semaine prochaine.  Les cadets devront compléter ce sondage avant pour le 8 mars au plus tard.
   
 ## Activités à venir
 
-- **24 février** : Journée d'activité sportives.
-- **24 février** : Souper spaghetti. (souper de financement)
 - **10 mars** : Compétition de tir régionale.
 - **16 mars** Souper régimentaire du corps de cadets.
 - **6 avril** Collecte de bouteilles.
