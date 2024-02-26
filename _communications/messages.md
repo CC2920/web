@@ -18,16 +18,16 @@ Tenue de sport pour tous
  - Dimanche 3 mars pratique de musique de 8h45 à 13h00. Tenue civile lieu a confirmer. Apportez votre instrument.
 
  - Lundi 4 mars  A confirer Pratique de tir pour l'équipe de compétition de tir UNIQUEMENT de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
- - 
+
 ## Souper spaghetti du 24 février
  
 Merci aux parents, amis et aux cadets pour votre participation au souper spaghetti.
 
 ## Souper régimentaire 
 
-- LE 16 mars aura lieu le souper régmentaire pour les cadets du 2920.
+Le 16 mars aura lieu le souper régmentaire pour les cadets du 2920.
 
-- Un sondage pour le choix de repas sera publié dans les messages de la semaine prochaine.  Les cadets devront compléter ce sondage avant pour le 8 mars au plus tard.
+Un sondage pour le choix de repas sera publié dans les messages de la semaine prochaine. Les cadets devront compléter ce sondage avant pour le 8 mars au plus tard.
   
 ## Activités à venir
 
