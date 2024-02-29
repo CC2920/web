@@ -17,7 +17,7 @@ Tenue de sport pour tous
      
  - Dimanche 3 mars pratique de musique de 8h45 à 13h00. Tenue civile lieu a confirmer. Apportez votre instrument.
 
- - Lundi 4 mars  A confirer Pratique de tir pour l'équipe de compétition de tir UNIQUEMENT de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
+ - Lundi 4 mars  A confirmer Pratique de tir pour l'équipe de compétition de tir UNIQUEMENT de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
 
 ## Souper spaghetti du 24 février
  
