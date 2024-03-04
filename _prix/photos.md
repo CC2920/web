@@ -171,3 +171,4 @@ title: "Galerie de photos"
 * [Parade du Souvenir - novembre 2023](https://photos.app.goo.gl/iyeY7XVQ6BJ5TLp59)
 * [Parade du commandant - décembre 2023](https://photos.app.goo.gl/Duu3LivrV69jXgTx5)
 * [Parade du commandant - janvier 2024](https://photos.app.goo.gl/HfkSSrCvM3vexaG1A)
+* [Parade du commandant - férvier 2024](https://photos.app.goo.gl/djuQACU1C8m5mzt48)
