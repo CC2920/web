@@ -14,17 +14,19 @@ les-cadets-major:
     - cadet:
       name: "Adjuc Méliane Legault"
       title: "Cadet-commandant"
-      picture:
-
-    - cadet:
-      name: "Adjum Alexandre Bogucki"
-      title: "Adjudant-Maitre de musique"
-      picture:
+      picture: "/docs/etat-major/CC2920-Adjuc-Legault.JPG"
 
     - cadet:
       name: "Adjum Zakaryane Geron"
       title: "Adjudant-Maitre Instruction"
-      picture:
+      picture: "docs/etat-major/CC2920-Adjum-Geron.JPG"
+    
+    - cadet:
+      name: "Adjum Alexandre Bogucki"
+      title: "Adjudant-Maitre de musique"
+      picture: "docs/etat-major/CC2920-Adjum-Bogucki-A.JPG"
+
+
 
 # Chaque groupe contient une list d'items représentant un cadet(te).
 #
@@ -36,12 +38,12 @@ les-cadets-cadres:
     - cadet: 
       name: Adj Raphael Briere
       title: Cadet sénior responsable niveau Vert
-      picture: 
+      picture: "/docs/cadets-cadres/CC2920-Adj-Briere.JPG"
 
     - cadet: 
       name: Adj Sébastien Brunette
       title: Cadet sénior responsable niveau Argent
-      picture: 
+      picture: "/docs/cadets-cadres/CC2920-Adj-Brunette.JPG"
 
     - cadet: 
       name: Adj Mory Yacine Kaba
@@ -51,27 +53,27 @@ les-cadets-cadres:
     - cadet: 
       name: Adj Patrick Delaney-Dufour
       title: Cadet sénior responsable niveau Rouge
-      picture: 
+      picture: "/docs/cadets-cadres/CC2920-Adj-Delaney-Dufour.JPG"
 
     - cadet: 
       name: Adj Jacob St-Louis
       title: Cadet sénior responsable niveau Rouge
-      picture:
+      picture: "/docs/cadets-cadres/CC2920-Adj-St-Louis.JPG"
        
     - cadet: 
       name: Adj Oluwafemi Bassowa
       title: Cadet sénior responsable niveau Rouge
-      picture:
+      picture: "/docs/cadets-cadres/CC2920-Adj-Bassowa.JPG"
 
     - cadet: 
       name: Adj Ahoefa Tiffany Atitsogbe
       title: Cadet sénior responsable niveau Vert
-      picture:    
+      picture: "/docs/cadets-cadres/CC2920-Adj-Atitsogbe.JPG"
     
     - cadet: 
       name: Adj Samuel Leduc
       title: Cadet sénior responsable niveau Vert
-      picture:
+      picture: "/docs/cadets-cadres/CC2920-Adj-Leduc.JPG"
 ---
 
 
