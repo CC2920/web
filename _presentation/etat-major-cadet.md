@@ -12,19 +12,21 @@ navigationKey: presentation
 #
 les-cadets-major:
     - cadet:
-      name: "Adjuc Lahmya Chapleau"
+      name: "Adjuc Méliane Legault"
       title: "Cadet-commandant"
-      picture:
-
-    - cadet:
-      name: "Adjum Mathis Lalonde"
-      title: "Adjudant-Maitre de parade"
-      picture:
+      picture: "/docs/etat-major/CC2920-Adjuc-Legault.JPG"
 
     - cadet:
       name: "Adjum Zakaryane Geron"
       title: "Adjudant-Maitre Instruction"
-      picture:
+      picture: "docs/etat-major/CC2920-Adjum-Geron.JPG"
+    
+    - cadet:
+      name: "Adjum Alexandre Bogucki"
+      title: "Adjudant-Maitre de musique"
+      picture: "docs/etat-major/CC2920-Adjum-Bogucki-A.JPG"
+
+
 
 # Chaque groupe contient une list d'items représentant un cadet(te).
 #
@@ -35,53 +37,43 @@ les-cadets-major:
 les-cadets-cadres:
     - cadet: 
       name: Adj Raphael Briere
-      title: Senior responsable niveau Or
-      picture: 
+      title: Cadet sénior responsable niveau Vert
+      picture: "/docs/cadets-cadres/CC2920-Adj-Briere.JPG"
 
     - cadet: 
-      name: Adj Meliane Legault
-      title: Senior responsable niveau Argent
-      picture: 
-
-    - cadet: 
-      name: Adj Sebastien Brunette
-      title: Senior responsable niveau Argent
-      picture: 
+      name: Adj Sébastien Brunette
+      title: Cadet sénior responsable niveau Argent
+      picture: "/docs/cadets-cadres/CC2920-Adj-Brunette.JPG"
 
     - cadet: 
       name: Adj Mory Yacine Kaba
-      title: Senior responsable niveau Argent
+      title: Cadet sénior responsable niveau Argent
       picture: 
 
     - cadet: 
       name: Adj Patrick Delaney-Dufour
-      title: Senior responsable niveau Rouge
-      picture: 
+      title: Cadet sénior responsable niveau Rouge
+      picture: "/docs/cadets-cadres/CC2920-Adj-Delaney-Dufour.JPG"
 
     - cadet: 
       name: Adj Jacob St-Louis
-      title: Senior responsable niveau Rouge
-      picture:
+      title: Cadet sénior responsable niveau Rouge
+      picture: "/docs/cadets-cadres/CC2920-Adj-St-Louis.JPG"
        
     - cadet: 
       name: Adj Oluwafemi Bassowa
-      title: Senior responsable niveau Rouge
-      picture:
+      title: Cadet sénior responsable niveau Rouge
+      picture: "/docs/cadets-cadres/CC2920-Adj-Bassowa.JPG"
 
     - cadet: 
       name: Adj Ahoefa Tiffany Atitsogbe
-      title: Senior responsable niveau Vert
-      picture: 
-
-    - cadet: 
-      name: Adj Alexandre Bogucki
-      title: Senior responsable niveau Vert
-      picture:    
+      title: Cadet sénior responsable niveau Vert
+      picture: "/docs/cadets-cadres/CC2920-Adj-Atitsogbe.JPG"
     
     - cadet: 
       name: Adj Samuel Leduc
-      title: Senior responsable niveau Vert
-      picture:
+      title: Cadet sénior responsable niveau Vert
+      picture: "/docs/cadets-cadres/CC2920-Adj-Leduc.JPG"
 ---
 
 
