@@ -19,12 +19,12 @@ les-cadets-major:
     - cadet:
       name: "Adjum Zakaryane Geron"
       title: "Adjudant-Maitre Instruction"
-      picture: "docs/etat-major/CC2920-Adjum-Geron.JPG"
+      picture: "/docs/etat-major/CC2920-Adjum-Geron.JPG"
     
     - cadet:
       name: "Adjum Alexandre Bogucki"
       title: "Adjudant-Maitre de musique"
-      picture: "docs/etat-major/CC2920-Adjum-Bogucki-A.JPG"
+      picture: "/docs/etat-major/CC2920-Adjum-Bogucki-A.JPG"
 
 
 
