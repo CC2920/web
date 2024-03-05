@@ -12,13 +12,13 @@ navigationKey: presentation
 #
 les-cadets-major:
     - cadet:
-      name: "Adjuc Lahmya Chapleau"
+      name: "Adjuc Méliane Legault"
       title: "Cadet-commandant"
       picture:
 
     - cadet:
-      name: "Adjum Mathis Lalonde"
-      title: "Adjudant-Maitre de parade"
+      name: "Adjum Alexandre Bogucki"
+      title: "Adjudant-Maitre de musique"
       picture:
 
     - cadet:
@@ -35,52 +35,42 @@ les-cadets-major:
 les-cadets-cadres:
     - cadet: 
       name: Adj Raphael Briere
-      title: Senior responsable niveau Or
+      title: Cadet sénior responsable niveau Vert
       picture: 
 
     - cadet: 
-      name: Adj Meliane Legault
-      title: Senior responsable niveau Argent
-      picture: 
-
-    - cadet: 
-      name: Adj Sebastien Brunette
-      title: Senior responsable niveau Argent
+      name: Adj Sébastien Brunette
+      title: Cadet sénior responsable niveau Argent
       picture: 
 
     - cadet: 
       name: Adj Mory Yacine Kaba
-      title: Senior responsable niveau Argent
+      title: Cadet sénior responsable niveau Argent
       picture: 
 
     - cadet: 
       name: Adj Patrick Delaney-Dufour
-      title: Senior responsable niveau Rouge
+      title: Cadet sénior responsable niveau Rouge
       picture: 
 
     - cadet: 
       name: Adj Jacob St-Louis
-      title: Senior responsable niveau Rouge
+      title: Cadet sénior responsable niveau Rouge
       picture:
        
     - cadet: 
       name: Adj Oluwafemi Bassowa
-      title: Senior responsable niveau Rouge
+      title: Cadet sénior responsable niveau Rouge
       picture:
 
     - cadet: 
       name: Adj Ahoefa Tiffany Atitsogbe
-      title: Senior responsable niveau Vert
-      picture: 
-
-    - cadet: 
-      name: Adj Alexandre Bogucki
-      title: Senior responsable niveau Vert
+      title: Cadet sénior responsable niveau Vert
       picture:    
     
     - cadet: 
       name: Adj Samuel Leduc
-      title: Senior responsable niveau Vert
+      title: Cadet sénior responsable niveau Vert
       picture:
 ---
 
