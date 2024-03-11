@@ -14,7 +14,7 @@ Tenue de C5 (tenue d'instruction)
 -  Mercredi 13 mars : Pratique d'exercice militaire. Tenue civil apportez vos bottes [100 rue de la Baie](/information/comment-nous-rejoindre/).
  
  - Samedi 15 mars : Souper régimentaire de 17h30 a 21h30 au centre Jean-René Monette, 89 Rue Jean-René Monette, gatineau, J8P 3S8
- -
+ 
  - Dimanche 16 mars : pratique de musique de 8h45 à 13h00. Tenue civile, au Manège Militaire de Hull. Apportez votre instrument.
 
  - Dimanche 10 mars : Assistance pour les compte cadets 365 au 52 St-Rosaire de 13h00 a 15h00
@@ -24,7 +24,7 @@ Tenue de C5 (tenue d'instruction)
 
 Le 16 mars aura lieu le souper régimentaire pour les cadets du 2920.
 
-Tous doit prendre connaissance des regles en lisant le document suivant pour le section cadets armée (https://drive.google.com/file/d/1D69sm36y3plgrWf6Gi__y-aQLYt6Gz7W/view?usp=sharing)
+Tous doit prendre connaissance des regles en lisant le document suivant pour le section cadets armée [lien](https://drive.google.com/file/d/1D69sm36y3plgrWf6Gi__y-aQLYt6Gz7W/view?usp=sharing)
 
 ## Activités à venir
 
