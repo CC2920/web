@@ -24,7 +24,7 @@ Tenue de C5 (tenue d'instruction)
 
 Le 16 mars aura lieu le souper régimentaire pour les cadets du 2920.
 
-Tous doit prendre connaissance des regles en lisant le document suivant pour le section cadets armée {https://drive.google.com/file/d/1D69sm36y3plgrWf6Gi__y-aQLYt6Gz7W/view?usp=sharing}
+Tous doit prendre connaissance des regles en lisant le document suivant pour le section cadets armée (https://drive.google.com/file/d/1D69sm36y3plgrWf6Gi__y-aQLYt6Gz7W/view?usp=sharing)
 
 ## Activités à venir
 
