@@ -15,7 +15,7 @@ Tenue de C5 (tenue d'instruction)
  
  - Samedi 16 mars : Souper régimentaire de 17h30 a 21h30 au centre Jean-René Monette ([89, rue Jean-René Monette, Gatineau, QC](https://maps.app.goo.gl/JGASRv2AKontd6Wv5))
  
- - Dimanche 17 mars : Pratique de musique de 8h45 à 16h00. Tenue civile, au Manège Militaire de Hull ([188 Alexandre-Taché Blvd, Gatineau, QC](https://maps.app.goo.gl/ioMHRxfrcQtPCZYR7)). Apportez votre instrument.
+ - Dimanche 17 mars : Pratique de musique de 8h45 à 16h00. Tenue civile, au Manège Militaire de Hull ([188 Alexandre-Taché Blvd, Gatineau, QC](https://maps.app.goo.gl/ioMHRxfrcQtPCZYR7)). Le lunch sera fournis. Apportez votre instrument.
 
  - Dimanche 10 mars : Assistance pour les compte cadets 365 au [52 St-Rosaire](/information/comment-nous-rejoindre/) de 13h00 a 15h00
 
