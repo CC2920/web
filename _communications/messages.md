@@ -5,7 +5,7 @@ layout: "messages"
 
 ## Soirée du 22 mars
 
-Tenue de C5 (tenue d'instruction)
+Tenue de [C5](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) (tenue d'instruction)
 
 ## Activités optionnelles
 
@@ -17,10 +17,10 @@ Tenue de C5 (tenue d'instruction)
  
  - Samedi 23 mars : Le Festival de musique des cadets de la région de l'Est (FMCRE) aura lieu ce 23-24 mars à Drummondville. Les cadets musiciens inscrits au festival (la compétition)
 
-   - Depart : Samedi matin 06h30 au Manège militaire de Hull en tenue C3B sans bérêt (parade col ouvert sans vareuse) avec leur instrument, partitions et leur effets personnels.
-   - Retour : Dimanche Après-midi vers 15h00 au Manège manège militaire de Hull
-   - Pour plus d'information, référez-vous au lien qui comprend la liste de matériel pour le soir et le coucher. ([PDF}(https://drive.google.com/file/d/1-T-G2lvzg591CmIEIoOG-sp3ew_dsnjf/view?usp=sharing))
-   - N.B. Si vous n'avez pas de sac de couchage ou de matelas de sol envoyer un courriel au mario.martel@cadets.gc.ca
+   - Depart : Samedi matin 06h30 au Manège militaire de Hull en [tenue C3B](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) sans bérêt (parade col ouvert sans vareuse) avec leur instrument, partitions et leur effets personnels.
+   - Retour : Dimanche après-midi vers 15h00 au Manège militaire de Hull
+   - Pour plus d'information, référez-vous à la [liste de matériel](https://drive.google.com/file/d/1-T-G2lvzg591CmIEIoOG-sp3ew_dsnjf/view?usp=sharing) pour le soir et le coucher.
+   - N.B. Si vous n'avez pas de sac de couchage ou de matelas de sol envoyer un courriel au <mario.martel@cadets.gc.ca>
      
  - Dimanche 24 mars : Pas de pratique de musique
    
