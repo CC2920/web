@@ -3,32 +3,30 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée du 15 mars
+## Soirée du 22 mars
 
 Tenue de C5 (tenue d'instruction)
 
 ## Activités optionnelles
 
--  Lundi 11 mars : Pas de pratique de tir
+-  Lundi 18 mars : Pas de pratique de tir 
 
--  Mercredi 13 mars : Pratique d'exercice militaire. Tenue civile, apportez vos bottes ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
+-  Mercredi 20 mars : Pratique d'exercice militaire. Tenue civile, apportez vos bottes ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
+
+-  Mercredi 20 mars : Assistance pour les compte cadets 365 et pour les camps d'été par quotas au [52 St-Rosaire](/information/comment-nous-rejoindre/) de 1800 a 20h00
  
- - Samedi 16 mars : Souper régimentaire de 17h30 a 21h30 au centre Jean-René Monette ([89, rue Jean-René Monette, Gatineau, QC](https://maps.app.goo.gl/JGASRv2AKontd6Wv5))
- 
- - Dimanche 17 mars : Pratique de musique de 8h45 à 16h00. Tenue civile, au Manège Militaire de Hull ([188 Alexandre-Taché Blvd, Gatineau, QC](https://maps.app.goo.gl/ioMHRxfrcQtPCZYR7)). Le lunch sera fournis. Apportez votre instrument.
+ - Samedi 23 mars : Le Festival de musique des cadets de la région de l'Est (FMCRE) aura lieu ce 23-24 mars à Drummondville. Les cadets musiciens inscrits au festival (la compétition)
 
- - Dimanche 10 mars : Assistance pour les compte cadets 365 au [52 St-Rosaire](/information/comment-nous-rejoindre/) de 13h00 a 15h00
-
-
-## Souper régimentaire 
-
-Le 16 mars aura lieu le souper régimentaire pour les cadets du 2920.
-
-Tous doivent prendre connaissance des règles en lisant le document suivant pour le section cadets armée ([lien au document](https://drive.google.com/file/d/1D69sm36y3plgrWf6Gi__y-aQLYt6Gz7W/view?usp=sharing))
+   - Depart : Samedi matin 06h30 au Manège militaire de Hull en tenue C3B sans bérêt (parade col ouvert sans vareuse) avec leur instrument, partitions et leur effets personnels.
+   - Retour : Dimanche Après-midi vers 15h00 au Manège manège militaire de Hull
+   - Pour plus d'information, référez-vous au lien qui comprend la liste de matériel pour le soir et le coucher. ([PDF}(https://drive.google.com/file/d/1-T-G2lvzg591CmIEIoOG-sp3ew_dsnjf/view?usp=sharing))
+   - N.B. Si vous n'avez pas de sac de couchage ou de tapis de sol envoyer un courriel au mario.martel@cadets.gc.ca
+     
+ - Dimanche 24 mars : Pas de pratique de musique
+   
 
 ## Activités à venir
 
-- **15 mars** Date limite d'application pour les postes de cadets cadres et cours par sélection
 - **22 mars** Date limite d'application pour les camps par quotas
 - **29 mars** Congé de cadets (Vendredi Saint)
 - **6 avril** Collecte de bouteilles. (Nous aurons besoin de parents pour nous aider lors de cette journée)
