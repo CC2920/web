@@ -20,7 +20,7 @@ Tenue de C5 (tenue d'instruction)
    - Depart : Samedi matin 06h30 au Manège militaire de Hull en tenue C3B sans bérêt (parade col ouvert sans vareuse) avec leur instrument, partitions et leur effets personnels.
    - Retour : Dimanche Après-midi vers 15h00 au Manège manège militaire de Hull
    - Pour plus d'information, référez-vous au lien qui comprend la liste de matériel pour le soir et le coucher. ([PDF}(https://drive.google.com/file/d/1-T-G2lvzg591CmIEIoOG-sp3ew_dsnjf/view?usp=sharing))
-   - N.B. Si vous n'avez pas de sac de couchage ou de tapis de sol envoyer un courriel au mario.martel@cadets.gc.ca
+   - N.B. Si vous n'avez pas de sac de couchage ou de matelas de sol envoyer un courriel au mario.martel@cadets.gc.ca
      
  - Dimanche 24 mars : Pas de pratique de musique
    
