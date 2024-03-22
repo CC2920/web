@@ -7,6 +7,8 @@ layout: "messages"
 
 Tenue de [C5](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) (tenue d'instruction)
 
+Apportez votre uniforme et vos bottes pour en faire l'entretien
+
 ## Activités optionnelles
 
 -  Lundi 18 mars : Pas de pratique de tir 
