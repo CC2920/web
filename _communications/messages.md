@@ -7,7 +7,7 @@ layout: "messages"
 
 Tenue de [C5](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) (tenue d'instruction)
 
-Apportez votre uniforme et vos bottes pour en faire l'entretien.
+Apportez votre uniforme C1 sur un support et vos bottes pour en faire l'entretien.
 
 ## Activités optionnelles
 
