@@ -31,7 +31,7 @@ Toute l’aide que nous pouvons avoir est précieuse, alors, même si vous n’a
 
 Au retour, le comité offrira gratuitement des hot-dogs à tous ceux qui auront participé à la collecte. 
 
-IMPORTANT : Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte et le BBQ : [sondage]( https://fr.surveymonkey.com/r/NHNJZC)
+IMPORTANT : Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte et le BBQ : [sondage]( https://fr.surveymonkey.com/r/NHNJZCM)
 
 Quand : 6 avril prochain
 
