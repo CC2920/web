@@ -37,14 +37,16 @@ Quand : 6 avril prochain
 
 Tenue : C5 avec chandail de laine vert sous votre veste.
 
-*Apportez vous une bouteille d’eau et une collation. * 
+*Apportez vous une bouteille d’eau et une collation.* 
 
 Déroulement
-9h15 : Arrivée des cadets au 52 St-Rosaire, directives et distributions des routes
-10h00 : Début de la collecte
-13h00 : Fin de la collecte et retour au 52 St-Rosaire pour le BBQ 
+- 9h15 : Arrivée des cadets au 52 St-Rosaire, directives et distributions des routes
+- 10h00 : Début de la collecte
+- 13h00 : Fin de la collecte et retour au 52 St-Rosaire pour le BBQ 
 
-Si vous avez des questions, n’hésitez pas à contacter le comité en écrivant à cciv2920@gmail.com.
+Si vous avez des questions, n’hésitez pas à contacter le comité en écrivant à <cciv2920@gmail.com>.
+
+
 ## Activités à venir
 
 - **6 avril** Collecte de bouteilles. 
@@ -52,35 +54,35 @@ Si vous avez des questions, n’hésitez pas à contacter le comité en écrivan
 
  ## Trophée et récommpenses
 
- - Voici les critères pour les deux médailles 
+Voici les critères pour les deux médailles 
 
- - les critères sont les suivant
+### Stathchona
 
-      ## Stathchona
-         CRITÈRES DE SÉLECTION
-         Le récipiendaire doit posséder une parfaite connaissance des activités du mouvement des cadets et doit remplir les conditions suivantes:
-         avoir un haut niveau de conditionnement physique;
-         être qualifié au niveau d'instruction d`étoile d’argent pour les cadets de l’Armée,
-         avoir rencontré toutes les exigences du programme d’instruction obligatoire du corps/de l’escadron et avoir assisté à un minimum de 75 pour cent des parades pendant l’année de mise en nomination;
-         avoir rencontré toutes les exigences du programme d’instruction facultatif du corps/de l’escadron et avoir assisté à un minimum de 50 pour cent des activités de l’année de mise en nomination;
-         avoir complété trois ans dans les cadets;
-         être considéré comme un cadet exemplaire par ses pairs.
+CRITÈRES DE SÉLECTION
+Le récipiendaire doit posséder une parfaite connaissance des activités du mouvement des cadets et doit remplir les conditions suivantes:
+- avoir un haut niveau de conditionnement physique;
+- être qualifié au niveau d'instruction d`étoile d’argent pour les cadets de l’Armée,
+avoir rencontré toutes les exigences du programme d’instruction obligatoire du corps/de l’escadron et avoir assisté à un minimum de 75 pour cent des parades pendant l’année de mise en nomination;
+- avoir rencontré toutes les exigences du programme d’instruction facultatif du corps/de l’escadron et avoir assisté à un minimum de 50 pour cent des activités de l’année de mise en nomination;
+- avoir complété trois ans dans les cadets;
+- être considéré comme un cadet exemplaire par ses pairs.
 
-      ## Médaile de la légion royale Canadienne
-          CRITÈRES DE SÉLECTION 
-          Mettre en valeur le volet citoyenneté du programme des cadets est l’objet principal de la Médaille d’excellence des cadets de la Légion Royale Canadienne.
-          Un cadet doit rencontrer les conditions suivantes afin d’être admissible pour la médaille: 
-          avoir rencontré les exigences des programmes d’instruction annuels obligatoires et facultatifs du corp de cadets; 
-          avoir participé à un minimum de trois activités communautaires en plus de celles organisées par le corps de cadets
-          être considéré comme un cadet exemplaire par ses pairs et ses supérieurs;
-          avoir rehaussé le standard du corps de cadets; 
-          (a) par sa coopération avec ses pairs et ses subordonnés, 
-          (b) par sa camaraderie, 
-          (c) pour son encouragement à la bienveillance et au bon moral au sein du corps/de l’escadron, 
-          (d) pour la formation de l’identité du groupe et de la cohérence,
-         	(e) par son appui et l’aide apporté aux autres membres du corps
+### Médaile de la légion royale Canadienne
 
- - Les cadets qui veulent appliquer pour la médaille Stratchona ou la médaille de la légion doivent faire parvenir pour courriel une lettre de présentation indiquant leur réalisation et leur raisons du pourquoi il pense mériter l`une celle-ci pour le 29 Mars 18h00 a mario.martel@cadets.gc.ca.
+CRITÈRES DE SÉLECTION 
+Mettre en valeur le volet citoyenneté du programme des cadets est l’objet principal de la Médaille d’excellence des cadets de la Légion Royale Canadienne.
+Un cadet doit rencontrer les conditions suivantes afin d’être admissible pour la médaille: 
+- avoir rencontré les exigences des programmes d’instruction annuels obligatoires et facultatifs du corp de cadets; 
+- avoir participé à un minimum de trois activités communautaires en plus de celles organisées par le corps de cadets
+- être considéré comme un cadet exemplaire par ses pairs et ses supérieurs;
+- avoir rehaussé le standard du corps de cadets; 
+(a) par sa coopération avec ses pairs et ses subordonnés, 
+(b) par sa camaraderie, 
+(c) pour son encouragement à la bienveillance et au bon moral au sein du corps/de l’escadron, 
+(d) pour la formation de l’identité du groupe et de la cohérence,
+(e) par son appui et l’aide apporté aux autres membres du corps
+
+Les cadets qui veulent appliquer pour la médaille Stratchona ou la médaille de la légion doivent faire parvenir pour courriel une lettre de présentation indiquant leur réalisation et leur raisons du pourquoi il pense mériter l`une celle-ci pour le 29 Mars 18h00 a <mario.martel@cadets.gc.ca>.
 
 ## Administration
 
