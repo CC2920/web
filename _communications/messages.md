@@ -13,11 +13,11 @@ Congé de pâques.  Pas de sorée d'instruction.
 
 -  Mercredi 27 mars : Pratique d'exercice militaire. Tenue civile, apportez vos bottes ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
-  -Mercredi 27 mmars: approvisionnement fermé exception des rendez-vous déjâ prévu.
+- Mercredi 27 mmars: approvisionnement fermé exception des rendez-vous déjâ prévu.
   
- - Dimanche 31 mars : Pas de pratique de musique
+- Dimanche 31 mars : Pas de pratique de musique
  
- - Lundi 1 avril : Pas de tir  
+- Lundi 1 avril : Pas de tir  
 
 ## Collecte de bouteilles
 
@@ -48,7 +48,7 @@ Si vous avez des questions, n’hésitez pas à contacter le comité en écrivan
 ## Activités à venir
 
 - **6 avril** Collecte de bouteilles. 
-- - **25 mai** Revue Annuelle
+- **25 mai** Revue Annuelle
 
  ## Trophée et récommpenses
 
@@ -56,7 +56,7 @@ Si vous avez des questions, n’hésitez pas à contacter le comité en écrivan
 
  - les critères sont les suivant
 
-      ## Statchona
+      ## Stathchona
          CRITÈRES DE SÉLECTION
          Le récipiendaire doit posséder une parfaite connaissance des activités du mouvement des cadets et doit remplir les conditions suivantes:
          avoir un haut niveau de conditionnement physique;
