@@ -31,7 +31,7 @@ Toute l’aide que nous pouvons avoir est précieuse, alors, même si vous n’a
 
 Au retour, le comité offrira gratuitement des hot-dogs à tous ceux qui auront participé à la collecte. 
 
-IMPORTANT : Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte et le BBQ : sondage   
+IMPORTANT : Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte et le BBQ : [sondage]( https://fr.surveymonkey.com/r/NHNJZC)
 
 Quand : 6 avril prochain
 
@@ -59,6 +59,7 @@ Voici les critères pour les deux médailles
 ### Stathchona
 
 CRITÈRES DE SÉLECTION
+
 Le récipiendaire doit posséder une parfaite connaissance des activités du mouvement des cadets et doit remplir les conditions suivantes:
 - avoir un haut niveau de conditionnement physique;
 - être qualifié au niveau d'instruction d`étoile d’argent pour les cadets de l’Armée,
@@ -70,6 +71,7 @@ avoir rencontré toutes les exigences du programme d’instruction obligatoire d
 ### Médaile de la légion royale Canadienne
 
 CRITÈRES DE SÉLECTION 
+
 Mettre en valeur le volet citoyenneté du programme des cadets est l’objet principal de la Médaille d’excellence des cadets de la Légion Royale Canadienne.
 Un cadet doit rencontrer les conditions suivantes afin d’être admissible pour la médaille: 
 - avoir rencontré les exigences des programmes d’instruction annuels obligatoires et facultatifs du corp de cadets; 
