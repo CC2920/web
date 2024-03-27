@@ -5,7 +5,7 @@ layout: "messages"
 
 ## Soirée du 29 mars
 
-Congé de pâques.  Pas de sorée d'instruction.
+Congé de Pâques. Pas de soirée d'instruction.
 
 ## Activités optionnelles
 
@@ -13,7 +13,7 @@ Congé de pâques.  Pas de sorée d'instruction.
 
 -  Mercredi 27 mars : Pratique d'exercice militaire. Tenue civile, apportez vos bottes ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
-- Mercredi 27 mmars: approvisionnement fermé exception des rendez-vous déjâ prévu.
+- Mercredi 27 mars: approvisionnement fermé exception des rendez-vous déjà prévus.
   
 - Dimanche 31 mars : Pas de pratique de musique
  
@@ -21,7 +21,7 @@ Congé de pâques.  Pas de sorée d'instruction.
 
 ## Collecte de bouteilles
 
-Dernière levée de fond 2023-2024!
+Dernière levée de fonds 2023-2024!
 
 Nous sollicitons votre participation en grand nombre afin de faire de cette dernière campagne de financement un franc succès. Les fonds collectés nous permettront de payer un exercice de printemps et une activité de fin d’année mémorable aux cadets! 
 
