@@ -5,7 +5,7 @@ layout: "messages"
 
 ## Soirée du 29 mars
 
-Congé de pâques.  Pas de sorée d'instruction.
+Congé de Pâques. Pas de soirée d'instruction.
 
 ## Activités optionnelles
 
@@ -13,7 +13,7 @@ Congé de pâques.  Pas de sorée d'instruction.
 
 -  Mercredi 27 mars : Pratique d'exercice militaire. Tenue civile, apportez vos bottes ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
-- Mercredi 27 mmars: approvisionnement fermé exception des rendez-vous déjâ prévu.
+- Mercredi 27 mars: approvisionnement fermé exception des rendez-vous déjà prévus.
   
 - Dimanche 31 mars : Pas de pratique de musique
  
@@ -21,7 +21,7 @@ Congé de pâques.  Pas de sorée d'instruction.
 
 ## Collecte de bouteilles
 
-Dernière levée de fond 2023-2024!
+Dernière levée de fonds 2023-2024!
 
 Nous sollicitons votre participation en grand nombre afin de faire de cette dernière campagne de financement un franc succès. Les fonds collectés nous permettront de payer un exercice de printemps et une activité de fin d’année mémorable aux cadets! 
 
@@ -49,26 +49,26 @@ Si vous avez des questions, n’hésitez pas à contacter le comité en écrivan
 
 ## Activités à venir
 
-- **6 avril** Collecte de bouteilles. 
+- **6 avril** Collecte de bouteilles
 - **25 mai** Revue Annuelle
 
  ## Trophée et récommpenses
 
-Voici les critères pour les deux médailles 
+Voici les critères pour les [deux médailles](https://cc2920.ca/prix/medailles/) 
 
-### Stathchona
+### La médaille Lord Strathcona
 
 CRITÈRES DE SÉLECTION
 
 Le récipiendaire doit posséder une parfaite connaissance des activités du mouvement des cadets et doit remplir les conditions suivantes:
 - avoir un haut niveau de conditionnement physique;
-- être qualifié au niveau d'instruction d`étoile d’argent pour les cadets de l’Armée,
+- être qualifié au niveau d'instruction d'étoile d’argent pour les cadets de l’Armée,
 avoir rencontré toutes les exigences du programme d’instruction obligatoire du corps/de l’escadron et avoir assisté à un minimum de 75 pour cent des parades pendant l’année de mise en nomination;
 - avoir rencontré toutes les exigences du programme d’instruction facultatif du corps/de l’escadron et avoir assisté à un minimum de 50 pour cent des activités de l’année de mise en nomination;
 - avoir complété trois ans dans les cadets;
 - être considéré comme un cadet exemplaire par ses pairs.
 
-### Médaile de la légion royale Canadienne
+### La médaille d’excellence de la Légion Royale Canadienne
 
 CRITÈRES DE SÉLECTION 
 
