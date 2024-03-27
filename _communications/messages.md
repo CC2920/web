@@ -49,26 +49,26 @@ Si vous avez des questions, n’hésitez pas à contacter le comité en écrivan
 
 ## Activités à venir
 
-- **6 avril** Collecte de bouteilles. 
+- **6 avril** Collecte de bouteilles
 - **25 mai** Revue Annuelle
 
  ## Trophée et récommpenses
 
-Voici les critères pour les deux médailles 
+Voici les critères pour les [deux médailles](https://cc2920.ca/prix/medailles/) 
 
-### Stathchona
+### La médaille Lord Strathcona
 
 CRITÈRES DE SÉLECTION
 
 Le récipiendaire doit posséder une parfaite connaissance des activités du mouvement des cadets et doit remplir les conditions suivantes:
 - avoir un haut niveau de conditionnement physique;
-- être qualifié au niveau d'instruction d`étoile d’argent pour les cadets de l’Armée,
+- être qualifié au niveau d'instruction d'étoile d’argent pour les cadets de l’Armée,
 avoir rencontré toutes les exigences du programme d’instruction obligatoire du corps/de l’escadron et avoir assisté à un minimum de 75 pour cent des parades pendant l’année de mise en nomination;
 - avoir rencontré toutes les exigences du programme d’instruction facultatif du corps/de l’escadron et avoir assisté à un minimum de 50 pour cent des activités de l’année de mise en nomination;
 - avoir complété trois ans dans les cadets;
 - être considéré comme un cadet exemplaire par ses pairs.
 
-### Médaile de la légion royale Canadienne
+### La médaille d’excellence de la Légion Royale Canadienne
 
 CRITÈRES DE SÉLECTION 
 
