@@ -84,7 +84,7 @@ Un cadet doit rencontrer les conditions suivantes afin d’être admissible pour
 (d) pour la formation de l’identité du groupe et de la cohérence,
 (e) par son appui et l’aide apporté aux autres membres du corps
 
-Les cadets qui veulent appliquer pour la médaille Stratchona ou la médaille de la légion doivent faire parvenir pour courriel une lettre de présentation indiquant leur réalisation et leur raisons du pourquoi il pense mériter l`une celle-ci pour le 29 Mars 18h00 a <mario.martel@cadets.gc.ca>.
+Les cadets qui veulent appliquer pour la médaille Stratchona ou la médaille de la Légion doivent faire parvenir par courriel une lettre de présentation indiquant leurs réalisations et raisons pour lesquelles ils pensent mériter l'une de celle-ci, pour le 29 mars 18h00 à <mario.martel@cadets.gc.ca>.
 
 ## Administration
 
