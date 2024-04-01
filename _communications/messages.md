@@ -3,21 +3,21 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée du 29 mars
+## Soirée du 5 avril
 
-Congé de Pâques. Pas de soirée d'instruction.
+Soirée de la parade du commandant,  Tenue C3 pour tous
+
+La parade débute à 20H15 et les parents sont les bienvenues
 
 ## Activités optionnelles
 
--  Lundi 25 mars : Pas de pratique de tir 
+- Mercredi 3 avril : Pratique d'exercice militaire. Tenue civile, apportez vos bottes ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
--  Mercredi 27 mars : Pratique d'exercice militaire. Tenue civile, apportez vos bottes ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
-
-- Mercredi 27 mars: approvisionnement fermé exception des rendez-vous déjà prévus.
+- Samedi 6 avril : Collecte de bouteilles: Lieu de rassemblement 52 St-Rosaire 9:15 (voir les informations plus bas)
   
-- Dimanche 31 mars : Pas de pratique de musique
- 
-- Lundi 1 avril : Pas de tir  
+- Dimanche 7 avril : Pratique de musique.  Appportez votre instrument; Lieu à confirmer.
+
+- Lundi 8 avril : Pratique de tir ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
 ## Collecte de bouteilles
 
@@ -49,46 +49,15 @@ Si vous avez des questions, n’hésitez pas à contacter le comité en écrivan
 
 ## Activités à venir
 
-- **6 avril** Collecte de bouteilles
-- **25 mai** Revue Annuelle
+- **27 et 28 avril : Jeux des cadets
+- **25 mai** : Revue Annuelle
 
- ## Trophée et récommpenses
-
-Voici les critères pour les [deux médailles](https://cc2920.ca/prix/medailles/) 
-
-### La médaille Lord Strathcona
-
-CRITÈRES DE SÉLECTION
-
-Le récipiendaire doit posséder une parfaite connaissance des activités du mouvement des cadets et doit remplir les conditions suivantes:
-- avoir un haut niveau de conditionnement physique;
-- être qualifié au niveau d'instruction d'étoile d’argent pour les cadets de l’Armée,
-avoir rencontré toutes les exigences du programme d’instruction obligatoire du corps/de l’escadron et avoir assisté à un minimum de 75 pour cent des parades pendant l’année de mise en nomination;
-- avoir rencontré toutes les exigences du programme d’instruction facultatif du corps/de l’escadron et avoir assisté à un minimum de 50 pour cent des activités de l’année de mise en nomination;
-- avoir complété trois ans dans les cadets;
-- être considéré comme un cadet exemplaire par ses pairs.
-
-### La médaille d’excellence de la Légion Royale Canadienne
-
-CRITÈRES DE SÉLECTION 
-
-Mettre en valeur le volet citoyenneté du programme des cadets est l’objet principal de la Médaille d’excellence des cadets de la Légion Royale Canadienne.
-Un cadet doit rencontrer les conditions suivantes afin d’être admissible pour la médaille: 
-- avoir rencontré les exigences des programmes d’instruction annuels obligatoires et facultatifs du corp de cadets; 
-- avoir participé à un minimum de trois activités communautaires en plus de celles organisées par le corps de cadets
-- être considéré comme un cadet exemplaire par ses pairs et ses supérieurs;
-- avoir rehaussé le standard du corps de cadets; 
-(a) par sa coopération avec ses pairs et ses subordonnés, 
-(b) par sa camaraderie, 
-(c) pour son encouragement à la bienveillance et au bon moral au sein du corps/de l’escadron, 
-(d) pour la formation de l’identité du groupe et de la cohérence,
-(e) par son appui et l’aide apporté aux autres membres du corps
-
-Les cadets qui veulent appliquer pour la médaille Stratchona ou la médaille de la Légion doivent faire parvenir par courriel une lettre de présentation indiquant leurs réalisations et raisons pour lesquelles ils pensent mériter l'une de celle-ci, pour le 29 mars 18h00 à <mario.martel@cadets.gc.ca>.
 
 ## Administration
 
 Il est important d'apporter votre carte d'assurance maladie dès que vous en recevez une nouvelle pour que l'on mette à jour celle-ci dans votre dossier.
+
+Si vous vous avez des corrections à votre numéro de téléphone ou adresse, vous devez nous en aviser le plus tôt possible l'officer d'administration. 
 
 Si vous avez encore des documents médicaux à rapporter, vous devez les apporter le plus rapidement possible car ceux-ci doivent être à jour si vous voulez appliquer sur des camps d'été ou activités régionales.
   
