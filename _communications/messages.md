@@ -5,9 +5,9 @@ layout: "messages"
 
 ## Soirée du 5 avril
 
-Soirée de la parade du commandant,  Tenue C3 pour tous
+Soirée de la parade du commandant, tenue C3 pour tous.
 
-La parade débute à 20H15 et les parents sont les bienvenues
+La parade débute à 20H15 et les parents sont les bienvenues.
 
 ## Activités optionnelles
 
@@ -49,7 +49,7 @@ Si vous avez des questions, n’hésitez pas à contacter le comité en écrivan
 
 ## Activités à venir
 
-- **27 et 28 avril : Jeux des cadets
+- **27 et 28 avril** : Jeux des cadets
 - **25 mai** : Revue Annuelle
 
 
@@ -57,7 +57,7 @@ Si vous avez des questions, n’hésitez pas à contacter le comité en écrivan
 
 Il est important d'apporter votre carte d'assurance maladie dès que vous en recevez une nouvelle pour que l'on mette à jour celle-ci dans votre dossier.
 
-Si vous vous avez des corrections à votre numéro de téléphone ou adresse, vous devez nous en aviser le plus tôt possible l'officer d'administration. 
+Si vous vous avez des corrections à votre numéro de téléphone ou adresse, vous devez aviser le plus tôt possible l'officer d'administration. 
 
 Si vous avez encore des documents médicaux à rapporter, vous devez les apporter le plus rapidement possible car ceux-ci doivent être à jour si vous voulez appliquer sur des camps d'été ou activités régionales.
   
