@@ -13,7 +13,7 @@ La parade débute à 20H15 et les parents sont les bienvenues
 
 - Mercredi 3 avril : Pratique d'exercice militaire. Tenue civile, apportez vos bottes ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
-- Samedi 6 avril : Collecte de bouteilles: Lieu de rassemblement 52 St-Rosaire 9:15 (voir details ci-dessous)
+- Samedi 6 avril : Collecte de bouteilles: Lieu de rassemblement 52 St-Rosaire 9:15 (voir les informations plus bas)
   
 - Dimanche 7 avril : Pratique de musique.  Appportez votre instrument; Lieu à confirmer.
 
