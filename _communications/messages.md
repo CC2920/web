@@ -11,11 +11,11 @@ La parade débute à 20H15 et les parents sont les bienvenues.
 
 ## Activités optionnelles
 
-- Mercredi 3 avril : Pratique d'exercice militaire. Tenue civile, apportez vos bottes ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
+- Mercredi 3 avril : Pratique d'exercice militaire; tenue civile. Apportez vos bottes ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
-- Samedi 6 avril : Collecte de bouteilles: Lieu de rassemblement 52 St-Rosaire 9:15 (voir les informations plus bas)
+- Samedi 6 avril : Collecte de bouteilles. Lieu de rassemblement : 52 St-Rosaire, à 9:15 (voir les informations plus bas)
   
-- Dimanche 7 avril : Pratique de musique.  Appportez votre instrument; Lieu à confirmer.
+- Dimanche 7 avril : Pratique de musique; apportez votre instrument. Lieu à confirmer.
 
 - Lundi 8 avril : Pratique de tir ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
@@ -31,7 +31,7 @@ Toute l’aide que nous pouvons avoir est précieuse, alors, même si vous n’a
 
 Au retour, le comité offrira gratuitement des hot-dogs à tous ceux qui auront participé à la collecte. 
 
-IMPORTANT : Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte et le BBQ : [sondage]( https://fr.surveymonkey.com/r/NHNJZCM)
+*IMPORTANT* : Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte et le BBQ : [sondage]( https://fr.surveymonkey.com/r/NHNJZCM)
 
 Quand : 6 avril prochain
 
@@ -39,7 +39,8 @@ Tenue : C5 avec chandail de laine vert sous votre veste.
 
 *Apportez vous une bouteille d’eau et une collation.* 
 
-Déroulement
+**Déroulement :**
+
 - 9h15 : Arrivée des cadets au 52 St-Rosaire, directives et distributions des routes
 - 10h00 : Début de la collecte
 - 13h00 : Fin de la collecte et retour au 52 St-Rosaire pour le BBQ 
