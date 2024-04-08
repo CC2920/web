@@ -3,54 +3,30 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée du 5 avril
+## Soirée du 12 avril
 
-Soirée de la parade du commandant, tenue C3 pour tous.
+Soirée d'instruction, tenue C5 pour tous.
 
-La parade débute à 20H15 et les parents sont les bienvenues.
 
 ## Activités optionnelles
 
-- Mercredi 3 avril : Pratique d'exercice militaire; tenue civile. Apportez vos bottes ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
+- Lundi 8 avril : Pratique de tir ouvert à tous les cadets. tenue civil 18h00 à 20h30  [100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
-- Samedi 6 avril : Collecte de bouteilles. Lieu de rassemblement : 52 St-Rosaire, à 9:15 (voir les informations plus bas)
+- Mercredi 10 avril : Pratique d'exercice militaire; tenue civil. Apportez vos bottes 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
+
+- Dimanche 14 avril Pratique de musique; apportez votre instrument, tenue civil : 8h45 à 13h00  Centre Etienne-Sauvageau
   
-- Dimanche 7 avril : Pratique de musique; apportez votre instrument. Lieu à confirmer.
+- Lundi 15 avril : Pratique de tir ouvert à tous les cadet. tenue civil 18h00 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
-- Lundi 8 avril : Pratique de tir ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
-
-## Collecte de bouteilles
-
-Dernière levée de fonds 2023-2024!
-
-Nous sollicitons votre participation en grand nombre afin de faire de cette dernière campagne de financement un franc succès. Les fonds collectés nous permettront de payer un exercice de printemps et une activité de fin d’année mémorable aux cadets! 
-
-Nous avons donc besoin de parents bénévoles ayant un véhicule pour accompagner les cadets qui feront du porte-à-porte. De grands sacs de plastique et des gants seront mis à votre disposition pour la collecte.  
-
-Toute l’aide que nous pouvons avoir est précieuse, alors, même si vous n’avez pas de véhicule, n’hésitez pas à venir nous aider, nous aurons un rôle pour vous. 
-
-Au retour, le comité offrira gratuitement des hot-dogs à tous ceux qui auront participé à la collecte. 
-
-*IMPORTANT* : Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte et le BBQ : [sondage]( https://fr.surveymonkey.com/r/NHNJZCM)
-
-Quand : 6 avril prochain
-
-Tenue : C5 avec chandail de laine vert sous votre veste.
-
-*Apportez vous une bouteille d’eau et une collation.* 
-
-**Déroulement :**
-
-- 9h15 : Arrivée des cadets au 52 St-Rosaire, directives et distributions des routes
-- 10h00 : Début de la collecte
-- 13h00 : Fin de la collecte et retour au 52 St-Rosaire pour le BBQ 
-
-Si vous avez des questions, n’hésitez pas à contacter le comité en écrivant à <cciv2920@gmail.com>.
+- Mercredi 17 avril : Pratique d'exercice militaire; tenue civil 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/))
 
 
 ## Activités à venir
 
+- **20 avril** : Compétition d'exercice militaire 
 - **27 et 28 avril** : Jeux des cadets
+- **3 mai** : Parade du commandant
+- **4 mai** Gala des cadets 
 - **25 mai** : Revue Annuelle
 
 
