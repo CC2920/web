@@ -29,7 +29,7 @@ Soirée d'instruction, tenue C5 pour tous.
 - **3 mai** : Parade du commandant
 - **4 mai** Gala des cadets ( A confirmer)
 - **25 mai** : Revue Annuelle
-- **31 mai au 2 juin** Activité de fin d'année (Sondage à venir dans les messages de la semaine prochaine)
+- **7 au 9 juin** Activité de fin d'année (Sondage à venir dans les messages de la semaine prochaine)
 
 ## Absence
 
