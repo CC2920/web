@@ -33,17 +33,12 @@ Soirée d'instruction, tenue C5 pour tous.
 
 ## Compétiton d'exercice militaire
 
-Quand : Samedi 20 avril de 14h00 a 16h00
-Qui : Seulement les cadets du peloton de précision
-Lieu : Hangar 11 , CFB Uplands
-Transport : Les parents
-Tenue : C3
-        **Horaire** 
-        14h00 arrivée de cadets
-        14h30 Préparation
-        14h50 Inspection
-        15h10 Demonstration
-        16h00 Dépard des cadets
+- Quand : Samedi 20 avril de 14h00 a 16h00
+- Qui : Seulement les cadets du peloton de précision
+- Lieu : Hangar 11 , CFB Uplands
+- Transport : Les parents
+- Tenue : C3
+- **Horaire**  14h00 arrivée des cadets, 14h30 Préparation, 14h50 Inspection, 15h10 Demonstration, 16h00 Départ des cadets
 
 ## Absence
 
