@@ -14,7 +14,7 @@ Soirée d'instruction, tenue C5 pour tous.
 
 - Mercredi 17 avril : Pratique d'exercice militaire; tenue civil. Apportez vos bottes 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
-- Samedi 20 avril : Compétition d'exercice militaire. Uniquement les cadets de la précision, Tenue C3, CFB Uplands, Ottawa de 8h00 à 17h00; apportez votre lunch.
+- Samedi 20 avril : Compétition d'exercice militaire. Uniquement les cadets de la précision, (voir détails plus bas)  
   
 - Dimanche 21 avril : Pratique de musique; apportez votre instrument, tenue civile : 8h45 à 13h00  Lieu a confirmer
   
@@ -30,6 +30,20 @@ Soirée d'instruction, tenue C5 pour tous.
 - **4 mai** Gala des cadets ( A confirmer)
 - **25 mai** : Revue Annuelle
 - **7 au 9 juin** Activité de fin d'année (Sondage à venir dans les messages de la semaine prochaine)
+
+## Compétiton d'exercice militaire
+
+Quand : Samedi 20 avril de 14h00 a 16h00
+Qui : Seulement les cadets du peloton de précision
+Lieu : Hangar 11 , CFB Uplands
+Transport : Les parents
+Tenue : C3
+        **Horaire** 
+        14h00 arrivée de cadets
+        14h30 Préparation
+        14h50 Inspection
+        15h10 Demonstration
+        16h00 Dépard des cadets
 
 ## Absence
 
