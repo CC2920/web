@@ -38,7 +38,7 @@ Soirée d'instruction, tenue C5 pour tous.
 - Lieu : Hangar 11 , CFB Uplands
 - Transport : Les parents
 - Tenue : C3
-- **Horaire**  14h00 arrivée des cadets, 14h30 Préparation, 14h50 Inspection, 15h10 Demonstration, 16h00 Départ des cadets
+- **Horaire**  14h00 arrivée des cadets, 14h30 Préparation, 14h50 Inspection, 15h10 Démonstration, 16h00 Départ des cadets
 
 ## Absence
 
