@@ -28,7 +28,7 @@ Soirée d'instruction, tenue de sport pour tous.
 - **27 et 28 avril** : Jeux des cadets 
 - **3 mai** : Parade du commandant 
 - **11 mai** : Gala des cadets  
-- **24 mai"" : Pratique pour le revue annuelle
+- **24 mai** : Pratique pour le revue annuelle
 - **25 mai** : Revue Annuelle 
 - **7 au 9 juin**  : Activité de fin d'année (Consulter le site web mercredi pour compléter le sondage)
 
