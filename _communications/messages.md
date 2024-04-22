@@ -3,42 +3,44 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée du 19 avril
+## Soirée du 26 avril
 
-Soirée d'instruction, tenue C5 pour tous.
+Soirée d'instruction, tenue de sport pour tous.
 
 
 ## Activités optionnelles
 
-- Lundi 15 avril : Pratique de tir ouvert à tous les cadets. Tenue civile 18h00 à 20h30  [100 rue de la Baie](/information/comment-nous-rejoindre/)).
+- Lundi 22 avril : Pratique de tir ouvert à tous les cadets. Tenue civile 18h00 à 20h30  [100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
-- Mercredi 17 avril : Pratique d'exercice militaire; tenue civil. Apportez vos bottes 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
+- Mercredi 24 avril : Pratique d'exercice militaire; tenue civil. Apportez vos bottes 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
-- Samedi 20 avril : Compétition d'exercice militaire. Uniquement les cadets de la précision (voir détails plus bas)  
+- Samedi 27 et 28 avril : Jeux des cadets pour les cadets inscrits. (voir details plus bas)
   
-- Dimanche 21 avril : Pratique de musique; apportez votre instrument, tenue civile : 8h45 à 13h00  Lieu a confirmer
+- Dimanche 28 avril : Pratique de musique; apportez votre instrument, tenue civile : 8h45 à 13h00  Manège militaire de Hull (à confirmer)
   
-- Lundi 22 avril : Pratique de tir ouvert à tous les cadet. Tenue civile 18h00 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
+- Mercredi 1 mai : Pratique d'exercice militaire; tenue civil 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/))
 
-- Mercredi 24 avril : Pratique d'exercice militaire; tenue civil 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/))
+- Vendredi 3 mai : Parade du commandant à 20h15 les parents sont les bienvenue
 
 
 ## Activités à venir
 
-- **27 et 28 avril** : Jeux des cadets
-- **3 mai** : Parade du commandant
-- **4 mai** Gala des cadets (à confirmer)
-- **25 mai** : Revue Annuelle
-- **7 au 9 juin** Activité de fin d'année (Sondage à venir dans les messages de la semaine prochaine)
+- **27 et 28 avril** : Jeux des cadets 
+- **3 mai** : Parade du commandant 
+- **11 mai** : Gala des cadets  
+- **24 mai"" : Pratique pour le revue annuelle
+- **25 mai** : Revue Annuelle 
+- **7 au 9 juin**  : Activité de fin d'année (Consulter le site web mercredi pour compléter le sondage)
 
-## Compétition d'exercice militaire
+## Jeux des cadets
 
-- Quand : Samedi 20 avril de 14h00 a 16h00
-- Qui : Seulement les cadets du peloton de précision
-- Lieu : [Hangar 11 , CFB Uplands](https://maps.app.goo.gl/mqaxYt77kGvHc3Vx7)
-- Transport : Les parents
-- Tenue : C3
-- **Horaire** : 14h00 arrivée des cadets, 14h30 préparation, 14h50 inspection, 15h10 démonstration, 16h00 départ des cadets
+- Quand : Samedi 27 avril et dimanche 28 avril
+- Départ du corps de cadets samedi à 8h00 et retour à 17h15 et la même horaire dimanche
+- Qui : Seulement les cadets qui se sont inscrits
+- Transport : Autobus 
+- Tenue : Civil avec le gilet du corps de cadets
+- Apportez votre lunch et votre carte d'assurance maladie
+
 
 ## Absence
 
