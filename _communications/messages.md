@@ -30,7 +30,7 @@ Soirée d'instruction, tenue de sport pour tous.
 - **11 mai** : Gala des cadets  
 - **24 mai** : Pratique pour la revue annuelle
 - **25 mai** : Revue Annuelle 
-- **7 au 9 juin**  : Activité de fin d'année (Consulter le site web mercredi pour compléter le sondage)
+- **7 au 9 juin**  : Activité de fin d'année 
 
 ## Jeux des cadets
 
@@ -41,7 +41,10 @@ Soirée d'instruction, tenue de sport pour tous.
 - Tenue : Civil avec le gilet du corps de cadets
 - Apportez votre lunch et votre carte d'assurance maladie
 
+## Sondage pour l'activité de fin d'année
 
+- Veuillez completer le [sondage](https://docs.google.com/forms/d/e/1FAIpQLSfuGwhhZwkkelX0Ioh26kDOGDX_eelR1XNtFNM8tDN0rujeUQ/viewform?usp=sf_link)
+  
 ## Absence
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadets (<2920armee@cadets.gc.ca>) pour nous en informer.
