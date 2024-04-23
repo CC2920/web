@@ -39,7 +39,7 @@ Soirée d'instruction, tenue de sport pour tous.
 - Qui : Seulement les cadets qui se sont inscrits
 - Transport : Autobus 
 - Tenue : Civil avec le gilet du corps de cadets
-- Apportez votre lunch et votre carte d'assurance maladie
+- Apportez votre lunch et votre carte d'assurance maladie.
 
 ## Sondage pour l'activité de fin d'année
 
