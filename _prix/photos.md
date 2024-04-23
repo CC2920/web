@@ -172,3 +172,6 @@ title: "Galerie de photos"
 * [Parade du commandant - décembre 2023](https://photos.app.goo.gl/Duu3LivrV69jXgTx5)
 * [Parade du commandant - janvier 2024](https://photos.app.goo.gl/HfkSSrCvM3vexaG1A)
 * [Parade du commandant - férvier 2024](https://photos.app.goo.gl/djuQACU1C8m5mzt48)
+* [Souper régimentaire - mars 2024](https://photos.app.goo.gl/kQWYY9sedff6wUK4A)
+* [Parade du commandant - mars 2024](https://photos.app.goo.gl/djuQACU1C8m5mzt48) 
+* [Parade du commandant - avril 2024](https://photos.app.goo.gl/D4s1gJm1BmDy1agb6)

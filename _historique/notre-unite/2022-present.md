@@ -19,5 +19,7 @@ title: "2022 à aujourd'hui Capitaine Mario Martel"
 * novembre 2023 - [Parade du Souvenir](https://photos.app.goo.gl/iyeY7XVQ6BJ5TLp59)
 * décembre 2023 - [Parade du commandant](https://photos.app.goo.gl/Duu3LivrV69jXgTx5)
 * janvier 2024 - [Parade du commandant](https://photos.app.goo.gl/HfkSSrCvM3vexaG1A)
-
-
+* février 2024 - [Parade du commandant](https://photos.app.goo.gl/djuQACU1C8m5mzt48)
+* mars 2024 - [Souper régimentaire](https://photos.app.goo.gl/kQWYY9sedff6wUK4A)
+* mars 2024 - [Parade du commandant](https://photos.app.goo.gl/djuQACU1C8m5mzt48) 
+* avril 2024 - [Parade du commandant](https://photos.app.goo.gl/D4s1gJm1BmDy1agb6)
