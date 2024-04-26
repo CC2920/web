@@ -12,13 +12,13 @@ Soirée d'instruction, tenue de sport pour tous.
 
 - Lundi 22 avril : Pratique de tir ouvert à tous les cadets. Tenue civile 18h00 à 20h30  [100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
-- Mercredi 24 avril : Pratique d'exercice militaire; tenue civil. Apportez vos bottes 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
+- Mercredi 24 avril : Pratique d'exercice militaire; tenue civile. Apportez vos bottes 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
 - Samedi 27 et 28 avril : Jeux des cadets pour les cadets inscrits. (voir details plus bas)
   
 - Dimanche 28 avril : Pratique de musique; apportez votre instrument, tenue civile : 8h45 à 13h00  Manège militaire de Hull (à confirmer)
   
-- Mercredi 1 mai : Pratique d'exercice militaire; tenue civil 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/))
+- Mercredi 1 mai : Pratique d'exercice militaire; tenue civile 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/))
 
 - Vendredi 3 mai : Parade du commandant à 20h15 les parents sont les bienvenue
 
@@ -34,11 +34,11 @@ Soirée d'instruction, tenue de sport pour tous.
 
 ## Jeux des cadets
 
-- Quand : Samedi 27 avril et dimanche 28 avril
+- Quand : Samedi 27 avril et/ou dimanche 28 avril (inscriptions aux activités)
 - Départ du corps de cadets samedi à 8h00 et retour à 17h15 et la même horaire dimanche
 - Qui : Seulement les cadets qui se sont inscrits
 - Transport : Autobus 
-- Tenue : Civil avec le gilet du corps de cadets
+- Tenue : Civile avec le gilet du corps de cadets
 - Apportez votre lunch et votre carte d'assurance maladie.
 
 ## Sondage pour l'activité de fin d'année
@@ -51,7 +51,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 ## Vente de garage
 
-Le comité de soutien du Corps de cadets 2920-Gatineau aura sa grande vente de garage annuelle. Si vous avez des items usagés à la suite de votre grand ménage du printemps ou en lien avec un déménagement, le comité peut vendre ces articles dans le but d'offrir des services et activités l'an prochain avec les sommes recueillies. Vous pouvez apporter ces items au 52 St-Rosaire le vendredi soir d'ici la Revue annuelle du 25 mai. Si vous avez des questions, vous pouvez nous écrire au <cciv2920@gmail.com> ou communiquer avec Daniel Brunette au 873-354-8426.
+Le comité de soutien du Corps de cadets 2920-Gatineau aura sa grande vente de garage annuelle, bientôt. Si vous avez des items usagés à la suite de votre grand ménage du printemps ou en lien avec un déménagement, le comité peut vendre ces articles dans le but d'offrir des services et activités l'an prochain avec les sommes recueillies. Vous pouvez apporter ces items au 52 St-Rosaire le vendredi soir d'ici la Revue annuelle du 25 mai. Si vous avez des questions, vous pouvez nous écrire au <cciv2920@gmail.com> ou communiquer avec Daniel Brunette au 873-354-8426.
 
 ## Administration
 
