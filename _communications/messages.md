@@ -51,7 +51,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 ## Vente de garage
 
-Le comité de soutien du Corps de cadets 2920-Gatineau aura sa grande vente de garage annuelle, bientôt. Si vous avez des items usagés à la suite de votre grand ménage du printemps ou en lien avec un déménagement, le comité peut vendre ces articles dans le but d'offrir des services et activités l'an prochain avec les sommes recueillies. Vous pouvez apporter ces items au 52 St-Rosaire le vendredi soir d'ici la Revue annuelle du 25 mai. Si vous avez des questions, vous pouvez nous écrire au <cciv2920@gmail.com> ou communiquer avec Daniel Brunette au 873-354-8426.
+Le comité de soutien du Corps de cadets 2920-Gatineau aura sa grande vente de garage annuelle, bientôt. Si vous avez des items usagés à la suite de votre grand ménage du printemps ou en lien avec un déménagement, le comité peut vendre ces articles dans le but d'offrir des services et activités l'an prochain avec les sommes recueillies. Vous pouvez apporter ces items au 52 St-Rosaire le vendredi soir d'ici le 4 mai. Si vous avez des questions, vous pouvez nous écrire au <cciv2920@gmail.com> ou communiquer avec Daniel Brunette au 873-354-8426.
 
 ## Administration
 
