@@ -26,7 +26,8 @@ Soirée d'instruction, tenue de sport pour tous.
 ## Activités à venir
 
 - **27 et 28 avril** : Jeux des cadets 
-- **3 mai** : Parade du commandant 
+- **3 mai** : Parade du commandant
+- **4 et 5 mai** Vente de garage
 - **11 mai** : Gala des cadets  
 - **24 mai** : Pratique pour la revue annuelle
 - **25 mai** : Revue Annuelle 
@@ -51,7 +52,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 ## Vente de garage
 
-Le comité de soutien du Corps de cadets 2920-Gatineau aura sa grande vente de garage annuelle, bientôt. Si vous avez des items usagés à la suite de votre grand ménage du printemps ou en lien avec un déménagement, le comité peut vendre ces articles dans le but d'offrir des services et activités l'an prochain avec les sommes recueillies. Vous pouvez apporter ces items au 52 St-Rosaire le vendredi soir d'ici le 4 mai. Si vous avez des questions, vous pouvez nous écrire au <cciv2920@gmail.com> ou communiquer avec Daniel Brunette au 873-354-8426.
+Le comité de soutien du Corps de cadets 2920-Gatineau aura sa grande vente de garage annuelle, bientôt. Si vous avez des items usagés à la suite de votre grand ménage du printemps ou en lien avec un déménagement, le comité peut vendre ces articles dans le but d'offrir des services et activités l'an prochain avec les sommes recueillies. Vous pouvez apporter ces items au 52 St-Rosaire d'ici le 4 mai. Si vous avez des questions, vous pouvez nous écrire au <cciv2920@gmail.com> ou communiquer avec Daniel Brunette au 873-354-8426.
 
 ## Administration
 
