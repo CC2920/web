@@ -29,11 +29,11 @@ le-comite-soutien:
 
     - member: 
       name: M. Jonathan Gauthier 
-      title: Administratrice
+      title: Administrateur
 
     - member: 
       name: Mme Cynthia Blouin 
-      title: Administrateur
+      title: Administratrice
 
     - member: 
       name: Mme Lizanne Sarrazin Poirier 
