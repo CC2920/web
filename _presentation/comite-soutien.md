@@ -28,10 +28,6 @@ le-comite-soutien:
       title: Administratrice
 
     - member: 
-      name: M. Jonathan Gauthier 
-      title: Administrateur
-
-    - member: 
       name: Mme Cynthia Blouin 
       title: Administratrice
 
