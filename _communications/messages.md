@@ -3,51 +3,51 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée du 3 mai 
+## Soirée du 10 mai 
 
-Soirée d'instruction et parade du commandant à 20h15, tenue [C1A](https://www.cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) avec médailles pour tous.
-
+Soirée d'instruction, tenue [C5](https://www.cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) 
 
 ## Activités optionnelles
 
-- Lundi 29 avril : Pas de pratique de tir.
+- Lundi 6 mai : Rencontre pour l'équipe de biathlon et de tir pour un souper d'équipe. Tenue civile. de 18h00 a 20h30. ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
-- Mercredi 1 mai : Pratique d'exercice militaire; tenue civile. Apportez vos bottes 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
-
-- Samedi 4 et 5 mai : Vente de garage de 8h00 à 16h00 au 52 St-Rosaire. Les cadets peuvent venir rendre visite accompagné de leur parents
-  
-- Dimanche 5 mai : Pratique de musique; apportez votre instrument, tenue civile : 8h45 à 13h00  Manège militaire de Hull (à confirmer)
-  
-- Lundi 6 mai : Rencontre pour l'équipe de Biathlon et de tir pour souper d'équipe; tenue civile 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/))
-  
 - Mercredi 8 mai : Pratique d'exercice militaire; tenue civile. Apportez vos bottes 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
-- Samedi 11 mai : Gala des cadets de 18h00 à 21h30 les cadets sont invité à venir avec leurs parents
+- Samedi 11 mai : Gala des cadets de 18h00 a 21h30 les cadets sont invité avec leurs parents. (Voi détails plus bas)
+  
+- Dimanche 12 mai : Pratique de musique; apportez votre instrument, tenue civile : 8h45 à 13h00  Manège militaire de Hull 
+
+- Mercredi 15 mai : Pratique d'exercice militaire; tenue civile. Apportez vos bottes 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
+
+- Vendredi 17 mai : Congé de cadets
 
 
 ## Activités à venir
 
-- **3 mai** : Parade du commandant
-- **4 et 5 mai** Vente de garage du comité de soutien 
 - **11 mai** : Gala des cadets
-- **19 mai** Bénévolat Fête de Quartier
+- **19 mai** : Bénévolat Fête de Quartier
 - **24 mai** : Pratique pour la revue annuelle
 - **25 mai** : Revue Annuelle
 - **1 Juin** : Bénévolat fête de Quartier
 - **5 Juin** : Rencontre des parents et cadets pour les camps d'été
 - **7 au 9 juin** : Activité de fin d'année 
 
-## Sondage pour l'activité de fin d'année
+## Gala des cadets du 11 mai
 
-Veuillez compléter le [sondage](https://docs.google.com/forms/d/e/1FAIpQLSfuGwhhZwkkelX0Ioh26kDOGDX_eelR1XNtFNM8tDN0rujeUQ/viewform?usp=sf_link) au plus tard le 5 mai afin que nous puissions effectuer les réservations nécessaires.
-    
+Les cadets sont invité avec leurs parents au gala des cadets.
+Tenue des cadets : [C1A](https://www.cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) 
+
+Horaire de la soirée
+18h00 à 18h15    Arrivée des cadets et parents
+18h15 à 19h15    Prise de photo individuel des cadets avec le drapeau du corps de cadets
+19h15 à 20h00    Remise des récompenses et des insignes
+20h00 à 20h30    Prise de la photo par niveaux et prise de la photo des membres du corps de cadets
+20h30 à 21h30    Sociale
+21h30            Départ de tous
+
 ## Absence
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadets (<2920armee@cadets.gc.ca>) pour nous en informer.
-
-## Vente de garage
-
-Le comité de soutien du Corps de cadets 2920-Gatineau aura sa grande vente de garage annuelle le 4 et 5 mai prochain. Si vous avez des items usagés à la suite de votre grand ménage du printemps ou en lien avec un déménagement, le comité peut vendre ces articles dans le but d'offrir des services et activités l'an prochain avec les sommes recueillies. Vous pouvez apporter ces items au 52 St-Rosaire d'ici samedi. Si vous avez des questions, vous pouvez nous écrire au <cciv2920@gmail.com> ou communiquer avec Daniel Brunette au 873-354-8426.
 
 ## Administration
 
