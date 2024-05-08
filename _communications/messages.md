@@ -9,11 +9,11 @@ Soirée d'instruction, tenue [C5](https://www.cc2920.ca/docs/ressources/guide_un
 
 ## Activités optionnelles
 
-- Lundi 6 mai : Rencontre pour l'équipe de biathlon et de tir pour un souper d'équipe. Tenue civile. de 18h00 a 20h30. ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
+- Lundi 6 mai : Rencontre pour l'équipe de biathlon et de tir pour un souper d'équipe. Tenue civile, de 18h00 à 20h30. ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
 - Mercredi 8 mai : Pratique d'exercice militaire; tenue civile. Apportez vos bottes 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
-- Samedi 11 mai : Gala des cadets de 18h00 a 21h30 les cadets sont invité avec leurs parents. (Voi détails plus bas)
+- Samedi 11 mai : Gala des cadets de 18h00 à 21h30. Les cadets sont invité avec leurs parents. (Voi détails plus bas)
   
 - Dimanche 12 mai : Pratique de musique; apportez votre instrument, tenue civile : 8h45 à 13h00  Manège militaire de Hull 
 
@@ -27,14 +27,14 @@ Soirée d'instruction, tenue [C5](https://www.cc2920.ca/docs/ressources/guide_un
 - **11 mai** : Gala des cadets
 - **19 mai** : Bénévolat Fête de Quartier
 - **24 mai** : Pratique pour la revue annuelle
-- **25 mai** : Revue Annuelle
-- **1 Juin** : Bénévolat fête de Quartier
-- **5 Juin** : Rencontre des parents et cadets pour les camps d'été
+- **25 mai** : Revue annuelle
+- **1 juin** : Bénévolat fête de Quartier
+- **5 juin** : Rencontre des parents et cadets pour les camps d'été
 - **7 au 9 juin** : Activité de fin d'année 
 
 ## Gala des cadets du 11 mai
 
-Les cadets sont invité avec leurs parents au gala des cadets.
+Les cadets sont invités avec leurs parents au gala des cadets.
 Tenue des cadets : [C1A](https://www.cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) 
 
 Horaire de la soirée
