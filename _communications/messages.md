@@ -37,13 +37,13 @@ Soirée d'instruction, tenue [C5](https://www.cc2920.ca/docs/ressources/guide_un
 Les cadets sont invités avec leurs parents au gala des cadets.
 Tenue des cadets : [C1A](https://www.cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) 
 
-Horaire de la soirée
-18h00 à 18h15    Arrivée des cadets et parents
-18h15 à 19h15    Prise de photo individuel des cadets avec le drapeau du corps de cadets
-19h15 à 20h00    Remise des récompenses et des insignes
-20h00 à 20h30    Prise de la photo par niveaux et prise de la photo des membres du corps de cadets
-20h30 à 21h30    Sociale
-21h30            Départ de tous
+### Horaire de la soirée
+- 18h00 à 18h15 : Arrivée des cadets et parents
+- 18h15 à 19h15 : Prise de photo individuel des cadets avec le drapeau du corps de cadets
+- 19h15 à 20h00 : Remise des récompenses et des insignes
+- 20h00 à 20h30 : Prise de la photo par niveaux et prise de la photo des membres du corps de cadets
+- 20h30 à 21h30 : Sociale
+- 21h30         : Départ de tous
 
 ## Absence
 
