@@ -35,6 +35,7 @@ Soirée d'instruction, tenue [C5](https://www.cc2920.ca/docs/ressources/guide_un
 ## Gala des cadets du 11 mai
 
 Les cadets sont invités avec leurs parents au gala des cadets.
+Lieu : [100 rue de la Baie](/information/comment-nous-rejoindre/))
 Tenue des cadets : [C1A](https://www.cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) 
 
 ### Horaire de la soirée
