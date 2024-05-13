@@ -3,48 +3,40 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée du 10 mai 
+## Soirée du 17 mai 
 
-Soirée d'instruction, tenue [C5](https://www.cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) 
+Pas de cadets (congé des patriotes)
 
 ## Activités optionnelles
 
-- Lundi 6 mai : Rencontre pour l'équipe de biathlon et de tir pour un souper d'équipe. Tenue civile, de 18h00 à 20h30. ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
-
-- Mercredi 8 mai : Pratique d'exercice militaire; tenue civile. Apportez vos bottes 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
-
-- Samedi 11 mai : Gala des cadets de 18h00 à 21h30. Les cadets sont invité avec leurs parents. (Voi détails plus bas)
-  
-- Dimanche 12 mai : Pratique de musique; apportez votre instrument, tenue civile : 8h45 à 13h00  Manège militaire de Hull 
+- Lundi 13 mai : Pratique de la démonstration de biathlon et de tir pour la revue annuelle. Tenue civile, de 18h00 à 20h30. ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
 - Mercredi 15 mai : Pratique d'exercice militaire; tenue civile. Apportez vos bottes 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
 
-- Vendredi 17 mai : Congé de cadets
+- Dimanche 19 mai : Pas de pratique de musique
+
+- Lundi 20 mai  Pratique de la démonstration de biathlon et de tir pour la revue annuelle. Tenue civile, de 18h00 à 20h30. ([100 rue de la Baie](/information/comment-nous-rejoindre/)). (A confirmer)
+
+- Mercredi 22 mai : Pratique de la démonstration de biathlon et de tir pour la revue annuelle. Tenue civile, de 18h00 à 20h30. ([100 rue de la Baie](/information/comment-nous-rejoindre/)). (A confirmer) (A confirmer)
 
 
 ## Activités à venir
 
-- **11 mai** : Gala des cadets
-- **19 mai** : Bénévolat Fête de Quartier
 - **24 mai** : Pratique pour la revue annuelle
 - **25 mai** : Revue annuelle
 - **1 juin** : Bénévolat fête de Quartier
 - **5 juin** : Rencontre des parents et cadets pour les camps d'été
 - **7 au 9 juin** : Activité de fin d'année 
 
-## Gala des cadets du 11 mai
+## Revue annuelle du 25 mai
 
-Les cadets sont invités avec leurs parents au gala des cadets.
-Lieu : [100 rue de la Baie](/information/comment-nous-rejoindre/))
-Tenue des cadets : [C1A](https://www.cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) 
+Les parents et amis sont invités à la 51 iemes revue annuelle du corps de cadets 
 
-### Horaire de la soirée
-- 18h00 à 18h15 : Arrivée des cadets et parents
-- 18h15 à 19h15 : Prise de photo individuel des cadets avec le drapeau du corps de cadets
-- 19h15 à 20h00 : Remise des récompenses et des insignes
-- 20h00 à 20h30 : Prise de la photo par niveaux et prise de la photo des membres du corps de cadets
-- 20h30 à 21h30 : Sociale
-- 21h30         : Départ de tous
+Quand : Samedi 25 mai
+Heure : à compter de 13h00 et la parade débutera à 14h00 précisement
+Lieu : Grand gymnase de la Polyvalente le carrefour situé au 50 Chemin de la Savavane, Gatineau
+
+Nous vous prions de bien vouloir compléter le sondage afin de comfirmer le nombre de personne présente pour le 22 mai au plus tard : [Lien](https://docs.google.com/forms/d/14igGDitKIsTAan2hzMfOY9zBfLIGwuZabP0xbyrzras/edit) 
 
 ## Absence
 
