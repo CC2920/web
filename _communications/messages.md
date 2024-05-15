@@ -15,9 +15,9 @@ Pas de cadets (congé des patriotes)
 
 - Dimanche 19 mai : Pas de pratique de musique
 
-- Lundi 20 mai  Pratique de la démonstration de biathlon et de tir pour la revue annuelle. Tenue civile, de 18h00 à 20h30. ([100 rue de la Baie](/information/comment-nous-rejoindre/)). (A confirmer)
+- Lundi 20 mai : Pratique de la démonstration de biathlon et de tir pour la revue annuelle. Tenue civile, de 18h00 à 20h30. ([100 rue de la Baie](/information/comment-nous-rejoindre/)). (à confirmer)
 
-- Mercredi 22 mai : Pratique de la démonstration de biathlon et de tir pour la revue annuelle. Tenue civile, de 18h00 à 20h30. ([100 rue de la Baie](/information/comment-nous-rejoindre/)). (A confirmer) (A confirmer)
+- Mercredi 22 mai : Pratique de la démonstration de biathlon et de tir pour la revue annuelle. Tenue civile, de 18h00 à 20h30. ([100 rue de la Baie](/information/comment-nous-rejoindre/)). (à confirmer)
 
 
 ## Activités à venir
@@ -32,11 +32,11 @@ Pas de cadets (congé des patriotes)
 
 Les parents et amis sont invités à la 51 iemes revue annuelle du corps de cadets 
 
-Quand : Samedi 25 mai
-Heure : à compter de 13h00 et la parade débutera à 14h00 précisement
-Lieu : Grand gymnase de la Polyvalente le carrefour situé au 50 Chemin de la Savavane, Gatineau
+- Quand : Samedi 25 mai
+- Heure : à compter de 13h00 et la parade débutera à 14h00 précisement
+- Lieu : Grand gymnase de la Polyvalente le carrefour situé au 50 Chemin de la Savane, Gatineau
 
-Nous vous prions de bien vouloir compléter le sondage afin de comfirmer le nombre de personne présente pour le 22 mai au plus tard : [Lien](https://docs.google.com/forms/d/14igGDitKIsTAan2hzMfOY9zBfLIGwuZabP0xbyrzras/edit) 
+Nous vous prions de bien vouloir compléter le sondage afin de comfirmer le nombre de personne présente pour le 22 mai au plus tard : [Lien au sondage](https://docs.google.com/forms/d/14igGDitKIsTAan2hzMfOY9zBfLIGwuZabP0xbyrzras/edit) 
 
 ## Absence
 
