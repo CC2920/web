@@ -46,6 +46,10 @@ Les cadets sont invités a compléter le sondage pour confirmer leur présence e
 - Les personnes qui désire recevoir leur photos qui à été prise lors du bal des cadets doivent envoyer un courriel à l'adresse courriel  (<2920armee@cadets.gc.ca>)
  et nous vous retournerons votre photo à l'adresse d'origine du courriel. 
 
+## Activité de fin d'année
+
+Comme vous le savez lors de la fin de semaine du 7 au 9 juin prochain, nous allons aller faire du rafting pour les cadets qui se sont inscrits avant le 5 mai.  Ceux-ci doivent compléter le formulaire [PDF](https://drive.google.com/file/d/1rhYdWPIg5p5iRtGpXIC3cCe8jmZ4pXVf/view?usp=sharing) et le rapporter pour le 25 mai au plus tard.
+
 ## Absence
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadets (<2920armee@cadets.gc.ca>) pour nous en informer.
