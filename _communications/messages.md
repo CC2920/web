@@ -7,11 +7,11 @@ layout: "messages"
 
 Tenue civil. Apportez votre uniforme au complet avec bottes et le béret.  Pratique de la revue annuelle toutes la soirée à la Polyvalente de carrefour au 50 De la Savane dans le grand gymnase de 18h30 à 21h00
 
-Samedi 25 mai : Revue annuelle
-                  9h00 à 12h00 Pratique de la revue à la Polyvalente le Carrefour, 50 rue de la Savane dans le grand gymnnase.
-                  12h00 à 13h30 Diner fournis et les cadets se change sur place
-                  13h30 Formation de la parade et la cérémonie avec l'officer de revue débutera à 14h00 Précisémnent
-                  16h00 Retour à la maison pour tous
+- Samedi 25 mai : Revue annuelle
+        - 9h00 à 12h00 Pratique de la revue à la Polyvalente le Carrefour, 50 rue de la Savane dans le grand gymnnase.
+        - 12h00 à 13h30 Diner fournis et les cadets se change sur place
+        - 13h30 Formation de la parade et la cérémonie avec l'officer de revue débutera à 14h00 Précisémnent
+        - 16h00 Retour à la maison pour tous
   
 ## Activités optionnelles
 
