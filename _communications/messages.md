@@ -5,13 +5,13 @@ layout: "messages"
 
 ## Soirée du 24 mai 
 
-Tenue civil. Apportez votre uniforme au complet avec bottes et le béret.  Pratique de la revue annuelle toutes la soirée à la Polyvalente de carrefour au 50 De la Savane dans le grand gymnase de 18h30 à 21h00
+Tenue civile. Apportez votre uniforme au complet avec bottes et le béret.  Pratique de la revue annuelle toute la soirée à la Polyvalente de carrefour au 50 De la Savane dans le grand gymnase de 18h30 à 21h00
 
 - **Samedi 25 mai** : Revue annuelle
-- **9h00 à 12h00**  Pratique de la revue à la Polyvalente le Carrefour, 50 rue de la Savane dans le grand gymnnase.
-- **12h00 à 13h30** Diner fournis et les cadets se change sur place
-- **13h30**         Formation de la parade et la cérémonie avec l'officer de revue débutera à 14h00 Précisémnent
-- **16h00**         Retour à la maison pour tous
+- **9h00 à 12h00** : Pratique de la revue à la Polyvalente le Carrefour, 50 rue de la Savane dans le grand gymnase.
+- **12h00 à 13h30** : Diner fournis et les cadets se change sur place
+- **13h30**        : Formation de la parade et la cérémonie avec l'officier de revue débutera à 14h00 Précisément
+- **16h00**        : Retour à la maison pour tous
   
 ## Activités optionnelles
 
@@ -31,24 +31,23 @@ Tenue civil. Apportez votre uniforme au complet avec bottes et le béret.  Prati
 
 ## Revue annuelle du 25 mai
 
-Les parents et amis sont invités à la 51 iemes revue annuelle du corps de cadets 
+Les parents et amis sont invités à la 51<sup>ièmes</sup> revue annuelle du corps de cadets 
 
 - Quand : Samedi 25 mai
-- Heure : à compter de 13h00 et la parade débutera à 14h00 précisement
-- Lieu : Grand gymnase de la Polyvalente le carrefour situé au 50 Chemin de la Savane, Gatineau
+- Heure : à compter de 13h00 et la parade débutera à 14h00 précisément
+- Lieu : grand gymnase de la Polyvalente le Carrefour situé au 50 Chemin de la Savane, Gatineau
 
-Nous vous prions de bien vouloir compléter le sondage afin de comfirmer le nombre de personne présente pour le 22 mai au plus tard : [Lien au sondage](https://docs.google.com/forms/d/14igGDitKIsTAan2hzMfOY9zBfLIGwuZabP0xbyrzras/edit) 
+Nous vous prions de bien vouloir compléter le sondage afin de confirmer le nombre de personne présente pour le 22 mai au plus tard : [Lien au sondage](https://docs.google.com/forms/d/14igGDitKIsTAan2hzMfOY9zBfLIGwuZabP0xbyrzras/edit) 
 
 Les cadets sont invités a compléter le sondage pour confirmer leur présence et s'ils ont des allergies alimentaires au lien suivant [Lien](https://docs.google.com/forms/d/1DYV77wrv-Cl7B33c6HKyQhx7CbyRyS5_jf8lck4gJAg/edit)
 
 ## Les photos du Bal des cadets
 
-- Les personnes qui désire recevoir leur photos qui à été prise lors du bal des cadets doivent envoyer un courriel à l'adresse courriel  (<2920armee@cadets.gc.ca>)
- et nous vous retournerons votre photo à l'adresse d'origine du courriel. 
+Les personnes qui désirent recevoir leur photo qui à été prise lors du bal des cadets doivent envoyer un courriel à l'adresse suivante : <2920armee@cadets.gc.ca>. Nous vous retournerons votre photo à l'adresse d'origine du courriel. 
 
 ## Activité de fin d'année
 
-Comme vous le savez lors de la fin de semaine du 7 au 9 juin prochain, nous allons aller faire du rafting pour les cadets qui se sont inscrits avant le 5 mai.  Ceux-ci doivent compléter le formulaire [PDF](https://drive.google.com/file/d/1rhYdWPIg5p5iRtGpXIC3cCe8jmZ4pXVf/view?usp=sharing) et le rapporter pour le 25 mai au plus tard.
+Comme vous le savez lors de la fin de semaine du 7 au 9 juin prochain, nous allons aller faire du rafting pour les cadets qui se sont inscrits avant le 5 mai.  Ceux-ci doivent compléter le [formulaire PDF](https://drive.google.com/file/d/1rhYdWPIg5p5iRtGpXIC3cCe8jmZ4pXVf/view?usp=sharing) et le rapporter pour le 25 mai au plus tard.
 
 ## Absence
 
