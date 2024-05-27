@@ -1,53 +1,67 @@
----
+_---
 title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée du 24 mai 
+## Soirée du 31 mai 
 
-Tenue civile. Apportez votre uniforme au complet avec bottes et le béret.  Pratique de la revue annuelle toute la soirée à la Polyvalente de carrefour au 50 De la Savane dans le grand gymnase de 18h30 à 21h00
+Tenue de sport
 
-- **Samedi 25 mai** : Revue annuelle
-- **9h00 à 12h00** : Pratique de la revue à la Polyvalente le Carrefour, 50 rue de la Savane dans le grand gymnase.
-- **12h00 à 13h30** : Diner fournis et les cadets se change sur place
-- **13h30**        : Formation de la parade et la cérémonie avec l'officier de revue débutera à 14h00 Précisément
-- **16h00**        : Retour à la maison pour tous
-  
 ## Activités optionnelles
 
-- Lundi 20 mai : Pas de pratique pour le tir et le biathlon à cause du congé des patriotes
-  
-- Mercredi 22 mai : Pratique d'exercice militaire; tenue civile. Apportez vos bottes 18h30 à 20h30 ([100 rue de la Baie](/information/comment-nous-rejoindre/)).
-
-- Dimanche 26 mai : Pratique de musique de 8h45 à 13h00 au Manège Militaire de Hull en civil apportez vos instruments
+Aucunes activités optionnelles cette semaine
 
 ## Activités à venir
 
-- **24 mai** : Pratique pour la revue annuelle
-- **25 mai** : Revue annuelle 
-- **1 juin** : Bénévolat fête de Quartier
-- **5 juin** : Rencontre des parents et cadets pour les camps d'été
-- **7 au 9 juin** : Activité de fin d'année 
-
-## Revue annuelle du 25 mai
-
-Les parents et amis sont invités à la 51<sup>ièmes</sup> revue annuelle du corps de cadets 
-
-- Quand : Samedi 25 mai
-- Heure : à compter de 13h00 et la parade débutera à 14h00 précisément
-- Lieu : grand gymnase de la Polyvalente le Carrefour situé au 50 Chemin de la Savane, Gatineau
-
-Nous vous prions de bien vouloir compléter le sondage afin de confirmer le nombre de personne présente pour le 22 mai au plus tard : [Lien au sondage](https://docs.google.com/forms/d/14igGDitKIsTAan2hzMfOY9zBfLIGwuZabP0xbyrzras/edit) 
-
-Les cadets sont invités a compléter le sondage pour confirmer leur présence et s'ils ont des allergies alimentaires au lien suivant [Lien](https://docs.google.com/forms/d/1DYV77wrv-Cl7B33c6HKyQhx7CbyRyS5_jf8lck4gJAg/edit)
+- **5 juin** : Rencontre des parents et cadets pour les camps d'été [Télécharger la lettre](https://docs.google.com/document/d/15woNd40C7s6aD0B72W0b0GrWZYDGEhtQ/edit?usp=sharing&ouid=100070785425688122134&rtpof=true&sd=true)
+- **7 au 9 juin** : Activité de fin d'année  
 
 ## Les photos du Bal des cadets
 
 Les personnes qui désirent recevoir leur photo qui à été prise lors du bal des cadets doivent envoyer un courriel à l'adresse suivante : <2920armee@cadets.gc.ca>. Nous vous retournerons votre photo à l'adresse d'origine du courriel. 
 
+Les photos seront envoyé par courriel au plus tard mercredi 29 mai.
+
 ## Activité de fin d'année
 
-Comme vous le savez lors de la fin de semaine du 7 au 9 juin prochain, nous allons aller faire du rafting pour les cadets qui se sont inscrits avant le 5 mai.  Ceux-ci doivent compléter le [formulaire PDF](https://drive.google.com/file/d/1rhYdWPIg5p5iRtGpXIC3cCe8jmZ4pXVf/view?usp=sharing) et le rapporter pour le 25 mai au plus tard.
+Comme vous le savez lors de la fin de semaine du 7 au 9 juin prochain, nous allons aller en exercice de fin d'année et faire du rafting
+Les cadets inscrits sont : 
+- Atitsogbe A-J
+- Belanger S.
+- Belhabib T.
+- Dogucki D.
+- Bouchard J. (Formulaire reçu)
+- Brunete S.
+- Delaney-Dufour P.
+- Dumoulin C.
+- Duval M. 
+- Fauteux H. (Formulaire reçu)
+- Gaudette F.
+- Geron K. (Formulaire reçu)
+- Girard L.
+- Gnoto Je.
+- Gnoto Jo.
+- Hardy T.
+- Lafreniere A.
+- Lamarche A. (Formulaire reçu)
+- Lavoie J.  (Formulaire reçu)
+- Leblanc L. (Formulaire reçu)
+- Legault M.
+- Marotta G.
+- Maukovic D. 
+- Martel A. (Formulaire reçu)
+- Martel N. (Formulaire reçu)
+- McGlashan M.
+- Paquette N-J
+- Rissignol T. (Formulaire reçu)
+- St-Louis J.
+- Sylvain F. (Formulaire reçu)
+- Sylvain M. (Formulaire reçu)
+- Tassé B.
+- Tremblay-Racine C. (Formulaire reçu)
+- Viau M.
+ 
+- Les cadets ci-haut mentionné doivent ABSOLUMENT avoir compléter le [FORMULAIRE PDF](https://drive.google.com/file/d/1rhYdWPIg5p5iRtGpXIC3cCe8jmZ4pXVf/view?usp=sharing) et le rapporter pour le 30 mai au plus tard. Si le formulaire n'a pas été rapporté pour cette date, le cadets ne pourra pas participer à la fin de semaine. AUCUNES AUTRES INSCRIPTIONS N'AI POSSIBLES. 
 
 ## Absence
 
@@ -61,3 +75,4 @@ Si vous vous avez des corrections à votre numéro de téléphone ou adresse, vo
 
 Si vous avez encore des documents médicaux à rapporter, vous devez les apporter le plus rapidement possible car ceux-ci doivent être à jour si vous voulez appliquer sur des camps d'été ou activités régionales.
   
+_
