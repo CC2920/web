@@ -1,4 +1,4 @@
-_---
+---
 title:  "Messages de la semaine"
 layout: "messages"
 ---
@@ -61,7 +61,7 @@ Les cadets inscrits sont :
 - Tremblay-Racine C. (Formulaire reçu)
 - Viau M.
  
-- Les cadets ci-haut mentionné doivent ABSOLUMENT avoir compléter le [FORMULAIRE PDF](https://drive.google.com/file/d/1rhYdWPIg5p5iRtGpXIC3cCe8jmZ4pXVf/view?usp=sharing) et le rapporter pour le 30 mai au plus tard. Si le formulaire n'a pas été rapporté pour cette date, le cadets ne pourra pas participer à la fin de semaine. AUCUNES AUTRES INSCRIPTIONS N'AI POSSIBLES. 
+Les cadets ci-haut mentionné doivent ABSOLUMENT avoir compléter le [FORMULAIRE PDF](https://drive.google.com/file/d/1rhYdWPIg5p5iRtGpXIC3cCe8jmZ4pXVf/view?usp=sharing) et le rapporter pour le 30 mai au plus tard. Si le formulaire n'a pas été rapporté pour cette date, le cadets ne pourra pas participer à la fin de semaine. AUCUNES AUTRES INSCRIPTIONS N'AI POSSIBLES. 
 
 ## Absence
 
@@ -74,5 +74,4 @@ Il est important d'apporter votre carte d'assurance maladie dès que vous en rec
 Si vous vous avez des corrections à votre numéro de téléphone ou adresse, vous devez aviser le plus tôt possible l'officier d'administration. 
 
 Si vous avez encore des documents médicaux à rapporter, vous devez les apporter le plus rapidement possible car ceux-ci doivent être à jour si vous voulez appliquer sur des camps d'été ou activités régionales.
-  
-_
+
