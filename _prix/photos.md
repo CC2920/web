@@ -176,4 +176,4 @@ title: "Galerie de photos"
 * [Parade du commandant - mars 2024](https://photos.app.goo.gl/djuQACU1C8m5mzt48) 
 * [Parade du commandant - avril 2024](https://photos.app.goo.gl/D4s1gJm1BmDy1agb6)
 * [Gala - mai 2024](https://photos.app.goo.gl/UEDsEGFEafNoVv246)
-* [Cérémonial - mai 2025](https://photos.app.goo.gl/JNdk3sVVracBSvBd9)
+* [Cérémonial - revue annuelle 2024](https://photos.app.goo.gl/JNdk3sVVracBSvBd9)
