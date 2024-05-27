@@ -23,3 +23,5 @@ title: "2022 à aujourd'hui Capitaine Mario Martel"
 * mars 2024 - [Souper régimentaire](https://photos.app.goo.gl/kQWYY9sedff6wUK4A)
 * mars 2024 - [Parade du commandant](https://photos.app.goo.gl/djuQACU1C8m5mzt48) 
 * avril 2024 - [Parade du commandant](https://photos.app.goo.gl/D4s1gJm1BmDy1agb6)
+* mai 2024 - [Gala](https://photos.app.goo.gl/UEDsEGFEafNoVv246)
+* mai 2025 - [Cérémonial - 51e Revue annuelle](https://photos.app.goo.gl/JNdk3sVVracBSvBd9)
