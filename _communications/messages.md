@@ -2,7 +2,7 @@ _---
 title:  "Messages de la semaine"
 layout: "messages"
 ---
-
+ 
 ## Soirée du 31 mai 
 
 Tenue de sport
