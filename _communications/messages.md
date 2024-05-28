@@ -18,9 +18,9 @@ Aucunes activités optionnelles cette semaine
 
 ## Les photos du Bal des cadets
 
-Les personnes qui désirent recevoir leur photo qui à été prise lors du bal des cadets doivent envoyer un courriel à l'adresse suivante : <2920armee@cadets.gc.ca>. Nous vous retournerons votre photo à l'adresse d'origine du courriel. 
+Les personnes qui désirent recevoir leur photo qui a été prise lors du bal des cadets doivent envoyer un courriel à l'adresse suivante : <2920armee@cadets.gc.ca>. Nous vous retournerons votre photo à l'adresse d'origine du courriel. 
 
-Les photos seront envoyé par courriel au plus tard mercredi 29 mai.
+Les photos seront envoyées par courriel au plus tard mercredi 29 mai.
 
 ## Activité de fin d'année
 
@@ -29,7 +29,7 @@ Les cadets inscrits sont :
 - Atitsogbe A-J
 - Belanger S.
 - Belhabib T.
-- Dogucki D.
+- Bogucki D.
 - Bouchard J. (Formulaire reçu)
 - Brunete S.
 - Delaney-Dufour P.
@@ -61,7 +61,7 @@ Les cadets inscrits sont :
 - Tremblay-Racine C. (Formulaire reçu)
 - Viau M.
  
-Les cadets ci-haut mentionné doivent ABSOLUMENT avoir compléter le [FORMULAIRE PDF](https://drive.google.com/file/d/1rhYdWPIg5p5iRtGpXIC3cCe8jmZ4pXVf/view?usp=sharing) et le rapporter pour le 30 mai au plus tard. Si le formulaire n'a pas été rapporté pour cette date, le cadets ne pourra pas participer à la fin de semaine. AUCUNES AUTRES INSCRIPTIONS N'AI POSSIBLES. 
+Les cadets ci-haut mentionnés doivent ABSOLUMENT avoir compléter le [FORMULAIRE PDF](https://drive.google.com/file/d/1rhYdWPIg5p5iRtGpXIC3cCe8jmZ4pXVf/view?usp=sharing) et le rapporter pour le 30 mai au plus tard. Si le formulaire n'a pas été rapporté pour cette date, le cadets ne pourra pas participer à la fin de semaine. AUCUNES AUTRES INSCRIPTIONS N'EST POSSIBLES. 
 
 ## Absence
 
