@@ -31,13 +31,13 @@ Les cadets inscrits sont :
 - Belhabib T.
 - Bogucki D.
 - Bouchard J. (Formulaire reçu)
-- Brunete S.
+- Brunette S.
 - Delaney-Dufour P.
 - Dumoulin C.
 - Duval M. 
 - Fauteux H. (Formulaire reçu)
 - Gaudette F.
-- Geron K. (Formulaire reçu)
+- Geron Z. (Formulaire reçu)
 - Girard L.
 - Gnoto Je.
 - Gnoto Jo.
@@ -53,7 +53,7 @@ Les cadets inscrits sont :
 - Martel N. (Formulaire reçu)
 - McGlashan M.
 - Paquette N-J
-- Rissignol T. (Formulaire reçu)
+- Rossignol T. (Formulaire reçu)
 - St-Louis J.
 - Sylvain F. (Formulaire reçu)
 - Sylvain M. (Formulaire reçu)
@@ -61,7 +61,7 @@ Les cadets inscrits sont :
 - Tremblay-Racine C. (Formulaire reçu)
 - Viau M.
  
-Les cadets ci-haut mentionnés doivent ABSOLUMENT avoir compléter le [FORMULAIRE PDF](https://drive.google.com/file/d/1rhYdWPIg5p5iRtGpXIC3cCe8jmZ4pXVf/view?usp=sharing) et le rapporter pour le 30 mai au plus tard. Si le formulaire n'a pas été rapporté pour cette date, le cadets ne pourra pas participer à la fin de semaine. AUCUNES AUTRES INSCRIPTIONS N'EST POSSIBLES. 
+Les cadets ci-haut mentionnés doivent ABSOLUMENT avoir compléter le [FORMULAIRE PDF](https://drive.google.com/file/d/1rhYdWPIg5p5iRtGpXIC3cCe8jmZ4pXVf/view?usp=sharing) et le rapporter pour le 31 mai au plus tard. Si le formulaire n'a pas été rapporté pour cette date, le cadets ne pourra pas participer à la fin de semaine. AUCUNE AUTRE INSCRIPTION N'EST POSSIBLE. 
 
 ## Absence
 
