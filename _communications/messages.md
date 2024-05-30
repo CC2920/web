@@ -26,26 +26,30 @@ Les photos seront envoyées par courriel au plus tard mercredi 29 mai.
 
 Comme vous le savez lors de la fin de semaine du 7 au 9 juin prochain, nous allons aller en exercice de fin d'année et faire du rafting
 Les cadets inscrits sont : 
+- Alain D.
 - Atitsogbe A-J
+- Bassowa O. (Formulaire reçu)
 - Belanger S.
 - Belhabib T.
-- Bogucki D.
+- Bogucki A.
+- Bogucki D. (Formulaire reçu)
 - Bouchard J. (Formulaire reçu)
-- Brunette S.
+- Brunette S. (Formulaire reçu)
 - Delaney-Dufour P.
 - Dumoulin C.
 - Duval M. 
 - Fauteux H. (Formulaire reçu)
-- Gaudette F.
+- Gaudette F. (Formulaire reçu)
 - Geron Z. (Formulaire reçu)
 - Girard L.
-- Gnoto Je.
-- Gnoto Jo.
-- Hardy T.
+- Gnoto Je. (Formulaire reçu)
+- Gnoto Jo.(Formulaire reçu)
+- Hardy T. (Formulaire reçu)
 - Lafreniere T.
 - Lamarche A. (Formulaire reçu)
 - Lavoie J.  (Formulaire reçu)
 - Leblanc L. (Formulaire reçu)
+- Leduc S. (Formulaire reçu)
 - Legault M.
 - Marotta G.
 - Maukovic D. 
@@ -55,11 +59,12 @@ Les cadets inscrits sont :
 - Paquette N-J
 - Rossignol T. (Formulaire reçu)
 - St-Louis J.
+- Sr-Louis M. (Formulaire reçu)
 - Sylvain F. (Formulaire reçu)
 - Sylvain M. (Formulaire reçu)
 - Tassé B.
 - Tremblay-Racine C. (Formulaire reçu)
-- Viau M.
+- Viau M. (Formulaire reçu)
  
 Les cadets ci-haut mentionnés doivent ABSOLUMENT avoir compléter le [FORMULAIRE PDF](https://drive.google.com/file/d/1rhYdWPIg5p5iRtGpXIC3cCe8jmZ4pXVf/view?usp=sharing) et le rapporter pour le 31 mai au plus tard. Si le formulaire n'a pas été rapporté pour cette date, le cadets ne pourra pas participer à la fin de semaine. AUCUNE AUTRE INSCRIPTION N'EST POSSIBLE. 
 
