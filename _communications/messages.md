@@ -45,12 +45,13 @@ Les cadets inscrits sont :
 - Gnoto Je. (Formulaire reçu)
 - Gnoto Jo.(Formulaire reçu)
 - Hardy T. (Formulaire reçu)
-- Lafreniere T.
+- Lafreniere T. (Formulaire reçu)
 - Lamarche A. (Formulaire reçu)
 - Lavoie J.  (Formulaire reçu)
 - Leblanc L. (Formulaire reçu)
 - Leduc S. (Formulaire reçu)
 - Legault M.
+- Malette R. (Formulaire reçu)
 - Marotta G.
 - Maukovic D. 
 - Martel A. (Formulaire reçu)
