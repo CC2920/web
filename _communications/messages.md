@@ -57,6 +57,7 @@ Liste des participants
  - 1 Pyjama
  - 4 Paires de chaussettes
  - 4 Sous-vêtements
+ - 2 t-shirts
  - 1 Pantalon long
  - 2 Pantalon court
  - 1 Maillot de bain
