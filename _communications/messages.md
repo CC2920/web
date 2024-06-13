@@ -5,9 +5,9 @@ layout: "messages"
  
 ## Soirée d'instruction 
 
-Les soirées d'instruction recommenceront le 6 septembre 2024
+Les soirées d'instruction recommenceront le 6 septembre 2024.
 
-Bonnes vacances à tous et bon camps pour les cadets qui ont été sélectionné
+Bonnes vacances à tous et bon camps pour les cadets qui ont été sélectionné.
 
 ## Activités optionnelles
 
