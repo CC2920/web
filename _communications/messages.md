@@ -19,7 +19,7 @@ Congé estivale les activités seront aux retours en septembre.
 
 ## Camp d'été
 
-Les cadets qui ont été sélectionné pour les camps d'été doivent prendre connaissances du cahier d'information été 2024 [https://drive.google.com/file/d/1LqHOdq0dZMOX2_N2n_IDMERoZiIqo8wb/view?usp=sharing} et compléter le formulaire CDT-130.[https://drive.google.com/file/d/1Gr1q_trlQ7cP9hCRuVa_1zkUXP0nnp02/view?usp=sharing]
+Les cadets qui ont été sélectionné pour les camps d'été doivent prendre connaissances du cahier d'information été 2024 [https://drive.google.com/file/d/1LqHOdq0dZMOX2_N2n_IDMERoZiIqo8wb/view?usp=sharing] et compléter le formulaire CDT-130.[https://drive.google.com/file/d/1Gr1q_trlQ7cP9hCRuVa_1zkUXP0nnp02/view?usp=sharing]
 
 le formulaire cdt-130 doit etre soumis via votre compte cadets365.  Si vous avez des problèmes, un membre du personnel sera au 52 St-Rosaire le mercredi 19 juin entre 18:30 et 19h30 pour vous aider à les soumettre
 
