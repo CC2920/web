@@ -3,11 +3,19 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
  
-## Soirée d'instruction 
+## Soirée d'accueil  
 
-Les soirées d'instruction recommenceront le 6 septembre 2024.
+Les soirées d'accueil sera la 6 septembre 2024.
 
-Bonnes vacances à tous et bon camps pour les cadets qui ont été sélectionné.
+## Stage sénior
+
+Une rencontre pour les cadets séniors aura lieu le samedi 24 et dimanche le 25 aaout de 9h00 a 15h15 au 52 St-Rosaire
+
+Tenue : Civil avec le gilet du corps de cadets.
+Lieu : 52 St-Rosaire
+Matériel requis : Papier et crayons
+Repas : Apportez votre lunch et une bouteille d'eau ainsi que collation
+
 
 ## Activités optionnelles
 
