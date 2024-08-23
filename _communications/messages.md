@@ -9,7 +9,7 @@ Les soirées d'accueil sera la 6 septembre 2024.
 
 ## Stage sénior
 
-Une rencontre pour les cadets séniors aura lieu le samedi 24 et dimanche le 25 aaout de 9h00 a 15h15 au 52 St-Rosaire
+Une rencontre pour les cadets séniors aura lieu le samedi 24 et dimanche le 25 aout de 9h00 a 15h15 au 52 St-Rosaire
 
 Tenue : Civil avec le gilet du corps de cadets.
 Lieu : 52 St-Rosaire
