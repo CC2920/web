@@ -12,10 +12,14 @@ Les soirées d'accueil sera la 6 septembre 2024.
 Une rencontre pour les cadets séniors aura lieu le samedi 24 et dimanche le 25 aout de 9h00 a 15h15 au 52 St-Rosaire
 
 Tenue : Civil avec le gilet du corps de cadets.
+
 Lieu : 52 St-Rosaire
+
 Matériel requis : Papier et crayons
+
 Repas : Apportez votre lunch et une bouteille d'eau ainsi que collation
 
+Uniforme : Si vous avez des pièces d'uniformes a échanger les apportez
 
 ## Activités optionnelles
 
