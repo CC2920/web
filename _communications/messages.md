@@ -5,36 +5,37 @@ layout: "messages"
  
 ## Soirée d'accueil  
 
-Les soirées d'accueil sera la 6 septembre 2024.
-
-## Stage sénior
-
-Une rencontre pour les cadets séniors aura lieu le samedi 24 et dimanche le 25 aout de 9h00 a 15h15 au 52 St-Rosaire
-
-Tenue : Civil avec le gilet du corps de cadets.
-
+Date  6 septembre 2024. de 18h30 à 20h30
+Tenue : Civil avec le gilet du corps de cadets
 Lieu : 52 St-Rosaire
 
-Matériel requis : Papier et crayons
+Horaire 
+18h30 à 19h15 Validation annuelle des informations de cadets (Un parent devrait être présent car il y a des documents à signer)
+19h15 à 20h30 Kiosques d'informations et inscriptions pour les activités complémentaires qui débuterons en octobre
 
-Repas : Apportez votre lunch et une bouteille d'eau ainsi que collation
+Il y aura des hot dog et des liqueurs pour les parents et les cadets.
 
-Uniforme : Si vous avez des pièces d'uniformes a échanger les apportez
 
 ## Activités optionnelles
 
-Congé estivale le retour de ces activités sera en octobre prochain
+Les activités complémentaires débuterons le 30 septembre 
 
 ## Activités à venir
 
-Congé estivale les activités seront aux retours en septembre.
+14 septembre : Rappel (inscription OBLIGATOIRE le 6 septembre en personne)
+20, 21 et 22 septembre Programme d'Expédition niveau Argent EEA  (Inscripton OBLIGATOIRE le 6 septembre en personne)
+2 octobre Rencontre parents-cadets de 19h00 à 20h30 pour expliquer le fonctionnement du corps de cadets et les nouvelles directives
+4, 5 et 6 octobre Fin de semaine aventurier pour tous les cadets. 
 
-## Camp d'été
+## Habillement
 
-Les cadets qui ont été sélectionné pour les camps d'été doivent prendre connaissances du [cahier d'information été 2024](https://drive.google.com/file/d/1LqHOdq0dZMOX2_N2n_IDMERoZiIqo8wb/view?usp=drive_link) et compléter le formulaire [CDT-130](https://drive.google.com/file/d/1Gr1q_trlQ7cP9hCRuVa_1zkUXP0nnp02/view?usp=drive_link)
+Les cadets qui ont des pièces d'uniformes à échanger devront prendre un rendez-vous avec l'approvisionnement afin de pouvoir faire les échanges.
 
-Le formulaire cdt-130 doit etre soumis via votre compte cadets365.  Si vous avez des problèmes, un membre du personnel sera au 52 St-Rosaire le mercredi 19 juin entre 18:30 et 19h30 pour vous aider à les soumettre
+Aucun échanges d'uniformes n'aura lieu le 6 septembre ou sans rendez-vous cette année.
 
+## Médicaux
+
+Tous les cadets doivent avoir rapporter les documents de confirmation que leur conditions médicales est valide afin de pouvoir participer aux activités qui se dérouleront à l'extérieur du corps de cadets, Si les docunents sont manquants ils ne pourront pas participer à ces activitées
 
 ## Absence
 
@@ -45,6 +46,4 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 Il est important d'apporter votre carte d'assurance maladie dès que vous en recevez une nouvelle pour que l'on mette à jour celle-ci dans votre dossier.
 
 Si vous vous avez des corrections à votre numéro de téléphone ou adresse, vous devez aviser le plus tôt possible l'officier d'administration. 
-
-Si vous avez encore des documents médicaux à rapporter, vous devez les apporter le plus rapidement possible car ceux-ci doivent être à jour si vous voulez appliquer sur des camps d'été ou activités régionales.
 
