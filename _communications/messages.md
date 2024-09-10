@@ -23,18 +23,20 @@ Les activités complémentaires débuterons le 30 septembre
 
 ## RAPPEL
 
-Les cadets inscrits pour le rappel devront se rendre a la BFC Connaugh pour 13:00 le 14 septembre par leur propre moyen et l'activite se terminera a 16h30.
+Les cadets inscrits pour le rappel devront se rendre à la BFC Connaught pour 13:00 le 14 septembre par leur propre moyen et l'activité se terminera à 16h30.
 
-Tenue : Civil approprie pour l'exterieur
-Soulier a semelle rigide
-Aucun vetements amples
-les cheveux doivent etre attache afin pouvoir mettre un casque de securite
-Apportez votre carte d'assurance maladie
-Une carte pour se rendre au site vous sera remis vendredi soir
+- Tenue 
+- Civil : approprié pour l'exterieur
+- Soulier a semelle rigide
+- Aucun vetements amples
+- Les cheveux doivent etre attache afin pouvoir mettre un casque de securite
+- Apportez votre carte d'assurance maladie
+
+- Une carte pour se rendre au site vous sera remise vendredi soir, l'adresse 1 Lewis Gun Rd, Nepean, ON K2K 2W6
 
 ## Validation annuelle
 
-Les cadets qui n'ont pas complété leur verification annuelle devront le faire vendredi le 13 septembre au plus tard, afin de pouvoir participer aux activites complémentaires qui débuteront a la fin septembre.
+Les cadets qui n'ont pas complété leur vérification annuelle devront le faire vendredi le 13 septembre au plus tard, afin de pouvoir participer aux activités complémentaires qui débuteront à la fin septembre.
 
 ## Habillement
 
@@ -44,7 +46,7 @@ Aucun échanges d'uniformes n'aura lieu le 13 septembre ou sans rendez-vous cett
 
 ## Médicaux
 
-Tous les cadets doivent avoir rapporter les documents de confirmation que leur conditions médicales est valide afin de pouvoir participer aux activités qui se dérouleront à l'extérieur du corps de cadets, Si les docunents sont manquants ils ne pourront pas participer à ces activitées
+Tous les cadets doivent avoir rapporter les documents de confirmation que leur conditions médicales est valide afin de pouvoir participer aux activités qui se dérouleront à l'extérieur du corps de cadets, Si les documents sont manquants ils ne pourront pas participer à ces activités
 
 ## Absence
 
@@ -56,3 +58,6 @@ Il est important d'apporter votre carte d'assurance maladie dès que vous en rec
 
 Si vous vous avez des corrections à votre numéro de téléphone ou adresse, vous devez aviser le plus tôt possible l'officier d'administration. 
 
+## Message aux parents
+
+Le comité de soutien qui est constitué de bénévoles (Parents) tiendra une réunion le vendredi soir 13 septembre à 18h30 au 52 St-Rosaire.  Si vous aimeriez en apprendre plus sur les options pour vous s'impliquer, vous êtes cordialement invité à venir nous rencontrer pour discuter de la possibilité d’implication dans les activités non subventionnées de nos cadets. 
