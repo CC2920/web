@@ -40,7 +40,7 @@ Les cadets qui n'ont pas complété leur verification annuelle devront le faire 
 
 Les cadets qui ont des pièces d'uniformes à échanger devront prendre un rendez-vous avec l'approvisionnement afin de pouvoir faire les échanges.
 
-Aucun échanges d'uniformes n'aura lieu le 6 septembre ou sans rendez-vous cette année.
+Aucun échanges d'uniformes n'aura lieu le 13 septembre ou sans rendez-vous cette année.
 
 ## Médicaux
 
