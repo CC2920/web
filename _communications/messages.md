@@ -32,7 +32,8 @@ Les cadets inscrits pour le rappel devront se rendre à la BFC Connaught pour 13
 - Les cheveux doivent etre attache afin pouvoir mettre un casque de securite
 - Apportez votre carte d'assurance maladie
 
-- Une carte pour se rendre au site vous sera remise vendredi soir, l'adresse 1 Lewis Gun Rd, Nepean, ON K2K 2W6
+- Nous attendons la confirmation de l'Autobus
+- l'adresse 1 Lewis Gun Rd, Nepean, ON K2K 2W6
 
 ## Validation annuelle
 
