@@ -23,17 +23,18 @@ Les activités complémentaires débuterons le 30 septembre
 
 ## RAPPEL
 
-Les cadets inscrits pour le rappel devront se rendre à la BFC Connaught pour 13:00 le 14 septembre par leur propre moyen et l'activité se terminera à 16h30.
+Les cadets inscrits pour le rappel devront se rendre au 52 St-Rosaire pour 11h45 le 14 septembre et seront de retour pour 17h30 au 52 St-Rosaire.
 
+Le rappel aura lieu de 13h00 à 16h30 à la BFC Connaught.
+
+-Transport : par autobus pour tous les cadets depart à 12h00 du corps de cadets
 - Tenue 
 - Civil : approprié pour l'exterieur
 - Soulier a semelle rigide
 - Aucun vetements amples
 - Les cheveux doivent etre attache afin pouvoir mettre un casque de securite
 - Apportez votre carte d'assurance maladie
-
-- Nous attendons la confirmation de l'Autobus
-- l'adresse 1 Lewis Gun Rd, Nepean, ON K2K 2W6
+- Apportez vous une collation et une bouteille d'eau
 
 ## Validation annuelle
 
