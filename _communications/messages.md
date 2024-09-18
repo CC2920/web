@@ -3,48 +3,35 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
  
-## Soirée d'accueil  
+## Soirée d'instruction  
 
-- **Date** : 13 septembre 2024. de 18h30 à 21h15
-- **Tenue** : C5 (Tenue d'instruction)
+- **Date** : 20 septembre 2024. de 18h30 à 21h15
+- **Tenue** : Sport avec gilet du corps de cadets pour ceux qui l'ont
 - **Lieu** : 52 St-Rosaire
  
-
 ## Activités optionnelles
 
 Les activités complémentaires débuterons le 30 septembre 
 
 ## Activités à venir
 
-- **14 septembre** : Pour les personnes inscrites 
-- **20, 21 et 22 septembre** : Pour les personnes inscrites
+- **20, 21 et 22 septembre** : EEA pour les cadets qui ont été sélectionné et qui ont reçu un appel
 - **2 octobre** : Rencontre parents-cadets de 19h00 à 20h30 pour expliquer le fonctionnement du corps de cadets et les nouvelles directives
 - **4, 5 et 6 octobre** : Fin de semaine aventurier pour tous les cadets. 
 
-## RAPPEL
-
-Les cadets inscrits pour le rappel devront se rendre au 52 St-Rosaire pour 11h45 le 14 septembre et seront de retour pour 17h30 au 52 St-Rosaire.
-
-Le rappel aura lieu de 13h00 à 16h30 à la BFC Connaught.
-
--Transport : par autobus pour tous les cadets depart à 12h00 du corps de cadets
-- Tenue 
-- Civil : approprié pour l'exterieur
-- Soulier a semelle rigide
-- Aucun vetements amples
-- Les cheveux doivent etre attache afin pouvoir mettre un casque de securite
-- Apportez votre carte d'assurance maladie
-- Apportez vous une collation et une bouteille d'eau
-
 ## Validation annuelle
 
-Les cadets qui n'ont pas complété leur vérification annuelle devront le faire vendredi le 13 septembre au plus tard, afin de pouvoir participer aux activités complémentaires qui débuteront à la fin septembre.
+Les cadets doivent rapporter le formulaire de vérification annuelle pour vendredi le 20 septembre. 
+
+## Retour uniforme
+
+Les cadets qui ne désire pas revenir cette année doivent rapporter leur uniforme pour au plus tard le 30 septembre.  L'approvisionnement sera ouvert le mercredi soir entre 18h00 et 20h00 pour récupérer les uniformes.
 
 ## Habillement
 
 Les cadets qui ont des pièces d'uniformes à échanger devront prendre un rendez-vous avec l'approvisionnement afin de pouvoir faire les échanges.
 
-Aucun échanges d'uniformes n'aura lieu le 13 septembre ou sans rendez-vous cette année.
+Aucun échanges d'uniformes sans rendez-vous cette année.
 
 ## Médicaux
 
@@ -60,6 +47,3 @@ Il est important d'apporter votre carte d'assurance maladie dès que vous en rec
 
 Si vous vous avez des corrections à votre numéro de téléphone ou adresse, vous devez aviser le plus tôt possible l'officier d'administration. 
 
-## Message aux parents
-
-Le comité de soutien qui est constitué de bénévoles (Parents) tiendra une réunion le vendredi soir 13 septembre à 18h30 au 52 St-Rosaire.  Si vous aimeriez en apprendre plus sur les options pour vous s'impliquer, vous êtes cordialement invité à venir nous rencontrer pour discuter de la possibilité d’implication dans les activités non subventionnées de nos cadets. 
