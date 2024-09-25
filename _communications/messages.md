@@ -70,7 +70,7 @@ Tous les cadets doivent avoir rapporter les documents de confirmation que leur c
 - Heure : 19h00 à 20h30
 - Lieu : Centre communautaire Daniel-Lafortune (448 Rue de Pointe-Gatineau, Gatineau)
 - Tenue : Civil
-- Lettre d'invitation (https://drive.google.com/file/d/1Inwj-_iqngMAuosnhDhbX2jJ38eCRxs0/view?usp=sharing)
+- [Lettre d'invitation](ttps://drive.google.com/file/d/1Inwj-_iqngMAuosnhDhbX2jJ38eCRxs0/view?usp=sharing)
 
 ## Exercice Aventurier
 
@@ -78,7 +78,9 @@ Tous les cadets doivent avoir rapporter les documents de confirmation que leur c
 - Heure : 18h30 le 4 octobre à 16h00 le 6 octobre
 - Lieu : Départ du corps de cadets et retour au même endroit
 - Tenue : Civil
-- Lettre d'information et liste du matériel (https://drive.google.com/file/d/1MqZHS0uYjU7aKeoeUDn21wnklUXizNFH/view?usp=sharing])  
+- [Lettre d'information et liste du matériel](https://drive.google.com/file/d/1MqZHS0uYjU7aKeoeUDn21wnklUXizNFH/view?usp=sharing])
+
+
 ## Absence
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadets (<2920armee@cadets.gc.ca>) pour nous en informer.
