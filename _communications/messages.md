@@ -70,7 +70,7 @@ Tous les cadets doivent avoir rapporter les documents de confirmation que leur c
 - Heure : 19h00 à 20h30
 - Lieu : Centre communautaire Daniel-Lafortune (448 Rue de Pointe-Gatineau, Gatineau)
 - Tenue : Civil
-- [Lettre d'invitation](ttps://drive.google.com/file/d/1Inwj-_iqngMAuosnhDhbX2jJ38eCRxs0/view?usp=sharing)
+- [Lettre d'invitation](https://drive.google.com/file/d/1Inwj-_iqngMAuosnhDhbX2jJ38eCRxs0/view?usp=sharing)
 
 ## Exercice Aventurier
 
