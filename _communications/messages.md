@@ -52,7 +52,7 @@ Tous les cadets doivent avoir rapporter les documents de confirmation que leur c
 
 ## Tir
 
-- Qui : UNIQUEMENT pour les cadets et dont la validation annuelle et le médicale est valide 
+- Qui : UNIQUEMENT pour les cadets dont la validation annuelle et le médicale est valide 
 - Heure : de 18h00 à 20h30
 - Lieu : Centre Nouvel-Horizon (100 rue labbe, Gatineau) 
 - Tenue : Civil
@@ -60,7 +60,7 @@ Tous les cadets doivent avoir rapporter les documents de confirmation que leur c
 
 ## Exercice militaire
 
-- Qui : UNIQUEMENT pour les cadets inscrits et dont la validation annuelle et le médicale est valide 
+- Qui : UNIQUEMENT pour les cadets inscrits dont la validation annuelle et le médicale est valide 
 - Heure : de 18h30 à 20h00
 - Lieu : Centre Nouvel-Horizon (100 rue labbe, Gatineau) 
 - Tenue : Civil
@@ -76,7 +76,7 @@ Tous les cadets doivent avoir rapporter les documents de confirmation que leur c
 
 ## Exercice Aventurier
 
-- Qui : UNIQUEMENT pour les cadets inscrits et dont la validation annuelle et le médicale est valide 
+- Qui : UNIQUEMENT pour les cadets inscrits dont la validation annuelle et le médicale est valide 
 - Heure : 18h30 le 4 octobre à 16h00 le 6 octobre
 - Lieu : Départ du corps de cadets (52 St-Rosaire) et retour au même endroit
 - Tenue : Civil
