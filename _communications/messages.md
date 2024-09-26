@@ -5,9 +5,9 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 27 septembre 2024. de 18h30 à 21h15
-- **Tenue** : C5 tenue d'instruction
-- **Lieu** : 52 St-Rosaire
+- **Date** : 27 septembre 2024, de 18h30 à 21h15
+- **Tenue** : C5; [tenue d'instruction](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
+- **Lieu** : 52 St-Rosaire, Gatineau
  
 ## Activités à venir
 
@@ -23,34 +23,36 @@ layout: "messages"
 
 ## Validation annuelle
 
-Les cadets doivent rapporter le formulaire de vérification annuelle pour vendredi le 27 septembre OBLIGATOIREMENT afin de pouvoir participer au activités optionnelles et à l'exercice aventurier du 4 au 6 octobre.
-Si les documents sont incomplets les cadets ne pourront pas participer aux activités hors du vendredi soir. 
+Les cadets doivent rapporter le formulaire de vérification annuelle pour vendredi le 27 septembre OBLIGATOIREMENT afin de pouvoir participer aux activités optionnelles et à l'exercice aventurier du 4 au 6 octobre.
+Si les documents sont incomplets, les cadets ne pourront pas participer aux activités hors du vendredi soir. 
 
 ## Retour uniforme
 
-Les cadets qui ne désire pas revenir cette année doivent rapporter leur uniforme pour au plus tard le 30 septembre.  L'approvisionnement sera ouvert le mercredi soir entre 18h00 et 20h00 pour récupérer les uniformes.
+Les cadets qui ne désirent pas revenir cette année doivent rapporter leur uniforme au plus tard le 30 septembre. L'approvisionnement sera ouvert le mercredi soir entre 18h00 et 20h00 pour récupérer les uniformes.
 
 ## Habillement
 
 Les cadets qui ont des pièces d'uniformes à échanger devront prendre un rendez-vous avec l'approvisionnement afin de pouvoir faire les échanges.
 
-Aucun échanges d'uniformes sans rendez-vous cette année.
+*Aucun échanges d'uniformes sans rendez-vous cette année.*
 
 ## Médicaux
 
-Tous les cadets doivent avoir rapporter les documents de confirmation que leur conditions médicales est valide afin de pouvoir participer aux activités qui se dérouleront à l'extérieur du corps de cadets. Certains documents médicaux doivent être envoyé par le corps de cadets à la section médicales du Quartier Génerale de la région de l'Est (URSC(E).  Les documents doivent être envoyé à la section médicale le cadets ne pourra pas participer au activités hors du vendredi soir tant que la condition médicale ne sera validé par la section médicale Quartier Générale
+Tous les cadets doivent avoir rapporter les documents de confirmation que leur conditions médicales est valide afin de pouvoir participer aux activités qui se dérouleront à l'extérieur du corps de cadets. Certains documents médicaux doivent être envoyés par le corps de cadets à la section médicale du Quartier Génerale de la région de l'Est (URSC(E)). 
+
+*Le cadets ne pourra pas participer au activités hors du vendredi soir tant que la condition médicale ne sera validée par la section médicale du Quartier Générale.*
 
 ## Musique 
 
-- Qui : Pour les cadets inscrits à la musique et dont la validation annuelle et le médicale est valide UNIQUEMENT
+- Qui : UNIQUEMENT pour les cadets inscrits à la musique et dont la validation annuelle et le médicale est valide 
 - Heure : de 8h45 à 13h00
-- Lieu : Manège Militaire de Salaberry (188 Boul Alexandre Taché, Hull) 
+- Lieu : Manège Militaire de Salaberry ([188 Alexandre-Taché Blvd, Gatineau, QC](https://maps.app.goo.gl/xhRk3PTpEHhdVocB9))
 - Tenue : Civil
 - Matériel requis : Papier, crayon, bouteille d'eau, collation et instrument de musique pour ceux qui en ont un, partitions de musique
 
 ## Tir
 
-- Qui : Pour tous les cadets et dont la validation annuelle et le médicale est valide UNIQUEMENT
+- Qui : UNIQUEMENT pour les cadets dont la validation annuelle et le médicale est valide 
 - Heure : de 18h00 à 20h30
 - Lieu : Centre Nouvel-Horizon (100 rue labbe, Gatineau) 
 - Tenue : Civil
@@ -58,7 +60,7 @@ Tous les cadets doivent avoir rapporter les documents de confirmation que leur c
 
 ## Exercice militaire
 
-- Qui : Pour tous les cadets inscrits et dont la validation annuelle et le médicale est valide UNIQUEMENT
+- Qui : UNIQUEMENT pour les cadets inscrits dont la validation annuelle et le médicale est valide 
 - Heure : de 18h30 à 20h00
 - Lieu : Centre Nouvel-Horizon (100 rue labbe, Gatineau) 
 - Tenue : Civil
@@ -66,7 +68,7 @@ Tous les cadets doivent avoir rapporter les documents de confirmation que leur c
 
 ## Rencontre de parent
 
-- Qui : tous les parents des cadets et les cadets s'il désir assisté
+- Qui : Tous les parents des cadets et les cadets, s'ils désir assistés
 - Heure : 19h00 à 20h30
 - Lieu : Centre communautaire Daniel-Lafortune (448 Rue de Pointe-Gatineau, Gatineau)
 - Tenue : Civil
@@ -74,9 +76,9 @@ Tous les cadets doivent avoir rapporter les documents de confirmation que leur c
 
 ## Exercice Aventurier
 
-- Qui : Pour tous les cadets inscrits et dont la validation annuelle et le médicale est valide UNIQUEMENT
+- Qui : UNIQUEMENT pour les cadets inscrits dont la validation annuelle et le médicale est valide 
 - Heure : 18h30 le 4 octobre à 16h00 le 6 octobre
-- Lieu : Départ du corps de cadets et retour au même endroit
+- Lieu : Départ du corps de cadets (52 St-Rosaire) et retour au même endroit
 - Tenue : Civil
 - [Lettre d'information et liste du matériel](https://drive.google.com/file/d/1MqZHS0uYjU7aKeoeUDn21wnklUXizNFH/view?usp=sharing])
 
