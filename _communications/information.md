@@ -6,12 +6,6 @@ title:  "Information Générale"
 
 Le comité de soutien est une organisation civile à but non lucratif qui a pour mission de soutenir le Corps de cadets de l’Armée 2920 Gatineau. Pour plus d’information sur les façons d’aider, veuillez communiquer avec Daniel Brunette par courriel au <cciv2920@gmail.com>.
 
-## Echange d’uniforme
- 
-Échange d’uniforme : présentez-vous sans rendez-vous les mercredis de 17h30 à 18h30. Aucun échange d’uniforme ne sera effectué sans rendez-vous le vendredi soir.
-
-Échange d’écusson : présentez-vous sans rendez-vous entre 18h et 18h15 le vendredi soir ou les mercredis de 17h30 à 18h30 avec vos vieux écussons en mains.
-
 ## Cadet365
 
 Voici les instructions pour activer votre compte Cadet365 une fois que vous avez reçu votre identification et mot de passe temporaire : [Intégration des cadets à Cadet365](https://www.canada.ca/fr/ministere-defense-nationale/services/cadets-rangers-juniors-canadiens/cadets/o365-cadets/integration-cadet.html)
