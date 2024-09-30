@@ -5,30 +5,29 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 27 septembre 2024, de 18h30 à 21h15
-- **Tenue** : C5; [tenue d'instruction](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
-- **Lieu** : 52 St-Rosaire, Gatineau
+- **Date** : 4 octobre 2024, Pas de soirée d'instruction car nous partons pour l'exercice aventurier Départ 18h30 et Retour dimanche 15h30.
+- **Tenue** : Civil ; [tenue d'instruction](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
+- **Lieu** : Départ du 52 St-Rosaire et retour au même endroit dimanche
  
 ## Activités à venir
 
-- **29 septembre** : Début des pratiques de musique (voir information au paragraphe musique)
 - **30 septembre** : Début des pratiques de tir (voir information au paragraphe tir)
 - **2 octobre** : Début de pratiques du peloton d'exercice militaire et des couleurs (voir informations au paragraphe exercice militaire)
 - **2 octobre** : Rencontre parents-cadets de 19h00 à 20h30 pour expliquer le fonctionnement du corps de cadets et les nouvelles directives
 - **4, 5 et 6 octobre** : Fin de semaine aventurier pour tous les cadets qui ont complété leur validation annuelle et que le médical est valide 
 - **12 et 13 octobre** ; Fouraid pour les cadets qui ont été sélectionné
+- **15 octobre** : Date limite pour remettre la lettre pour le conseil de sélection*(voir conseil de sélection plus bas pour les détails)
 - **19 octobre** : Collecte de bouteille
 - **25 octobre** : Inauguration du musée du CC 2920 et parade de changement de cadets commamdant
 - **26 et 27 octobre** Campagne du Coquelicot
 
 ## Validation annuelle
 
-Les cadets doivent rapporter le formulaire de vérification annuelle pour vendredi le 27 septembre OBLIGATOIREMENT afin de pouvoir participer aux activités optionnelles et à l'exercice aventurier du 4 au 6 octobre.
-Si les documents sont incomplets, les cadets ne pourront pas participer aux activités hors du vendredi soir. 
+Les cadets doivent rapporter le formulaire de vérification annuelle OBLIGATOIREMENT afin de pouvoir participer aux activités optionnelles. 
 
 ## Retour uniforme
 
-Les cadets qui ne désirent pas revenir cette année doivent rapporter leur uniforme au plus tard le 30 septembre. L'approvisionnement sera ouvert le mercredi soir entre 18h00 et 20h00 pour récupérer les uniformes.
+Les cadets qui ne désirent pas revenir cette année doivent rapporter leur uniforme. L'approvisionnement sera ouvert le mercredi soir entre 18h00 et 20h00 pour récupérer les uniformes.
 
 ## Habillement
 
@@ -41,14 +40,6 @@ Les cadets qui ont des pièces d'uniformes à échanger devront prendre un rende
 Tous les cadets doivent avoir rapporter les documents de confirmation que leur conditions médicales est valide afin de pouvoir participer aux activités qui se dérouleront à l'extérieur du corps de cadets. Certains documents médicaux doivent être envoyés par le corps de cadets à la section médicale du Quartier Génerale de la région de l'Est (URSC(E)). 
 
 *Le cadets ne pourra pas participer au activités hors du vendredi soir tant que la condition médicale ne sera validée par la section médicale du Quartier Générale.*
-
-## Musique 
-
-- Qui : UNIQUEMENT pour les cadets inscrits à la musique et dont la validation annuelle et le médicale est valide 
-- Heure : de 8h45 à 13h00
-- Lieu : Manège Militaire de Salaberry ([188 Alexandre-Taché Blvd, Gatineau, QC](https://maps.app.goo.gl/xhRk3PTpEHhdVocB9))
-- Tenue : Civil
-- Matériel requis : Papier, crayon, bouteille d'eau, collation et instrument de musique pour ceux qui en ont un, partitions de musique
 
 ## Tir
 
@@ -68,7 +59,7 @@ Tous les cadets doivent avoir rapporter les documents de confirmation que leur c
 
 ## Rencontre de parent
 
-- Qui : Tous les parents des cadets et les cadets, s'ils désir assistés
+- Qui : Tous les parents des cadets.
 - Heure : 19h00 à 20h30
 - Lieu : Centre communautaire Daniel-Lafortune (448 Rue de Pointe-Gatineau, Gatineau)
 - Tenue : Civil
@@ -82,7 +73,16 @@ Tous les cadets doivent avoir rapporter les documents de confirmation que leur c
 - Tenue : Civil
 - [Lettre d'information et liste du matériel](https://drive.google.com/file/d/1MqZHS0uYjU7aKeoeUDn21wnklUXizNFH/view?usp=sharing])
 
+## Conseil de sélection
 
+- Les cadets possédant le grade d'adjudant-maitre qui veulent appliquer pour le poste d'adjudant-chef doivent soumettre une lettre de présentation expliquant leur interet pour ce poste pour le 15 octobre 18h00. 
+
+- Les cadets possédant le grade d'adjudant qui veulent appliquer pour le poste d'adjudant-maitre doivent soumettre une lettre de présentation expliquant leur interet pour ce poste pour le 15 octobre 18h00.
+
+- Les candidatures des personnes seront évalué par un conseil de mérite et une entrevue aure lieu dans les jours suivants la fermeture des applications.
+
+- Les lettres doivent être envoyé à l'adresse  (<2920armee@cadets.gc.ca>) avec le sujet mise en candidature.
+  
 ## Absence
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadets (<2920armee@cadets.gc.ca>) pour nous en informer.
