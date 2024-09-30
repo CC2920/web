@@ -17,7 +17,7 @@ layout: "messages"
 - **4, 5 et 6 octobre** : Fin de semaine aventurier pour tous les cadets qui ont complété leur validation annuelle et que le médical est valide 
 - **12 et 13 octobre** ; Fouraid pour les cadets qui ont été sélectionné
 - **15 octobre** : Date limite pour remettre la lettre pour le conseil de sélection*(voir conseil de sélection plus bas pour les détails)
-- **19 octobre** : Collecte de bouteille
+- **19 octobre** : Collecte de bouteille 
 - **25 octobre** : Inauguration du musée du CC 2920 et parade de changement de cadets commamdant
 - **26 et 27 octobre** Campagne du Coquelicot
 
@@ -82,10 +82,14 @@ Tous les cadets doivent avoir rapporter les documents de confirmation que leur c
 - Les candidatures des personnes seront évalué par un conseil de mérite et une entrevue aure lieu dans les jours suivants la fermeture des applications.
 
 - Les lettres doivent être envoyé à l'adresse  (<2920armee@cadets.gc.ca>) avec le sujet mise en candidature.
-  
+
+## Collecte de bouteilles
+
+- Le 19 octobre prochain nous effectuerons une collecte de bouteilles.  Nous allons avoir du maximum de cadets pour cette activité car cela est une de nos campagnes de financement.  La participation de plusieurs parents sera requise pour nous aider a déplacer les cadets dans les secteurs.  Cette activité se déroulera entre 9h00 et 14h00. Si comme parents vous pouvez venir nous donner un coup de main S.V.P Veuillez compléter le sondage suivant :  
+
 ## Absence
 
-Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadets (<2920armee@cadets.gc.ca>) pour nous en informer.
+Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de ) pour nous en informer.
 
 ## Administration
 
