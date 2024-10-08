@@ -11,15 +11,21 @@ layout: "messages"
  
 ## Activités à venir
 
-- **30 septembre** : Début des pratiques de tir (voir information au paragraphe tir)
-- **2 octobre** : Début de pratiques du peloton d'exercice militaire et des couleurs (voir informations au paragraphe exercice militaire)
-- **2 octobre** : Rencontre parents-cadets de 19h00 à 20h30 pour expliquer le fonctionnement du corps de cadets et les nouvelles directives
-- **4, 5 et 6 octobre** : Fin de semaine aventurier pour tous les cadets qui ont complété leur validation annuelle et que le médical est valide 
 - **12 et 13 octobre** ; Fouraid pour les cadets qui ont été sélectionné
 - **15 octobre** : Date limite pour remettre la lettre pour le conseil de sélection*(voir conseil de sélection plus bas pour les détails)
 - **19 octobre** : Collecte de bouteille 
-- **25 octobre** : Inauguration du musée du CC 2920 et parade de changement de cadets commamdant
+- **25 octobre** : Inauguration du musée du CC 2920 et parade de changement du cadet-commandant
 - **26 et 27 octobre** Campagne du Coquelicot
+
+<h2 style="font-color: red; ">Collecte de bouteilles</h2>
+
+La collecte de canettes et bouteilles vides aura lieu le **samedi 19 octobre**. Cette activité du comité de soutien est importante pour amasser des fonds, afin d’offrir des activités divertissantes aux cadets et cadettes. 
+
+Pour que l’événement soit un succès, nous avons besoin de <span style="color: red;">la présence de nombreux parents, cadets, et cadettes</span>.  Cette journée permettra également de tisser des liens.
+
+La collecte débutera vers 9 h et se terminera vers 16 h. Afin d'aider avec la planification, veuillez, SVP, remplir le sondage suivant : [formulaire de planification](https://docs.google.com/forms/d/e/1FAIpQLSd0TPZDnoZbTcHay44lrGla5njBJ1C_SSw31JkYZ_B5s0m7xg/viewform)
+
+Merci d’avance de votre participation. Votre contribution est importante pour nos cadets. 
 
 ## Validation annuelle
 
@@ -35,7 +41,7 @@ Les cadets qui ont des pièces d'uniformes à échanger devront prendre un rende
 
 *Aucun échanges d'uniformes sans rendez-vous cette année.*
 
-## Médicaux
+## Dossier médical
 
 Tous les cadets doivent avoir rapporter les documents de confirmation que leur conditions médicales est valide afin de pouvoir participer aux activités qui se dérouleront à l'extérieur du corps de cadets. Certains documents médicaux doivent être envoyés par le corps de cadets à la section médicale du Quartier Génerale de la région de l'Est (URSC(E)). 
 
@@ -57,22 +63,6 @@ Tous les cadets doivent avoir rapporter les documents de confirmation que leur c
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
 
-## Rencontre de parent
-
-- Qui : Tous les parents des cadets.
-- Heure : 19h00 à 20h30
-- Lieu : Centre communautaire Daniel-Lafortune (448 Rue de Pointe-Gatineau, Gatineau)
-- Tenue : Civile
-- [Lettre d'invitation](https://drive.google.com/file/d/1Inwj-_iqngMAuosnhDhbX2jJ38eCRxs0/view?usp=sharing)
-
-## Exercice Aventurier
-
-- Qui : UNIQUEMENT pour les cadets inscrits dont la validation annuelle et le médicale est valide 
-- Heure : 18h30 le 4 octobre à 16h00 le 6 octobre
-- Lieu : Départ du corps de cadets (52 St-Rosaire) et retour au même endroit
-- Tenue : Civile
-- [Lettre d'information et liste du matériel](https://drive.google.com/file/d/1MqZHS0uYjU7aKeoeUDn21wnklUXizNFH/view?usp=sharing])
-
 ## Conseil de sélection
 
 Les cadets possédant le grade d'adjudant-maitre qui veulent appliquer pour le poste d'adjudant-chef doivent soumettre une lettre de présentation expliquant leur interet pour ce poste pour le 15 octobre 18h00. 
@@ -82,16 +72,6 @@ Les cadets possédant le grade d'adjudant qui veulent appliquer pour le poste d'
 Les candidatures des personnes seront évalué par un conseil de mérite et une entrevue aure lieu dans les jours suivants la fermeture des applications.
 
 Les lettres doivent être envoyé à l'adresse du CC2920 (<2920armee@cadets.gc.ca>) avec le sujet mise en candidature.
-
-## Collecte de bouteilles
-
-La collecte de canettes et bouteilles vides aura lieu le samedi 19 octobre. Cette activité du comité de soutien est importante pour amasser des fonds, afin d’offrir des activités divertissantes aux cadets et cadettes. 
-
-Pour que l’événement soit un succès, nous avons besoin de la présence de nombreux parents, cadets, et cadettes.  Cette journée permettra également de tisser des liens.
-
-La collecte débutera vers 9 h et se terminera vers 16 h. Afin d'aider avec la planification, veuillez, SVP, remplir le sondage suivant : [formulaire de planification](https://docs.google.com/forms/d/e/1FAIpQLSd0TPZDnoZbTcHay44lrGla5njBJ1C_SSw31JkYZ_B5s0m7xg/viewform)
-
-Merci d’avance de votre participation. Votre contribution est importante pour nos cadets. 
 
 ## Absence
 
