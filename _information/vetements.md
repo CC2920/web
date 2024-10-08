@@ -17,7 +17,7 @@ Prix : 25.00 $
 
 ### Chandail conton-ouaté
 -  Prix, avec nom de famille : 45.00 $
--  Prix, sans nom de famnille : 40.00 $
+-  Prix, sans nom de famille : 40.00 $
 
  ![Chandail conton-ouaté]({{ site.baseurl }}/docs/accessoires/chandail-coton-ouate-rouge.jpg)
 
