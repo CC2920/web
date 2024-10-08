@@ -5,14 +5,20 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 11 octobre 2024
-- **Tenue** : Tenue de sport
+- **Date** : 11 octobre 2024 de 18h30 à 21h15
+- **Tenue** : Tenue de sport avec le gilet du corps de cadets
 - **Lieu** : 52 St-Rosaire
  
 ## Activités à venir
 
+- **7 octobre** : Pratique de tir
+- **9 octobre** : Pratique d'exercice militairre
 - **12 et 13 octobre** ; Fouraid pour les cadets qui ont été sélectionné
+- **13 octobre** Pas de pratique de musique
+- **14 octobre** Pas de pratique de tir
 - **15 octobre** : Date limite pour remettre la lettre pour le conseil de sélection*(voir conseil de sélection plus bas pour les détails)
+- **16 octobre** : Pratique d'exercice militaire
+- **17 octobre** Soirée d'instruction
 - **19 octobre** : Collecte de bouteille 
 - **25 octobre** : Inauguration du musée du CC 2920 et parade de changement du cadet-commandant
 - **26 et 27 octobre** Campagne du Coquelicot
@@ -27,9 +33,6 @@ La collecte débutera vers 9 h et se terminera vers 16 h. Afin d'aider avec la
 
 Merci d’avance de votre participation. Votre contribution est importante pour nos cadets. 
 
-## Validation annuelle
-
-Les cadets doivent rapporter le formulaire de vérification annuelle OBLIGATOIREMENT afin de pouvoir participer aux activités optionnelles. 
 
 ## Retour uniforme
 
@@ -41,15 +44,9 @@ Les cadets qui ont des pièces d'uniformes à échanger devront prendre un rende
 
 *Aucun échanges d'uniformes sans rendez-vous cette année.*
 
-## Dossier médical
-
-Tous les cadets doivent avoir rapporter les documents de confirmation que leur conditions médicales est valide afin de pouvoir participer aux activités qui se dérouleront à l'extérieur du corps de cadets. Certains documents médicaux doivent être envoyés par le corps de cadets à la section médicale du Quartier Génerale de la région de l'Est (URSC(E)). 
-
-*Le cadets ne pourra pas participer au activités hors du vendredi soir tant que la condition médicale ne sera validée par la section médicale du Quartier Générale.*
-
 ## Tir
 
-- Qui : UNIQUEMENT pour les cadets dont la validation annuelle et le médicale est valide 
+- Qui : Pour tous les cadets intéressés 
 - Heure : de 18h00 à 20h30
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
@@ -57,7 +54,7 @@ Tous les cadets doivent avoir rapporter les documents de confirmation que leur c
 
 ## Exercice militaire
 
-- Qui : UNIQUEMENT pour les cadets inscrits dont la validation annuelle et le médicale est valide 
+- Qui :  Pour tous les cadets intéressés 
 - Heure : de 18h30 à 20h00
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
