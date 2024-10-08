@@ -17,7 +17,7 @@ layout: "messages"
 - **25 octobre** : Inauguration du musée du CC 2920 et parade de changement du cadet-commandant
 - **26 et 27 octobre** Campagne du Coquelicot
 
-<h2 style="font-color: red; ">Collecte de bouteilles</h2>
+<h2 style="color: red; ">Collecte de bouteilles</h2>
 
 La collecte de canettes et bouteilles vides aura lieu le **samedi 19 octobre**. Cette activité du comité de soutien est importante pour amasser des fonds, afin d’offrir des activités divertissantes aux cadets et cadettes. 
 
