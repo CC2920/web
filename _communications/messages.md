@@ -5,9 +5,9 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 4 octobre 2024, Pas de soirée d'instruction car nous partons pour l'exercice aventurier. Départ : 18h30, et Retour : dimanche 15h30.
-- **Tenue** : Civile ; [tenue d'instruction](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
-- **Lieu** : Départ du 52 St-Rosaire et retour au même endroit dimanche
+- **Date** : 11 octobre 2024
+- **Tenue** : de sport
+- **Lieu** : 52 St-Rosaire
  
 ## Activités à venir
 
@@ -51,7 +51,7 @@ Tous les cadets doivent avoir rapporter les documents de confirmation que leur c
 
 - Qui : UNIQUEMENT pour les cadets dont la validation annuelle et le médicale est valide 
 - Heure : de 18h00 à 20h30
-- Lieu : Centre Nouvel-Horizon (100 rue labbe, Gatineau) 
+- Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
 
@@ -59,7 +59,7 @@ Tous les cadets doivent avoir rapporter les documents de confirmation que leur c
 
 - Qui : UNIQUEMENT pour les cadets inscrits dont la validation annuelle et le médicale est valide 
 - Heure : de 18h30 à 20h00
-- Lieu : Centre Nouvel-Horizon (100 rue labbe, Gatineau) 
+- Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
 
