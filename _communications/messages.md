@@ -6,7 +6,7 @@ layout: "messages"
 ## Soirée d'instruction  
 
 - **Date** : 11 octobre 2024
-- **Tenue** : de sport
+- **Tenue** : Tenue de sport
 - **Lieu** : 52 St-Rosaire
  
 ## Activités à venir
