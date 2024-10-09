@@ -12,14 +12,14 @@ layout: "messages"
 ## Activités à venir
 
 - **7 octobre** : Pratique de tir
-- **9 octobre** : Pratique d'exercice militairre
-- **12 et 13 octobre** ; Fouraid pour les cadets qui ont été sélectionné
-- **13 octobre** Pas de pratique de musique
-- **14 octobre** Pas de pratique de tir
+- **9 octobre** : Pratique d'exercice militaire
+- **12 et 13 octobre** : Fouraid pour les cadets qui ont été sélectionné
+- **13 octobre** : Pas de pratique de musique **(pratique annulée)**
+- **14 octobre** : Pas de pratique de tir **(pratique annulée)**
 - **15 octobre** : Date limite pour remettre la lettre pour le conseil de sélection*(voir conseil de sélection plus bas pour les détails)
 - **16 octobre** : Pratique d'exercice militaire
-- **17 octobre** Soirée d'instruction
-- **19 octobre** : Collecte de bouteille 
+- **17 octobre** : Soirée d'instruction
+- <span style="color: red">**19 octobre** : Collecte de bouteille</span>
 - **25 octobre** : Inauguration du musée du CC 2920 et parade de changement du cadet-commandant
 - **26 et 27 octobre** Campagne du Coquelicot
 
