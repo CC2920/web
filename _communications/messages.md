@@ -18,7 +18,7 @@ layout: "messages"
 - **14 octobre** : Pas de pratique de tir **(pratique annulée)**
 - **15 octobre** : Date limite pour remettre la lettre pour le conseil de sélection*(voir conseil de sélection plus bas pour les détails)
 - **16 octobre** : Pratique d'exercice militaire
-- **17 octobre** : Soirée d'instruction
+- **18 octobre** : Soirée d'instruction
 - <span style="color: red">**19 octobre** : Collecte de bouteille</span>
 - **25 octobre** : Inauguration du musée du CC 2920 et parade de changement du cadet-commandant
 - **26 et 27 octobre** Campagne du Coquelicot
