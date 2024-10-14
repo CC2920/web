@@ -38,16 +38,6 @@ Le repas du diner sera fournis.
 Merci d’avance de votre participation. Votre contribution est importante pour nos cadets. 
 
 
-## Retour uniforme
-
-Les cadets qui ne désirent pas revenir cette année doivent rapporter leur uniforme. L'approvisionnement sera ouvert le mercredi soir entre 18h00 et 20h00 pour récupérer les uniformes.
-
-## Habillement
-
-Les cadets qui ont des pièces d'uniformes à échanger devront prendre un rendez-vous avec l'approvisionnement ([en communiquant avec nous](https://cc2920.ca/information/comment-nous-rejoindre/#nos-coordonnées)) afin de pouvoir faire les échanges.
-
-*Aucun échanges d'uniformes sans rendez-vous cette année.*
-
 ## Conseil de sélection
 
 Les cadets possédant le grade d'adjudant-maitre qui veulent appliquer pour le poste d'adjudant-chef doivent soumettre une lettre de présentation expliquant leur interet pour ce poste pour le 15 octobre 18h00. 
@@ -86,9 +76,9 @@ Les lettres doivent être envoyé à l'adresse du CC2920 (<2920armee@cadets.gc.c
 
 - Qui : Tous les cadets doivent donner leur nom pour un des quarts de bénévolat pour l'une des deux fin de semaines
 - Heure : les quarts seront de 9h00 à 12h30 et de 12h30 à 16h00 le samedi et dimanche
-- Lieu : Les lieux précis seront confirmés lors de la soiré d'instruction du 18 octobre
+- Lieu : Les lieux précis seront confirmés lors de la soirée d'instruction du 18 octobre
 - Tenue : Tenue d'instruction pour les cadets du niveau vert et rouge et tenue de parade pour les niveaux argent et or avec médailles
-- Détails : Aportez-vous une bouteille d'eau
+- Détails : Apportez-vous une bouteille d'eau
 
 ## Absence
 
@@ -99,4 +89,14 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 Il est important d'apporter votre carte d'assurance maladie dès que vous en recevez une nouvelle pour que l'on mette à jour celle-ci dans votre dossier.
 
 Si vous vous avez des corrections à votre numéro de téléphone ou adresse, vous devez aviser le plus tôt possible l'officier d'administration. 
+
+## Retour uniforme
+
+Les cadets qui ne désirent pas revenir cette année doivent rapporter leur uniforme. L'approvisionnement sera ouvert le mercredi soir entre 18h00 et 20h00 pour récupérer les uniformes.
+
+## Habillement
+
+Les cadets qui ont des pièces d'uniformes à échanger doivent visiter l'approvisionnement le vendredi soir entre 18h00 et 18h30 avec la pièce d'uniforme à échanger.  L'officier d'approvisionnement regardera si la pièce est disponible immédiatement ou leur donnera un rendez-vous pour faire les échanges.
+
+*Aucun échanges d'uniformes sans rendez-vous cette année.*
 
