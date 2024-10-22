@@ -5,48 +5,25 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 18 octobre 2024 de 18h30 à 21h15
-- **Tenue** : Tenue d'instruction C5
-- **Lieu** : 52 St-Rosaire
+- **Date** : 20 octobre 2024 de 18h30 à 21h15
+- **Tenue Niveau Vert** : Tenue d'instruction C5
+- **Tenue Niveau Rouge** : Tenue d'instruction C5
+- **Tenue Niveau Argent** : Tenue d'instruction C5
+- **Tenue Niveau Or** : Tenue de cérémonie C1A
+- **Tenue Cadets séniors et position sur parade** : Tenue de cérémonie C1A
+- **Lieu** : 100 Rue Labaie
  
 ## Activités à venir
 
-- **13 octobre** : Pas de pratique de musique **(pratique annulée)**
-- **14 octobre** : Pas de pratique de tir **(pratique annulée)**
-- **15 octobre** : Date limite pour remettre la lettre pour le conseil de sélection (voir conseil de sélection plus bas pour les détails)
-- **16 octobre** : Pratique d'exercice militaire
-- **18 octobre** : Soirée d'instruction
-- **19 octobre** : Collecte de bouteilles (Activité de financement) (tous les cadets devraient être présents à cette journée)
-- **20 octobre** : Pratique de musique
-- **21 octobre** : Pratique de tir 
-- **25 octobre** : Inauguration du musée du CC 2920 et parade de changement du cadet-commandant
+- **21 octobre** : Pratique de tir
+- **23 octobre** : Pratique du peloton de précision
+- **25 octobre** : Parade de changement de cadet-commandant.  (Les parents sont invités à 19h45 au 100 Rue LaBaie dans la salle polyvalente)
 - **26 et 27 octobre ainsi que le 2 et 3 novembre** Campagne du Coquelicot
-
-## Collecte de bouteilles
-- Qui : Tous les cadets
-- Lieu de rassemblement : 52 St-Rosaire
-- Heure : 9h00 à 16h00
-- Tenue : Tenue d'instruction C5 avec tuque et gants
-- Détails : La collecte de canettes et bouteilles vides aura lieu le **samedi 19 octobre**. Cette activité du comité de soutien est importante pour amasser des fonds, afin d’offrir des activités divertissantes aux cadets et cadettes.
-  
-Pour que l’événement soit un succès, **nous avons besoin de la présence de nombreux parents, cadets, et cadettes**.  Cette journée permettra également de tisser des liens.
-
-La collecte débutera vers 9 h et se terminera vers 16 h. Afin d'aider avec la planification, veuillez, SVP, remplir le sondage suivant : [formulaire de planification](https://docs.google.com/forms/d/e/1FAIpQLSd0TPZDnoZbTcHay44lrGla5njBJ1C_SSw31JkYZ_B5s0m7xg/viewform)
-
-Le repas du diner sera fournis.
-
-Merci d’avance de votre participation. Votre contribution est importante pour nos cadets. 
-
-
-## Conseil de sélection
-
-Les cadets possédant le grade d'adjudant-maître qui veulent appliquer pour le poste d'adjudant-chef doivent soumettre une lettre de présentation expliquant leur interet pour ce poste pour le 15 octobre 18h00. 
-
-Les cadets possédant le grade d'adjudant qui veulent appliquer pour le poste d'adjudant-maître doivent soumettre une lettre de présentation expliquant leur interêt pour ce poste pour le 15 octobre 18h00.
-
-Les candidatures des personnes seront évaluées par un conseil de mérite et une entrevue aura lieu dans les jours suivants la fermeture des applications.
-
-Les lettres doivent être envoyées à l'adresse du CC2920 (<2920armee@cadets.gc.ca>) avec le sujet « mise en candidature ».
+- **27 octobre** : Pratique de musique
+- **28 octobre** : Pratique de tir 
+- **30 octobre** : Pratique du peloton d'exercice militaire
+- **1 novembre** : Soirée d'instruction déguisé pour l'Halloween
+- **10 novembre** : Parade d'armistice
 
 ## Exercice militaire
 
@@ -64,6 +41,14 @@ Les lettres doivent être envoyées à l'adresse du CC2920 (<2920armee@cadets.gc
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
 
+## Exercice militaire
+
+- Qui :  Pour tous les cadets intéressés 
+- Heure : de 18h30 à 20h00
+- Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
+- Tenue : Civile
+- Matériel requis : Bouteille d'eau
+
 ## Pratique de musisque
 
 - Qui : Pour tous les cadets musiciens 
@@ -76,7 +61,7 @@ Les lettres doivent être envoyées à l'adresse du CC2920 (<2920armee@cadets.gc
 
 - Qui : Tous les cadets doivent donner leur nom pour un des quarts de bénévolat pour l'une des deux fin de semaines
 - Heure : les quarts seront de 9h00 à 12h30 et de 12h30 à 16h00 le samedi et dimanche
-- Lieu : Les lieux précis seront confirmés lors de la soirée d'instruction du 18 octobre
+- Lieu : Les lieux précis seront confirmés lors de la soirée d'instruction du 25 octobre
 - Tenue : Tenue d'instruction pour les cadets du niveau vert et rouge et tenue de parade pour les niveaux argent et or avec médailles
 - Détails : Apportez-vous une bouteille d'eau
 
