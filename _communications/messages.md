@@ -5,7 +5,7 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 20 octobre 2024 de 18h30 à 21h15
+- **Date** : 25 octobre 2024 de 18h30 à 21h15
 - **Tenue Niveau Vert** : Tenue d'instruction C5
 - **Tenue Niveau Rouge** : Tenue d'instruction C5
 - **Tenue Niveau Argent** : Tenue d'instruction C5
