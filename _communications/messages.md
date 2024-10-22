@@ -11,7 +11,7 @@ layout: "messages"
 - **Tenue Niveau Argent** : Tenue d'instruction C5
 - **Tenue Niveau Or** : Tenue de cérémonie C1A
 - **Tenue Cadets séniors et position sur parade** : Tenue de cérémonie C1A
-- **Lieu** : 100 Rue Labaie
+- **Lieu** : [100 rue de la Baie](https://cc2920.ca/information/comment-nous-rejoindre/)
  
 ## Activités à venir
 
