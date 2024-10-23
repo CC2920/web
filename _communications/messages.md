@@ -8,7 +8,7 @@ layout: "messages"
 - **Date** : 25 octobre 2024 de 18h30 à 21h15
 - **Tenue Niveau Vert** : Tenue d'instruction C5
 - **Tenue Niveau Rouge** : Tenue d'instruction C5
-- **Tenue Niveau Argent** : Tenue de ceremonie C1A
+- **Tenue Niveau Argent** : Tenue de ceremonie C1A 
 - **Tenue Niveau Or** : Tenue de cérémonie C1A
 - **Tenue Cadets séniors et position sur parade** : Tenue de cérémonie C1A
 - **Lieu** : [100 rue de la Baie](https://cc2920.ca/information/comment-nous-rejoindre/)
