@@ -5,6 +5,10 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
+Ce vendredi aura lieu la parade du changement de cadet-commandant. Les parents sont invités à 19h45.
+
+Notez bien que la soirée aura lieu dans la salle polyvalente du Centre Nouvel-Horizon au 100, rue de la Baie, Gatineau. 
+
 - **Date** : 25 octobre 2024 de 18h30 à 21h15
 - **Tenue Niveau Vert** : Tenue d'instruction C5
 - **Tenue Niveau Rouge** : Tenue d'instruction C5
@@ -17,8 +21,8 @@ layout: "messages"
 
 - **21 octobre** : Pratique de tir
 - **23 octobre** : Pratique du peloton de précision
-- **25 octobre** : Parade de changement de cadet-commandant.  (Les parents sont invités à 19h45 au 100 Rue LaBaie dans la salle polyvalente)
-- **26 et 27 octobre ainsi que le 2 et 3 novembre** Campagne du Coquelicot
+- **25 octobre** : Parade de changement de cadet-commandant. (Les parents sont invités à 19h45 au 100 Rue LaBaie dans la salle polyvalente)
+- **26 et 27 octobre ainsi que le 2 et 3 novembre** : Campagne du Coquelicot
 - **27 octobre** : Pratique de musique
 - **28 octobre** : Pratique de tir 
 - **30 octobre** : Pratique du peloton d'exercice militaire
