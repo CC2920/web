@@ -53,7 +53,7 @@ Notez bien que la soirée aura lieu dans la salle polyvalente du Centre Nouvel-H
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
 
-## Pratique de musisque
+## Pratique de musique
 
 - Qui : Pour tous les cadets musiciens 
 - Heure : de 8h45 à 13:15
