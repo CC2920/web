@@ -29,7 +29,7 @@ Notez bien que la soirée aura lieu dans la salle polyvalente du Centre Nouvel-H
 - **1 novembre** : Soirée d'instruction déguisé pour l'Halloween
 - **10 novembre** : Parade d'armistice
 
-## Exercice militaire
+## Exercice militaire (peloton de précision)
 
 - Qui :  Pour tous les cadets intéressés 
 - Heure : de 18h30 à 20h00
