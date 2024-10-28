@@ -5,31 +5,31 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-Ce vendredi aura lieu la parade du changement de cadet-commandant. Les parents sont invités à 19h45.
+Ce vendredi sera une soirée d'Halloween.
 
-Notez bien que la soirée aura lieu dans la salle polyvalente du Centre Nouvel-Horizon au 100, rue de la Baie, Gatineau. 
-
-- **Date** : 25 octobre 2024 de 18h30 à 21h15
-- **Tenue Niveau Vert** : Tenue d'instruction C5
-- **Tenue Niveau Rouge** : Tenue d'instruction C5
-- **Tenue Niveau Argent** : Tenue de ceremonie C1A 
-- **Tenue Niveau Or** : Tenue de cérémonie C1A
-- **Tenue Cadets séniors et position sur parade** : Tenue de cérémonie C1A
-- **Lieu** : [100 rue de la Baie](https://cc2920.ca/information/comment-nous-rejoindre/)
+- **Date** : 1 novembre 2024 de 18h30 à 21h15
+- **Tenue Niveau Vert** : Déguisé
+- **Tenue Niveau Rouge** : Déguisé
+- **Tenue Niveau Argent** : Déguisé 
+- **Tenue Niveau Or** : Déguisé
+- **Tenue Cadets séniors et position sur parade** : Déguisé
+- **Lieu** : 52 St-Rosaire
+- **Note supplémentaires** :  Ne pas apportez vos instrument de musique cette semaine pour la soirée d'instruction
  
 ## Activités à venir
 
-- **21 octobre** : Pratique de tir
-- **23 octobre** : Pratique du peloton de précision
-- **25 octobre** : Parade de changement de cadet-commandant. (Les parents sont invités à 19h45 au 100 Rue LaBaie dans la salle polyvalente)
-- **26 et 27 octobre ainsi que le 2 et 3 novembre** : Campagne du Coquelicot
-- **27 octobre** : Pratique de musique
 - **28 octobre** : Pratique de tir 
 - **30 octobre** : Pratique du peloton d'exercice militaire
 - **1 novembre** : Soirée d'instruction déguisé pour l'Halloween
-- **10 novembre** : Parade d'armistice
+- **2 novembre** : Campagne du conquelicot
+- **3 novembre** : Campagne du coquelicot
+- **3 novembre** : Pratique de musique
+- **4 novrmbre** : Pratique de tir
+- **6 novembre** : Pratique du peloton de précision
+- **8 novembre** : Soirée d'instruction
+-**10 novembre** : Parade d'armistice
 
-## Exercice militaire
+## Exercice militaire (peloton de précision)
 
 - Qui :  Pour tous les cadets intéressés 
 - Heure : de 18h30 à 20h00
@@ -59,13 +59,13 @@ Notez bien que la soirée aura lieu dans la salle polyvalente du Centre Nouvel-H
 - Heure : de 8h45 à 13:15
 - Lieu : Manège militaire de Hull  
 - Tenue : Civile
-- Matériel requis : Instrument de musique, Partition, Bouteille d'eau et collation, 
+- Matériel requis : Instrument de musique, Partiti, Bouteille d'eau et collation, 
 
 ## Campagne du coquelicot
 
 - Qui : Tous les cadets doivent donner leur nom pour un des quarts de bénévolat pour l'une des deux fin de semaines
 - Heure : les quarts seront de 9h00 à 12h30 et de 12h30 à 16h00 le samedi et dimanche
-- Lieu : Les lieux précis seront confirmés lors de la soirée d'instruction du 25 octobre
+- Lieu : Les lieux précis seront confirmés lors de la soirée d'instruction
 - Tenue : Tenue d'instruction pour les cadets du niveau vert et rouge et tenue de parade pour les niveaux argent et or avec médailles
 - Détails : Apportez-vous une bouteille d'eau
 
