@@ -8,11 +8,12 @@ layout: "messages"
 Ce vendredi sera une soirée d'Halloween.
 
 - **Date** : 1 novembre 2024 de 18h30 à 21h15
-- **Tenue Niveau Vert** : Déguisé
-- **Tenue Niveau Rouge** : Déguisé
-- **Tenue Niveau Argent** : Déguisé 
-- **Tenue Niveau Or** : Déguisé
-- **Tenue Cadets séniors et position sur parade** : Déguisé
+- **Tenue** :
+  - **Niveau Vert** : Déguisé
+  - **Niveau Rouge** : Déguisé
+  - **Niveau Argent** : Déguisé 
+  - **Niveau Or** : Déguisé
+  - **Cadets séniors et position sur parade** : Déguisé
 - **Lieu** : 52 St-Rosaire
 - **Note supplémentaires** :  Ne pas apportez vos instrument de musique cette semaine pour la soirée d'instruction
  
@@ -27,7 +28,7 @@ Ce vendredi sera une soirée d'Halloween.
 - **4 novrmbre** : Pratique de tir
 - **6 novembre** : Pratique du peloton de précision
 - **8 novembre** : Soirée d'instruction
--**10 novembre** : Parade d'armistice
+- **10 novembre** : Parade d'armistice
 
 ## Exercice militaire (peloton de précision)
 
