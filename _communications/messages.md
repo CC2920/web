@@ -22,10 +22,9 @@ Ce vendredi sera une soirée d'Halloween.
 - **28 octobre** : Pratique de tir 
 - **30 octobre** : Pratique du peloton d'exercice militaire
 - **1 novembre** : Soirée d'instruction déguisé pour l'Halloween
-- **2 novembre** : Campagne du conquelicot
-- **3 novembre** : Campagne du coquelicot
+- **2 et 3 novembre** : Campagne du coquelicot
 - **3 novembre** : Pratique de musique
-- **4 novrmbre** : Pratique de tir
+- **4 novembre** : Pratique de tir
 - **6 novembre** : Pratique du peloton de précision
 - **8 novembre** : Soirée d'instruction
 - **10 novembre** : Parade d'armistice
@@ -42,14 +41,6 @@ Ce vendredi sera une soirée d'Halloween.
 
 - Qui : Pour tous les cadets intéressés 
 - Heure : de 18h00 à 20h30
-- Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
-- Tenue : Civile
-- Matériel requis : Bouteille d'eau
-
-## Exercice militaire
-
-- Qui :  Pour tous les cadets intéressés 
-- Heure : de 18h30 à 20h00
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
