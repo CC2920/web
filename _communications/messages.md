@@ -29,7 +29,7 @@ layout: "messages"
 ## Coton Ouaté 
 Tel que mentionné sur la parade du 1er novembre, c'est le temps de placer une commande pour un coton ouaté du 2920. C'est une commande spéciale donc si nous n’avons pas la quantité requise, l’argent vous sera retourné. Pour que votre commande soit valide, le comité du CC2920 doit avoir reçu ce bon de commande rempli et avoir reçu l’argent au plus tard le 15 novembre 2024 à 21 h, par transfert électronique au cciv2920@gmail.com ou en argent comptant à la cantine.
 
-Formulaire: https://forms.gle/6LafJ8eDWnH4ebUq7
+Formulaire: <https://forms.gle/6LafJ8eDWnH4ebUq7>
 
 Les chandails seront reçus entre le 25 novembre et le 13 décembre 2024.
 
