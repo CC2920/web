@@ -27,7 +27,8 @@ layout: "messages"
 - **13 novembre** : Pratique du peloton de précision
 
 ## Coton Ouaté 
-Tel que mentionné sur la parade du 1er novembre, c'est le temps de placer une commande pour un coton ouaté du 2920. C'est une commande spéciale donc si nous n’avons pas la quantité requise, l’argent vous sera retourné. Pour que votre commande soit valide, le comité du CC2920 doit avoir reçu ce bon de commande rempli et avoir reçu l’argent au plus tard le 15 novembre 2024 à 21 h, par transfert électronique au cciv2920@gmail.com ou en argent comptant à la cantine.
+
+Tel que mentionné sur la parade du 1er novembre, c'est le temps de placer une commande pour un coton ouaté du 2920. C'est une commande spéciale donc si nous n’avons pas la quantité requise, l’argent vous sera retourné. Pour que votre commande soit valide, le comité du CC2920 doit avoir reçu ce bon de commande rempli et avoir reçu l’argent au plus tard le 15 novembre 2024 à 21 h, par transfert électronique au <cciv2920@gmail.com> ou en argent comptant à la cantine.
 
 Formulaire: <https://forms.gle/6LafJ8eDWnH4ebUq7>
 
@@ -37,7 +38,7 @@ Les chandails seront reçus entre le 25 novembre et le 13 décembre 2024.
 
 Le comité de soutien sollicite les entreprises de la région pour contribuer des items, services ou certificats-cadeaux pour une vente aux enchères qui sera en lien avec le souper spaghetti du 22 février, 2025.
 
-La lettre ci-jointe offre plus de détails et nous vous invitons aussi à la partager avec des commerces et professionnels de votre réseau:  https://drive.google.com/file/d/1sLnRmR51RpRTdQG4ko8FUwWXg5BqMHjs/view?usp=sharing
+La lettre ci-jointe offre plus de détails et nous vous invitons aussi à la partager avec des commerces et professionnels de votre réseau:  <https://drive.google.com/file/d/1sLnRmR51RpRTdQG4ko8FUwWXg5BqMHjs/view?usp=sharing>
 
 Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoyez une note à <cciv2920@gmail.com> ou donnez un coup de fil à 873-354-8426.
 
@@ -64,14 +65,14 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 - Heure : de 8h45 à 12:00
 - Lieu : Manège militaire de Hull  
 - Tenue : Civile
-- Matériel requis : Instrument de musique, Partitions, Bouteille d'eau et collation, 
+- Matériel requis : Instrument de musique, partitions, bouteille d'eau et collation, 
 
 ## Parade d'armistice
 
 - Qui : Tous les cadets 
 - Heure : 13h00 à 15h00
 - Lieu : Légion 58 situé au 86 Rue De La Baie, Gatineau QC J8T3H7 
-- Tenue : Tenue d'instruction pour les cadets du niveau vert et rouge et tenue de parade pour les niveaux argent et or avec médailles, Manteaux, tuque et gants sont requis
+- Tenue : Tenue d'instruction pour les cadets du niveau vert et rouge et tenue de parade pour les niveaux argent et or avec médailles, manteaux, tuque et gants sont requis
 - Détails : Nous partirons de la légion pour se rendre au monument et reviendrons a la légion en parade
 
 ## Absence
