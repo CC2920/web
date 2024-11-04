@@ -24,7 +24,7 @@ layout: "messages"
 - **10 novembre** : Parade d'armistice
 - **10 novembre**: Pratique de musique
 - **11 novembre** : Pratique de tir
-- **13 novembre** : Pratique précision
+- **13 novembre** : Pratique du peloton de précision
 
 ## Exercice militaire (peloton de précision)
 
@@ -48,13 +48,13 @@ layout: "messages"
 - Heure : de 8h45 à 12:00
 - Lieu : Manège militaire de Hull  
 - Tenue : Civile
-- Matériel requis : Instrument de musique, Partiti, Bouteille d'eau et collation, 
+- Matériel requis : Instrument de musique, Partitions, Bouteille d'eau et collation, 
 
-## Parade d'armitisce
+## Parade d'armistice
 
 - Qui : Tous les cadets 
 - Heure : 13h00 à 15h00
-- Lieu : Légion situé au 58 86 Rue De La Baie, Gatineau QC J8T3H7 
+- Lieu : Légion 58 situé au 86 Rue De La Baie, Gatineau QC J8T3H7 
 - Tenue : Tenue d'instruction pour les cadets du niveau vert et rouge et tenue de parade pour les niveaux argent et or avec médailles, Manteaux, tuque et gants sont requis
 - Détails : Nous partirons de la légion pour se rendre au monument et reviendrons a la légion en parade
 
