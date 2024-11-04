@@ -5,34 +5,31 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-Ce vendredi sera une soirée d'Halloween.
-
-- **Date** : 1 novembre 2024 de 18h30 à 21h15
+- **Date** : 8 novembre 2024 de 18h30 à 21h15
 - **Tenue** :
-  - **Niveau Vert** : Déguisé
-  - **Niveau Rouge** : Déguisé
-  - **Niveau Argent** : Déguisé 
-  - **Niveau Or** : Déguisé
-  - **Cadets séniors et position sur parade** : Déguisé
+  - **Niveau Vert** : Tenue d'instruction  (C5)
+  - **Niveau Rouge** : Tenue d'instruction  (C5)
+  - **Niveau Argent** : Tenue d'instruction  (C5) 
+  - **Niveau Or** : Tenue d'instruction  (C5)
+  - **Cadets séniors et position sur parade** : Tenue d'instruction  (C5)
 - **Lieu** : 52 St-Rosaire
-- **Note supplémentaires** :  Ne pas apportez vos instrument de musique cette semaine pour la soirée d'instruction
- 
+- **Note supplémentaires** : Apportez vos instrument de musique
+
+   
 ## Activités à venir
 
-- **28 octobre** : Pratique de tir 
-- **30 octobre** : Pratique du peloton d'exercice militaire
-- **1 novembre** : Soirée d'instruction déguisé pour l'Halloween
-- **2 et 3 novembre** : Campagne du coquelicot
-- **3 novembre** : Pratique de musique
 - **4 novembre** : Pratique de tir
 - **6 novembre** : Pratique du peloton de précision
 - **8 novembre** : Soirée d'instruction
 - **10 novembre** : Parade d'armistice
+- **10 novembre**: Pratique de musique
+- **11 novembre** : Pratique de tir
+- **13 novembre** : Pratique précision
 
 ## Exercice militaire (peloton de précision)
 
 - Qui :  Pour tous les cadets intéressés 
-- Heure : de 18h30 à 20h00
+- Heure : de 18h30 à 20h30
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
@@ -48,18 +45,18 @@ Ce vendredi sera une soirée d'Halloween.
 ## Pratique de musique
 
 - Qui : Pour tous les cadets musiciens 
-- Heure : de 8h45 à 13:15
+- Heure : de 8h45 à 12:00
 - Lieu : Manège militaire de Hull  
 - Tenue : Civile
 - Matériel requis : Instrument de musique, Partiti, Bouteille d'eau et collation, 
 
-## Campagne du coquelicot
+## Parade d'armitisce
 
-- Qui : Tous les cadets doivent donner leur nom pour un des quarts de bénévolat pour l'une des deux fin de semaines
-- Heure : les quarts seront de 9h00 à 12h30 et de 12h30 à 16h00 le samedi et dimanche
-- Lieu : Les lieux précis seront confirmés lors de la soirée d'instruction
-- Tenue : Tenue d'instruction pour les cadets du niveau vert et rouge et tenue de parade pour les niveaux argent et or avec médailles
-- Détails : Apportez-vous une bouteille d'eau
+- Qui : Tous les cadets 
+- Heure : 13h00 à 15h00
+- Lieu : Légion situé au 58 86 Rue De La Baie, Gatineau QC J8T3H7 
+- Tenue : Tenue d'instruction pour les cadets du niveau vert et rouge et tenue de parade pour les niveaux argent et or avec médailles, Manteaux, tuque et gants sont requis
+- Détails : Nous partirons de la légion pour se rendre au monument et reviendrons a la légion en parade
 
 ## Absence
 
