@@ -26,9 +26,16 @@ layout: "messages"
 - **11 novembre** : Pratique de tir
 - **13 novembre** : Pratique du peloton de précision
 
+## Albums photos
+
+Les albums photos de la dernière parade et de l'inauguration du musée CC 2920 ont été ajoutés à la [gallerie de photos](https://cc2920.ca/prix/photos/) sous la section *Prix et mérites*.
+
+
 ## Coton Ouaté 
 
-Tel que mentionné sur la parade du 1er novembre, c'est le temps de placer une commande pour un coton ouaté du 2920. C'est une commande spéciale donc si nous n’avons pas la quantité requise, l’argent vous sera retourné. Pour que votre commande soit valide, le comité du CC2920 doit avoir reçu ce bon de commande rempli et avoir reçu l’argent au plus tard le 15 novembre 2024 à 21 h, par transfert électronique au <cciv2920@gmail.com> ou en argent comptant à la cantine.
+Tel que mentionné sur la parade du 1er novembre, c'est le temps de placer une commande pour un coton ouaté du 2920.
+![Chandail hoodie rouge du CC2920](https://cc2920.ca/docs/accessoires/chandail-coton-ouaté-hoodie-rouge.jpg)
+C'est une commande spéciale donc si nous n’avons pas la quantité requise, l’argent vous sera retourné. Pour que votre commande soit valide, le comité du CC2920 doit avoir reçu ce bon de commande rempli et avoir reçu l’argent au plus tard le 15 novembre 2024 à 21 h, par transfert électronique au <cciv2920@gmail.com> ou en argent comptant à la cantine.
 
 Formulaire: <https://forms.gle/6LafJ8eDWnH4ebUq7>
 
