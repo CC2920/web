@@ -11,7 +11,7 @@ layout: "messages"
   - **Niveau Rouge** : Tenue de sport avec gilet du corps de cadets 
   - **Niveau Argent** : Tenue de sport avec gilet du corps de cadets 
   - **Niveau Or** : Tenue de sport avec gilet du corps de cadets 
-  - **Cadets séniors et position sur parade** :  Tenue de sport avec gilet du corps de cadets 
+  - **Cadets séniors et position sur parade** : Tenue de sport avec gilet du corps de cadets 
 - **Lieu** : 52 St-Rosaire
 - **Note supplémentaires** : Ne pas apporter votre instrument de musique
 
@@ -21,26 +21,36 @@ layout: "messages"
 - **11 novembre** : Pratique de tir
 - **13 novembre** : Pratique du peloton de précision
 - **15 novembre** : Soirée de sport NECPC
-- **15 novembre** : Remise des billets pour le panier de noel
+- **15 novembre** : Remise des billets pour le panier de Noël
 - **16 novembre** : Clinique musicale (voir informations plus bas)
 - **23 novembre** : Atelier du programme de leadership avancé pour les cadets inscrits
 
 ## Coton Ouaté 
 
-Tel que mentionné sur la parade du 1er novembre, c'est le temps de placer une commande pour un coton ouaté du 2920. C'est une commande spéciale donc si nous n’avons pas la quantité requise, l’argent vous sera retourné. Pour que votre commande soit valide, le comité du CC2920 doit avoir reçu ce bon de commande rempli et avoir reçu l’argent au plus tard le 15 novembre 2024 à 21 h, par transfert électronique au <cciv2920@gmail.com> ou en argent comptant à la cantine.
+Tel que mentionné sur la parade du 1er novembre, c'est le temps de placer une commande pour un coton ouaté du 2920. 
+![Chandail coton ouaté rouge du CC2920](https://cc2920.ca/docs/accessoires/chandail-coton-ouate-rouge.jpg "Chandail coton ouaté rouge du CC2920")
+
+C'est une commande spéciale donc si nous n’avons pas la quantité requise, l’argent vous sera retourné. Pour que votre commande soit valide, le comité du CC2920 doit avoir reçu ce bon de commande rempli et avoir reçu l’argent au plus tard le 15 novembre 2024 à 21 h, par transfert électronique au <cciv2920@gmail.com> ou en argent comptant à la cantine.
 
 Formulaire: <https://forms.gle/6LafJ8eDWnH4ebUq7>
 
 Les chandails seront reçus entre le 25 novembre et le 13 décembre 2024.
 
-## Panier de Noel
+## Panier de Noël (activité de financement)
 
-Chaque cadet recevra 30 billets à vendre pour un tirage de panier-cadeau le vendredi 15 novembre. Les billets coûtent 0,99 $ chacun. Veuillez inscrire le nom de l’acheteur sur chaque billet, puis conserver le billet pour le remettre au comité de soutien. Envoyez une photo du billet à l'acheteur comme preuve d'achat. Les billets vendus doivent être remis à la table du comité les vendredis 22 et 29 novembre, 6 et 13 décembre. Tous les billets, vendus ou invendus, doivent être retournés au plus tard le 13 décembre. Le tirage aura lieu le samedi 14 décembre lors de la fête de Noël.
+Le 15 novembre, chaque cadet recevra 30 billets à vendre au coût de 0,99$ chacun pour un tirage de panier-cadeau. Veuillez inscrire le nom de l’acheteur sur chaque billet, puis conserver le billet pour le remettre au comité de soutien. Envoyez une photo du billet à l’acheteur comme preuve d’achat. 
+
+Les billets vendus doivent être remis à la cantine vendredis 22 et 29 novembre, 6 et 13 décembre. 
+Notez bien que tous les billets, vendus ou invendus, doivent être retournés au plus tard le 13 décembre. 
+
+Le tirage aura lieu le samedi 14 décembre lors de la fête de Noël.
 
 ## Vente aux enchères
 
 Le comité de soutien sollicite les entreprises de la région pour contribuer des items, services ou certificats-cadeaux pour une vente aux enchères qui sera en lien avec le souper spaghetti du 22 février, 2025.
+
 La lettre ci-jointe offre plus de détails et nous vous invitons aussi à la partager avec des commerces et professionnels de votre réseau:  <https://drive.google.com/file/d/1sLnRmR51RpRTdQG4ko8FUwWXg5BqMHjs/view?usp=sharing>
+
 Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoyez une note à <cciv2920@gmail.com> ou donnez un coup de fil à 873-354-8426.
 
 ## Clinique musicale
@@ -81,8 +91,6 @@ Veuillez apporter :
 - Lieu : Manège militaire de Hull  
 - Tenue : Civile
 - Matériel requis : Instrument de musique, partitions, bouteille d'eau et collation, 
-
-
 
 ## Absence
 
