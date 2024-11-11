@@ -25,6 +25,11 @@ layout: "messages"
 - **16 novembre** : Clinique musicale (voir informations plus bas)
 - **23 novembre** : Atelier du programme de leadership avancé pour les cadets inscrits
 
+## Albums photos
+
+Les albums photos de la dernière parade et de l'inauguration du musée CC 2920 ont été ajoutés à la [gallerie de photos](https://cc2920.ca/prix/photos/) sous la section *Prix et mérites*.
+
+
 ## Coton Ouaté 
 
 Tel que mentionné sur la parade du 1er novembre, c'est le temps de placer une commande pour un coton ouaté du 2920. 
