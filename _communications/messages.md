@@ -17,7 +17,7 @@ layout: "messages"
 
    
 ## Activités à venir
-
+ 
 - **11 novembre** : Pratique de tir
 - **13 novembre** : Pratique du peloton de précision
 - **15 novembre** : Soirée de sport NECPC
