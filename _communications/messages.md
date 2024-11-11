@@ -5,26 +5,26 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 8 novembre 2024 de 18h30 à 21h15
+- **Date** : 15 novembre 2024 de 18h30 à 21h15
 - **Tenue** :
-  - **Niveau Vert** : Tenue d'instruction  (C5)
-  - **Niveau Rouge** : Tenue d'instruction  (C5)
-  - **Niveau Argent** : Tenue d'instruction  (C5) 
-  - **Niveau Or** : Tenue d'instruction  (C5)
-  - **Cadets séniors et position sur parade** : Tenue d'instruction  (C5)
+  - **Niveau Vert** : Tenue de sport avec gilet du corps de cadets 
+  - **Niveau Rouge** : Tenue de sport avec gilet du corps de cadets 
+  - **Niveau Argent** : Tenue de sport avec gilet du corps de cadets 
+  - **Niveau Or** : Tenue de sport avec gilet du corps de cadets 
+  - **Cadets séniors et position sur parade** :  Tenue de sport avec gilet du corps de cadets 
 - **Lieu** : 52 St-Rosaire
-- **Note supplémentaires** : Apportez vos instrument de musique
+- **Note supplémentaires** : Ne pas apporter votre instrument de musique
 
    
 ## Activités à venir
 
-- **4 novembre** : Pratique de tir
-- **6 novembre** : Pratique du peloton de précision
-- **8 novembre** : Soirée d'instruction
-- **10 novembre** : Parade d'armistice
-- **10 novembre**: Pratique de musique
+- **10 novembre** : Pratique de musique
 - **11 novembre** : Pratique de tir
 - **13 novembre** : Pratique du peloton de précision
+- **15 novembre** : Soirée de sport NECPC
+- **15 novembre** : Remise des billets pour le panier de noel
+- **16 novembre** : Clinique musicale (voir informations plus bas)
+- **23 novembre** : Atelier du programme de leadership avancé pour les cadets inscrits
 
 ## Coton Ouaté 
 
@@ -34,22 +34,32 @@ Formulaire: <https://forms.gle/6LafJ8eDWnH4ebUq7>
 
 Les chandails seront reçus entre le 25 novembre et le 13 décembre 2024.
 
+## Panier de Noel
+
+Chaque cadet recevra 30 billets à vendre pour un tirage de panier-cadeau le vendredi 15 novembre. Les billets coûtent 0,99 $ chacun. Veuillez inscrire le nom de l’acheteur sur chaque billet, puis conserver le billet pour le remettre au comité de soutien. Envoyez une photo du billet à l'acheteur comme preuve d'achat. Les billets vendus doivent être remis à la table du comité les vendredis 22 et 29 novembre, 6 et 13 décembre. Tous les billets, vendus ou invendus, doivent être retournés au plus tard le 13 décembre. Le tirage aura lieu le samedi 14 décembre lors de la fête de Noël.
+
 ## Vente aux enchères
 
 Le comité de soutien sollicite les entreprises de la région pour contribuer des items, services ou certificats-cadeaux pour une vente aux enchères qui sera en lien avec le souper spaghetti du 22 février, 2025.
-
 La lettre ci-jointe offre plus de détails et nous vous invitons aussi à la partager avec des commerces et professionnels de votre réseau:  <https://drive.google.com/file/d/1sLnRmR51RpRTdQG4ko8FUwWXg5BqMHjs/view?usp=sharing>
-
 Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoyez une note à <cciv2920@gmail.com> ou donnez un coup de fil à 873-354-8426.
 
+## Clinique musicale
 
-## Exercice militaire (peloton de précision)
+La clinique musicale de cette année, une formation enrichissante et spécialisée en musique, aura lieu ce samedi 16 novembre 2024 pour les cadets musiciens ayant un dossier médical valide en date du 3 novembre. 
+L'événement aura lieu de 9h00 à 16h30, à l'école secondaire Hillcrest au 1900 Dauphin Rd, Ottawa, ON K1G 2L7. Les cadets doivent se rendre de leurs propres moyens.
 
-- Qui :  Pour tous les cadets intéressés 
-- Heure : de 18h30 à 20h30
-- Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
-- Tenue : Civile
-- Matériel requis : Bouteille d'eau
+Aucun repas ne sera fourni sur place, les cadets doivent apporter leur repas pour le dîner. Des micro-ondes seront disponibles et une cantine (payante) sera sur place pour des collations.
+La tenue est le C3 pour tous ceux qui l'ont, sinon le C5 pour les autres.
+
+Veuillez apporter : 
+ - Carte assurance-maladie valide
+ - Instrument de musique (à l'exception des percussionnistes : apportez votre paire de baguettes de caisse-claire)
+ - Dîner et collations
+ - Bouteille d'eau
+ - Médicaments le cas échéant
+ clinique musicale de cette année
+
 
 ## Tir
 
@@ -59,6 +69,14 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
 
+## Exercice militaire (peloton de précision)
+
+- Qui :  Pour tous les cadets intéressés 
+- Heure : de 18h30 à 20h30
+- Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
+- Tenue : Civile
+- Matériel requis : Bouteille d'eau
+  
 ## Pratique de musique
 
 - Qui : Pour tous les cadets musiciens 
@@ -67,13 +85,7 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 - Tenue : Civile
 - Matériel requis : Instrument de musique, partitions, bouteille d'eau et collation, 
 
-## Parade d'armistice
 
-- Qui : Tous les cadets 
-- Heure : 13h00 à 15h00
-- Lieu : Légion 58 situé au 86 Rue De La Baie, Gatineau QC J8T3H7 
-- Tenue : Tenue d'instruction pour les cadets du niveau vert et rouge et tenue de parade pour les niveaux argent et or avec médailles, manteaux, tuque et gants sont requis
-- Détails : Nous partirons de la légion pour se rendre au monument et reviendrons a la légion en parade
 
 ## Absence
 
