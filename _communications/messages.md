@@ -57,8 +57,6 @@ Veuillez apporter :
  - Dîner et collations
  - Bouteille d'eau
  - Médicaments le cas échéant
- clinique musicale de cette année
-
 
 ## Tir
 
