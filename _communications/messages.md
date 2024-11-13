@@ -22,6 +22,7 @@ layout: "messages"
 - **13 novembre** : Pratique du peloton de précision
 - **15 novembre** : Soirée de sport NECPC
 - **15 novembre** : Remise des billets pour le panier de Noël
+- **16 novembre** : Pratique de Biathlon
 - **16 novembre** : Clinique musicale (voir informations plus bas)
 - **23 novembre** : Atelier du programme de leadership avancé pour les cadets inscrits
 
@@ -88,7 +89,15 @@ Veuillez apporter :
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
-  
+
+## Pratique de biathlon
+
+- Qui :  Pour tous les cadets intéressés 
+- Heure : de 9h30 à 12h00
+- Lieu : 52 St-Rosaire 
+- Tenue : Civile pour faire du sport a l'extérieur
+- Matériel requis : Bouteille d'eau et collation
+
 ## Pratique de musique
 
 - Qui : Pour tous les cadets musiciens 
