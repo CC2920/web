@@ -5,26 +5,26 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 15 novembre 2024 de 18h30 à 21h15
+- **Date** : 22 novembre 2024 de 18h30 à 21h15
 - **Tenue** :
-  - **Niveau Vert** : Tenue de sport avec gilet du corps de cadets 
-  - **Niveau Rouge** : Tenue de sport avec gilet du corps de cadets 
-  - **Niveau Argent** : Tenue de sport avec gilet du corps de cadets 
-  - **Niveau Or** : Tenue de sport avec gilet du corps de cadets 
-  - **Cadets séniors et position sur parade** : Tenue de sport avec gilet du corps de cadets 
+  - **Niveau Vert** : Tenue d'instruction (C5) 
+  - **Niveau Rouge** : Tenue d'instruction (C5)  
+  - **Niveau Argent** : Tenue d'instruction (C5) 
+  - **Niveau Or** : TTenue d'instruction (C5) 
+  - **Cadets séniors et position sur parade** : Tenue d'instruction (C5) 
 - **Lieu** : 52 St-Rosaire
-- **Note supplémentaires** : Ne pas apporter votre instrument de musique
+- **Note supplémentaires** : Apportez votre instrument de musique
 
    
 ## Activités à venir
  
-- **11 novembre** : Pratique de tir
-- **13 novembre** : Pratique du peloton de précision
-- **15 novembre** : Soirée de sport NECPC
-- **15 novembre** : Remise des billets pour le panier de Noël
-- **16 novembre** : Pratique de Biathlon
-- **16 novembre** : Clinique musicale (voir informations plus bas)
+- **18 novembre** : Pratique de tir
+- **20 novembre** : Pratique du peloton de précision
+- **22 novembre** : Soirée d'instruction
+- **22 novembre** : Remise des billets pour le panier de Noël et retour des billets vendu
+- **23 novembre** : Pratique de Biathlon
 - **23 novembre** : Atelier du programme de leadership avancé pour les cadets inscrits
+- **24 novembre** : Pratique de musique
 
 ## Albums photos
 
@@ -32,13 +32,6 @@ Les albums photos de la dernière parade et de l'inauguration du musée CC 2920 
 
 
 ## Coton Ouaté 
-
-Tel que mentionné sur la parade du 1er novembre, c'est le temps de placer une commande pour un coton ouaté du 2920. 
-![Chandail coton ouaté rouge du CC2920](https://cc2920.ca/docs/accessoires/chandail-coton-ouate-rouge.jpg "Chandail coton ouaté rouge du CC2920")
-
-C'est une commande spéciale donc si nous n’avons pas la quantité requise, l’argent vous sera retourné. Pour que votre commande soit valide, le comité du CC2920 doit avoir reçu ce bon de commande rempli et avoir reçu l’argent au plus tard le 15 novembre 2024 à 21 h, par transfert électronique au <cciv2920@gmail.com> ou en argent comptant à la cantine.
-
-Formulaire: <https://forms.gle/6LafJ8eDWnH4ebUq7>
 
 Les chandails seront reçus entre le 25 novembre et le 13 décembre 2024.
 
@@ -58,21 +51,6 @@ Le comité de soutien sollicite les entreprises de la région pour contribuer de
 La lettre ci-jointe offre plus de détails et nous vous invitons aussi à la partager avec des commerces et professionnels de votre réseau:  <https://drive.google.com/file/d/1sLnRmR51RpRTdQG4ko8FUwWXg5BqMHjs/view?usp=sharing>
 
 Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoyez une note à <cciv2920@gmail.com> ou donnez un coup de fil à 873-354-8426.
-
-## Clinique musicale
-
-La clinique musicale de cette année, une formation enrichissante et spécialisée en musique, aura lieu ce samedi 16 novembre 2024 pour les cadets musiciens ayant un dossier médical valide en date du 3 novembre. 
-L'événement aura lieu de 9h00 à 16h30, à l'école secondaire Hillcrest au 1900 Dauphin Rd, Ottawa, ON K1G 2L7. Les cadets doivent se rendre de leurs propres moyens.
-
-Aucun repas ne sera fourni sur place, les cadets doivent apporter leur repas pour le dîner. Des micro-ondes seront disponibles et une cantine (payante) sera sur place pour des collations.
-La tenue est le C3 pour tous ceux qui l'ont, sinon le C5 pour les autres.
-
-Veuillez apporter : 
- - Carte assurance-maladie valide
- - Instrument de musique (à l'exception des percussionnistes : apportez votre paire de baguettes de caisse-claire)
- - Dîner et collations
- - Bouteille d'eau
- - Médicaments le cas échéant
 
 ## Tir
 
