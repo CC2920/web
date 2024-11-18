@@ -25,6 +25,9 @@ layout: "messages"
 - **23 novembre** : Pratique de Biathlon
 - **23 novembre** : Atelier du programme de leadership avancé pour les cadets inscrits
 - **24 novembre** : Pratique de musique
+- **24 novenbre** : Guignolé
+- **30 novembre** : Formation de mise a niveau pour les cadets du programme accéléré
+- 
 
 ## Albums photos
 
@@ -52,6 +55,14 @@ La lettre ci-jointe offre plus de détails et nous vous invitons aussi à la par
 
 Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoyez une note à <cciv2920@gmail.com> ou donnez un coup de fil à 873-354-8426.
 
+## Guignolé
+- Qui : Pour tous les cadets
+- Heure : de 12h00 à 16h00
+- Lieu : 52 St-Rosaire 
+- Tenue : Civile
+- Matériel requis : Bouteille d'eau,  
+- Informations supplémentaires : Nous allons avoir besoin de parents pour nous aider a déplacer les cadets sur les 30 routes que nous avons a couvrir.  Les cadets doivent distribuer les envelloppes.
+  
 ## Tir
 
 - Qui : Pour tous les cadets intéressés 
