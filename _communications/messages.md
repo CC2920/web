@@ -27,7 +27,7 @@ layout: "messages"
 - **24 novembre** : Pratique de musique
 - **24 novenbre** : Guignolé
 - **30 novembre** : Formation de mise a niveau pour les cadets du programme accéléré
-- 
+
 
 ## Albums photos
 
@@ -61,10 +61,16 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 - Lieu : 52 St-Rosaire 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau,  
-- Informations supplémentaires : Nous allons avoir besoin de parents pour nous aider a déplacer les cadets sur les 30 routes que nous avons a couvrir.  Les cadets doivent distribuer les envelloppes.
+- Informations supplémentaires : Nous allons avoir besoin de parents pour nous aider à déplacer les cadets sur les 30 routes que nous avons à couvrir.  Distributions d'envelloppes pour inviter les gens a faire leur dons.
   
-## Tir
+## Formation de mise à niveau
+- Qui : Pour tous les cadets qui doivent faire les cours de mises à niveau  (Nous confirmerons les noms des cadets le 22 novembre avec ceux-ci)
+- Heure : de 9h00 à 15h00
+- Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
+- Tenue : Civile
+- Matériel requis : Bouteille d'eau, lunch
 
+## Tir
 - Qui : Pour tous les cadets intéressés 
 - Heure : de 18h00 à 20h30
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
