@@ -184,3 +184,4 @@ title: "Galerie de photos"
 #### 2024-2025
 * [Ouverture officielle du musée CC2920 - octobre 2024](https://photos.app.goo.gl/tbPFGDXRaEzdbocZ6)
 * [Parade de changement de cadet-commandant - octobre 2024](https://photos.app.goo.gl/SbGKhYeT2VyUXGPQ6)
+* [Parade du Jour du Souvenir - novembre 2024](https://photos.app.goo.gl/YudUy5S9i3g9tjQVA)
