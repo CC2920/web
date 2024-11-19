@@ -10,7 +10,7 @@ layout: "messages"
   - **Niveau Vert** : Tenue d'instruction (C5) 
   - **Niveau Rouge** : Tenue d'instruction (C5)  
   - **Niveau Argent** : Tenue d'instruction (C5) 
-  - **Niveau Or** : TTenue d'instruction (C5) 
+  - **Niveau Or** : Tenue d'instruction (C5) 
   - **Cadets séniors et position sur parade** : Tenue d'instruction (C5) 
 - **Lieu** : 52 St-Rosaire
 - **Note supplémentaires** : Apportez votre instrument de musique
@@ -58,7 +58,7 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 - Lieu : 52 St-Rosaire 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
-- Informations supplémentaires : Nous allons avoir besoin de parents pour nous aider à déplacer les cadets sur les 30 routes que nous avons à couvrir.  Distributions d'envelloppes pour inviter les gens a faire leur dons.
+- Informations supplémentaires : Nous allons avoir besoin de parents pour nous aider à déplacer les cadets sur les 30 routes que nous avons à couvrir.  Distributions d'enveloppes pour inviter les gens a faire leur dons.
   
 ## Formation de mise à niveau
 - Qui : Pour tous les cadets qui doivent faire les cours de mises à niveau (Nous confirmerons les noms des cadets le 22 novembre avec ceux-ci)
