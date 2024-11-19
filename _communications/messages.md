@@ -31,16 +31,13 @@ layout: "messages"
 
 ## Albums photos
 
-Les albums photos de la dernière parade et de l'inauguration du musée CC 2920 ont été ajoutés à la [gallerie de photos](https://cc2920.ca/prix/photos/) sous la section *Prix et mérites*.
-
+L’album photos de la parade du Jour du Souvenir a été ajouté à la [gallerie de photos](https://cc2920.ca/prix/photos/) sous la section *Prix et mérites*.
 
 ## Coton Ouaté 
 
 Les chandails seront reçus entre le 25 novembre et le 13 décembre 2024.
 
 ## Panier de Noël (activité de financement)
-
-Le 15 novembre, chaque cadet recevra 30 billets à vendre au coût de 0,99$ chacun pour un tirage de panier-cadeau. Veuillez inscrire le nom de l’acheteur sur chaque billet, puis conserver le billet pour le remettre au comité de soutien. Envoyez une photo du billet à l’acheteur comme preuve d’achat. 
 
 Les billets vendus doivent être remis à la cantine vendredis 22 et 29 novembre, 6 et 13 décembre. 
 Notez bien que tous les billets, vendus ou invendus, doivent être retournés au plus tard le 13 décembre. 
@@ -57,22 +54,22 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 
 ## Guignolé
 - Qui : Pour tous les cadets
-- Heure : de 12h00 à 16h00
+- Heure : de 12h00 à 16h00, le 24 novembre
 - Lieu : 52 St-Rosaire 
 - Tenue : Civile
-- Matériel requis : Bouteille d'eau,  
+- Matériel requis : Bouteille d'eau
 - Informations supplémentaires : Nous allons avoir besoin de parents pour nous aider à déplacer les cadets sur les 30 routes que nous avons à couvrir.  Distributions d'envelloppes pour inviter les gens a faire leur dons.
   
 ## Formation de mise à niveau
-- Qui : Pour tous les cadets qui doivent faire les cours de mises à niveau  (Nous confirmerons les noms des cadets le 22 novembre avec ceux-ci)
-- Heure : de 9h00 à 15h00
+- Qui : Pour tous les cadets qui doivent faire les cours de mises à niveau (Nous confirmerons les noms des cadets le 22 novembre avec ceux-ci)
+- Heure : de 9h00 à 15h00, le 30 novembre
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau, lunch
 
 ## Tir
 - Qui : Pour tous les cadets intéressés 
-- Heure : de 18h00 à 20h30
+- Heure : de 18h00 à 20h30, lundi soir
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
@@ -80,7 +77,7 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 ## Exercice militaire (peloton de précision)
 
 - Qui :  Pour tous les cadets intéressés 
-- Heure : de 18h30 à 20h30
+- Heure : de 18h30 à 20h30, mercredi soir
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
@@ -88,7 +85,7 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 ## Pratique de biathlon
 
 - Qui :  Pour tous les cadets intéressés 
-- Heure : de 9h30 à 12h00
+- Heure : de 9h30 à 12h00, le 23 novembre
 - Lieu : 52 St-Rosaire 
 - Tenue : Civile pour faire du sport a l'extérieur
 - Matériel requis : Bouteille d'eau et collation
@@ -96,10 +93,10 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 ## Pratique de musique
 
 - Qui : Pour tous les cadets musiciens 
-- Heure : de 8h45 à 12:00
+- Heure : de 8h45 à 12:00, dimanche matin
 - Lieu : Manège militaire de Hull  
 - Tenue : Civile
-- Matériel requis : Instrument de musique, partitions, bouteille d'eau et collation, 
+- Matériel requis : Instrument de musique, partitions, bouteille d'eau et collation
 
 ## Absence
 
