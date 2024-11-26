@@ -5,7 +5,7 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 22 novembre 2024 de 18h30 à 21h15
+- **Date** : 29 novembre 2024 de 18h30 à 21h15
 - **Tenue** :
   - **Niveau Vert** : Tenue d'instruction (C5) 
   - **Niveau Rouge** : Tenue d'instruction (C5)  
@@ -18,16 +18,19 @@ layout: "messages"
    
 ## Activités à venir
  
-- **18 novembre** : Pratique de tir
-- **20 novembre** : Pratique du peloton de précision
-- **22 novembre** : Soirée d'instruction
-- **22 novembre** : Remise des billets pour le panier de Noël et retour des billets vendu
-- **23 novembre** : Pratique de Biathlon
-- **23 novembre** : Atelier du programme de leadership avancé pour les cadets inscrits
-- **24 novembre** : Pratique de musique
-- **24 novenbre** : Guignolé
-- **30 novembre** : Formation de mise a niveau pour les cadets du programme accéléré
-
+- **25 novenbre** : Pratique de tir
+- **27 novembre** : Pratique du peloton de précision
+- **29 novembre** : Remise des billets pour le panier de Noël et retour des billets vendu et possible d'en obtenir de plus
+- **30 novembre** : Pratique de biathlon
+- **30 novembre** : Formation de mise a niveau pour les cadets du programme accéléré et tir de 13h00 a 15h00 pour les cadets qui n'ont pas encore fait de tir cette année. 
+- **1 décembre** : Pratique de musique
+- **2 décembre** : Pratique de tir
+- **4 novembre** : Pratique du peloton de précision
+- **6 décembre** : Soirée d'instruction et parade du commandant
+- **6 décembre** : Remise des billets pour le panier de Noël et retour des billets vendu
+- **13 décembre** : Soirée d'instruction
+- **13 décembre**: Date limite pour rapporter les billets pour le panier de Noël vendus ou invendus
+- **14 décembre** : Soirée de Noël
 
 ## Albums photos
 
@@ -52,16 +55,9 @@ La lettre ci-jointe offre plus de détails et nous vous invitons aussi à la par
 
 Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoyez une note à <cciv2920@gmail.com> ou donnez un coup de fil à 873-354-8426.
 
-## Guignolé
-- Qui : Pour tous les cadets
-- Heure : de 12h00 à 16h00, le 24 novembre
-- Lieu : 52 St-Rosaire 
-- Tenue : Civile
-- Matériel requis : Bouteille d'eau
-- Informations supplémentaires : Nous allons avoir besoin de parents pour nous aider à déplacer les cadets sur les 30 routes que nous avons à couvrir.  Distributions d'enveloppes pour inviter les gens a faire leur dons.
-  
+ 
 ## Formation de mise à niveau
-- Qui : Pour tous les cadets qui doivent faire les cours de mises à niveau (Nous confirmerons les noms des cadets le 22 novembre avec ceux-ci)
+- Qui : Pour tous les cadets qui doivent faire les cours de mises à niveau 
 - Heure : de 9h00 à 15h00, le 30 novembre
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
@@ -86,7 +82,7 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 
 - Qui :  Pour tous les cadets intéressés 
 - Heure : de 9h30 à 12h00, le 23 novembre
-- Lieu : 52 St-Rosaire 
+- Lieu : 110 La Baie 
 - Tenue : Civile pour faire du sport a l'extérieur
 - Matériel requis : Bouteille d'eau et collation
 
