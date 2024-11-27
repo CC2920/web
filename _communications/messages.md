@@ -20,21 +20,17 @@ layout: "messages"
  
 - **25 novenbre** : Pratique de tir
 - **27 novembre** : Pratique du peloton de précision
-- **29 novembre** : Remise des billets pour le panier de Noël et retour des billets vendu et possible d'en obtenir de plus
+- **29 novembre** : Remise des billets pour le panier de Noël et retour des billets vendus avec possibilité d'en obtenir plus
 - **30 novembre** : Pratique de biathlon
-- **30 novembre** : Formation de mise a niveau pour les cadets du programme accéléré et tir de 13h00 a 15h00 pour les cadets qui n'ont pas encore fait de tir cette année. 
+- **30 novembre** : Formation de mise à niveau pour les cadets du programme accéléré et tir de 13h00 à 15h00 pour les cadets qui n'ont pas encore fait de tir cette année. 
 - **1 décembre** : Pratique de musique
 - **2 décembre** : Pratique de tir
 - **4 novembre** : Pratique du peloton de précision
 - **6 décembre** : Soirée d'instruction et parade du commandant
-- **6 décembre** : Remise des billets pour le panier de Noël et retour des billets vendu
+- **6 décembre** : Remise des billets pour le panier de Noël et retour des billets vendus
 - **13 décembre** : Soirée d'instruction
 - **13 décembre**: Date limite pour rapporter les billets pour le panier de Noël vendus ou invendus
 - **14 décembre** : Soirée de Noël
-
-## Albums photos
-
-L’album photos de la parade du Jour du Souvenir a été ajouté à la [gallerie de photos](https://cc2920.ca/prix/photos/) sous la section *Prix et mérites*.
 
 ## Coton Ouaté 
 
@@ -81,7 +77,7 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 ## Pratique de biathlon
 
 - Qui :  Pour tous les cadets intéressés 
-- Heure : de 9h30 à 12h00, le 23 novembre
+- Heure : de 9h30 à 12h00, samedi matin
 - Lieu : 110 La Baie 
 - Tenue : Civile pour faire du sport a l'extérieur
 - Matériel requis : Bouteille d'eau et collation
