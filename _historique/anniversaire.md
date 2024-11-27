@@ -8,7 +8,7 @@ tags:
 
 <div class="row">
     <div class="columns small-8 medium-9 large-9">
-        <p>Le 1er décembre 1973 notre corps de cadets venait au monde. Cette année, nous célébrerons notre 50<sup>ième</sup>.</p>  
+        <p>Le 1er décembre 1973 notre corps de cadets venait au monde. En 2023, nous avons célébrer notre 50<sup>ième</sup>.</p>  
         <p>Nous vous invitons à joindre notre page des anciens du corps de cadets, invités vos connaissances qui on ont fait partie du corps de cadets. Nous aurons quelques événements à venir.</p>  
         <p>Vous avez un peu de temps, joiniez-vous à nous. Partager et invitér avec vos amis. </p>
     </div>
