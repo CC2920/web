@@ -78,7 +78,7 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 
 - Qui :  Pour tous les cadets intéressés 
 - Heure : de 9h30 à 12h00, samedi matin
-- Lieu : 110 La Baie 
+- Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile pour faire du sport a l'extérieur
 - Matériel requis : Bouteille d'eau et collation
 
