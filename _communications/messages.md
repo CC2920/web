@@ -13,7 +13,7 @@ layout: "messages"
   - **Niveau Or** : Tenue de cérémonie (C1A) 
   - **Cadets séniors et position sur parade** : Tenue de cérémonie (C1A) 
 - **Lieu** : 52 St-Rosaire
-- **Note supplémentaires** : Apportez votre instrument de musique et les parents sont invité à compter de 20h00
+- **Note supplémentaires** : Apportez votre instrument de musique. Les parents sont invités à compter de 20h00 pour la parade du commandant. 
 
    
 ## Activités à venir
