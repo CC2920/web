@@ -27,10 +27,10 @@ layout: "messages"
 - **9 décembre** : Pratique de tir
 - **11 décembre** : Pratique du peloton de précision
 - **13 décembre** : Soirée d'instruction
-- **13 décembre** : Date limite pour rapporter les billets pour le panier de Noël vendus ou invendus
+- **13 décembre** : Date limite pour rapporter les billets pour le panier de Noël vendus ou non vendus
 - **14 décembre** : Pratique de biathlon
 - **14 décembre** : Soirée de Noël
-- **15 décembre** : Compétition local pour le sélection de l'équipe de tir
+- **15 décembre** : Compétition local pour la sélection de l'équipe de tir
 - **17 décembre** : Pratique du peloton de précision
 - **20 décembre** : Dernière soirée d'instruction avant le congé des fêtes
 - 
@@ -77,7 +77,7 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 - Lieu : Parc du Lac Beauchamp 
 - Tenue : Civile pour faire du sport a l'extérieur
 - Matériel requis : Bouteille d'eau et collation
-- Information supplémentaires :  Avoir des chausssures qui vous permettre de courrir mais imperméables
+- Information supplémentaires :  Avoir des chausssures pour courrir mais imperméables
 
 ## Pratique de musique
 
