@@ -5,40 +5,43 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 29 novembre 2024 de 18h30 à 21h15
+- **Date** : 6 décembre 2024 de 18h30 à 21h15
 - **Tenue** :
   - **Niveau Vert** : Tenue d'instruction (C5) 
   - **Niveau Rouge** : Tenue d'instruction (C5)  
-  - **Niveau Argent** : Tenue d'instruction (C5) 
-  - **Niveau Or** : Tenue d'instruction (C5) 
-  - **Cadets séniors et position sur parade** : Tenue d'instruction (C5) 
+  - **Niveau Argent** : Tenue de cérémonie (C1A) 
+  - **Niveau Or** : Tenue de cérémonie (C1A) 
+  - **Cadets séniors et position sur parade** : Tenue de cérémonie (C1A) 
 - **Lieu** : 52 St-Rosaire
-- **Note supplémentaires** : Apportez votre instrument de musique
+- **Note supplémentaires** : Apportez votre instrument de musique et les parents sont invité à compter de 20h00
 
    
 ## Activités à venir
  
-- **25 novenbre** : Pratique de tir
-- **27 novembre** : Pratique du peloton de précision
-- **29 novembre** : Remise des billets pour le panier de Noël et retour des billets vendus avec possibilité d'en obtenir plus
-- **30 novembre** : Pratique de biathlon
-- **30 novembre** : Formation de mise à niveau pour les cadets du programme accéléré et tir de 13h00 à 15h00 pour les cadets qui n'ont pas encore fait de tir cette année. 
-- **1 décembre** : Pratique de musique
 - **2 décembre** : Pratique de tir
-- **4 novembre** : Pratique du peloton de précision
-- **6 décembre** : Soirée d'instruction et parade du commandant
+- **4 décembre** : Pratique du peloton de précision
+- **6 décembre** : Soirée d'instruction et parade du commandant 
 - **6 décembre** : Remise des billets pour le panier de Noël et retour des billets vendus
+- **7 décembre** : Pratique de biathlon
+- **8 décembre** : Pratique de musique
+- **9 décembre** : Pratique de tir
+- **11 décembre** : Pratique du peloton de précision
 - **13 décembre** : Soirée d'instruction
-- **13 décembre**: Date limite pour rapporter les billets pour le panier de Noël vendus ou invendus
+- **13 décembre** : Date limite pour rapporter les billets pour le panier de Noël vendus ou invendus
+- **14 décembre** : Pratique de biathlon
 - **14 décembre** : Soirée de Noël
+- **15 décembre** : Compétition local pour le sélection de l'équipe de tir
+- **17 décembre** : Pratique du peloton de précision
+- **20 décembre** : Dernière soirée d'instruction avant le congé des fêtes
+- 
 
 ## Coton Ouaté 
 
-Les chandails seront reçus entre le 25 novembre et le 13 décembre 2024.
+Les chandails seront reçus d'ici le 13 décembre 2024.
 
 ## Panier de Noël (activité de financement)
 
-Les billets vendus doivent être remis à la cantine vendredis 22 et 29 novembre, 6 et 13 décembre. 
+Les billets vendus doivent être remis à la cantine vendredis 6 et 13 décembre. 
 Notez bien que tous les billets, vendus ou invendus, doivent être retournés au plus tard le 13 décembre. 
 
 Le tirage aura lieu le samedi 14 décembre lors de la fête de Noël.
@@ -52,13 +55,6 @@ La lettre ci-jointe offre plus de détails et nous vous invitons aussi à la par
 Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoyez une note à <cciv2920@gmail.com> ou donnez un coup de fil à 873-354-8426.
 
  
-## Formation de mise à niveau
-- Qui : Pour tous les cadets qui doivent faire les cours de mises à niveau 
-- Heure : de 9h00 à 15h00, le 30 novembre
-- Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
-- Tenue : Civile
-- Matériel requis : Bouteille d'eau, lunch
-
 ## Tir
 - Qui : Pour tous les cadets intéressés 
 - Heure : de 18h00 à 20h30, lundi soir
@@ -78,14 +74,15 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 
 - Qui :  Pour tous les cadets intéressés 
 - Heure : de 9h30 à 12h00, samedi matin
-- Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
+- Lieu : Parc du Lac Beauchamp 
 - Tenue : Civile pour faire du sport a l'extérieur
 - Matériel requis : Bouteille d'eau et collation
+- Information supplémentaires :  Avoir des chausssures qui vous permettre de courrir mais imperméables
 
 ## Pratique de musique
 
 - Qui : Pour tous les cadets musiciens 
-- Heure : de 8h45 à 12:00, dimanche matin
+- Heure : de 8h45 à 13:00, dimanche matin
 - Lieu : Manège militaire de Hull  
 - Tenue : Civile
 - Matériel requis : Instrument de musique, partitions, bouteille d'eau et collation
