@@ -13,7 +13,7 @@ layout: "messages"
   - **Niveau Or** : Tenue de cérémonie (C1A) 
   - **Cadets séniors et position sur parade** : Tenue de cérémonie (C1A) 
 - **Lieu** : 52 St-Rosaire
-- **Note supplémentaires** : Apportez votre instrument de musique et les parents sont invité à compter de 20h00
+- **Note supplémentaires** : Apportez votre instrument de musique. Les parents sont invités à compter de 20h00 pour la parade du commandant. 
 
    
 ## Activités à venir
@@ -30,8 +30,9 @@ layout: "messages"
 - **13 décembre** : Date limite pour rapporter les billets pour le panier de Noël vendus ou non vendus
 - **14 décembre** : Pratique de biathlon
 - **14 décembre** : Soirée de Noël
-- **15 décembre** : Compétition local pour la sélection de l'équipe de tir
-- **17 décembre** : Pratique du peloton de précision
+- **15 décembre** : Pratique de musique
+- **16 décembre** : Compétition local pour la sélection de l'équipe de tir
+- **18 décembre** : Pratique du peloton de précision
 - **20 décembre** : Dernière soirée d'instruction avant le congé des fêtes
 - 
 
