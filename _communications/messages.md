@@ -5,25 +5,19 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 6 décembre 2024 de 18h30 à 21h15
+- **Date** : 13 décembre 2024 de 18h30 à 21h15
 - **Tenue** :
   - **Niveau Vert** : Tenue d'instruction (C5) 
   - **Niveau Rouge** : Tenue d'instruction (C5)  
-  - **Niveau Argent** : Tenue de cérémonie (C1A) 
-  - **Niveau Or** : Tenue de cérémonie (C1A) 
-  - **Cadets séniors et position sur parade** : Tenue de cérémonie (C1A) 
+  - **Niveau Argent** : Tenue d'instruction (C5)
+  - **Niveau Or** : Tenue d'instruction (C5)
+  - **Cadets séniors et position sur parade** : Tenue d'instruction (C5)
 - **Lieu** : 52 St-Rosaire
-- **Note supplémentaires** : Apportez votre instrument de musique. Les parents sont invités à compter de 20h00 pour la parade du commandant. 
+- **Note supplémentaires** : Apportez votre instrument de musique. 
 
    
 ## Activités à venir
  
-- **2 décembre** : Pratique de tir
-- **4 décembre** : Pratique du peloton de précision
-- **6 décembre** : Soirée d'instruction et parade du commandant 
-- **6 décembre** : Remise des billets pour le panier de Noël et retour des billets vendus
-- **7 décembre** : Pratique de biathlon
-- **8 décembre** : Pratique de musique
 - **9 décembre** : Pratique de tir
 - **11 décembre** : Pratique du peloton de précision
 - **13 décembre** : Soirée d'instruction
@@ -65,7 +59,7 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 
 ## Exercice militaire (peloton de précision)
 
-- Qui :  Pour tous les cadets intéressés 
+- Qui :  Pour les cadets inscrits 
 - Heure : de 18h30 à 20h30, mercredi soir
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
@@ -73,12 +67,12 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 
 ## Pratique de biathlon
 
-- Qui :  Pour tous les cadets intéressés 
+- Qui :  Pour les cadets inscrits 
 - Heure : de 9h30 à 12h00, samedi matin
-- Lieu : Parc du Lac Beauchamp 
+- Lieu : Camp Fortune
 - Tenue : Civile pour faire du sport a l'extérieur
 - Matériel requis : Bouteille d'eau et collation
-- Information supplémentaires :  Avoir des chausssures pour courrir mais imperméables
+- Information supplémentaires :  Apportez votre équipement de ski, Tuque, Gants, vètement imperméable
 
 ## Pratique de musique
 
