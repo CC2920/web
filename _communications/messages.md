@@ -23,11 +23,15 @@ layout: "messages"
 - **13 décembre** : Soirée d'instruction
 - **13 décembre** : Date limite pour rapporter les billets pour le panier de Noël vendus ou non vendus
 - **14 décembre** : Pratique de biathlon
-- **14 décembre** : Soirée de Noël
+- **14 décembre** : Soirée de Noël  (voir sondage)
 - **15 décembre** : Pratique de musique
 - **16 décembre** : Compétition local pour la sélection de l'équipe de tir
 - **18 décembre** : Pratique du peloton de précision
 - **20 décembre** : Dernière soirée d'instruction avant le congé des fêtes
+
+## Sondage pour le soirée de Noël
+
+SVP complétez le sondage suivant : {https://docs.google.com/forms/d/1J6YdqhwHDx6cPpP3sGqSe9_DqLdm2dKZ-iSvYCB24pM/edit)
 
 ## Coton Ouaté 
 
