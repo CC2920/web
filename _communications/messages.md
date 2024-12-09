@@ -29,7 +29,9 @@ layout: "messages"
 - **18 décembre** : Pratique du peloton de précision
 - **20 décembre** : Dernière soirée d'instruction avant le congé des fêtes
 
-## Sondage pour le soirée de Noël
+## Sondage pour la soirée de Noël
+
+Les soirée de Noël aura lieu le 14 décembre de 18h00 a 23h00 au Centre Communautaire Daniel-Lafortune
 
 SVP complétez le sondage suivant : <https://docs.google.com/forms/d/1J6YdqhwHDx6cPpP3sGqSe9_DqLdm2dKZ-iSvYCB24pM/edit>
 
