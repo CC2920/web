@@ -78,7 +78,7 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 
 - Qui : Pour tous les cadets musiciens 
 - Heure : de 8h45 à 13:00, dimanche matin
-- Lieu : Manège militaire de Hull  
+- Lieu : Centre Eugëne Sauvageau  
 - Tenue : Civile
 - Matériel requis : Instrument de musique, partitions, bouteille d'eau et collation
 
