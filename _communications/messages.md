@@ -7,11 +7,11 @@ layout: "messages"
 
 - **Date** : 13 décembre 2024 de 18h30 à 21h15
 - **Tenue** :
-  - **Niveau Vert** : Tenue d'instruction (C5) 
-  - **Niveau Rouge** : Tenue d'instruction (C5)  
-  - **Niveau Argent** : Tenue d'instruction (C5)
-  - **Niveau Or** : Tenue d'instruction (C5)
-  - **Cadets séniors et position sur parade** : Tenue d'instruction (C5)
+  - **Niveau Vert** : Tenue civil avec gilet rouge
+  - **Niveau Rouge** : Tenue civil avec gilet rouge 
+  - **Niveau Argent** : Tenue civil avec gilet rouge
+  - **Niveau Or** : Tenue civil avec gilet rouge
+  - **Cadets séniors et position sur parade** : Tenue civil avec gilet rouge
 - **Lieu** : 52 St-Rosaire
 - **Notes supplémentaires** : Apportez votre instrument de musique. 
 
@@ -31,7 +31,7 @@ layout: "messages"
 
 ## Sondage pour le soirée de Noël
 
-SVP complétez le sondage suivant : {https://docs.google.com/forms/d/1J6YdqhwHDx6cPpP3sGqSe9_DqLdm2dKZ-iSvYCB24pM/edit)
+SVP complétez le sondage suivant : <https://docs.google.com/forms/d/1J6YdqhwHDx6cPpP3sGqSe9_DqLdm2dKZ-iSvYCB24pM/edit>
 
 ## Coton Ouaté 
 
