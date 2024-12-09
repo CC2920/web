@@ -13,7 +13,7 @@ layout: "messages"
   - **Niveau Or** : Tenue d'instruction (C5)
   - **Cadets séniors et position sur parade** : Tenue d'instruction (C5)
 - **Lieu** : 52 St-Rosaire
-- **Note supplémentaires** : Apportez votre instrument de musique. 
+- **Notes supplémentaires** : Apportez votre instrument de musique. 
 
    
 ## Activités à venir
@@ -28,18 +28,19 @@ layout: "messages"
 - **16 décembre** : Compétition local pour la sélection de l'équipe de tir
 - **18 décembre** : Pratique du peloton de précision
 - **20 décembre** : Dernière soirée d'instruction avant le congé des fêtes
-- 
 
 ## Coton Ouaté 
 
 Les chandails seront reçus d'ici le 13 décembre 2024.
 
-## Panier de Noël (activité de financement)
+## Rappel – Billets du panier-cadeau de Noël
 
-Les billets vendus doivent être remis à la cantine vendredis 6 et 13 décembre. 
-Notez bien que tous les billets, vendus ou invendus, doivent être retournés au plus tard le 13 décembre. 
+Tous les billets (vendus et non vendus) ainsi que l'argent comptant doivent être retournés au plus tard le vendredi 13 décembre, 19h, à la cantine.
+Un membre du comité de soutien sera disponible au club de tir et au peloton de précision pour les récupérer en personne.
 
-Le tirage aura lieu le samedi 14 décembre lors de la fête de Noël.
+Merci de votre collaboration !
+
+*Le comité de soutien*
 
 ## Vente aux enchères
 
@@ -98,7 +99,7 @@ Les cadets qui ne désirent pas revenir cette année doivent rapporter leur unif
 
 ## Habillement
 
-Les cadets qui ont des pièces d'uniformes à échanger doivent visiter l'approvisionnement le vendredi soir entre 18h00 et 18h30 avec la pièce d'uniforme à échanger.  L'officier d'approvisionnement regardera si la pièce est disponible immédiatement ou leur donnera un rendez-vous pour faire les échanges.
+Les cadets qui ont des pièces d'uniformes à échanger doivent visiter l'approvisionnement le vendredi soir entre 18h00 et 18h30 avec la pièce d'uniforme à échanger. L'officier d'approvisionnement regardera si la pièce est disponible immédiatement ou leur donnera un rendez-vous pour faire les échanges.
 
 *Aucun échanges d'uniformes sans rendez-vous cette année.*
 
