@@ -13,6 +13,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2023 | Patrick Delaney-Dufour |
+| 2022 | Jasmine Pilon |
 | 2021 | Alexy Bouchard-Couvrette |
 | 2020 | Mathilde Lambert-Turcotte |
 | 2019 | Laurence Akochy |

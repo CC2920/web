@@ -16,6 +16,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2023 | Naomi Julie Paquette |
+| 2022 | Jack Atitsogbé |
 | 2021 | Dominic Bogucki |
 | 2020 | Sébastien Brunette |
 | 2019 | Ludovic Lavallée |

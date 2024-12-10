@@ -17,6 +17,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2023 | Mathieu McGlashan |
+| 2022 | Audrey Patenaude |
 | 2021 | Zakaryane Geron |
 | 2020 | Juliane Adam |
 | 2019 | Antoine St-Louis |

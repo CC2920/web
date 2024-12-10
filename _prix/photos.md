@@ -155,10 +155,11 @@ title: "Galerie de photos"
 * [Photos de la revue annuelle 2020](https://photos.app.goo.gl/oXy4s9w3jqvPbUSo6)
 * [Photos des activités de 2020 - 2021](https://photos.app.goo.gl/TcU3BQDNiUeLSamKA)
 * [Photos de la revue annuelle 2021](https://photos.app.goo.gl/Ht6WZu6CbYgxHrGp9)
+* [49e revue annuelle - juin 2022](https://photos.app.goo.gl/gFPQfYLVHjQow3Fr5)
 
 ### 2022-present
 
-* [49e revue annuelle - juin 2022](https://photos.app.goo.gl/gFPQfYLVHjQow3Fr5)
+#### 2022 - 2023 :
 * [Parade du commandant - novembre 2022](https://photos.app.goo.gl/frSb64NAkAQsdMuZA)
 * [Parade du Souvenir - novembre 2022](https://photos.app.goo.gl/1MffXfa6gbsucscN9)
 * [Parade du 50e - janvier 2023](https://photos.app.goo.gl/htQx9BcGTKdMzmxp7)
@@ -166,7 +167,21 @@ title: "Galerie de photos"
 * [Souper régimentaire - avril 2023](https://photos.app.goo.gl/5qNCYtQEmG24RUdw6)
 * [Gala - mai 2023](https://photos.app.goo.gl/7ymPZMjSz1PYLrHq9)
 * [Cérémonial 2023 (50e)](https://photos.app.goo.gl/QkHNrBXTNJNyW94v8)
+
+#### 2023 - 2024
 * [Parade du commandant - septembre 2023](https://photos.app.goo.gl/iBau7ejWwCGdvKuGA)
 * [Parade du commandant - novembre 2023](https://photos.app.goo.gl/NGBgJUqdrbdvoLab8)
 * [Parade du Souvenir - novembre 2023](https://photos.app.goo.gl/iyeY7XVQ6BJ5TLp59)
 * [Parade du commandant - décembre 2023](https://photos.app.goo.gl/Duu3LivrV69jXgTx5)
+* [Parade du commandant - janvier 2024](https://photos.app.goo.gl/HfkSSrCvM3vexaG1A)
+* [Parade du commandant - férvier 2024](https://photos.app.goo.gl/djuQACU1C8m5mzt48)
+* [Souper régimentaire - mars 2024](https://photos.app.goo.gl/kQWYY9sedff6wUK4A)
+* [Parade du commandant - mars 2024](https://photos.app.goo.gl/djuQACU1C8m5mzt48) 
+* [Parade du commandant - avril 2024](https://photos.app.goo.gl/D4s1gJm1BmDy1agb6)
+* [Gala - mai 2024](https://photos.app.goo.gl/UEDsEGFEafNoVv246)
+* [Cérémonial - revue annuelle 2024](https://photos.app.goo.gl/JNdk3sVVracBSvBd9)
+
+#### 2024-2025
+* [Ouverture officielle du musée CC2920 - octobre 2024](https://photos.app.goo.gl/tbPFGDXRaEzdbocZ6)
+* [Parade de changement de cadet-commandant - octobre 2024](https://photos.app.goo.gl/SbGKhYeT2VyUXGPQ6)
+* [Parade du Jour du Souvenir - novembre 2024](https://photos.app.goo.gl/YudUy5S9i3g9tjQVA)

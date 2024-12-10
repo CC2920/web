@@ -495,6 +495,52 @@ recipiendaires-medailles-cadets:
           - Adjum Alexy Bouchard-Couvrette
           - Adjum Mélodie Lambert-Turcotte            
 
+    - periode: 2022
+      annees: 
+      - annees-de-services: 4
+        recipiendaires:
+          - Sgt Raphaël Brière
+          - Adj Loïc Thibeault
+          - Adj Jasmine Pilon
+          - Adj Patrick Delaney-Dufour
+          - Sgt Aimée Dahdouh
+          - Sgt Ludovic Lavallée
+          - Sgt Mathis Bouchard-Couvrette
+          - Sgt Mory Kaba
+      - annees-de-services: 5
+        recipiendaires:
+          - Adj Alexandre Bogucki
+          - Adj Lahmya Chapleau
+          - Adj Louick Lambert-Turcotte
+      - annees-de-services: 6
+        recipiendaires:
+          - Adjuc Mathilde Lambert-Turcotte
+          - Adj Désiré Loukou
+          - Adjum Beata Rus            
+
+    - periode: 2023
+      annees: 
+      - annees-de-services: 4
+        recipiendaires:
+          - Sgt Ahoefa Tiffany Atitsogbe
+          - Sgt Sébastien Brunette
+          - Sgt Elizabeth Maryam Dahdouh
+          - Sgt Zakaryane Géron
+          - Sgt Mathis Lalonde
+          - Sgt Zack Lambert-Turcotte
+          - Sgt Samuel Leduc
+          - Sgt Meliane Legault
+      - annees-de-services: 5
+        recipiendaires:
+          - Adjum Jasmine Pilon
+          - Adj Raphaël Brière
+          - Adj Patrick Delaney-Dufour
+          - Sgt Mathis Lalonde
+          - Sgt Mory Kaba
+      - annees-de-services: 6
+        recipiendaires:
+          - Adjum Lahmya Chapleau
+          - Adjum Louick Lambert-Turcotte            
 
 # **********************************************************
 # Fin de la section de configuration. 

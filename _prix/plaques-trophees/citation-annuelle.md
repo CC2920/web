@@ -15,6 +15,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2023 | Équipe de tir |
+| 2022 | Jasmine Pilon |
 | 2021 | Mélodie Lambert-Turcotte |
 | 2020 | Aucun récipiendaire |
 | 2019 | Mélodie Lambert-Turcotte |

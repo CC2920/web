@@ -14,6 +14,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2023 | Meliane Legault |
+| 2022 | Ludovic Lavallée |
 | 2021 | Lahmya Chapleau |
 | 2020 | Zackary Roy |
 | 2019 | Alexy Bouchard-Couvrette |

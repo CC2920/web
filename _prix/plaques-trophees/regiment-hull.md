@@ -13,6 +13,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2023 | Mathis Lalonde |
+| 2022 | Loïc Thibeault |
 | 2021 | Mélodie Lambert-Turcotte |
 | 2020 | Jeremy Lavoie |
 | 2019 | Mathieu Larin |

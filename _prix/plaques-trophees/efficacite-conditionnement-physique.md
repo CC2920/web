@@ -13,6 +13,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2023 | Ruici Qiu <br>Tyaeb Belhabib |
+| 2022 | Anaïs Desgroseilliers <br>Santiago De Moura |
 | 2021 | Aucun récipiendaire |
 | 2020 | Mathilde Lambert-Turcotte  <br>Christian Olivier |
 | 2019 | Mathilde Lambert-Turcotte  <br>Loick Nabonne |

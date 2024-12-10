@@ -65,3 +65,5 @@ En septembre 2010, on comptait cinq membres du comité de soutien et quatre bén
 | 2020-2021 | Daniel Brunette |     | Guylain Desrochers | Ann Delaney | Denis Bogucki, Mélanie Bourdeau, Josée Chénier, Alain Couvrette, Érika Meunier, Valérie Lafrenière, Marie-Ève Tessier |
 | 2021-2022 | Daniel Brunette |     | Capt. Steve Noël | Ann Delaney | Denis Bogucki, Pier-Luc Bélanger, Josée Chénier, Marie-Ève Tessier |
 | 2022-2023 | Daniel Brunette |     | Capt. Steve Noël | Ann Delaney | Denis Bogucki, Josée Chénier, Marie-Ève Tessier, Jennifer Dostie, Jonathan Gauthier, Kim Grenier, Marie-Paul Vincent |
+| 2023-2024 | Daniel Brunette | Ann Delaney | Marie-Paul Vincent | Marie-Pascale Thibault | Denis Bogucki, Marie-Ève Tessier, Jonathan Gauthier, Cynthia Blouin, Lizanne Sarrazin Poirier |
+
