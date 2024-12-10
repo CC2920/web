@@ -31,7 +31,7 @@ layout: "messages"
 
 ## Sondage pour la soirée de Noël
 
-Les soirée de Noël aura lieu le 14 décembre de 18h00 a 23h00 au Centre Communautaire Daniel-Lafortune
+La soirée de Noël aura lieu le 14 décembre de 18h00 a 23h00 au Centre Communautaire Daniel-Lafortune
 
 SVP complétez le sondage suivant : <https://docs.google.com/forms/d/1J6YdqhwHDx6cPpP3sGqSe9_DqLdm2dKZ-iSvYCB24pM/edit>
 
@@ -79,7 +79,7 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 - Lieu : Camp Fortune
 - Tenue : Civile pour faire du sport a l'extérieur
 - Matériel requis : Bouteille d'eau et collation
-- Information supplémentaires :  Apportez votre équipement de ski, Tuque, Gants, vètement imperméable
+- Information supplémentaires :  Apportez votre équipement de ski, tuque, gants, vètement imperméable
 
 ## Pratique de musique
 
