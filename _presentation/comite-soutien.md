@@ -24,10 +24,6 @@ le-comite-soutien:
       title: Webmestre et Administrateur
 
     - member: 
-      name: Mme Marie-Ève Tessier
-      title: Administratrice
-
-    - member: 
       name: Mme Cynthia Blouin 
       title: Administratrice
 
