@@ -213,9 +213,14 @@ les-cadets-commandants:
     picture: /docs/historique/adjuc42_Lahmya-Chapleau.jpg 
 
   - adjc:
-    year: 2024-
+    year: 2024
     name: Adjudant-Chef Méliane Legault
-    picture: /docs/historique/adjuc43_Meliane-Legault.jpg 
+    picture: /docs/historique/adjuc43_Meliane-Legault.jpg
+
+  - adjc:
+    year: 2024-
+    name: Adjudant-Chef Zakaryane Geron
+    picture: /docs/historique/adjuc44_Zakaryane-Geron.jpg 
     
 ---
   
