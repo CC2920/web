@@ -14,17 +14,17 @@ les-cadets-major:
     - cadet:
       name: "Adjuc Zakaryane Geron"
       title: "Cadet-commandant"
-      picture: "/docs/etat-major/CC2920-Adjuc-Geron.JPG"
+      picture: "/docs/historique/adjuc44_Zakaryane-Geron.jpg"
 
     - cadet:
       name: "Adjum Sébastien Brunette"
       title: "Adjudant-Maitre Instruction"
-      picture: "/docs/etat-major/CC2920-Adj-Brunette.JPG"
+      picture: ""
     
     - cadet:
       name: "Adjum Dominic Bogucki"
       title: "Adjudant-Maitre de musique"
-      picture: ""
+      picture: 
 
 
 
