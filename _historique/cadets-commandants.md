@@ -94,7 +94,7 @@ les-cadets-commandants:
   
   - adjc:
     year: 2000-2001
-    name: Adjudant-Chef Michelle Marois 
+    name: Adjudant-Chef Michèle Marois 
     picture: /docs/historique/adjuc19_marois.jpg 
   
   - adjc:
