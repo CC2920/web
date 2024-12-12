@@ -10,18 +10,6 @@ le-personnel:
   
   - personnel:
     picture: 
-    name: Capt Zhebin HU
-    title: Officier d’entrainement
-    email: 
-
-  - personnel:
-    picture: 
-    name: Capt T Levasseur
-    title: Officier d’administration
-    email: 
-  
-  - personnel:
-    picture: 
     name: Lt Sylivie Simard
     title: Officier d’approvisionnement
     email: 
@@ -30,12 +18,6 @@ le-personnel:
     picture: 
     name: I.C. Frank Metlej
     title: Responsable Niveau Or
-    email: 
-
-  - personnel:
-    picture: 
-    name: Sdt Sam Tremblay-Germain
-    title: Responsable Niveau Argent
     email: 
 
   - personnel:
@@ -53,7 +35,7 @@ le-personnel:
   - personnel:
     picture: 
     name: I.C. Beata Rus
-    title: Responsable Niveau Vert
+    title: Responsable Musique
     email:
 ---
 

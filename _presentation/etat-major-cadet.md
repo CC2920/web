@@ -12,19 +12,19 @@ navigationKey: presentation
 #
 les-cadets-major:
     - cadet:
-      name: "Adjuc Méliane Legault"
+      name: "Adjuc Zakaryane Geron"
       title: "Cadet-commandant"
-      picture: "/docs/etat-major/CC2920-Adjuc-Legault.JPG"
+      picture: "/docs/etat-major/CC2920-Adjuc-Geron.JPG"
 
     - cadet:
-      name: "Adjum Zakaryane Geron"
+      name: "Adjum Sébastien Brunette"
       title: "Adjudant-Maitre Instruction"
-      picture: "/docs/etat-major/CC2920-Adjum-Geron.JPG"
+      picture: "/docs/etat-major/CC2920-Adj-Brunette.JPG"
     
     - cadet:
-      name: "Adjum Alexandre Bogucki"
+      name: "Adjum Dominic Bogucki"
       title: "Adjudant-Maitre de musique"
-      picture: "/docs/etat-major/CC2920-Adjum-Bogucki-A.JPG"
+      picture: ""
 
 
 
@@ -39,11 +39,6 @@ les-cadets-cadres:
       name: Adj Raphael Briere
       title: Cadet sénior responsable niveau Vert
       picture: "/docs/cadets-cadres/CC2920-Adj-Briere.JPG"
-
-    - cadet: 
-      name: Adj Sébastien Brunette
-      title: Cadet sénior responsable niveau Argent
-      picture: "/docs/cadets-cadres/CC2920-Adj-Brunette.JPG"
 
     - cadet: 
       name: Adj Mory Yacine Kaba

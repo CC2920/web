@@ -58,6 +58,7 @@ La Médaille Lord Strathcona est la plus haute récompense pouvant être décern
 | 1978 | Sylvain Marchand |
 | 1977 | Michael Niebudek |
 | 1976 | Michel Fauvel |
+| 1975 | Louis Meloche |
 
 </div>
 </div> <!-- /row -->
