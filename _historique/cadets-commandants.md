@@ -3,7 +3,7 @@ title:  "Sergent-major régimentaire"
   
 les-cadets-commandants: 
   - adjc:
-    year: 1975-1977 
+    year: 1974-1977 
     name: Adjudant-Chef Louis Meloche
     picture: /docs/historique/adjuc1_meloche.jpg
     
@@ -103,17 +103,17 @@ les-cadets-commandants:
     picture: /docs/historique/adjuc20_prevost.jpg 
   
   - adjc:
-    year: 2002-2002
+    year: 2002-2003
     name: Adjudant-Chef Sébastien Auger 
     picture: /docs/historique/adjuc21_auger.jpg 
   
   - adjc:
-    year: 2002-2004
+    year: 2003-2004
     name: Adjudant-Chef Marilyne Rochon 
     picture: /docs/historique/adjuc22_rochon.jpg 
   
   - adjc:
-    year: 2004-2004
+    year: 2004
     name: Adjudant-Chef Sébastien Pepin-Villeneuve 
     picture: /docs/historique/adjuc23_pepin-villeneuve.jpg 
   
@@ -128,7 +128,7 @@ les-cadets-commandants:
     picture: /docs/historique/adjuc25_leonard.jpg 
   
   - adjc:
-    year: 2006-2007
+    year: 2007
     name: Adjudant-Chef Philippe Levesque 
     picture: /docs/historique/adjuc26_levesque.jpg 
   
