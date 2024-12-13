@@ -19,7 +19,7 @@ les-cadets-major:
     - cadet:
       name: "Adjum Sébastien Brunette"
       title: "Adjudant-Maitre Instruction"
-      picture: ""
+      picture: 
     
     - cadet:
       name: "Adjum Dominic Bogucki"
