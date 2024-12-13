@@ -3,7 +3,7 @@ title:  "Sergent-major régimentaire"
   
 les-cadets-commandants: 
   - adjc:
-    year: 1975-1977 
+    year: 1974-1977 
     name: Adjudant-Chef Louis Meloche
     picture: /docs/historique/adjuc1_meloche.jpg
     
@@ -94,7 +94,7 @@ les-cadets-commandants:
   
   - adjc:
     year: 2000-2001
-    name: Adjudant-Chef Michelle Marois 
+    name: Adjudant-Chef Michèle Marois 
     picture: /docs/historique/adjuc19_marois.jpg 
   
   - adjc:
@@ -103,17 +103,17 @@ les-cadets-commandants:
     picture: /docs/historique/adjuc20_prevost.jpg 
   
   - adjc:
-    year: 2002-2002
+    year: 2002-2003
     name: Adjudant-Chef Sébastien Auger 
     picture: /docs/historique/adjuc21_auger.jpg 
   
   - adjc:
-    year: 2002-2004
+    year: 2003-2004
     name: Adjudant-Chef Marilyne Rochon 
     picture: /docs/historique/adjuc22_rochon.jpg 
   
   - adjc:
-    year: 2004-2004
+    year: 2004
     name: Adjudant-Chef Sébastien Pepin-Villeneuve 
     picture: /docs/historique/adjuc23_pepin-villeneuve.jpg 
   
@@ -128,7 +128,7 @@ les-cadets-commandants:
     picture: /docs/historique/adjuc25_leonard.jpg 
   
   - adjc:
-    year: 2006-2007
+    year: 2007
     name: Adjudant-Chef Philippe Levesque 
     picture: /docs/historique/adjuc26_levesque.jpg 
   
@@ -195,7 +195,33 @@ les-cadets-commandants:
   - adjc:
     year: 2020-2021
     name: Adjudant-Chef Mélodie Lambert-Turcotte
-    picture: /docs/historique/adjuc39_lambert-turcotte.jpg 
+    picture: /docs/historique/adjuc39_lambert-turcotte.jpg
+
+  - adjc:
+    year: 2021-2022
+    name: Adjudant-Chef Mathilde Lambert-Turcotte
+    picture: /docs/historique/adjuc40_mathilde-lambert-turcotte.jpg 
+ 
+  - adjc:
+    year: 2022-2023
+    name: Adjudant-Chef Beata Rus
+    picture: /docs/historique/adjuc41_Beata-Rus.jpg 
+
+  - adjc:
+    year: 2023-2024
+    name: Adjudant-Chef Lahmya Chapleau
+    picture: /docs/historique/adjuc42_Lahmya-Chapleau.jpg 
+
+  - adjc:
+    year: 2024
+    name: Adjudant-Chef Méliane Legault
+    picture: /docs/historique/adjuc43_Meliane-Legault.jpg
+
+  - adjc:
+    year: 2024-
+    name: Adjudant-Chef Zakaryane Geron
+    picture: /docs/historique/adjuc44_Zakaryane-Geron.jpg 
+    
 ---
   
 

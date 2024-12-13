@@ -2,95 +2,110 @@
 title:  "Messages de la semaine"
 layout: "messages"
 ---
+ 
+## Soirée d'instruction  
 
-## Soirée du 26 janvier
+- **Date** : 13 décembre 2024 de 18h30 à 21h15
+- **Tenue** :
+  - **Niveau Vert** : Tenue civil avec gilet rouge
+  - **Niveau Rouge** : Tenue civil avec gilet rouge 
+  - **Niveau Argent** : Tenue civil avec gilet rouge
+  - **Niveau Or** : Tenue civil avec gilet rouge
+  - **Cadets séniors et position sur parade** : Tenue civil avec gilet rouge
+- **Lieu** : 52 St-Rosaire
+- **Notes supplémentaires** : Apportez votre instrument de musique. 
 
-Tenue C1 pour tous.
-
-Les parents et amis sont invités pour la parade du commandant à 20h. 
-
-Les musiciens doivent apporter leur instrument de musique et les partitions
-
-
-## Activités optionnelles
-
-- Le tir a lieu lundi 22 janvier de 18h00 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/).
-
-- Le peloton de précision a lieu mercredi 24 janvier de 18h30 à 20h30. Tenue civile au [100 rue de la Baie](/information/comment-nous-rejoindre/). Apportez vos bottes de parade. 
-
-- Compétition de biathlon le 27 et 28 janvier de 8h00 à 17h00 au camp forturne, voir les détails ci-dessous.
-
-- La musique a lieu dimanche 28 janvier de 8h45 à 13h00. Tenue civile au Centre Eugène-Sauvageau, 179 Mutchmore . Apportez votre instrument. 
-
-
-## Recrutement
-
-Les cadets qui apporterons une nouvelle inscription entre le 16 janvier et le 16 février, seront éligible à un tirage lors de la parade du commandant de février.
-
-
+   
 ## Activités à venir
+ 
+- **9 décembre** : Pratique de tir
+- **11 décembre** : Pratique du peloton de précision
+- **13 décembre** : Soirée d'instruction
+- **13 décembre** : Date limite pour rapporter les billets pour le panier de Noël vendus ou non vendus
+- **14 décembre** : Pratique de biathlon
+- **14 décembre** : Soirée de Noël  (voir sondage)
+- **15 décembre** : Pratique de musique
+- **16 décembre** : Compétition local pour la sélection de l'équipe de tir
+- **18 décembre** : Pratique du peloton de précision
+- **20 décembre** : Dernière soirée d'instruction avant le congé des fêtes
 
-- **26 janvier** : Parade du commandant et parade de changement de cadet commandant
-- **26 au 28 janvier** : Expédition étoile or (niveau or seulement). Raquette et ski de fond au menu dans le parc de la Gatineau et coucher en tente.
-- **27 et 28 janvier** : Compétition de biathlon de zone
-- **27 janvier** : Clinique de musique (examens théoriques) via Teams
-- **3 février** : Clinique de musique (examens pratiques) 
-- **9 au 11 février** : Exercice hivernal
-- **17 et 18 février** : Compétition de biathlon provinciale à Valcartier.
-- **24 février** : Journée d'activité sportives
-- **24 février** : Souper spaghetti
+## Sondage pour la soirée de Noël
 
-  
-## Compétition de biathlon du 27 et 28 janvier
+La soirée de Noël aura lieu le 14 décembre de 18h00 a 23h00 au Centre Communautaire Daniel-Lafortune
 
-Le responsable de la compétition a besoin de cadets et de parents pour aider à l'organisation de la compétition de biathlon régionale du 27 et 28 janvier.  
+SVP complétez le sondage suivant : <https://docs.google.com/forms/d/1J6YdqhwHDx6cPpP3sGqSe9_DqLdm2dKZ-iSvYCB24pM/edit>
 
-Veuillez compléter le formulaire <https://forms.office.com/r/qBNj5danYK> avant le 25 janvier, si vous désirez être bénévoles lors de la compétition. Ceci s'addresse autant aux cadets et aux parents des cadets. 
+## Coton Ouaté 
 
-Les personnes doivent être disponible de 8h00 à 17h00 le samedi et/ou le dimanche.  
+Les chandails seront reçus d'ici le 13 décembre 2024.
 
-La compétition aura lieu au Camp Fortune sur le site de biatlon au chalet des érables. 
+## Rappel – Billets du panier-cadeau de Noël
 
-Le samedi 27 janvier sera pour la catégorie développement et le dimanche 28 janvier sera la compétition de zone pour le classement pour aller au provincial.
+Tous les billets (vendus et non vendus) ainsi que l'argent comptant doivent être retournés au plus tard le vendredi 13 décembre, 19h, à la cantine.
+Un membre du comité de soutien sera disponible au club de tir et au peloton de précision pour les récupérer en personne.
 
+Merci de votre collaboration !
 
-## EEO 26 au 28 janvier
+*Le comité de soutien*
 
-Pour les niveaux or inscrits à l'expédition étoile or, le départ se fera à 19h le vendredi et le retour à 14h le dimanche.
+## Vente aux enchères
 
-La guide du participant se trouve ici, en gardant en tête que les activités seront raquette et ski de fond:
-<https://1drv.ms/w/s!AkTIfKmoB8nugopZrDXBm0ua40WKCw>
+Le comité de soutien sollicite les entreprises de la région pour contribuer des items, services ou certificats-cadeaux pour une vente aux enchères qui sera en lien avec le souper spaghetti du 22 février, 2025.
 
+La lettre ci-jointe offre plus de détails et nous vous invitons aussi à la partager avec des commerces et professionnels de votre réseau:  <https://drive.google.com/file/d/1sLnRmR51RpRTdQG4ko8FUwWXg5BqMHjs/view?usp=sharing>
 
-## Clinique de musique 27 janvier
+Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoyez une note à <cciv2920@gmail.com> ou donnez un coup de fil à 873-354-8426.
 
-Une clinique de musique théorique aura lieu le 27 janvier à compter de 10h00 via Teams pour les cadets qui se sont inscrits. 
+ 
+## Tir
+- Qui : Pour tous les cadets intéressés 
+- Heure : de 18h00 à 20h30, lundi soir
+- Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
+- Tenue : Civile
+- Matériel requis : Bouteille d'eau
 
-Les cadets vont recevoir une invitation dans leur courriel de cadets365. Ils doivent se connecter au minimum 20 minutes à l'avance sur l'application TEAMS.
+## Exercice militaire (peloton de précision)
 
-Les cadets doivent s'assurer que leur caméra et leur micro sont fonctionnel et devront avoir leur caméra active pour toute la durée de la formation théorique.
+- Qui :  Pour les cadets inscrits 
+- Heure : de 18h30 à 20h30, mercredi soir
+- Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
+- Tenue : Civile
+- Matériel requis : Bouteille d'eau
 
-Les cadets devront être à l'aise avec cadets365.  
+## Pratique de biathlon
 
-Si vous avez des problèmes avec cadets365 veuillez nous contacter ou venir au corps de cadets mercredi 24 janvier entre 18h00 et 19h00.
+- Qui :  Pour les cadets inscrits 
+- Heure : de 9h30 à 12h00, samedi matin
+- Lieu : Camp Fortune
+- Tenue : Civile pour faire du sport a l'extérieur
+- Matériel requis : Bouteille d'eau et collation
+- Information supplémentaires :  Apportez votre équipement de ski, tuque, gants, vètement imperméable
 
+## Pratique de musique
 
-## Exercice hivernal
+- Qui : Pour tous les cadets musiciens 
+- Heure : de 8h45 à 13:00, dimanche matin
+- Lieu : Centre Eugëne Sauvageau  
+- Tenue : Civile
+- Matériel requis : Instrument de musique, partitions, bouteille d'eau et collation
 
-Les cadets doivent compléter obligatoirement le **sondage** pour l"exercice hivernal **pour 26 janvier** au lien suivant : <https://docs.google.com/forms/d/16JmYZ6jiyusXgbrrsKsWdm5P-oHemrWQ3a70JFV-grs/edit>
+## Absence
 
+Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
 
-## Souper spaghetti
+## Administration
 
-Vendredi prochain, les cadets recevront une enveloppe contenant 4 billets. Si vous désirez avoir plus de billets, veuillez envoyer un courriel <cciv2920@gmail.com> ou passer à la cantine le vendredi soir.
+Il est important d'apporter votre carte d'assurance maladie dès que vous en recevez une nouvelle pour que l'on mette à jour celle-ci dans votre dossier.
 
-Nous sollicitons votre collaboration afin de vendre les 300 billets pour le souper spaghetti annuel qui aura lieu le 24 février prochain de 17h00 à 18h30 à la Légion royale canadienne filiale 58 de Gatineau au 86, rue de la Baie, Gatineau.
+Si vous vous avez des corrections à votre numéro de téléphone ou adresse, vous devez aviser le plus tôt possible l'officier d'administration. 
 
-Les billets sont au coût de 15$/adulte, et 10$/cadet(te) ou enfant de 12 ans et moins (argent comptant ou transfert électronique à *cciv2920@gmail.com*). L’argent comptant des billets vendus, ou tout billet non vendu, doit être retourné au corps de cadets avant le vendredi 16 février. Aucun billet ne sera vendu à la porte la soirée même du souper spaghetti.
+## Retour uniforme
 
-Ce souper a comme objectif d’amasser des fonds pour subventionner les activités des jeunes dont l’expédition de printemps ainsi que l’activité de fin d’année.
+Les cadets qui ne désirent pas revenir cette année doivent rapporter leur uniforme. L'approvisionnement sera ouvert le mercredi soir entre 18h00 et 20h00 pour récupérer les uniformes.
 
-**Enchère silencieuse**
+## Habillement
 
-Une enchère silencieuse aura lieu lors de la soirée du souper spaghetti. Si vous êtes membre d’une entreprise ou si vous connaissez une entreprise qui souhaiterait encourager nos jeunes en faisant un don, n’hésitez surtout pas à communiquer avec un membre du comité à la cantine le vendredi soir ou en écrivant à <cciv2920@gmail.com>.
+Les cadets qui ont des pièces d'uniformes à échanger doivent visiter l'approvisionnement le vendredi soir entre 18h00 et 18h30 avec la pièce d'uniforme à échanger. L'officier d'approvisionnement regardera si la pièce est disponible immédiatement ou leur donnera un rendez-vous pour faire les échanges.
+
+*Aucun échanges d'uniformes sans rendez-vous cette année.*
 

@@ -16,6 +16,8 @@ La Médaille Lord Strathcona est la plus haute récompense pouvant être décern
 
 | Année | Nom |
 | --- | --- |
+| 2023 | Adjum Jasmine Pilon |
+| 2022 | Adjum Beata Rus |
 | 2021 | Adj Emilia Rus |
 | 2020 | Adjum Mélodie Lambert-Turcotte |
 | 2019 | Adjuc Callum Lessard |
@@ -56,6 +58,7 @@ La Médaille Lord Strathcona est la plus haute récompense pouvant être décern
 | 1978 | Sylvain Marchand |
 | 1977 | Michael Niebudek |
 | 1976 | Michel Fauvel |
+| 1975 | Louis Meloche |
 
 </div>
 </div> <!-- /row -->
@@ -75,6 +78,8 @@ Décernée annuellement à un cadet en reconnaissance d’efforts individuels da
 
 | Année | Nom |
 | --- | --- |
+| 2023 | Sgt Mathis Lalonde |
+| 2022 | Adj Lahmya Chapleau |
 | 2021 | Adj Louick Lambert-Turcotte |
 | 2020 | Adj Mathilde Lambert-Turcotte |
 | 2019 | Adj Laurence Akochy |
