@@ -75,11 +75,11 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 ## Pratique de biathlon
 
 - Qui :  Pour les cadets inscrits 
-- Heure : de 9h30 à 12h00, samedi matin
+- Heure : de 8h30 à 12h00, samedi matin
 - Lieu : Camp Fortune
 - Tenue : Civile pour faire du sport a l'extérieur
 - Matériel requis : Bouteille d'eau et collation
-- Information supplémentaires :  Apportez votre équipement de ski, tuque, gants, vètement imperméable
+- Information supplémentaires :  Apportez votre équipement de ski, tuque, gants, vètement imperméable, 
 
 ## Pratique de musique
 
