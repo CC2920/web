@@ -5,7 +5,7 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 15 décembre 2024 de 18h30 à 21h15
+- **Date** : 13 décembre 2024 de 18h30 à 21h15
 - **Tenue** :
   - **Niveau Vert** : Tenue civil avec gilet rouge
   - **Niveau Rouge** : Tenue civil avec gilet rouge 
@@ -21,7 +21,7 @@ layout: "messages"
 - **16 décembre** : Compétition local pour la sélection de l'équipe de tir
 - **18 décembre** : Pratique du peloton de précision
 - **20 décembre** : Dernière soirée d'instruction avant le congé des fêtes
-- **21 décembre au 5 janvier ** : Congé des fëtes
+- **21 décembre au 5 janvier** : Congé des fëtes
 
 ## Coton Ouaté 
 
