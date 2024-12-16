@@ -5,48 +5,28 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 13 décembre 2024 de 18h30 à 21h15
+- **Date** : 15 décembre 2024 de 18h30 à 21h15
 - **Tenue** :
   - **Niveau Vert** : Tenue civil avec gilet rouge
   - **Niveau Rouge** : Tenue civil avec gilet rouge 
   - **Niveau Argent** : Tenue civil avec gilet rouge
   - **Niveau Or** : Tenue civil avec gilet rouge
   - **Cadets séniors et position sur parade** : Tenue civil avec gilet rouge
-- **Lieu** : 52 St-Rosaire
+- **Lieu** : 52 St-Rosaire 
 - **Notes supplémentaires** : Apportez votre instrument de musique. 
 
    
 ## Activités à venir
  
-- **9 décembre** : Pratique de tir
-- **11 décembre** : Pratique du peloton de précision
-- **13 décembre** : Soirée d'instruction
-- **13 décembre** : Date limite pour rapporter les billets pour le panier de Noël vendus ou non vendus
-- **14 décembre** : Pratique de biathlon
-- **14 décembre** : Soirée de Noël  (voir sondage)
-- **15 décembre** : Pratique de musique
 - **16 décembre** : Compétition local pour la sélection de l'équipe de tir
 - **18 décembre** : Pratique du peloton de précision
 - **20 décembre** : Dernière soirée d'instruction avant le congé des fêtes
-
-## Sondage pour la soirée de Noël
-
-La soirée de Noël aura lieu le 14 décembre de 18h00 a 23h00 au Centre Communautaire Daniel-Lafortune
-
-SVP complétez le sondage suivant : <https://docs.google.com/forms/d/1J6YdqhwHDx6cPpP3sGqSe9_DqLdm2dKZ-iSvYCB24pM/edit>
+- **21 décembre au 5 janvier ** : Congé des fëtes
 
 ## Coton Ouaté 
 
-Les chandails seront reçus d'ici le 13 décembre 2024.
+Les chandails seront reçus cette semaine, nous avons eu un délai de livraison.  Nous commmuniquerons avec les cadets qui en ont acheter pour comment les récupérer.
 
-## Rappel – Billets du panier-cadeau de Noël
-
-Tous les billets (vendus et non vendus) ainsi que l'argent comptant doivent être retournés au plus tard le vendredi 13 décembre, 19h, à la cantine.
-Un membre du comité de soutien sera disponible au club de tir et au peloton de précision pour les récupérer en personne.
-
-Merci de votre collaboration !
-
-*Le comité de soutien*
 
 ## Vente aux enchères
 
@@ -58,8 +38,8 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 
  
 ## Tir
-- Qui : Pour tous les cadets intéressés 
-- Heure : de 18h00 à 20h30, lundi soir
+- Qui : Pour les cadets qui ont participer à au moins un pratique depuis septembre SEULEMENT 
+- Heure : de 18h30 à 20h30, lundi soir
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
