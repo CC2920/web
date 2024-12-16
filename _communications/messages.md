@@ -21,7 +21,7 @@ layout: "messages"
 - **16 décembre** : Compétition local pour la sélection de l'équipe de tir
 - **18 décembre** : Pratique du peloton de précision
 - **20 décembre** : Dernière soirée d'instruction avant le congé des fêtes
-- **21 décembre au 5 janvier ** : Congé des fëtes
+- **21 décembre au 5 janvier** : Congé des fëtes
 
 ## Coton Ouaté 
 
