@@ -5,7 +5,7 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 13 décembre 2024 de 18h30 à 21h15
+- **Date** : 20 décembre 2024 de 18h30 à 21h15
 - **Tenue** :
   - **Niveau Vert** : Tenue civil avec gilet rouge
   - **Niveau Rouge** : Tenue civil avec gilet rouge 
@@ -13,7 +13,7 @@ layout: "messages"
   - **Niveau Or** : Tenue civil avec gilet rouge
   - **Cadets séniors et position sur parade** : Tenue civil avec gilet rouge
 - **Lieu** : 52 St-Rosaire 
-- **Notes supplémentaires** : Apportez votre instrument de musique. 
+- **Notes supplémentaires** : Soirée d'information pour les camps d'été.  Les parents sont les bienvenues. 
 
    
 ## Activités à venir
@@ -25,7 +25,7 @@ layout: "messages"
 
 ## Coton Ouaté 
 
-Les chandails seront reçus cette semaine, nous avons eu un délai de livraison.  Nous commmuniquerons avec les cadets qui en ont acheter pour comment les récupérer.
+Les chandails seront reçus cette semaine, nous avons eu un délai de livraison.  Les chandails seront remis le 20 décembre.
 
 
 ## Vente aux enchères
