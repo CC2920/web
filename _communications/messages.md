@@ -13,7 +13,7 @@ layout: "messages"
   - **Niveau Or** : Tenue civil avec gilet rouge
   - **Cadets séniors et position sur parade** : Tenue civil avec gilet rouge
 - **Lieu** : 52 St-Rosaire 
-- **Notes supplémentaires** : Soirée d'information pour les camps d'été.  Les parents sont les bienvenues. 
+- **Notes supplémentaires** : Pratique de parade de 18:30 à 19h30 et soirée d'information pour les cadets et parents sur camps d'été de 19h45 à 21h00 dans le gymnase. 
 
    
 ## Activités à venir
@@ -37,12 +37,6 @@ La lettre ci-jointe offre plus de détails et nous vous invitons aussi à la par
 Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoyez une note à <cciv2920@gmail.com> ou donnez un coup de fil à 873-354-8426.
 
  
-## Tir
-- Qui : Pour les cadets qui ont participer à au moins un pratique depuis septembre SEULEMENT 
-- Heure : de 18h30 à 20h30, lundi soir
-- Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
-- Tenue : Civile
-- Matériel requis : Bouteille d'eau
 
 ## Exercice militaire (peloton de précision)
 
@@ -52,22 +46,6 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
 
-## Pratique de biathlon
-
-- Qui :  Pour les cadets inscrits 
-- Heure : de 8h30 à 12h00, samedi matin
-- Lieu : Camp Fortune
-- Tenue : Civile pour faire du sport a l'extérieur
-- Matériel requis : Bouteille d'eau et collation
-- Information supplémentaires :  Apportez votre équipement de ski, tuque, gants, vètement imperméable, 
-
-## Pratique de musique
-
-- Qui : Pour tous les cadets musiciens 
-- Heure : de 8h45 à 13:00, dimanche matin
-- Lieu : Centre Eugëne Sauvageau  
-- Tenue : Civile
-- Matériel requis : Instrument de musique, partitions, bouteille d'eau et collation
 
 ## Absence
 
