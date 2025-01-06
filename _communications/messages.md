@@ -5,7 +5,7 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 5 janvier 2025 de 18h30 à 21h15
+- **Date** : 10 janvier 2025 de 18h30 à 21h15
 - **Tenue** :
   - **Niveau Vert** : Tenue C5 (tenue d'instruction)
   - **Niveau Rouge** :Tenue C5 (tenue d'instruction)
@@ -94,7 +94,7 @@ Si vous vous avez des corrections à votre numéro de téléphone ou adresse, vo
 
 Les cadets qui ne désirent pas revenir cette année doivent rapporter leur uniforme. L'approvisionnement sera ouvert le mercredi soir entre 18h00 et 20h00 pour récupérer les uniformes.
 
-## Habillementquipe
+## Habillement
 
 Les cadets qui ont des pièces d'uniformes à échanger doivent visiter l'approvisionnement le vendredi soir entre 18h00 et 18h30 avec la pièce d'uniforme à échanger. L'officier d'approvisionnement regardera si la pièce est disponible immédiatement ou leur donnera un rendez-vous pour faire les échanges.
 
