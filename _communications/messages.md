@@ -5,28 +5,38 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 20 décembre 2024 de 18h30 à 21h15
+- **Date** : 5 janvier 2025 de 18h30 à 21h15
 - **Tenue** :
-  - **Niveau Vert** : Tenue civil avec gilet rouge
-  - **Niveau Rouge** : Tenue civil avec gilet rouge 
-  - **Niveau Argent** : Tenue civil avec gilet rouge
-  - **Niveau Or** : Tenue civil avec gilet rouge
-  - **Cadets séniors et position sur parade** : Tenue civil avec gilet rouge
+  - **Niveau Vert** : Tenue C5 (tenue d'instruction)
+  - **Niveau Rouge** :Tenue C5 (tenue d'instruction)
+  - **Niveau Argent** : Tenue C5 (tenue d'instruction)
+  - **Niveau Or** : Tenue C5 (tenue d'instruction)
+  - **Cadets séniors et position sur parade** : Tenue C5 (tenue d'instruction) 
 - **Lieu** : 52 St-Rosaire 
-- **Notes supplémentaires** : Pratique de parade de 18:30 à 19h30 et soirée d'information pour les cadets et parents sur camps d'été de 19h45 à 21h00 dans le gymnase. 
+- **Notes supplémentaires** : Les cadets de la musique doivent apporter leur instrument.  
 
    
 ## Activités à venir
  
-- **16 décembre** : Compétition local pour la sélection de l'équipe de tir
-- **18 décembre** : Pratique du peloton de précision
-- **20 décembre** : Dernière soirée d'instruction avant le congé des fêtes
-- **21 décembre au 5 janvier** : Congé des fëtes
+- **6 janvier** : Pratique de tir 
+- **8 janvier** : Pratique du peloton de précision
+- **10 janvier** : Soirée d'instruction (cours sur la maintenance des uniformes pour les niveaux vert et rouge et instructions pour le niveau argent et or)
+- **11 janvier** : Pratique de biathlon
+- **12 janvier** : Pratique de musique
+- **13 janvier** : Pratique de tir pour l'équipe de tir de compétition
+- **13 janvier** : Date limite pour les demandes d'emploi pour les postes de cadets cadres pour l'été 2025
+- **15 janvier** : Pratique du peloton de précision
+- **17 janvier** : Soirée de sports
+- **18 janvier** : Visite au musée de la guerre
+- **19 janvier** : Cours de premiers soins 
+
+## Dossier médical
+
+Les conditions médcales des cadets doivent validé pour pouvoir participer aux activitées hors du corps de cadets.  Au cours de cette semaine les parents des cadets qui ont des restrictions émises par l'organisation seront contacter par le commandant.
 
 ## Coton Ouaté 
 
-Les chandails seront reçus cette semaine, nous avons eu un délai de livraison.  Les chandails seront remis le 20 décembre.
-
+Les chandails seront remis vendredi aux cadets qui étaient absent le 20 décembre.
 
 ## Vente aux enchères
 
@@ -36,7 +46,14 @@ La lettre ci-jointe offre plus de détails et nous vous invitons aussi à la par
 
 Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoyez une note à <cciv2920@gmail.com> ou donnez un coup de fil à 873-354-8426.
 
- 
+## Pratique de tir 
+
+- Qui :  Pour tous les cadets 
+- Heure : de 18h00 à 20h30, Lundi soir
+- Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
+- Tenue : Civile
+- Matériel requis : Bouteille d'eau
+- Notes supplémentaires : Nous allons procéder à l'ajustement des carabines pour les membres de l'équipe de tir durant cette pratique
 
 ## Exercice militaire (peloton de précision)
 
@@ -45,6 +62,22 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
+
+## Pratique de biathlon
+
+- Qui :  Pour les cadets ayant déjà participé aux pratiques avant les fëtes
+- Heure : 8h30 à 14h30, Samedi
+- Lieu : Camp Fortune
+- Tenue : Civile 
+- Matériel requis : Apportez vos ski, batons, bottes, vëtement chaud, Tuque et gants
+
+## Pratique de musique
+
+- Qui :  Pour les cadets de la musique  
+- Heure : 8h30 à 13h30, Dimanche
+- Lieu : Manège militaire de Hull
+- Tenue : Civile 
+- Matériel requis : Apportez votre instruments, partitions 
 
 
 ## Absence
@@ -61,7 +94,7 @@ Si vous vous avez des corrections à votre numéro de téléphone ou adresse, vo
 
 Les cadets qui ne désirent pas revenir cette année doivent rapporter leur uniforme. L'approvisionnement sera ouvert le mercredi soir entre 18h00 et 20h00 pour récupérer les uniformes.
 
-## Habillement
+## Habillementquipe
 
 Les cadets qui ont des pièces d'uniformes à échanger doivent visiter l'approvisionnement le vendredi soir entre 18h00 et 18h30 avec la pièce d'uniforme à échanger. L'officier d'approvisionnement regardera si la pièce est disponible immédiatement ou leur donnera un rendez-vous pour faire les échanges.
 
