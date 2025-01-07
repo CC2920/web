@@ -30,12 +30,6 @@ layout: "messages"
 - **18 janvier** : Visite au musée de la guerre
 - **19 janvier** : Cours de premiers soins 
 
-## Dossier médical
-
-Les conditions médicales des cadets doivent validé pour pouvoir participer aux activitées hors du corps de cadets. 
-
-Au cours de cette semaine les parents des cadets qui ont des restrictions émises par l'organisation seront contacter par le commandant.
-
 ## Coton Ouaté 
 
 Les chandails seront remis vendredi aux cadets qui étaient absent le 20 décembre.
