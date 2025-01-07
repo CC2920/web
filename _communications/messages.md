@@ -32,7 +32,9 @@ layout: "messages"
 
 ## Dossier médical
 
-Les conditions médicales des cadets doivent validé pour pouvoir participer aux activitées hors du corps de cadets.  Au cours de cette semaine les parents des cadets qui ont des restrictions émises par l'organisation seront contacter par le commandant.
+Les conditions médicales des cadets doivent validé pour pouvoir participer aux activitées hors du corps de cadets. 
+
+Au cours de cette semaine les parents des cadets qui ont des restrictions émises par l'organisation seront contacter par le commandant.
 
 ## Coton Ouaté 
 
