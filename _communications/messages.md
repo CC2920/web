@@ -32,7 +32,9 @@ layout: "messages"
 
 ## Dossier médical
 
-Les conditions médcales des cadets doivent validé pour pouvoir participer aux activitées hors du corps de cadets.  Au cours de cette semaine les parents des cadets qui ont des restrictions émises par l'organisation seront contacter par le commandant.
+Les conditions médicales des cadets doivent validé pour pouvoir participer aux activitées hors du corps de cadets. 
+
+Au cours de cette semaine les parents des cadets qui ont des restrictions émises par l'organisation seront contacter par le commandant.
 
 ## Coton Ouaté 
 
@@ -49,7 +51,7 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 ## Pratique de tir 
 
 - Qui :  Pour tous les cadets 
-- Heure : de 18h00 à 20h30, Lundi soir
+- Heure : de 18h00 à 20h30, lundi soir
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
@@ -65,11 +67,11 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 
 ## Pratique de biathlon
 
-- Qui :  Pour les cadets ayant déjà participé aux pratiques avant les fëtes
+- Qui :  Pour les cadets ayant déjà participé aux pratiques avant les fêtes
 - Heure : 8h30 à 14h30, Samedi
 - Lieu : Camp Fortune
 - Tenue : Civile 
-- Matériel requis : Apportez vos ski, batons, bottes, vëtement chaud, Tuque et gants
+- Matériel requis : Apportez vos ski, batons, bottes, vêtement chaud, tuque et gants
 
 ## Pratique de musique
 
