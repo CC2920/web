@@ -87,7 +87,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 ## Administration
 
 Il est important d'apporter votre carte d'assurance maladie dès que vous en recevez une nouvelle pour que l'on mette à jour celle-ci dans votre dossier.
-hi
+
 Si vous vous avez des corrections à votre numéro de téléphone ou adresse, vous devez aviser le plus tôt possible l'officier d'administration. 
 
 ## Retour uniforme
