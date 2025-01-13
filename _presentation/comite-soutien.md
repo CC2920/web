@@ -28,7 +28,11 @@ le-comite-soutien:
       title: Administratrice
 
     - member: 
-      name: Mme Lizanne Sarrazin Poirier 
+      name: Mme Eliane Poulin
+      title: Administratrice
+
+    - member:
+      name: Mme Marie-eve Tessier
       title: Administratrice
 ---
 

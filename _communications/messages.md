@@ -5,30 +5,32 @@ layout: "messages"
  
 ## Soirée d'instruction  
 
-- **Date** : 10 janvier 2025 de 18h30 à 21h15
+- **Date** : 17 janvier 2025 de 18h30 à 21h15
 - **Tenue** :
-  - **Niveau Vert** : Tenue C5 (tenue d'instruction)
-  - **Niveau Rouge** :Tenue C5 (tenue d'instruction)
-  - **Niveau Argent** : Tenue C5 (tenue d'instruction)
-  - **Niveau Or** : Tenue C5 (tenue d'instruction)
-  - **Cadets séniors et position sur parade** : Tenue C5 (tenue d'instruction) 
+  - **Niveau Vert** : Tenue de sport avec gilet rouge
+  - **Niveau Rouge** : Tenue de sport avec gilet rouge
+  - **Niveau Argent** : Tenue de sport avec gilet rouge
+  - **Niveau Or** : Tenue de sport avec gilet rouge
+  - **Cadets séniors et position sur parade** : Tenue de sport avec gilet rouge
 - **Lieu** : 52 St-Rosaire 
 - **Notes supplémentaires** : Les cadets de la musique doivent apporter leur instrument.  
 
    
 ## Activités à venir
  
-- **6 janvier** : Pratique de tir 
-- **8 janvier** : Pratique du peloton de précision
-- **10 janvier** : Soirée d'instruction (cours sur la maintenance des uniformes pour les niveaux vert et rouge et instructions pour le niveau argent et or)
-- **11 janvier** : Pratique de biathlon
-- **12 janvier** : Pratique de musique
-- **13 janvier** : Pratique de tir pour l'équipe de tir de compétition
-- **13 janvier** : Date limite pour les demandes d'emploi pour les postes de cadets cadres pour l'été 2025
+- **13 janvier** : Pratique de tir
+- **14 janvier** : Date limite pour les demandes d'emploi pour les postes de cadets cadres pour l'été 2025
 - **15 janvier** : Pratique du peloton de précision
 - **17 janvier** : Soirée de sports
-- **18 janvier** : Visite au musée de la guerre
-- **19 janvier** : Cours de premiers soins 
+- **18 janvier** : Pratique de biathlon
+- **18 Janvier** : Visite musée de la guerre
+- **19 janvier** : Pratique de musique
+- **19 janvier** : Cours de premiers soins
+- **20 janvier** : Pratique de tir
+- **22 janvier** : Pratique du peloton de précision
+- **24 janvier** : Soirée d'instruction
+- **25 janvier** : Compétition de biathlon (catégorie participation)
+- **26 janvier** : Compétition de biathlon (Compétition régionale)
 
 ## Coton Ouaté 
 
@@ -44,7 +46,7 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 
 ## Pratique de tir 
 
-- Qui :  Pour tous les cadets 
+- Qui :  Pour les cadets qui ont participer a la compétition local au mois de décembre
 - Heure : de 18h00 à 20h30, lundi soir
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
@@ -62,7 +64,7 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 ## Pratique de biathlon
 
 - Qui :  Pour les cadets ayant déjà participé aux pratiques avant les fêtes
-- Heure : 8h30 à 14h30, Samedi
+- Heure : 8h30 à 14h00, Samedi
 - Lieu : Camp Fortune
 - Tenue : Civile 
 - Matériel requis : Apportez vos ski, batons, bottes, vêtement chaud, tuque et gants
@@ -75,6 +77,19 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 - Tenue : Civile 
 - Matériel requis : Apportez votre instruments, partitions 
 
+## Visite musée de la guerre
+- Qui :  Pour les cadets inscrits 
+- Heure : Depart du 52 St-Rosaire a 9h00 et retour a 15h30, Samedi
+- Lieu : Musée de la guerre
+- Tenue : Tenue d'instruction C5)
+- Matériel requis : Apportez votre lunch
+
+  ## Cours de premiers soins
+- Qui :  Pour les cadets inscrits
+- Heure : 8h30 à 16h00, Dimanche
+- Lieu : Legion Norris (231 Boulevard Maloney Ouest, Gatineau
+- Tenue : Civile 
+- Matériel requis : Papier, crayon et Apportez votre lunch
 
 ## Absence
 
