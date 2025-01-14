@@ -32,17 +32,30 @@ layout: "messages"
 - **25 janvier** : Compétition de biathlon (catégorie participation)
 - **26 janvier** : Compétition de biathlon (Compétition régionale)
 
+## Souper spaghetti
+
+Le souper spaghetti 🍝 annuel du Comié de soutien du cc 2920 sera le 22 février à la Légion royale canadienne filiale 58 - Gatineau. 
+
+83 cadets sur l'ardoise et seulement 250 billets, donc faites vite!
+
+Il y aura aussi une vente aux enchères, donc ceci est aussi un appel aux gens et commerces pour contributer des items pour bonifier celle-ci.
+
+La remise des billets, à la cantine, est suite au paiment seulement.
+
+Argent comptant ou preuve de virement au <cciv2920@gmail.com>.
+
+L’objectif de cette collecte est d’amasser des fonds pour payer de belles activités aux cadets. 
+
+Rappel du coût des différents billets:
+
+- 15$/adulte
+- 10$/ cadet(te) ou enfant de 12 ans et moins
+
+Vous pouvez envoyer vos questions ou votre offre d'items et certificats cadeaux au cciv2920@gmail.com!
+
 ## Coton Ouaté 
 
 Les chandails seront remis vendredi aux cadets qui étaient absent le 20 décembre.
-
-## Vente aux enchères
-
-Le comité de soutien sollicite les entreprises de la région pour contribuer des items, services ou certificats-cadeaux pour une vente aux enchères qui sera en lien avec le souper spaghetti du 22 février, 2025.
-
-La lettre ci-jointe offre plus de détails et nous vous invitons aussi à la partager avec des commerces et professionnels de votre réseau:  <https://drive.google.com/file/d/1sLnRmR51RpRTdQG4ko8FUwWXg5BqMHjs/view?usp=sharing>
-
-Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoyez une note à <cciv2920@gmail.com> ou donnez un coup de fil à 873-354-8426.
 
 ## Pratique de tir 
 
@@ -64,7 +77,7 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 ## Pratique de biathlon
 
 - Qui :  Pour les cadets ayant déjà participé aux pratiques avant les fêtes
-- Heure : 8h30 à 14h00, Samedi
+- Heure : 8h30 à 14h00, samedi
 - Lieu : Camp Fortune
 - Tenue : Civile 
 - Matériel requis : Apportez vos ski, batons, bottes, vêtement chaud, tuque et gants
@@ -72,21 +85,21 @@ Pour plus d’information ou pour coordonner le ramassage d’un item, SVP envoy
 ## Pratique de musique
 
 - Qui :  Pour les cadets de la musique  
-- Heure : 8h30 à 13h30, Dimanche
+- Heure : 8h45 à 13h00, dimanche
 - Lieu : Manège militaire de Hull
 - Tenue : Civile 
 - Matériel requis : Apportez votre instruments, partitions 
 
 ## Visite musée de la guerre
 - Qui :  Pour les cadets inscrits 
-- Heure : Depart du 52 St-Rosaire a 9h00 et retour a 15h30, Samedi
+- Heure : Depart du 52 St-Rosaire à 9h00 et retour à 15h30, samedi
 - Lieu : Musée de la guerre
-- Tenue : Tenue d'instruction C5)
+- Tenue : Tenue d'instruction (C5)
 - Matériel requis : Apportez votre lunch
 
   ## Cours de premiers soins
 - Qui :  Pour les cadets inscrits
-- Heure : 8h30 à 16h00, Dimanche
+- Heure : 8h30 à 16h00, dimanche
 - Lieu : Legion Norris (231 Boulevard Maloney Ouest, Gatineau
 - Tenue : Civile 
 - Matériel requis : Papier, crayon et Apportez votre lunch
