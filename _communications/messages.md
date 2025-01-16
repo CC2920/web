@@ -19,8 +19,7 @@ layout: "messages"
 ## Activités à venir
  
 - **13 janvier** : Pratique de tir
-- **14 janvier** : Date limite pour les demandes d'emploi pour les postes de cadets cadres pour l'été 2025
-- **15 janvier** : Pratique du peloton de précision
+-  **15 janvier** : Pratique du peloton de précision
 - **17 janvier** : Soirée de sports
 - **18 janvier** : Pratique de biathlon
 - **18 Janvier** : Visite musée de la guerre
@@ -29,6 +28,7 @@ layout: "messages"
 - **20 janvier** : Pratique de tir
 - **22 janvier** : Pratique du peloton de précision
 - **24 janvier** : Soirée d'instruction
+- **24 janvier** : Date limite pour les demandes d'emploi pour les postes de cadets cadres pour l'été 2025
 - **25 janvier** : Compétition de biathlon (catégorie participation)
 - **26 janvier** : Compétition de biathlon (Compétition régionale)
 
@@ -99,7 +99,7 @@ Les chandails seront remis vendredi aux cadets qui étaient absent le 20 décemb
 
   ## Cours de premiers soins
 - Qui :  Pour les cadets inscrits
-- Heure : 8h30 à 16h00, dimanche
+- Heure : 8h00 à 16h00, dimanche
 - Lieu : Legion Norris (231 Boulevard Maloney Ouest, Gatineau
 - Tenue : Civile 
 - Matériel requis : Papier, crayon et Apportez votre lunch
