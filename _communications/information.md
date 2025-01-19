@@ -2,10 +2,6 @@
 title:  "Information Générale"
 ---
 
-## Absence
-
-Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
-
 ## Administration
 
 Il est important d'apporter votre carte d'assurance maladie dès que vous en recevez une nouvelle pour que l'on mette à jour celle-ci dans votre dossier.
