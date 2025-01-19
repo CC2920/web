@@ -13,9 +13,8 @@ layout: "messages"
   - **Niveau Or** : Tenue de sport avec gilet rouge
   - **Cadets séniors et position sur parade** : Tenue de sport avec gilet rouge
 - **Lieu** : 52 St-Rosaire 
-- **Notes supplémentaires** : Les cadets de la musique doivent apporter leur instrument.  
+- **Notes supplémentaires** : Les cadets de la musique doivent apporter leur instrument.
 
-   
 ### Activités à venir
  
 - **20 janvier** : Pratique de tir
@@ -24,6 +23,11 @@ layout: "messages"
 - **24 janvier** : Date limite pour les demandes d'emploi pour les postes de cadets cadres pour l'été 2025
 - **25 janvier** : Compétition de biathlon (catégorie participation)
 - **26 janvier** : Compétition de biathlon (Compétition régionale)
+
+### Absence
+
+Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
+
 
 ## Souper spaghetti
 
