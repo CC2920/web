@@ -5,13 +5,13 @@ layout: "messages"
  
 ## Soirée d'instruction et activités
 
-- **Date** : 17 janvier 2025 de 18h30 à 21h15
+- **Date** : 24 janvier 2025 de 18h30 à 21h15
 - **Tenue** :
-  - **Niveau Vert** : Tenue de sport avec gilet rouge
-  - **Niveau Rouge** : Tenue de sport avec gilet rouge
-  - **Niveau Argent** : Tenue de sport avec gilet rouge
-  - **Niveau Or** : Tenue de sport avec gilet rouge
-  - **Cadets séniors et position sur parade** : Tenue de sport avec gilet rouge
+  - **Niveau Vert** : Tenue d'instrucrion (C5)
+  - **Niveau Rouge** : Tenue d'instrucrion (C5)
+  - **Niveau Argent** : Tenue d'instrucrion (C5)
+  - **Niveau Or** : Tenue d'instrucrion (C5)
+  - **Cadets séniors et position sur parade** : Tenue d'instrucrion (C5)
 - **Lieu** : 52 St-Rosaire 
 - **Notes supplémentaires** : Les cadets de la musique doivent apporter leur instrument.
 
@@ -21,9 +21,14 @@ layout: "messages"
 - **22 janvier** : Pratique du peloton de précision
 - **24 janvier** : Soirée d'instruction
 - **24 janvier** : Date limite pour les demandes d'emploi pour les postes de cadets cadres pour l'été 2025
+- **25 janvier** : Pratique de biathlon
 - **25 janvier** : Compétition de biathlon (catégorie participation)
 - **26 janvier** : Compétition de biathlon (Compétition régionale)
-
+- **26 janvier** : Examen théorique pour la musique
+- **27 janvier** : Pratique de tir
+- **29 janvier** : Pratique du peloton de précision
+- **31 janvier** : Parade du commandant et cérémonie de la promesse
+- 
 ### Absence
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
@@ -53,7 +58,7 @@ Rappel du coût des différents billets:
 
 ## Pratique de tir 
 
-- Qui :  Pour les cadets qui ont participer a la compétition local au mois de décembre
+- Qui :  Pour les cadets de l'équipe de compétition seulement
 - Heure : de 18h00 à 20h30, lundi soir
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
@@ -62,26 +67,43 @@ Rappel du coût des différents billets:
 
 ## Exercice militaire (peloton de précision)
 
-- Qui :  Pour les cadets inscrits 
+- Qui :  Pour les cadets de l'équipe de précision
 - Heure : de 18h30 à 20h30, mercredi soir
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
 
-## Pratique de biathlon
+## Pratique de biathlon 
 
-- Qui :  Pour les cadets ayant déjà participé aux pratiques avant les fêtes
-- Heure : 8h30 à 14h00, samedi
+- Qui :  Pour les cadets de l'équipe de biathlon
+- Heure : 8h30 à 12h00, samedi
 - Lieu : Camp Fortune
 - Tenue : Civile 
 - Matériel requis : Apportez vos ski, batons, bottes, vêtement chaud, tuque et gants
 
-## Pratique de musique
+## Compétition de biathlon participation 
 
-- Qui :  Pour les cadets de la musique  
-- Heure : 8h45 à 13h00, dimanche
-- Lieu : Manège militaire de Hull
+- Qui :  Pour les cadets inscrits dans cette catégorie
+- Heure : 12h00 à 16h00, samedi
+- Lieu : Camp Fortune
 - Tenue : Civile 
-- Matériel requis : Apportez votre instruments, partitions 
+- Matériel requis : Apportez vos ski, batons, bottes, vêtement chaud, tuque et gants
+- Notes supplémentaires : Les parents sont les bienvenue pour voir les compétiteurs .  Ils devront stationner au P11 et une navette sera en place pour les conduires au pied des sentiers de compétitions.  Les parents devront marcher pour se rendre au chalet des érables pour voir les cadets. AUCUN STATIONNEMENT NE SERA PERMIS DIRECTEMENT A CAMP FORTUNWE
 
 
+## Compétition de biathlon régionale 
+
+- Qui :  Pour les cadets inscrits dans cette catégorie
+- Heure : 8h00 à 16h00, dimanche
+- Lieu : Camp Fortune
+- Tenue : Civile 
+- Matériel requis : Apportez vos ski, batons, bottes, vêtement chaud, tuque et gants
+- Notes supplémentaires : Les parents sont les bienvenue pour voir les compétiteurs .  Ils devront stationner au P11 et une navette sera en place pour les conduires au pied des sentiers de compétitions.  Les parents devront marcher pour se rendre au chalet des érables pour voir les cadets. AUCUN STATIONNEMENT NE SERA PERMIS DIRECTEMENT A CAMP FORTUNWE
+
+## Demande de bénévoles pour le compétition de biathlon
+
+Si des parents veulent venir nous aider pour la compétitions, veuillez envoyer un courriel a l'adresse <mario.martel@cadets.gc.ca> d'ici mercredi soir avec votre numéro de téléphone. Nous avons besoin d'aide de 11h30 a 16h00 samedi et le dimanche de 9h00 a 16h00.
+
+## Habillement
+
+Les cadets qui n'ont pas recu l'unforme de parade doivent prendre un rendez-vous pour l'émission de celle-ci. 
