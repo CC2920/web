@@ -28,7 +28,8 @@ layout: "messages"
 - **27 janvier** : Pratique de tir
 - **29 janvier** : Pratique du peloton de précision
 - **31 janvier** : Parade du commandant et cérémonie de la promesse
-- 
+
+
 ### Absence
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
