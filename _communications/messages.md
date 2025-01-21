@@ -104,6 +104,6 @@ Rappel du coût des différents billets:
 
 Si des parents veulent venir nous aider pour la compétitions, veuillez envoyer un courriel a l'adresse <mario.martel@cadets.gc.ca> d'ici mercredi soir avec votre numéro de téléphone. Nous avons besoin d'aide de 11h30 a 16h00 samedi et le dimanche de 9h00 a 16h00.
 
-## Habillement
+## Uniforme de parade
 
-Les cadets qui n'ont pas recu l'unforme de parade doivent prendre un rendez-vous pour l'émission de celle-ci. 
+Les cadets qui n'ont pas reçu l'uniforme de parade doivent prendre un rendez-vous pour l'émission de celui-ci. 
