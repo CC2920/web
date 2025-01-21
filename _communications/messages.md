@@ -24,7 +24,7 @@ layout: "messages"
 - **25 janvier** : Pratique de biathlon
 - **25 janvier** : Compétition de biathlon (catégorie participation)
 - **26 janvier** : Compétition de biathlon (Compétition régionale)
-- **26 janvier** : Examen théorique pour la musique
+- **25 janvier** : Examen théorique pour la musique
 - **26 janvier** : Pratique de musique
 - **27 janvier** : Pratique de tir
 - **29 janvier** : Pratique du peloton de précision
