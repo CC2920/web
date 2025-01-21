@@ -25,10 +25,13 @@ layout: "messages"
 - **25 janvier** : Compétition de biathlon (catégorie participation)
 - **26 janvier** : Compétition de biathlon (Compétition régionale)
 - **26 janvier** : Examen théorique pour la musique
+- **26 janvier** : Pratique de musique
 - **27 janvier** : Pratique de tir
 - **29 janvier** : Pratique du peloton de précision
 - **31 janvier** : Parade du commandant et cérémonie de la promesse
-- 
+- **2 février** : Pratique de musique
+
+
 ### Absence
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
@@ -90,6 +93,13 @@ Rappel du coût des différents billets:
 - Matériel requis : Apportez vos ski, batons, bottes, vêtement chaud, tuque et gants
 - Notes supplémentaires : Les parents sont les bienvenue pour voir les compétiteurs .  Ils devront stationner au P11 et une navette sera en place pour les conduires au pied des sentiers de compétitions.  Les parents devront marcher pour se rendre au chalet des érables pour voir les cadets. AUCUN STATIONNEMENT NE SERA PERMIS DIRECTEMENT A CAMP FORTUNWE
 
+## Pratique de musique 
+
+- Qui :  Pour les cadets de la musique
+- Heure : 8h30 à 13h00, dimanche
+- Lieu : Manege militaire de Hull
+- Tenue : Civile 
+- Matériel requis : Apportez votre instrument  et partitions
 
 ## Compétition de biathlon régionale 
 
@@ -102,7 +112,7 @@ Rappel du coût des différents billets:
 
 ## Demande de bénévoles pour le compétition de biathlon
 
-Si des parents veulent venir nous aider pour la compétitions, veuillez envoyer un courriel a l'adresse <mario.martel@cadets.gc.ca> d'ici mercredi soir avec votre numéro de téléphone. Nous avons besoin d'aide de 11h30 a 16h00 samedi et le dimanche de 9h00 a 16h00.
+Si des parents veulent venir nous aider pour la compétitions, veuillez envoyer un courriel a l'adresse <mario.martel@cadets.gc.ca> d'ici mercredi soir avec votre numéro de téléphone. Nous avons besoin d'aide de 11h30 à 16h00 samedi et le dimanche de 9h00 à 16h00.
 
 ## Uniforme de parade
 
