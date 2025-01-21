@@ -7,11 +7,11 @@ layout: "messages"
 
 - **Date** : 24 janvier 2025 de 18h30 à 21h15
 - **Tenue** :
-  - **Niveau Vert** : Tenue d'instrucrion (C5)
-  - **Niveau Rouge** : Tenue d'instrucrion (C5)
-  - **Niveau Argent** : Tenue d'instrucrion (C5)
-  - **Niveau Or** : Tenue d'instrucrion (C5)
-  - **Cadets séniors et position sur parade** : Tenue d'instrucrion (C5)
+  - **Niveau Vert** : Tenue d'instruction (C5)
+  - **Niveau Rouge** : Tenue d'instruction (C5)
+  - **Niveau Argent** : Tenue d'instruction (C5)
+  - **Niveau Or** : Tenue d'instruction (C5)
+  - **Cadets séniors et position sur parade** : Tenue d'instruction (C5)
 - **Lieu** : 52 St-Rosaire 
 - **Notes supplémentaires** : Les cadets de la musique doivent apporter leur instrument.
 
@@ -21,10 +21,10 @@ layout: "messages"
 - **22 janvier** : Pratique du peloton de précision
 - **24 janvier** : Soirée d'instruction
 - **24 janvier** : Date limite pour les demandes d'emploi pour les postes de cadets cadres pour l'été 2025
+- **25 janvier** : Examen théorique pour la musique
 - **25 janvier** : Pratique de biathlon
 - **25 janvier** : Compétition de biathlon (catégorie participation)
 - **26 janvier** : Compétition de biathlon (Compétition régionale)
-- **25 janvier** : Examen théorique pour la musique
 - **26 janvier** : Pratique de musique
 - **27 janvier** : Pratique de tir
 - **29 janvier** : Pratique du peloton de précision
@@ -91,7 +91,7 @@ Rappel du coût des différents billets:
 - Lieu : Camp Fortune
 - Tenue : Civile 
 - Matériel requis : Apportez vos ski, batons, bottes, vêtement chaud, tuque et gants
-- Notes supplémentaires : Les parents sont les bienvenue pour voir les compétiteurs .  Ils devront stationner au P11 et une navette sera en place pour les conduires au pied des sentiers de compétitions.  Les parents devront marcher pour se rendre au chalet des érables pour voir les cadets. AUCUN STATIONNEMENT NE SERA PERMIS DIRECTEMENT A CAMP FORTUNWE
+- Notes supplémentaires : Les parents sont les bienvenue pour voir les compétiteurs.  Ils devront stationner au P11 et une navette sera en place pour les conduires au pied des sentiers de compétitions.  Les parents devront marcher pour se rendre au chalet des érables pour voir les cadets. AUCUN STATIONNEMENT NE SERA PERMIS DIRECTEMENT A CAMP FORTUNE
 
 ## Pratique de musique 
 
@@ -108,7 +108,7 @@ Rappel du coût des différents billets:
 - Lieu : Camp Fortune
 - Tenue : Civile 
 - Matériel requis : Apportez vos ski, batons, bottes, vêtement chaud, tuque et gants
-- Notes supplémentaires : Les parents sont les bienvenue pour voir les compétiteurs .  Ils devront stationner au P11 et une navette sera en place pour les conduires au pied des sentiers de compétitions.  Les parents devront marcher pour se rendre au chalet des érables pour voir les cadets. AUCUN STATIONNEMENT NE SERA PERMIS DIRECTEMENT A CAMP FORTUNWE
+- Notes supplémentaires : Les parents sont les bienvenue pour voir les compétiteurs.  Ils devront stationner au P11 et une navette sera en place pour les conduires au pied des sentiers de compétitions.  Les parents devront marcher pour se rendre au chalet des érables pour voir les cadets. AUCUN STATIONNEMENT NE SERA PERMIS DIRECTEMENT A CAMP FORTUNE
 
 ## Demande de bénévoles pour le compétition de biathlon
 
