@@ -103,7 +103,7 @@ Rappel du coût des différents billets:
 
 ## Demande de bénévoles pour le compétition de biathlon
 
-Si des parents veulent venir nous aider pour la compétitions, veuillez envoyer un courriel a l'adresse <mario.martel@cadets.gc.ca> d'ici mercredi soir avec votre numéro de téléphone. Nous avons besoin d'aide de 11h30 a 16h00 samedi et le dimanche de 9h00 a 16h00.
+Si des parents veulent venir nous aider pour la compétitions, veuillez envoyer un courriel a l'adresse <mario.martel@cadets.gc.ca> d'ici mercredi soir avec votre numéro de téléphone. Nous avons besoin d'aide de 11h30 à 16h00 samedi et le dimanche de 9h00 à 16h00.
 
 ## Uniforme de parade
 
