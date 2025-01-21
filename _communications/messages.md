@@ -96,7 +96,7 @@ Rappel du coût des différents billets:
 ## Pratique de musique 
 
 - Qui :  Pour les cadets de la musique
-- Heure : 8h30 à 13h00, dimanche
+- Heure : 8h45 à 13h00, dimanche
 - Lieu : Manege militaire de Hull
 - Tenue : Civile 
 - Matériel requis : Apportez votre instrument  et partitions
