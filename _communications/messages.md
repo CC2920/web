@@ -28,6 +28,7 @@ layout: "messages"
  
 - **27 janvier** : Pratique de tir
 - **29 janvier** : Pratique du peloton de précision
+- **30 janvier** : Dépannage pour les cadets ayant des problèmes avec cadets 365
 - **31 janvier** : Parade du commandant et cérémonie de la promesse
 - **31 janvier au 2 février** : EEO pour les cadets du niveau or qui ont été sélectionné
 - **1 février** : Examen de musique pratique pour les cadets de la musique
@@ -105,6 +106,14 @@ Rappel du coût des différents billets:
 - Tenue : Civile
 - Matériel requis : voir votre courriel de cadets 365
 - Note : Les cadets sélectionnés seront contactés mardi le 28 janvier en soirée.
+
+## Dépannage les comptes cadets 365
+
+- Qui :  Pour les cadets qui ont des problèmes avec leur compte cadets 365
+- Heure : 18h00 a 19h30
+- Lieu : 52 St-Rosaire 
+- Tenue : Civile
+- Matériel requis : Si vous avec téléphone cellulaire l'apporter avec vous pour la partie authentification
 
 ## Uniforme de parade
 
