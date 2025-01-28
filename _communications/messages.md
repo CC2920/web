@@ -92,15 +92,15 @@ Rappel du coût des différents billets:
 
 - Qui :  Pour les cadets du niveau Or sélectionné
 - Heure : Depart le 31 Janvier et retour le 2 février
-- Lieu : Depart du corps de cadets et retour a celui-ci 
+- Lieu : Depart du corps de cadets et retour à celui-ci 
 - Tenue : Civile
 - Matériel requis : voir votre courriel de cadets 365
-- Note : Les cadets sélectionné seront contacter mardi le 28 janvier en soirée.
+- Note : Les cadets sélectionné seront contacté mardi le 28 janvier en soirée.
 
  ## Parade du commandant et cérémomnie de la promesse
 
- - Qui :  Pour tous cadets 
-- Heure : de 20h150 à 21:15, vendredi soir
+ - Qui : Pour tous cadets 
+- Heure : 20h15 à 21:15, vendredi soir
 - Lieu : Grand gymnase de l'ecole nouveau monde
 - Tenue : Tenue de cérémonie (C1) pour les cadets qui l'ont reçu et tenue d'instruction (C5)  pour les autres
 - Note : Les parents sont invités à être présent car lors de la cérémonie de la promesse nous demanderons aux parents des cadets qui vont faire leur promesse de se placer derrière leur jeune en signe de support.
