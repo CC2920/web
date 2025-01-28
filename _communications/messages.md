@@ -5,31 +5,28 @@ layout: "messages"
  
 ## Soirée d'instruction et activités
 
-- **Date** : 24 janvier 2025 de 18h30 à 21h15
+- **Date** : 31 janvier 2025 de 18h30 à 21h15
 - **Tenue** :
-  - **Niveau Vert** : Tenue d'instruction (C5)
-  - **Niveau Rouge** : Tenue d'instruction (C5)
-  - **Niveau Argent** : Tenue d'instruction (C5)
-  - **Niveau Or** : Tenue d'instruction (C5)
-  - **Cadets séniors et position sur parade** : Tenue d'instruction (C5)
+  - **Niveau Vert** : Tenue  cérémonie (C1A) pour les cadets qui l'on déjà reçu ou tenue d'instruction (C5)
+  - **Niveau Rouge** : Tenue  cérémonie (C1A)
+  - **Niveau Argent** : Tenue  cérémonie (C1A)
+  - **Niveau Or** : Tenue  cérémonie (C1A)
+  - **Cadets séniors et position sur parade** : Tenue  cérémonie (C1A)
 - **Lieu** : 52 St-Rosaire 
 - **Notes supplémentaires** : Les cadets de la musique doivent apporter leur instrument.
 
 ### Activités à venir
  
-- **20 janvier** : Pratique de tir
-- **22 janvier** : Pratique du peloton de précision
-- **24 janvier** : Soirée d'instruction
-- **24 janvier** : Date limite pour les demandes d'emploi pour les postes de cadets cadres pour l'été 2025
-- **25 janvier** : Examen théorique pour la musique
-- **25 janvier** : Pratique de biathlon
-- **25 janvier** : Compétition de biathlon (catégorie participation)
-- **26 janvier** : Compétition de biathlon (Compétition régionale)
-- **26 janvier** : Pratique de musique
 - **27 janvier** : Pratique de tir
 - **29 janvier** : Pratique du peloton de précision
 - **31 janvier** : Parade du commandant et cérémonie de la promesse
+- **31 janvier au 2 février** : EEO pour les cadets du niveau or qui ont été sélectionné
+- **1 férvrier** : Examen de musique pratique pour les cadets de la musique
 - **2 février** : Pratique de musique
+- **3 février** : Pratique de tir
+- **5 février** : Pratique du peloton de précision
+- **7 février** : Soirée d'instruction
+- **9 février** : Pratique de musique
 
 
 ### Absence
@@ -76,23 +73,6 @@ Rappel du coût des différents billets:
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
 
-## Pratique de biathlon 
-
-- Qui :  Pour les cadets de l'équipe de biathlon
-- Heure : 8h30 à 12h00, samedi
-- Lieu : Camp Fortune
-- Tenue : Civile 
-- Matériel requis : Apportez vos ski, batons, bottes, vêtement chaud, tuque et gants
-
-## Compétition de biathlon participation 
-
-- Qui :  Pour les cadets inscrits dans cette catégorie
-- Heure : 12h00 à 16h00, samedi
-- Lieu : Camp Fortune
-- Tenue : Civile 
-- Matériel requis : Apportez vos ski, batons, bottes, vêtement chaud, tuque et gants
-- Notes supplémentaires : Les parents sont les bienvenue pour voir les compétiteurs.  Ils devront stationner au P11 et une navette sera en place pour les conduires au pied des sentiers de compétitions.  Les parents devront marcher pour se rendre au chalet des érables pour voir les cadets. AUCUN STATIONNEMENT NE SERA PERMIS DIRECTEMENT A CAMP FORTUNE
-
 ## Pratique de musique 
 
 - Qui :  Pour les cadets de la musique
@@ -101,18 +81,29 @@ Rappel du coût des différents billets:
 - Tenue : Civile 
 - Matériel requis : Apportez votre instrument  et partitions
 
-## Compétition de biathlon régionale 
+## Examen de musique
 
-- Qui :  Pour les cadets inscrits dans cette catégorie
-- Heure : 8h00 à 16h00, dimanche
-- Lieu : Camp Fortune
+- Qui :  Pour les cadets qui ont réussi l'examen théorique
+- Heure : voir le liens teams dans votre cadets 365
+- Lieu : Liens Teams
 - Tenue : Civile 
-- Matériel requis : Apportez vos ski, batons, bottes, vêtement chaud, tuque et gants
-- Notes supplémentaires : Les parents sont les bienvenue pour voir les compétiteurs.  Ils devront stationner au P11 et une navette sera en place pour les conduires au pied des sentiers de compétitions.  Les parents devront marcher pour se rendre au chalet des érables pour voir les cadets. AUCUN STATIONNEMENT NE SERA PERMIS DIRECTEMENT A CAMP FORTUNE
 
-## Demande de bénévoles pour le compétition de biathlon
+## EEO
 
-Si des parents veulent venir nous aider pour la compétitions, veuillez envoyer un courriel a l'adresse <mario.martel@cadets.gc.ca> d'ici mercredi soir avec votre numéro de téléphone. Nous avons besoin d'aide de 11h30 à 16h00 samedi et le dimanche de 9h00 à 16h00.
+- Qui :  Pour les cadets du niveau Or sélectionné
+- Heure : Depart le 31 Janvier et retour le 2 février
+- Lieu : Depart du corps de cadets et retour a celui-ci 
+- Tenue : Civile
+- Matériel requis : voir votre courriel de cadets 365
+- Note : Les cadets sélectionné seront contacter mardi le 28 janvier en soirée.
+
+ ## Parade du commandant et cérémomnie de la promesse
+
+ - Qui :  Pour tous cadets 
+- Heure : de 20h150 à 21:15, vendredi soir
+- Lieu : Grand gymnase de l'ecole nouveau monde
+- Tenue : Tenue de cérémonie (C1) pour les cadets qui l'ont reçu et tenue d'instruction (C5)  pour les autres
+- Note : Les parents sont invités à être présent car lors de la cérémonie de la promesse nous demanderons aux parents des cadets qui vont faire leur promesse de se placer derrière leur jeune en signe de support.
 
 ## Uniforme de parade
 
