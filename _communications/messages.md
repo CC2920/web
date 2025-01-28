@@ -6,8 +6,8 @@ layout: "messages"
 ## Soirée d'instruction et activités
 
 - **Date** : 31 janvier 2025 de 18h30 à 21h15
-- **Tenue** :
-  - **Niveau Vert** : Tenue  cérémonie (C1A) pour les cadets qui l'on déjà reçu ou tenue d'instruction (C5)
+- **Tenue** ([guide de l'uniforme](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)) :
+  - **Niveau Vert** : Tenue  cérémonie (C1A) pour les cadets qui l'ont déjà reçu ou tenue d'instruction (C5)
   - **Niveau Rouge** : Tenue  cérémonie (C1A)
   - **Niveau Argent** : Tenue  cérémonie (C1A)
   - **Niveau Or** : Tenue  cérémonie (C1A)
@@ -15,13 +15,22 @@ layout: "messages"
 - **Lieu** : 52 St-Rosaire 
 - **Notes supplémentaires** : Les cadets de la musique doivent apporter leur instrument.
 
+### Parade du commandant et cérémomnie de la promesse
+
+- Qui : Pour tous cadets 
+- Heure : 20h15 à 21:15, vendredi soir
+- Lieu : Grand gymnase de l'école nouveau monde
+- Tenue : Tenue de cérémonie (C1) pour les cadets qui l'ont reçu et tenue d'instruction (C5)  pour les autres
+- **Note** : Les parents sont invités à être présent lors de la cérémonie de la promesse. Nous demanderons aux parents des cadets qui vont faire leur promesse de se placer derrière leur jeune en signe de support.
+
+
 ### Activités à venir
  
 - **27 janvier** : Pratique de tir
 - **29 janvier** : Pratique du peloton de précision
 - **31 janvier** : Parade du commandant et cérémonie de la promesse
 - **31 janvier au 2 février** : EEO pour les cadets du niveau or qui ont été sélectionné
-- **1 férvrier** : Examen de musique pratique pour les cadets de la musique
+- **1 février** : Examen de musique pratique pour les cadets de la musique
 - **2 février** : Pratique de musique
 - **3 février** : Pratique de tir
 - **5 février** : Pratique du peloton de précision
@@ -36,7 +45,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 ## Souper spaghetti
 
-Le souper spaghetti 🍝 annuel du Comié de soutien du cc 2920 sera le 22 février à la Légion royale canadienne filiale 58 - Gatineau. Les parents, oncles et tantes,  grands-parents, amis et amies peuvent venir aussi et il y a une option de sauce végétarienne.
+Le souper spaghetti 🍝 annuel du Comité de soutien du cc 2920 sera le 22 février à la Légion royale canadienne filiale 58 - Gatineau. Les parents, oncles et tantes,  grands-parents, amis et amies peuvent venir aussi et il y a une option de sauce végétarienne.
 
 Il y aura aussi une vente aux enchères, donc ceci est aussi un appel aux gens et commerces pour contributer des items pour bonifier celle-ci. Vous pouvez envoyer vos questions ou votre offre d'items et certificats cadeaux au cciv2920@gmail.com!
 
@@ -48,7 +57,7 @@ Le comité utilise les profits de la soirée pour payer des choses qui ne sont p
 
 ### Billets
 
-La remise des billets, à la cantine, est suite au paiment seulement. Argent comptant ou preuve de virement au <cciv2920@gmail.com>.
+La remise des billets, à la cantine, à la suite du paiement seulement. Argent comptant ou preuve de virement au <cciv2920@gmail.com>.
 
 Rappel du coût des différents billets:
 
@@ -77,7 +86,7 @@ Rappel du coût des différents billets:
 
 - Qui :  Pour les cadets de la musique
 - Heure : 8h45 à 13h00, dimanche
-- Lieu : Manege militaire de Hull
+- Lieu : Manège militaire de Hull
 - Tenue : Civile 
 - Matériel requis : Apportez votre instrument  et partitions
 
@@ -88,22 +97,14 @@ Rappel du coût des différents billets:
 - Lieu : Liens Teams
 - Tenue : Civile 
 
-## EEO
+## Exercice d'expédition niveau or (EEO)
 
-- Qui :  Pour les cadets du niveau Or sélectionné
-- Heure : Depart le 31 Janvier et retour le 2 février
-- Lieu : Depart du corps de cadets et retour à celui-ci 
+- Qui :  Pour les cadets du niveau Or sélectionnés
+- Heure : Départ le 31 janvier et retour le 2 février
+- Lieu : Départ du corps de cadets et retour à celui-ci 
 - Tenue : Civile
 - Matériel requis : voir votre courriel de cadets 365
-- Note : Les cadets sélectionné seront contacté mardi le 28 janvier en soirée.
-
- ## Parade du commandant et cérémomnie de la promesse
-
- - Qui : Pour tous cadets 
-- Heure : 20h15 à 21:15, vendredi soir
-- Lieu : Grand gymnase de l'ecole nouveau monde
-- Tenue : Tenue de cérémonie (C1) pour les cadets qui l'ont reçu et tenue d'instruction (C5)  pour les autres
-- Note : Les parents sont invités à être présent car lors de la cérémonie de la promesse nous demanderons aux parents des cadets qui vont faire leur promesse de se placer derrière leur jeune en signe de support.
+- Note : Les cadets sélectionnés seront contactés mardi le 28 janvier en soirée.
 
 ## Uniforme de parade
 
