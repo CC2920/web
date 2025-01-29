@@ -87,7 +87,7 @@ Rappel du coût des différents billets:
 
 - Qui :  Pour les cadets de la musique
 - Heure : 8h45 à 13h00, dimanche
-- Lieu : Manège militaire de Hull
+- Lieu : Centre Eugene-Sauvageau
 - Tenue : Civile 
 - Matériel requis : Apportez votre instrument  et partitions
 
