@@ -101,18 +101,18 @@ Rappel du coût des différents billets:
 
 ## Soirée de prépation pour l'exercice aventurier hivernal pour les cadets de niveau rouge, argent, or et séniors 
 
-Qui : Tous les cadets de niveau rouge, argent, or et sénior qui voont participer à l'exercice hivernale du 14 au 16 février
-Heure : A confirmer
-Lieu : Manège militaire de Hull
-Tenue : Tenue d'instruction
+- Qui : Tous les cadets de niveau rouge, argent, or et sénior qui voont participer à l'exercice hivernale du 14 au 16 février
+- Heure : A confirmer
+- Lieu : Manège militaire de Hull
+- Tenue : Tenue d'instruction
 
 ## Exercice aventurier hivernal
 
-Qui : Tous les cadets inscrits le vendredi 7 février (Aucunes inscriptions ne sera possible après cette date a cause des places qui sont limité)
-Heure : Heure de début et de fin seront confirmé le 7 février
-Lieu : Description complète dans les prochains messages
-Tenue : Civil 
-Note : Une liste complète du matériel sera remis aux participants le 7 février
+- Qui : Tous les cadets inscrits le vendredi 7 février (Aucunes inscriptions ne sera possible après cette date a cause des places qui sont limité)
+- Heure : Heure de début et de fin seront confirmé le 7 février
+- Lieu : Description complète dans les prochains messages
+- Tenue : Civil 
+- Note : Une liste complète du matériel sera remis aux participants le 7 février
 
 
 
