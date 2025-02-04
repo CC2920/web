@@ -18,14 +18,14 @@ layout: "messages"
 ### Activités à venir
  
 - **3 février** : Pratique de tir
-- **4 février** : conférence sur le camps d'été en virtuel
+- **4 février** : conférence sur les camps d'été en virtuel
 - **5 février** : Pratique du peloton de précision
 - **6 février** : Dépannage pour les cadets ayant des problèmes avec cadets 365
 - **7 février** : Soirée d'instruction 
 - **9 février** : Pratique de musique
 - **10 février** : Pratique de tir
 - **12 février** : Pratique du peloton de précision
-- **12 février** : Soirée de prépation pour l'exercice aventurier hivernal pour les cadets de niveau rouge, argent, or et séniors 
+- **12 février** : Soirée de préparation pour l'exercice aventurier hivernal pour les cadets de niveau rouge, argent, or et séniors 
 - **14 au 16 février** : Exercice aventurier hivernal
 - **17 février** : Pratique de tir
 - **19 février** : Pratique du peloton de précision
@@ -42,7 +42,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 Le souper spaghetti 🍝 annuel du Comité de soutien du cc 2920 sera le 22 février à la Légion royale canadienne filiale 58 - Gatineau. Les parents, oncles et tantes,  grands-parents, amis et amies peuvent venir aussi et il y a une option de sauce végétarienne.
 
-Il y aura aussi une vente aux enchères, donc ceci est aussi un appel aux gens et commerces pour contributer des items pour bonifier celle-ci. Vous pouvez envoyer vos questions ou votre offre d'items et certificats cadeaux au cciv2920@gmail.com!
+Il y aura aussi une vente aux enchères, donc ceci est aussi un appel aux gens et commerces pour contribuer des items pour bonifier celle-ci. Vous pouvez envoyer vos questions ou votre offre d'items et certificats cadeaux au cciv2920@gmail.com!
 
 ### Objectif
 
@@ -70,8 +70,8 @@ Rappel du coût des différents billets:
 
 ## Conférence sur les camps d'été 2025
 - Qui : tous les cadets qui veulent participer aux camps d'été 2025
-- Heure : 19h00 à 20h00
-- Lieu :  ([MS Teams}](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQ4OTAzZmUtOGZmZS00NDVmLWEzZjgtMTFlZWJjZjVjNjY2%40thread.v2/0?context=%7b%22Tid%22%3a%22ab126afb-e60c-4e2f-b6cf-c7350c76dc84%22%2c%22Oid%22%3a%22235f3956-46df-444e-b59e-8b900c01fc8b%22%7d)
+- Heure : 19h00 à 20h00, mardi
+- Lieu :  [MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDQ4OTAzZmUtOGZmZS00NDVmLWEzZjgtMTFlZWJjZjVjNjY2%40thread.v2/0?context=%7b%22Tid%22%3a%22ab126afb-e60c-4e2f-b6cf-c7350c76dc84%22%2c%22Oid%22%3a%22235f3956-46df-444e-b59e-8b900c01fc8b%22%7d)
 - Meeting ID: 244 919 176 19
 - Passcode: qJ7hf3WRMet
 
@@ -86,10 +86,10 @@ Rappel du coût des différents billets:
 ## Dépannage les comptes cadets 365
 
 - Qui :  Pour les cadets qui ont des problèmes avec leur compte cadets 365
-- Heure : 18h00 a 19h30
+- Heure : 18h00 a 19h30, jeudi
 - Lieu : 52 St-Rosaire 
 - Tenue : Civile
-- Matériel requis : Si vous avec téléphone cellulaire l'apporter avec vous pour la partie authentificationxercice hivernale
+- Matériel requis : Si vous avez un téléphone cellulaire, l'apporter avec vous pour la partie authentification
 
 ## Pratique de musique 
 
@@ -99,19 +99,19 @@ Rappel du coût des différents billets:
 - Tenue : Civile 
 - Matériel requis : Apportez votre instrument  et partitions
 
-## Soirée de prépation pour l'exercice aventurier hivernal pour les cadets de niveau rouge, argent, or et séniors 
+## Soirée de préparation pour l'exercice aventurier hivernal pour les cadets de niveau rouge, argent, or et séniors 
 
 - Qui : Tous les cadets de niveau rouge, argent, or et sénior qui voont participer à l'exercice hivernale du 14 au 16 février
-- Heure : A confirmer
+- Heure : à confirmer
 - Lieu : Manège militaire de Hull
 - Tenue : Tenue d'instruction
 
 ## Exercice aventurier hivernal
 
-- Qui : Tous les cadets inscrits le vendredi 7 février (Aucunes inscriptions ne sera possible après cette date a cause des places qui sont limité)
-- Heure : Heure de début et de fin seront confirmé le 7 février
+- Qui : Tous les cadets inscrits le vendredi 7 février (Aucunes inscriptions ne sera possible après cette date à cause des places qui sont limitées)
+- Heure : Heure de début et de fin seront confirmées le 7 février
 - Lieu : Description complète dans les prochains messages
-- Tenue : Civil 
+- Tenue : Civile
 - Note : Une liste complète du matériel sera remis aux participants le 7 février
 
 
