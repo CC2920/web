@@ -90,7 +90,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 - Qui :  Pour les cadets de la musique
 - Heure : 8h45 à 13h00, dimanche
-- Lieu : Centre Eugene-Sauvageau
+- Lieu : Manège militaire de Hull
 - Tenue : Civile 
 - Matériel requis : Apportez votre instrument  et partitions
 
