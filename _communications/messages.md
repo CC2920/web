@@ -58,12 +58,13 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 
 ## Souper spaghetti 22 février
- **DERNIERE CHANCE** 
-Achetez vos billets pour le souper spaghetti 🍝  d'ici le vendredi 14 février à la cantine en argent comptant ou par virement au <cciv2920@gmail.com>. 
+ **DERNIERE CHANCE**
+ 
+- Achetez vos billets pour le souper spaghetti 🍝  d'ici le vendredi 14 février à la cantine en argent comptant ou par virement au <cciv2920@gmail.com>. 
 
-Rappel du coût des différents billets:
-- 15$/adulte
-- 10$/ cadet(te) ou enfant de 12 ans et moins
+- Rappel du coût des différents billets:
+-   15$/adulte
+-   10$/ cadet(te) ou enfant de 12 ans et moins
 **Pas de vente à la porte**
 
   
