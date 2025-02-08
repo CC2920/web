@@ -4,7 +4,7 @@ layout: "messages"
 ---
 
 ## Soirée d'instruction
-Il n'y a pas de soirée d'instruction au corps de cadets cette semaine pour les cadets non participants a l'exercice hivernal
+Il n'y a pas de soirée d'instruction au corps de cadets cette semaine pour les cadets ne participants à l'exercice hivernal.
 
 ## Exercice hivernal 
 - **Date** : 14 février 2025 18h30 au 16 février 2025 15h00 
