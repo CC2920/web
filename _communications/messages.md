@@ -65,7 +65,9 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Rappel du coût des différents billets:
 -   15$/adulte
 -   10$/ cadet(te) ou enfant de 12 ans et moins
+
 **Pas de vente à la porte**
+
 
   
 ## Pratique de tir 
