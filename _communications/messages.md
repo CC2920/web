@@ -34,7 +34,7 @@ Il n'y a pas de soirée d'instruction au corps de cadets cette semaine pour les 
 •	2  (de chaque)    Tuques, mitaines ou gants, foulards ou cache-cou   
 •	2-3 Bas de laine (pas de coton)  
 •	Lunettes soleil, 
-**apporter des vêtements de rechange : combines, bas, chandails chauds, t-shirts**
+- **apporter des vêtements de rechange : combines, bas, chandails chauds, t-shirts**
   
 
 
