@@ -12,6 +12,7 @@ Il n'y a pas de soirée d'instruction au corps de cadets cette semaine pour les 
 - **Lieu** : Manège militaire de Hull (188 Boul Alexandre taché)
 - **Tenue** : vêtement civil adapter aux prévisions météo de la fin de semaine
 - **Liste de matériel pour les cadets participants** :
+
 •	Feuille de consentement des parents 
 •	1 Carte d’assurance maladie  
 •	1 Sac solide pour transporter son équipement (Regrouper le matériel dans un seul sac).  
