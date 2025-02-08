@@ -2,11 +2,42 @@
 title:  "Messages de la semaine"
 layout: "messages"
 ---
- 
+
+## Soirée d'instruction
+Il n'y a pas de soirée d'instruction au corps de cadets cette semaine pour les cadets non participants a l'exercice hivernal
+
 ## Exercice hivernal 
-- **Date** : 14 février 2025 18h30 au 16 février 2025 16h00 
-- **Lieu** : Manège militaire de Hull (Boul Tache)
-- **Notes supplémentaires** : Les cadets doivent apporter la liste de matériel qui leur a été remis le 7 février
+- **Date** : 14 février 2025 18h30 au 16 février 2025 15h00 
+- **Qui** : Seulement les cadets inscrits le vendredi 7 février (Aucunes inscriptions possible après cette date)
+- **Lieu** : Manège militaire de Hull (188 Boul Alexandre taché)
+- **Tenue** : vêtement civil adapter aux prévisions météo de la fin de semaine
+- **Liste de matériel pour les cadets participants** :
+
+•	Feuille de consentement des parents 
+•	1 Carte d’assurance maladie  
+•	1 Sac solide pour transporter son équipement (Regrouper le matériel dans un seul sac).  
+•	1 Gourde ou bouteille d’eau (contenant)  
+•	1 Kit hygiène personnelle (brosse à dents, dentifrice, savon, serviette, brosse, rasoirs, crème, baume à lèvres, etc)  
+•	Médicaments (en quantité suffisante)   (Prière d’indiquer la posologie et aviser l’officier en charge).  
+•	1 Sac à dos (format pour une journée)  
+•	4 Paires de bas chauds et sous-vêtements et rechange  
+•	3 Sous-vêtements (+ au moins deux de rechange)  
+•	1 Pyjamas  
+•	2 Pantalons de sports ou de plein air – de toile ou coton  (PAS DE JEANS)  
+•	3-4 T-shirts   
+•	2 Chandails chauds (laine, polar, etc.)  
+•	1 Casquette, chapeau et foulard  
+•	1 Sous-vêtements longs (combine) – haut et bas / combinaisons thermales  
+•	1 Manteau d’hiver ou anorak  
+•	1 Pantalon de neige  
+•	1 Bottes d’hiver  
+•	2  (de chaque)    Tuques, mitaines ou gants, foulards ou cache-cou   
+•	2-3 Bas de laine (pas de coton)  
+•	Lunettes soleil, 
+- **apporter des vêtements de rechange : combines, bas, chandails chauds, t-shirts**
+  
+
+
 
 ### Activités à venir
  
@@ -26,27 +57,19 @@ layout: "messages"
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
 
 
-## Souper spaghetti
+## Souper spaghetti 22 février
+ **DERNIERE CHANCE**
+ 
+- Achetez vos billets pour le souper spaghetti 🍝  d'ici le vendredi 14 février à la cantine en argent comptant ou par virement au <cciv2920@gmail.com>. 
 
-Le souper spaghetti 🍝 annuel du Comité de soutien du cc 2920 sera le 22 février à la Légion royale canadienne filiale 58 - Gatineau. Les parents, oncles et tantes,  grands-parents, amis et amies peuvent venir aussi et il y a une option de sauce végétarienne.
+- Rappel du coût des différents billets:
+-   15$/adulte
+-   10$/ cadet(te) ou enfant de 12 ans et moins
 
-Il y aura aussi une vente aux enchères, donc ceci est aussi un appel aux gens et commerces pour contribuer des items pour bonifier celle-ci. Vous pouvez envoyer vos questions ou votre offre d'items et certificats cadeaux au cciv2920@gmail.com!
+**Pas de vente à la porte**
 
-### Objectif
 
-L’objectif de cette collecte est d’amasser des fonds pour payer de belles activités aux cadets. 
-
-Le comité utilise les profits de la soirée pour payer des choses qui ne sont pas financées par les Forces, comme les instruments de musique, l'équipement de biathlon, les plaques que les cadets reçoivent lorsqu'ils sont récipiendaires de trophées, le souper régimentaire, les fêtes de Noël et de l'Halloween etc.
-
-### Billets
-
-La remise des billets, à la cantine, à la suite du paiement seulement. Argent comptant ou preuve de virement au <cciv2920@gmail.com>.
-
-Rappel du coût des différents billets:
-
-- 15$/adulte
-- 10$/ cadet(te) ou enfant de 12 ans et moins
-
+  
 ## Pratique de tir 
 
 - Qui :  Pour les cadets de l'équipe de compétition seulement
@@ -63,15 +86,6 @@ Rappel du coût des différents billets:
 - ID de réunion : 229 543 808 706
 - Code secret : ci29Yd3X
 
-## Exercice militaire (peloton de précision)
-
-- Qui :  Pour les cadets de l'équipe de précision
-- Heure : de 18h30 à 20h30, mercredi soir
-- Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
-- Tenue : Civile
-- Matériel requis : Bouteille d'eau
-
-
 ## Pratique de musique 
 
 - Qui :  Pour les cadets de la musique
@@ -86,15 +100,6 @@ Rappel du coût des différents billets:
 - Heure : Mercredi 12 février 18h30 a 21h00
 - Lieu : Manège militaire de Hull
 - Tenue : Tenue d'instruction
-
-## Exercice aventurier hivernal
-
-- Qui : Tous les cadets inscrits le vendredi 7 février (Aucunes inscriptions ne sera possible après cette date à cause des places qui sont limitées)
-- Heure : Vendredi 14 février 18h39 au Dimanche 16 février 16h00
-- Lieu : Manège militaire de Hull 
-- Tenue : Civile hivernal
-- Note : Une liste complète du matériel sera remis aux participants le 7 février
-
 
 
 
