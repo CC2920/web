@@ -45,7 +45,8 @@ Il n'y a pas de soirée d'instruction au corps de cadets cette semaine pour les 
 - **9 février** : Pratique de musique
 - **9 février** : conférence sur les camps d'été en virtuel
 - **10 février** : Pratique de tir
-- **12 février** : Soirée de préparation pour l'exercice aventurier hivernal pour les cadets de niveau rouge, argent, or et séniors 
+- **12 février** : Soirée de préparation pour l'exercice aventurier hivernal pour les cadets de niveau rouge, argent, or et séniors
+- **13 février** : Date limite pour appliquer sur les camps d'été
 - **14 au 16 février** : Exercice aventurier hivernal
 - **17 février** : Pratique de tir
 - **19 février** : Pratique du peloton de précision
@@ -57,7 +58,11 @@ Il n'y a pas de soirée d'instruction au corps de cadets cette semaine pour les 
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
 
+## Camps d'été applications 2025
 
+- Les cadets qui veulent appliquer sur les camps d'été 2025 doivent compléter le formulaire en ligne [Forms]( https://docs.google.com/forms/d/1KsOK2UG47XV_LoGh8GlfSngCgGIepXypyyOg1XjpaeU/edit) pour le 13 février
+
+  
 ## Souper spaghetti 22 février
  **DERNIERE CHANCE**
  
