@@ -17,13 +17,13 @@ Il n'y a pas de soirée d'instruction au corps de cadets cette semaine pour les 
 •	1 Carte d’assurance maladie  
 •	1 Sac solide pour transporter son équipement (Regrouper le matériel dans un seul sac).  
 •	1 Gourde ou bouteille d’eau (contenant)  
-•	1 Kit hygiène personnelle (brosse à dents, dentifrice, savon, serviette, brosse, rasoirs, crème, baume à lèvres, etc)  
-•	Médicaments (en quantité suffisante)   (Prière d’indiquer la posologie et aviser l’officier en charge).  
+•	1 Kit hygiène personnelle (brosse à dents, dentifrice, savon, serviette, brosse, rasoirs, crème, baume à lèvres, etc.) 
+•	Médicaments (en quantité suffisante) (Prière d’indiquer la posologie et aviser l’officier en charge)  
 •	1 Sac à dos (format pour une journée)  
 •	4 Paires de bas chauds et sous-vêtements et rechange  
 •	3 Sous-vêtements (+ au moins deux de rechange)  
 •	1 Pyjamas  
-•	2 Pantalons de sports ou de plein air – de toile ou coton  (PAS DE JEANS)  
+•	2 Pantalons de sports ou de plein air – de toile ou coton (PAS DE JEANS)  
 •	3-4 T-shirts   
 •	2 Chandails chauds (laine, polar, etc.)  
 •	1 Casquette, chapeau et foulard  
@@ -31,9 +31,10 @@ Il n'y a pas de soirée d'instruction au corps de cadets cette semaine pour les 
 •	1 Manteau d’hiver ou anorak  
 •	1 Pantalon de neige  
 •	1 Bottes d’hiver  
-•	2  (de chaque)    Tuques, mitaines ou gants, foulards ou cache-cou   
+•	2 de chaque: Tuques, mitaines ou gants, foulards ou cache-cou   
 •	2-3 Bas de laine (pas de coton)  
-•	Lunettes soleil, 
+•	Lunettes soleil
+
 - **apporter des vêtements de rechange : combines, bas, chandails chauds, t-shirts**
   
 
@@ -92,15 +93,19 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Heure : 8h45 à 13h00, dimanche
 - Lieu : Manège militaire de Hull
 - Tenue : Civile 
-- Matériel requis : Apportez votre instrument  et partitions
+- Matériel requis : Apportez votre instrument et partitions
 
 ## Soirée de préparation pour l'exercice aventurier hivernal pour les cadets de niveau rouge, argent, or et séniors 
 
-- Qui : Tous les cadets de niveau rouge, argent, or et sénior qui voont participer à l'exercice hivernale du 14 au 16 février
-- Heure : Mercredi 12 février 18h30 a 21h00
+- Qui : Tous les cadets de niveau rouge, argent, or et sénior qui vont participer à l'exercice hivernale du 14 au 16 février
+- Heure : Mercredi 12 février 18h30 à 21h00
 - Lieu : Manège militaire de Hull
 - Tenue : Tenue d'instruction
 
+## Photos de parade 
+
+L'album photo de la dernière parade du commandant est maintenant disponible dans la section des Prix et mérites : 
+[Album photos](https://cc2920.ca/prix/photos/#2024-2025).
 
 
 
