@@ -11,7 +11,9 @@ Il n'y a pas de soirée d'instruction au corps de cadets cette semaine pour les 
 - **Qui** : Seulement les cadets inscrits le vendredi 7 février (Aucunes inscriptions possible après cette date)
 - **Lieu** : Manège militaire de Hull (188 Boul Alexandre taché)
 - **Tenue** : vêtement civil adapter aux prévisions météo de la fin de semaine
-- **Liste de matériel pour les cadets participants** :
+
+
+**Liste de matériel pour les cadets participants** :
 
 •	Feuille de consentement des parents 
 •	1 Carte d’assurance maladie  
@@ -35,7 +37,7 @@ Il n'y a pas de soirée d'instruction au corps de cadets cette semaine pour les 
 •	2-3 Bas de laine (pas de coton)  
 •	Lunettes soleil
 
-- **apporter des vêtements de rechange : combines, bas, chandails chauds, t-shirts**
+**apporter des vêtements de rechange : combines, bas, chandails chauds, t-shirts**
   
 
 
@@ -60,19 +62,19 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 ## Camps d'été applications 2025
 
-- Les cadets qui veulent appliquer sur les camps d'été 2025 doivent compléter le formulaire en ligne [Forms]( https://docs.google.com/forms/d/1KsOK2UG47XV_LoGh8GlfSngCgGIepXypyyOg1XjpaeU/edit) pour le 13 février.
+Les cadets qui veulent appliquer sur les camps d'été 2025 doivent compléter le formulaire en ligne [Forms]( https://docs.google.com/forms/d/1KsOK2UG47XV_LoGh8GlfSngCgGIepXypyyOg1XjpaeU/edit) pour le 13 février.
 
-- Une liste des camps d'été est aussi disponible sur le site web de cadets.ca  [Lien](https://www.canada.ca/fr/ministere-defense-nationale/services/cadets-rangers-juniors-canadiens/cadets/activites-ete/cours.html)
+Une liste des camps d'été est aussi disponible sur le site web de cadets.ca : [Cours d’été](https://www.canada.ca/fr/ministere-defense-nationale/services/cadets-rangers-juniors-canadiens/cadets/activites-ete/cours.html)
 
   
 ## Souper spaghetti 22 février
  **DERNIERE CHANCE**
  
-- Achetez vos billets pour le souper spaghetti 🍝  d'ici le vendredi 14 février à la cantine en argent comptant ou par virement au <cciv2920@gmail.com>. 
+Achetez vos billets pour le souper spaghetti 🍝  d'ici le vendredi 14 février à la cantine en argent comptant ou par virement au <cciv2920@gmail.com>. 
 
-- Rappel du coût des différents billets:
--   15$/adulte
--   10$/ cadet(te) ou enfant de 12 ans et moins
+Rappel du coût des différents billets:
+- 15$/adulte
+- 10$/ cadet(te) ou enfant de 12 ans et moins
 
 **Pas de vente à la porte**
 
