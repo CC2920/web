@@ -62,7 +62,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 - Les cadets qui veulent appliquer sur les camps d'été 2025 doivent compléter le formulaire en ligne [Forms]( https://docs.google.com/forms/d/1KsOK2UG47XV_LoGh8GlfSngCgGIepXypyyOg1XjpaeU/edit) pour le 13 février.
 
-- Une liste des camps d'été est aussi disponible sur le site web de cadets.ca  [Lien}(https://www.canada.ca/fr/ministere-defense-nationale/services/cadets-rangers-juniors-canadiens/cadets/activites-ete/cours.html)
+- Une liste des camps d'été est aussi disponible sur le site web de cadets.ca  [Lien](https://www.canada.ca/fr/ministere-defense-nationale/services/cadets-rangers-juniors-canadiens/cadets/activites-ete/cours.html)
 
   
 ## Souper spaghetti 22 février
