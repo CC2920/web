@@ -69,8 +69,14 @@ Une liste des camps d'été est aussi disponible sur le site web de cadets.ca : 
   
 ## Souper spaghetti 22 février
  **DERNIERE CHANCE**
- 
-Achetez vos billets pour le souper spaghetti 🍝  d'ici le vendredi 14 février à la cantine en argent comptant ou par virement au <cciv2920@gmail.com>. 
+
+Le comité de soutien aimerait vous aviser qu’il sera possible de commander des billets pour notre souper spaghetti par courriel jusqu’à ce dimanche, 16 février. Ne manquez pas l’occasion de participer à cet événement convivial !
+
+Le paiement des billets peut être effectué de deux façons :
+- Par virement Interac (cciv2920@gmail.com)
+- En espèces, le soir de l’événement
+
+Pour toute commande, veuillez envoyer un courriel à <cciv2920@gmail.com> avant dimanche.
 
 Rappel du coût des différents billets:
 - 15$/adulte
