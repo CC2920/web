@@ -3,52 +3,27 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d'instruction
-Il n'y a pas de soirée d'instruction au corps de cadets cette semaine pour les cadets ne participants à l'exercice hivernal.
+
 
 ## Exercice hivernal 
-- **Date** : 14 février 2025 18h30 au 16 février 2025 15h00 
-- **Qui** : Seulement les cadets inscrits le vendredi 7 février (Aucunes inscriptions possible après cette date)
-- **Lieu** : Manège militaire de Hull (188 Boul Alexandre taché)
-- **Tenue** : vêtement civil adapter aux prévisions météo de la fin de semaine
 
+**IMPORTANT**
 
-**Liste de matériel pour les cadets participants** :
+Dame nature nous avise qu’elle fera tomber de la neige accompagnée de grands vents.
 
-•	Feuille de consentement des parents 
-•	1 Carte d’assurance maladie  
-•	1 Sac solide pour transporter son équipement (Regrouper le matériel dans un seul sac).  
-•	1 Gourde ou bouteille d’eau (contenant)  
-•	1 Kit hygiène personnelle (brosse à dents, dentifrice, savon, serviette, brosse, rasoirs, crème, baume à lèvres, etc.) 
-•	Médicaments (en quantité suffisante) (Prière d’indiquer la posologie et aviser l’officier en charge)  
-•	1 Sac à dos (format pour une journée)  
-•	4 Paires de bas chauds et sous-vêtements et rechange  
-•	3 Sous-vêtements (+ au moins deux de rechange)  
-•	1 Pyjamas  
-•	2 Pantalons de sports ou de plein air – de toile ou coton (PAS DE JEANS)  
-•	3-4 T-shirts   
-•	2 Chandails chauds (laine, polar, etc.)  
-•	1 Casquette, chapeau et foulard  
-•	1 Sous-vêtements longs (combine) – haut et bas / combinaisons thermales  
-•	1 Manteau d’hiver ou anorak  
-•	1 Pantalon de neige  
-•	1 Bottes d’hiver  
-•	2 de chaque: Tuques, mitaines ou gants, foulards ou cache-cou   
-•	2-3 Bas de laine (pas de coton)  
-•	Lunettes soleil
+Par prévention et mesure de sécurité, le départ des autobus du lieu d’exercice est devancé. 
 
-**apporter des vêtements de rechange : combines, bas, chandails chauds, t-shirts**
-  
+Les autobus arriveront au Manège militaire de Hull (188 Boul Alexandre taché) pour **12:00, dimanche** (16 février).
+
+Merci d’être déjà sur place pour midi.  
+
+** Très important de vous stationner à l’arrière du Manège.  
+
 
 
 
 ### Activités à venir
  
-- **9 février** : Pratique de musique
-- **9 février** : conférence sur les camps d'été en virtuel
-- **10 février** : Pratique de tir
-- **12 février** : Soirée de préparation pour l'exercice aventurier hivernal pour les cadets de niveau rouge, argent, or et séniors
-- **13 février** : Date limite pour appliquer sur les camps d'été
 - **14 au 16 février** : Exercice aventurier hivernal
 - **17 février** : Pratique de tir
 - **19 février** : Pratique du peloton de précision
