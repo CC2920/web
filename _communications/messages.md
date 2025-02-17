@@ -3,45 +3,34 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-
-
-## Exercice hivernal 
-
-**IMPORTANT**
-
-Dame nature nous avise qu’elle fera tomber de la neige accompagnée de grands vents.
-
-Par prévention et mesure de sécurité, le départ des autobus du lieu d’exercice est devancé. 
-
-Les autobus arriveront au Manège militaire de Hull (188 Boul Alexandre taché) pour **12:00, dimanche** (16 février).
-
-Merci d’être déjà sur place pour midi.  
-
-** Très important de vous stationner à l’arrière du Manège.  
-
-
-
+## Soirée d'instruction 21 février
+- Qui :  Tous les cadets
+- Heure : de 18h30 à 21h15, vendreddi soir
+- Lieu : 52 St-Rosaire (Locaux d'instruction) 
+- Tenue niveau vert : Tenue  C5 (Tenue d'instruction)
+- Tenue niveau rouge : Tenue C5 (Tenue d'instruction)
+- Tenue niveau argent : Tenue C5 (Tenue d'instruction)
+- Tenue niveau or : Tenue C5 (Tenue d'instruction)
+- Tenue cadets séniors : Tenue C5 (Tenue d'instruction) 
+- Notes supplémentaires : Les musiciens doivent apporter leur instrument et les partitions
+- [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) 
 
 ### Activités à venir
  
-- **14 au 16 février** : Exercice aventurier hivernal
 - **17 février** : Pratique de tir
 - **19 février** : Pratique du peloton de précision
 - **21 février** : Soirée d'instruction
 - **22 février** : Souper spaghetti
-
+- **23 février** : Pratique de musique
+- **24 février** : Pratique de tir
+- **26 février** : Pratique du peloton de précision
+- **28 février** : Parade du commandant
+- **2 mars** : Pratique de musique
 
 ### Absence
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
 
-## Camps d'été applications 2025
-
-Les cadets qui veulent appliquer sur les camps d'été 2025 doivent compléter le formulaire en ligne [Forms]( https://docs.google.com/forms/d/1KsOK2UG47XV_LoGh8GlfSngCgGIepXypyyOg1XjpaeU/edit) pour le 13 février.
-
-Une liste des camps d'été est aussi disponible sur le site web de cadets.ca : [Cours d’été](https://www.canada.ca/fr/ministere-defense-nationale/services/cadets-rangers-juniors-canadiens/cadets/activites-ete/cours.html)
-
-  
 ## Souper spaghetti 22 février
  **DERNIERE CHANCE**
 
@@ -68,14 +57,14 @@ Rappel du coût des différents billets:
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
-- Notes supplémentaires : Nous allons procéder à l'ajustement des carabines pour les membres de l'équipe de tir durant cette pratique
 
-## Conférence sur les camps d'été 2025
-- Qui : tous les cadets qui veulent participer aux camps d'été 2025
-- Heure : 19h00 à 20h00, dimanche
-- Lieu :  [MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTBlOTFjMTItOTljZS00ZjFhLWI1ZmMtMmI0OTM5OGQ3N2Iw%40thread.v2/0?context=%7b%22Tid%22%3a%22ab126afb-e60c-4e2f-b6cf-c7350c76dc84%22%2c%22Oid%22%3a%22235f3956-46df-444e-b59e-8b900c01fc8b%22%7d)
-- ID de réunion : 229 543 808 706
-- Code secret : ci29Yd3X
+## Pratique du peloton de précision
+
+- Qui :  Pour les cadets de l'équipe de compétition
+- Heure : de 18h30 à 20h30, Mercredi soir
+- Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
+- Tenue : Civile
+- Matériel requis : Bouteille d'eau
 
 ## Pratique de musique 
 
@@ -85,12 +74,6 @@ Rappel du coût des différents billets:
 - Tenue : Civile 
 - Matériel requis : Apportez votre instrument et partitions
 
-## Soirée de préparation pour l'exercice aventurier hivernal pour les cadets de niveau rouge, argent, or et séniors 
-
-- Qui : Tous les cadets de niveau rouge, argent, or et sénior qui vont participer à l'exercice hivernale du 14 au 16 février
-- Heure : Mercredi 12 février 18h30 à 21h00
-- Lieu : Manège militaire de Hull
-- Tenue : Tenue d'instruction
 
 ## Photos de parade 
 
