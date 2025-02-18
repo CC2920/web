@@ -4,16 +4,19 @@ layout: "messages"
 ---
 
 ## Soirée d'instruction 21 février
-- Qui :  Tous les cadets
+- Qui : Tous les cadets
 - Heure : de 18h30 à 21h15, vendreddi soir
 - Lieu : 52 St-Rosaire (Locaux d'instruction) 
-- Tenue niveau vert : Tenue  C5 (Tenue d'instruction)
-- Tenue niveau rouge : Tenue C5 (Tenue d'instruction)
-- Tenue niveau argent : Tenue C5 (Tenue d'instruction)
-- Tenue niveau or : Tenue C5 (Tenue d'instruction)
-- Tenue cadets séniors : Tenue C5 (Tenue d'instruction) 
-- Notes supplémentaires : Les musiciens doivent apporter leur instrument et les partitions
-- [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) 
+  - Tenue niveau vert : Tenue  C5 (Tenue d'instruction)
+  - Tenue niveau rouge : Tenue C5 (Tenue d'instruction)
+  - Tenue niveau argent : Tenue C5 (Tenue d'instruction)
+  - Tenue niveau or : Tenue C5 (Tenue d'instruction)
+  - Tenue cadets séniors : Tenue C5 (Tenue d'instruction)
+ 
+**Notes supplémentaires** : Les musiciens doivent apporter leur instrument et les partitions
+
+[Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
+
 
 ### Activités à venir
  
@@ -32,22 +35,14 @@ layout: "messages"
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
 
 ## Souper spaghetti 22 février
- **DERNIERE CHANCE**
 
-Le comité de soutien aimerait vous aviser qu’il sera possible de commander des billets pour notre souper spaghetti par courriel jusqu’à ce dimanche, 16 février. Ne manquez pas l’occasion de participer à cet événement convivial !
+Nous tenons à vous informer que la vente de billets pour notre souper spaghetti est désormais terminée. Cependant, il est toujours possible de contribuer à notre événement en offrant des items, des billets, des forfaits ou des certificats-cadeaux pour la vente aux enchères, et ce, jusqu'au 21. Si vous souhaitez faire un don, veuillez communiquer avec nous à l'adresse suivante : <cciv2920@gmail.com>. 
 
-Le paiement des billets peut être effectué de deux façons :
-- Par virement Interac (cciv2920@gmail.com)
-- En espèces, le soir de l’événement
+Merci pour votre générosité et votre soutien continu.
 
-Pour toute commande, veuillez envoyer un courriel à <cciv2920@gmail.com> avant dimanche.
+À samedi !
 
-Rappel du coût des différents billets:
-- 15$/adulte
-- 10$/ cadet(te) ou enfant de 12 ans et moins
-
-**Pas de vente à la porte**
-
+**Rappel :** Pas de vente de billets à la porte
 
   
 ## Pratique de tir 
@@ -73,12 +68,4 @@ Rappel du coût des différents billets:
 - Lieu : Manège militaire de Hull
 - Tenue : Civile 
 - Matériel requis : Apportez votre instrument et partitions
-
-
-## Photos de parade 
-
-L'album photo de la dernière parade du commandant est maintenant disponible dans la section des Prix et mérites : 
-[Album photos](https://cc2920.ca/prix/photos/#2024-2025).
-
-
 
