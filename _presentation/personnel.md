@@ -17,25 +17,25 @@ le-personnel:
   - personnel:
     picture: 
     name: I.C. Frank Metlej
-    title: Responsable Niveau Or
+    title: Responsable Niveau Argent
     email: 
 
   - personnel:
     picture: 
     name: Elof Amelie Joncas
-    title: Responsable Niveau Rouge
+    title: Officier d'entrainement
     email: 
   
   - personnel:
     picture: 
-    name: Cpl Brain Laberge
-    title: Responsable Niveau Vert
+    name: Cpl Bryan Laberge
+    title: Responsable Niveau OR
     email: 
 
   - personnel:
     picture: 
     name: I.C. Beata Rus
-    title: Responsable Musique
+    title: Responsable Niveau Rouge
     email:
 ---
 
