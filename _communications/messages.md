@@ -3,15 +3,15 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d'instruction 21 février
+## Soirée de la parade du commandant 28 février
 - Qui : Tous les cadets
 - Heure : de 18h30 à 21h15, vendreddi soir
 - Lieu : 52 St-Rosaire (Locaux d'instruction) 
-  - Tenue niveau vert : Tenue  C5 (Tenue d'instruction)
-  - Tenue niveau rouge : Tenue C5 (Tenue d'instruction)
-  - Tenue niveau argent : Tenue C5 (Tenue d'instruction)
-  - Tenue niveau or : Tenue C5 (Tenue d'instruction)
-  - Tenue cadets séniors : Tenue C5 (Tenue d'instruction)
+  - Tenue niveau vert : Tenue  C1A (Tenue de parade)
+  - Tenue niveau rouge : Tenue C1A (Tenue de parade)
+  - Tenue niveau argent : Tenue  C1A (Tenue de parade)
+  - Tenue niveau or : Tenue  C1A (Tenue de parade)
+  - Tenue cadets séniors : Tenue  C1A (Tenue de parade)
  
 **Notes supplémentaires** : Les musiciens doivent apporter leur instrument et les partitions
 
@@ -20,35 +20,27 @@ layout: "messages"
 
 ### Activités à venir
  
-- **17 février** : Pratique de tir
-- **19 février** : Pratique du peloton de précision
-- **21 février** : Soirée d'instruction
-- **22 février** : Souper spaghetti
-- **23 février** : Pratique de musique
 - **24 février** : Pratique de tir
 - **26 février** : Pratique du peloton de précision
 - **28 février** : Parade du commandant
 - **2 mars** : Pratique de musique
+- **3 mars** : Pratique de tir
+- **5 mars** : Pas de pratique de peloton de précision
+- **7 mars** : Soirée de sport
+- **9 mars** : Pratique de musique
+- **10 mars** Pratique de tir
+- **12 mars** Pratique du peloton de précision
+- **14 mars** Soirée d'instruction
+- **15 mars** : Mess diner
 
 ### Absence
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
 
-## Souper spaghetti 22 février
-
-Nous tenons à vous informer que la vente de billets pour notre souper spaghetti est désormais terminée. Cependant, il est toujours possible de contribuer à notre événement en offrant des items, des billets, des forfaits ou des certificats-cadeaux pour la vente aux enchères, et ce, jusqu'au 21. Si vous souhaitez faire un don, veuillez communiquer avec nous à l'adresse suivante : <cciv2920@gmail.com>. 
-
-Merci pour votre générosité et votre soutien continu.
-
-À samedi !
-
-**Rappel :** Pas de vente de billets à la porte
-
-  
 ## Pratique de tir 
 
 - Qui :  Pour les cadets de l'équipe de compétition seulement
-- Heure : de 18h00 à 20h30, lundi soir
+- Heure : de 18h00 à 20h45, lundi soir
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
@@ -68,4 +60,7 @@ Merci pour votre générosité et votre soutien continu.
 - Lieu : Manège militaire de Hull
 - Tenue : Civile 
 - Matériel requis : Apportez votre instrument et partitions
+
+## Mess diner
+Details a venir le 24 février et sondage a mettre en ligne
 
