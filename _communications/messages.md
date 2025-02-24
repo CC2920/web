@@ -61,6 +61,10 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Tenue : Civile 
 - Matériel requis : Apportez votre instrument et partitions
 
-## Mess diner
+## Parade du commandant
+
+- Les parents sont invités à compter de 20h20 pour la parade dans le grand gymnase
+
+- ## Mess diner
 Details a venir le 24 février et sondage a mettre en ligne
 
