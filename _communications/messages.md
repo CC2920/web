@@ -33,7 +33,8 @@ layout: "messages"
 - **14 mars** Soirée d'instruction
 - **15 mars** : Mess diner (Voir sondage pour le souper régimentaire)
 - **16 mars** : Compétition de tir régionale
-  **5 avril** : Jeux des cadets [Sondage](https://docs.google.com/forms/d/1eu_51mcnkSmedVPauJH8Wc7L6uZ121ieHK2hoNXG5oQ/edit) à être compléter pour le 28 février.
+- **5 avril** : Jeux des cadets [Sondage](https://docs.google.com/forms/d/1eu_51mcnkSmedVPauJH8Wc7L6uZ121ieHK2hoNXG5oQ/edit) à être compléter pour le 28 février.
+  
 ### Absence
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
