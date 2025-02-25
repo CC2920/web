@@ -22,7 +22,7 @@ layout: "messages"
  
 - **24 février** : Pratique de tir
 - **26 février** : Pratique du peloton de précision
-- **28 février** : Parade du commandant
+- **28 février** : Parade du commandant et les parents sont invités pour 20h20 dans le grand gymnase
 - **2 mars** : Pratique de musique
 - **3 mars** : Pratique de tir
 - **5 mars** : Pas de pratique de peloton de précision
@@ -31,8 +31,9 @@ layout: "messages"
 - **10 mars** Pratique de tir
 - **12 mars** Pratique du peloton de précision
 - **14 mars** Soirée d'instruction
-- **15 mars** : Mess diner
-
+- **15 mars** : Mess diner (Voir sondage pour le souper régimentaire)
+- **16 mars** : Compétition de tir régionale
+  **5 avril** : Jeux des cadets [Sondage](https://docs.google.com/forms/d/1eu_51mcnkSmedVPauJH8Wc7L6uZ121ieHK2hoNXG5oQ/edit) à être compléter pour le 28 février.
 ### Absence
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
@@ -61,10 +62,17 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Tenue : Civile 
 - Matériel requis : Apportez votre instrument et partitions
 
-## Parade du commandant
+## Mess diner
 
-- Les parents sont invités à compter de 20h20 pour la parade dans le grand gymnase
+- Qui : Tous les cadets du CC 292D
+- Heure : de 17h30 à 21h30
+- Lieu : Sa;;e Jean-Renée Monette
+- Tenue : C2 (Uniforme de parade avec chemise blanche et noeud papillon sans beret)
+- Sondage :  Veuillez compléter le formulaie pour le 28 février au plus tard [Sondage](https://docs.google.com/forms/d/1XHVc4XWgs0a-lVfZtEMfgEkAiUyZlQwsZ3SPrXcRznI/edit)
 
-- ## Mess diner
-Details a venir le 24 février et sondage a mettre en ligne
-
+## Compétition de tir
+- Qui : Pour les membres des deux équipes de tir
+- Heure : 8h00 a 16h30
+- Lieu : Manège militaire de Hull
+- Tenue : Civil avec le gilet du corps de cadets
+- Information complémentaire : Vous devez apporter votre lunch 
