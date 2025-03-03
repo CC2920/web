@@ -100,4 +100,11 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 ## Critères
   - Médaille Stratcona [Critères](https://drive.google.com/file/d/1jqaLvZBrUMAOGrdMWc7HVBQu9FJscF8z/view?usp=sharing)
   - Médaille de la légion  [Critères](https://drive.google.com/file/d/1oOVjeyqaeg8Ke999N9Mknblyuys8KSWt/view?usp=sharing)
-  
+
+## Mess diner
+
+- Qui :  Pour les cadets ayant compléter le sondage
+- Heure : 17h30 à 21h30, Samedi 15 mars
+- Lieu : Salle Jean-René Monette 
+- Tenue : uniforme C2 (Uniforme de parade avec ruban et chemise blanche avec noeud papillon)
+- Information supplémentaires : Les cadets qui n'ont pas de noeud papillon pourront en emprunter au Quartier maitre du corps de cadets (Quantité limité)
