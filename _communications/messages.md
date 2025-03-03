@@ -83,7 +83,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Tenue : Civil avec le gilet du corps de cadets
 - Information complémentaire : Vous devez apporter votre lunch
 
-  ## Activité de quilles
+## Activité de quilles
 
 - Qui : Pour les cadets du corps de cadets
 - Heure : 18h30 à 21h00
@@ -91,13 +91,13 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Tenue : Civil avec le gilet du corps de cadets
 - Informations complémentaire : Les cadets devront confirmer leur présence vendredi le 7 mars auprès de Monsieur Tremblay-Germain
 
-  ## Médailles
+## Médailles
 
   - Qui : Les cadets qui répondre aux critères de chacune des médailles
   - Comment appliquer : Les cadets doivent écrire une lettre pour chacune des médailles sur laquelle ils veulent appliquer
   - Contenu de la lettre : Nom et prénom du cadet et ils doivent expliquer les raisons pourquoi ils pense qu'ils mérite cette médaille et en quoi ils répondent aux critères (Maximum 2 pages)
   - Commment soumettre votre lettre :  la lettre doit être envoyé à l'adresse (<2920armee@cadets.gc.ca>) pour 20h00 au plus tard le 9 mars 2025 avec comme sujet le mot MEDAILLES
-  ## Critères
+## Critères
   - Médaille Stratcona [Critères](https://drive.google.com/file/d/1jqaLvZBrUMAOGrdMWc7HVBQu9FJscF8z/view?usp=sharing)
   - Médaille de la légion  [Critères](https://drive.google.com/file/d/1oOVjeyqaeg8Ke999N9Mknblyuys8KSWt/view?usp=sharing)
   
