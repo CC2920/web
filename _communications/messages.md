@@ -76,6 +76,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Notes : Aucunes inscriptions ne sera possible après cette date car nous devons réserver les repas
 
 ## Compétition de tir
+
 - Qui : Pour les membres des deux équipes de tir
 - Heure : 8h00 à 17h00
 - Lieu : Manège militaire de Hull
@@ -83,6 +84,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Information complémentaire : Vous devez apporter votre lunch
 
   ## Activité de quilles
+
 - Qui : Pour les cadets du corps de cadets
 - Heure : 18h30 à 21h00
 - Lieu : Salle de quilles Anik (975 Boulevard Saint-Joseph, Gatineau, Quebec J8Z 1W8)
@@ -90,6 +92,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Informations complémentaire : Les cadets devront confirmer leur présence vendredi le 7 mars auprès de Monsieur Tremblay-Germain
 
   ## Médailles
+
   - Qui : Les cadets qui répondre aux critères de chacune des médailles
   - Comment appliquer : Les cadets doivent écrire une lettre pour chacune des médailles sur laquelle ils veulent appliquer
   - Contenu de la lettre : Nom et prénom du cadet et ils doivent expliquer les raisons pourquoi ils pense qu'ils mérite cette médaille et en quoi ils répondent aux critères (Maximum 2 pages)
