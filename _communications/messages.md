@@ -22,7 +22,7 @@ layout: "messages"
  
 - **3 mars** : Pratique de tir
 - **5 mars** : Pas de pratique de peloton de précision
-- **7 mars** : Date limite d'inscription pour les cadets qui veulent participer au Mess Diner du 15 mars  [Sondage](https://docs.google.com/forms/d/1XHVc4XWgs0a-lVfZtEMfgEkAiUyZlQwsZ3SPrXcRznI/edit)
+- **5 mars** : Date limite d'inscription pour les cadets qui veulent participer au Mess Diner du 15 mars  [Sondage](https://docs.google.com/forms/d/1XHVc4XWgs0a-lVfZtEMfgEkAiUyZlQwsZ3SPrXcRznI/edit)
 - **7 mars** : Soirée de sport
 - **8 mars** : Activité de quilles
 - **9 mars** : Pratique de musique
@@ -36,6 +36,7 @@ layout: "messages"
 - **17 mars** : Pas de pratique de tir
 - **19 mars** : Pratique du peloton de précision
 - **21 mars** : Soirée d'instruction
+- **23 et 24 mars** :Festival de musique (Informations à venir)
 - **5 avril** : Jeux des cadets [Sondage](https://docs.google.com/forms/d/1eu_51mcnkSmedVPauJH8Wc7L6uZ121ieHK2hoNXG5oQ/edit) à être compléter pour le 10 mars.
   
 ### Absence
@@ -68,11 +69,11 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 ## Souper régimentaire (Mess diner)
 
-- Qui : Tous les cadets du CC 292D
+- Qui : Tous les cadets du CC 2920
 - Heure : de 17h30 à 21h30
 - Lieu : Salle Jean-Renée Monette
 - Tenue : C2 (Uniforme de parade avec chemise blanche et noeud papillon, sans béret)
-- Sondage : Veuillez compléter le formulaire pour le 7 mars au plus tard : [Inscriptions au souper régimentaire](https://docs.google.com/forms/d/1XHVc4XWgs0a-lVfZtEMfgEkAiUyZlQwsZ3SPrXcRznI/edit)
+- Sondage : Veuillez compléter le formulaire pour le 5 mars au plus tard : [Inscriptions au souper régimentaire](https://docs.google.com/forms/d/1XHVc4XWgs0a-lVfZtEMfgEkAiUyZlQwsZ3SPrXcRznI/edit)
 - Notes : Aucunes inscriptions ne sera possible après cette date car nous devons réserver les repas
 
 ## Compétition de tir
