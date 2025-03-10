@@ -67,7 +67,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Lieu : Salle Jean-René Monette 
 - Tenue : uniforme C2 (Uniforme de parade avec ruban et chemise blanche avec noeud papillon sans bérêt)
 - Information supplémentaires : Les cadets qui n'ont pas de noeud papillon pourront en emprunter au Quartier maitre du corps de cadets (Quantité limité)
-- Notes : Aucunes nouvelle inscriptions n'est possible car la commande de repas est déjà placê avec le traiteur
+- Notes : Aucune nouvelle inscription n'est possible car la commande de repas est déjà placê avec le traiteur
 - [Guide d'information pour le  mess diner](https://drive.google.com/file/d/1S0c_mragDOHg3LZv7JAsvuI4QyDoCh7r/view?usp=sharing) 
 
 ## Compétition de tir
