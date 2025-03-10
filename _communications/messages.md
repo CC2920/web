@@ -60,13 +60,15 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Tenue : Civile 
 - Matériel requis : Apportez votre instrument et partitions
 
-## Souper régimentaire (Mess diner)
+## Mess diner
 
-- Qui : Tous les cadets du CC 2920
-- Heure : de 17h30 à 21h30
-- Lieu : Salle Jean-Renée Monette
-- Tenue : C2 (Uniforme de parade avec chemise blanche et noeud papillon, sans béret)
+- Qui :  Pour les cadets qui se sont inscrit SEULEMENT via le sondage
+- Heure : 17h30 à 21h30, Samedi 15 mars 
+- Lieu : Salle Jean-René Monette 
+- Tenue : uniforme C2 (Uniforme de parade avec ruban et chemise blanche avec noeud papillon sans bérêt)
+- Information supplémentaires : Les cadets qui n'ont pas de noeud papillon pourront en emprunter au Quartier maitre du corps de cadets (Quantité limité)
 - Notes : Aucunes nouvelle inscriptions n'est possible car la commande de repas est déjà placê avec le traiteur
+- [Guide d'information pour le  mess diner](https://drive.google.com/file/d/1S0c_mragDOHg3LZv7JAsvuI4QyDoCh7r/view?usp=sharing) 
 
 ## Compétition de tir
 
@@ -76,11 +78,3 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Tenue : Civil avec le gilet du corps de cadets
 - Information complémentaire : Vous devez apporter votre lunch
 
-## Mess diner
-
-- Qui :  Pour les cadets qui se sont inscrit SEULEMENT via le sondage
-- Heure : 17h30 à 21h30, Samedi 15 mars
-- Lieu : Salle Jean-René Monette 
-- Tenue : uniforme C2 (Uniforme de parade avec ruban et chemise blanche avec noeud papillon)
-- Information supplémentaires : Les cadets qui n'ont pas de noeud papillon pourront en emprunter au Quartier maitre du corps de cadets (Quantité limité)
-- [Guide d'information pour le  mess diner](https://drive.google.com/file/d/1S0c_mragDOHg3LZv7JAsvuI4QyDoCh7r/view?usp=sharing) 
