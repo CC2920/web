@@ -28,7 +28,7 @@ layout: "messages"
 - **17 mars** : Pas de pratique de tir
 - **19 mars** : Pratique du peloton de précision
 - **21 mars** : Soirée d'instruction
-- **23 et 24 mars** :Festival de musique (Informations à venir)
+- **23 et 24 mars** : Festival de musique (Informations à venir)
 - **28 mars** : Soirée d'instruction et parade du commandant
 - **5 avril** : Jeux des cadets [Sondage](https://docs.google.com/forms/d/1eu_51mcnkSmedVPauJH8Wc7L6uZ121ieHK2hoNXG5oQ/edit) à être compléter pour le 14 mars.
   
@@ -65,9 +65,9 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Qui :  Pour les cadets qui se sont inscrit SEULEMENT via le sondage
 - Heure : 17h30 à 21h30, Samedi 15 mars 
 - Lieu : Salle Jean-René Monette 
-- Tenue : uniforme C2 (Uniforme de parade avec ruban et chemise blanche avec noeud papillon sans bérêt)
-- Information supplémentaires : Les cadets qui n'ont pas de noeud papillon pourront en emprunter au Quartier maitre du corps de cadets (Quantité limité)
-- Notes : Aucune nouvelle inscription n'est possible car la commande de repas est déjà placê avec le traiteur
+- Tenue : uniforme C2 (Uniforme de parade avec ruban et chemise blanche avec noeud papillon sans béret)
+- Informations supplémentaires : Les cadets qui n'ont pas de noeud papillon pourront en emprunter au Quartier maitre du corps de cadets (Quantité limité)
+- Notes : Aucune nouvelle inscription n'est possible car la commande de repas est déjà faite avec le traiteur
 - [Guide d'information pour le  mess diner](https://drive.google.com/file/d/1S0c_mragDOHg3LZv7JAsvuI4QyDoCh7r/view?usp=sharing) 
 
 ## Compétition de tir
