@@ -78,7 +78,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 ## Mess diner
 
-- Qui :  Pour les cadets ayant compléter le sondage
+- Qui :  Pour les cadets qui se sont inscrit SEULEMENT via le sondage
 - Heure : 17h30 à 21h30, Samedi 15 mars
 - Lieu : Salle Jean-René Monette 
 - Tenue : uniforme C2 (Uniforme de parade avec ruban et chemise blanche avec noeud papillon)
