@@ -50,7 +50,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 - Date de retour : dimanche 23 mars
 - Heure : 11h30 AM
-- Lieu : Manège militaire de Salaberry
+- Lieu : Manège militaire de Salaberry de Hull
 
 LISTE DE MATÉRIEL
 
