@@ -67,7 +67,7 @@ LISTE DE MATÉRIEL
 - Livre, jeu de cartes, devoirs ou autre pour occuper votre temps libre
 - Argent de poche si désiré pour la cantine. 
 
-INFORMATIONS SUPPLEMENTAIRES
+INFORMATIONS SUPPLEMENTAIRES 
 
 -	Les collations ne sont pas permises, mais une cantine sera disponible sur place.
 - Les spectateurs seront admis au FMCRE, mais ils devront dormir et manger à l’extérieur de l’école. Ils seront accueillis à la porte principale du site et ils devront se présenter à la table d’accueil pour s’enregistrer et obtenir un laissez-passer de visiteur.
