@@ -187,4 +187,6 @@ title: "Galerie de photos"
 * [Parade du Jour du Souvenir - novembre 2024](https://photos.app.goo.gl/YudUy5S9i3g9tjQVA)
 * [Parade du commandant - décembre 2024](https://photos.app.goo.gl/5k34vgHamqCryDnm6)
 * [Parade du commandant - janvier 2025](https://photos.app.goo.gl/1uzARADqDo5NNRFH8)
+* [Parade du commandant - fevrier 2025](https://photos.app.goo.gl/MUmDS8znKApTmBvu7)
+* [Souper régimentaire](https://photos.app.goo.gl/1yyxwbjxHSrCSNRx8)
   
