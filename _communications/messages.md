@@ -43,5 +43,35 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 ## Festival de musique 
 
-- Qui  : Les cadets qui se ont inscrits
-- Informations supplémnetaires :  Les informatins ont été donner en personne lors de la pratiqyue du 16 mars.  Elle seront mise en ligne sur le site web des que possible. 
+- Date départ : samedi 22 mars
+- Heure : 6h30 AM (départ à 7h) et vous devez déjeuner avant le départ.
+- Lieu de rassemblement : Manège militaire de Salaberry (188 boul. Alexandre Taché, Gatineau)
+- Tenue : uniforme C3C avec T-shirt de la musique
+
+- Date de retour : dimanche 23 mars
+- Heure : 11h30 AM
+- Lieu : Manège militaire de Salaberry
+
+LISTE DE MATÉRIEL
+
+-	Carte d’assurance maladie
+-	Instrument de musique
+-	Partitions
+-	Vêtements civils pour le samedi soir et dimanche
+-	Espadrilles pour samedi soir et dimanche
+-	Articles de toilette et sandales de douches. Vous aurez accès à des douches le samedi soir (si requis).
+-	Matelas de sol 1 place ou lit de camp
+-	Sac de couchage
+-	Médicaments au besoin
+- Bouteille d’eau réutilisable
+- Livre, jeu de cartes, devoirs ou autre pour occuper votre temps libre
+- Argent de poche si désiré pour la cantine. 
+
+INFORMATIONS SUPPLEMENTAIRES 
+
+-	Les collations ne sont pas permises, mais une cantine sera disponible sur place.
+- Les spectateurs seront admis au FMCRE, mais ils devront dormir et manger à l’extérieur de l’école. Ils seront accueillis à la porte principale du site et ils devront se présenter à la table d’accueil pour s’enregistrer et obtenir un laissez-passer de visiteur.
+- Notre prestation est prévue à 15h25 le samedi 22 mars. 
+- Lieu : École Jeanne-Mance, 45 avenue des Frères, Drummondville, J2B 6A2
+
+
