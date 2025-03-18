@@ -74,4 +74,6 @@ INFORMATIONS SUPPLEMENTAIRES
 - Notre prestation est prévue à 15h25 le samedi 22 mars. 
 - Lieu : École Jeanne-Mance, 45 avenue des Frères, Drummondville, J2B 6A2
 
+## Albums photos
 
+Les albums photos de la dernière parade du commandant et du souper régimentaire sont maintenant disponibles dans la [Galerie de photos](https://cc2920.ca/prix/photos/#2024-2025) du site.
