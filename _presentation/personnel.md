@@ -38,13 +38,13 @@ le-personnel:
     title: Responsable Niveau Rouge
     email:
 
-  - persnonnel
+  - persnonnel:
     picture
     name : I.C. Samuel Tremblay-Germain
     title : Resppnsable Niveau Vert
     email :
 
-  - personnel
+  - personnel:
     picture
     name : I.C. Méliane Legault
     title : adjoint a l'approvisionnement
