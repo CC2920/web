@@ -35,26 +35,13 @@ les-cadets-major:
 #
 #
 les-cadets-cadres:
-    - cadet: 
-      name: Adj Raphael Briere
-      title: Cadet sénior responsable niveau Vert
-      picture: "/docs/cadets-cadres/CC2920-Adj-Briere.JPG"
-
-    - cadet: 
-      name: Adj Mory Yacine Kaba
-      title: Cadet sénior responsable niveau Argent
-      picture: 
-
+    
     - cadet: 
       name: Adj Patrick Delaney-Dufour
       title: Cadet sénior responsable niveau Rouge
       picture: "/docs/cadets-cadres/CC2920-Adj-Delaney-Dufour.JPG"
 
-    - cadet: 
-      name: Adj Jacob St-Louis
-      title: Cadet sénior responsable niveau Rouge
-      picture: "/docs/cadets-cadres/CC2920-Adj-St-Louis.JPG"
-       
+        
     - cadet: 
       name: Adj Oluwafemi Bassowa
       title: Cadet sénior responsable niveau Rouge
