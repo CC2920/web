@@ -26,29 +26,29 @@ le-personnel:
     title: Responsable Niveau OR
     email:
 
-   - personnel:
-     picture: 
-     name: I.C. Frank Metlej
-     title: Responsable Niveau Argent
-     email: 
+  - personnel:
+    picture: 
+    name: I.C. Frank Metlej
+    title: Responsable Niveau Argent
+    email: 
   
-   - personnel:
-     picture: 
-     name: I.C. Beata Rus
-     title: Responsable Niveau Rouge
-     email:
+  - personnel:
+    picture: 
+    name: I.C. Beata Rus
+    title: Responsable Niveau Rouge
+    email:
 
-   - persnonnel
-     picture
-     name : I.C. Samuel Tremblay-Germain
-     title : Resppnsable Niveau Vert
-     email :
+  - persnonnel
+    picture
+    name : I.C. Samuel Tremblay-Germain
+    title : Resppnsable Niveau Vert
+    email :
 
-   - personnel
-     picture
-     name : I.C. Méliane Legault
-     title : adjoint a l'approvisionnement
-     email
+  - personnel
+    picture
+    name : I.C. Méliane Legault
+    title : adjoint a l'approvisionnement
+    email
 ---
 
 Voici l'équipe des adultes responsables de nos cadets.
