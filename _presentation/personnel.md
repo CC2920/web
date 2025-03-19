@@ -6,11 +6,11 @@ le-personnel:
     picture: /docs/personnel/Martel.M.jpg
     name: Capt Mario Martel CD2
     title: Commandant
-    email:
+    email: <mario.martel@cadets.gc.ca>
       
   - personnel:
     picture: 
-    name: Lt Sylivie Simard
+    name: Lt Sylvie Simard
     title: Officier d’approvisionnement
     email: 
   
