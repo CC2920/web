@@ -38,17 +38,17 @@ le-personnel:
     title: Responsable Niveau Rouge
     email:
 
-  - persnonnel:
-    picture
+  - personnel:
+    picture:
     name : I.C. Samuel Tremblay-Germain
     title : Resppnsable Niveau Vert
     email :
 
   - personnel:
-    picture
+    picture:
     name : I.C. Méliane Legault
-    title : adjoint a l'approvisionnement
-    email
+    title : Adjoint a l'approvisionnement
+    email :
 ---
 
 Voici l'équipe des adultes responsables de nos cadets.
