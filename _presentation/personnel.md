@@ -6,8 +6,8 @@ le-personnel:
     picture: /docs/personnel/Martel.M.jpg
     name: Capt Mario Martel CD2
     title: Commandant
-    email: mario.martel@cadets.gc.ca
-  
+    email:
+      
   - personnel:
     picture: 
     name: Lt Sylivie Simard
