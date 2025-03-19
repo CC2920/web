@@ -6,50 +6,49 @@ le-personnel:
     picture: /docs/personnel/Martel.M.jpg
     name: Capt Mario Martel CD2
     title: Commandant
-    email: mario.martel@cadets.gc.ca
-  
+    email:
+      
   - personnel:
     picture: 
     name: Lt Sylivie Simard
     title: Officier d’approvisionnement
     email: 
-
-   - personnel:
-     picture: 
-     name: Elof Amelie Joncas
-     title: Officier d'entrainement
-     email:
-
-    - personnel:
-      picture: 
-      name: Cpl Bryan Laberge
-      title: Responsable Niveau OR
-      email:   - personnel:
-
-
-      - personnel:
-        picture: 
-        name: I.C. Frank Metlej
-        title: Responsable Niveau Argent
-        email: 
   
-      - personnel:
-        picture: 
-        name: I.C. Beata Rus
-        title: Responsable Niveau Rouge
-        email:
+  - personnel:
+    picture: 
+    name: Elof Amelie Joncas
+    title: Officier d'entrainement
+    email:
+  
+  - personnel:
+    picture: 
+    name: Cpl Bryan Laberge
+    title: Responsable Niveau OR
+    email:
 
-        - persnonnel
-          picture
-          name : I.C. Samuel Tremblay-Germain
-          title : Resppnsable Niveau Vert
-          email :
+  - personnel:
+    picture: 
+    name: I.C. Frank Metlej
+    title: Responsable Niveau Argent
+    email: 
+  
+  - personnel:
+    picture: 
+    name: I.C. Beata Rus
+    title: Responsable Niveau Rouge
+    email:
 
-         - personnel
-           picture
-           name : I.C. Méliane Legault
-           title : adjoint a l'approvisionnement
-           email
+  - personnel:
+    picture:
+    name : I.C. Samuel Tremblay-Germain
+    title : Resppnsable Niveau Vert
+    email :
+
+  - personnel:
+    picture:
+    name : I.C. Méliane Legault
+    title : Adjoint a l'approvisionnement
+    email :
 ---
 
 Voici l'équipe des adultes responsables de nos cadets.
