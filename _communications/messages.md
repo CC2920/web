@@ -20,8 +20,8 @@ layout: "messages"
 
 ### Activités à venir
  
-- **25 mars** : Congé de tir
-- **27 mars** : Pratique du peloton de précision
+- **24 mars** : Congé de tir
+- **26 mars** : Pratique du peloton de précision
 - **28 mars** : Soirée d'instruction et parade du commandant (Les parents sont invitées pour 20h20 dans le grand gymnase)
 - **30 mars** : Pratique de musique
 - **5 avril** : Jeux des cadets
