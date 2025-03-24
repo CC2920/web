@@ -22,10 +22,10 @@ layout: "messages"
  
 - **24 mars** : Congé de tir
 - **26 mars** : Pratique du peloton de précision
-- **28 mars** : Soirée d'instruction et parade du commandant (Les parents sont invitées pour 20h20 dans le grand gymnase)
+- **28 mars** : Soirée d'instruction et parade du commandant (Les parents sont invités pour 20h20 dans le grand gymnase)
 - **30 mars** : Pratique de musique
 - **5 avril** : Jeux des cadets
-- **18 avril** : Date limite pour la comnmande des coton ouatés 
+- **18 avril** : Date limite pour la commande des cotons ouatés 
 - 
 ### Absence
 
@@ -41,23 +41,20 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 ## Pratique de musique  
 
-- Qui :  Pour les cadets de la muzique 
-- Heure : de 8h45 à 13h15, Dimanche
-- Lieu : Manêge militaire de Hull 
+- Qui :  Pour les cadets de la musique 
+- Heure : de 8h45 à 13h15, dimanche
+- Lieu : Manège militaire de Hull 
 - Tenue : Civile
 
 ## Jeux des cadets  
 
 - Qui :  Pour les cadets inscrits 
 - Heure : de 7h30 à 15h30, Samedi
-- Lieu : Ecole Secondaire Hormidas Gamelin 
+- Lieu : École Secondaire Hormidas Gamelin 
 - Tenue : Civile
-- Informations supplementaires : Seront publié dabns les messages de la semaine porchaine
+- Informations supplémentaires : Seront publiées dans les messages de la semaine prochaine
 
 ## Commande des coton ouatés
 
-- Les cadets qui veulent commandé des gilets cotons ouatés doivent le faire a la cantine au plus tard le 18 Avril
+- Les cadets qui veulent commander des gilets cotons ouatés doivent le faire à la cantine au plus tard le 18 avril
   
-## Albums photos
-
-Les albums photos de la dernière parade du commandant et du souper régimentaire sont maintenant disponibles dans la [Galerie de photos](https://cc2920.ca/prix/photos/#2024-2025) du site.
