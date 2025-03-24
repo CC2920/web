@@ -26,7 +26,7 @@ layout: "messages"
 - **30 mars** : Pratique de musique
 - **5 avril** : Jeux des cadets
 - **18 avril** : Date limite pour la commande des cotons ouatés 
-- 
+
 ### Absence
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
@@ -34,7 +34,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 ## Pratique du peloton de précision
 
 - Qui :  Pour les cadets de l'équipe de compétition
-- Heure : de 18h30 à 20h30, Mercredi soir
+- Heure : de 18h30 à 20h30, mercredi soir
 - Lieu : Centre Nouvel-Horizon (100 rue la Baie, Gatineau) 
 - Tenue : Civile
 - Matériel requis : Bouteille d'eau
@@ -50,11 +50,11 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 - Qui :  Pour les cadets inscrits 
 - Heure : de 7h30 à 15h30, Samedi
-- Lieu : École Secondaire Hormidas Gamelin 
+- Lieu : École Secondaire Hormidas Gamelin ([580 Rue Maclaren E, Gatineau, QC](https://maps.app.goo.gl/1xSARFd68rGgHGpt5))
 - Tenue : Civile
 - Informations supplémentaires : Seront publiées dans les messages de la semaine prochaine
 
-## Commande des coton ouatés
+## Commande des cotons ouatés
 
-- Les cadets qui veulent commander des gilets cotons ouatés doivent le faire à la cantine au plus tard le 18 avril
+Les cadets qui veulent commander des gilets cotons ouatés doivent le faire à la cantine au plus tard le 18 avril.
   
