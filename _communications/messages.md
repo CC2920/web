@@ -26,7 +26,7 @@ layout: "messages"
 - **30 mars** : Pratique de musique
 - **5 avril** : Jeux des cadets
 - **18 avril** : Date limite pour la commande des cotons ouatés
-- **Mi-Avril** : Les réponses des cxamps d'été
+- **Mi-Avril** : Les réponses des camps d'été
 
 ### Absence
 
