@@ -25,3 +25,14 @@ title: "2022 à aujourd'hui Capitaine Mario Martel"
 * avril 2024 - [Parade du commandant](https://photos.app.goo.gl/D4s1gJm1BmDy1agb6)
 * mai 2024 - [Gala](https://photos.app.goo.gl/UEDsEGFEafNoVv246)
 * mai 2025 - [Cérémonial - 51e Revue annuelle](https://photos.app.goo.gl/JNdk3sVVracBSvBd9)
+
+## 2024-2025
+
+* octobre 2024 - [Ouverture officielle du musée CC2920](https://photos.app.goo.gl/tbPFGDXRaEzdbocZ6)
+* octobre 2024 - [Parade de changement de cadet-commandant](https://photos.app.goo.gl/SbGKhYeT2VyUXGPQ6)
+* novembre 2024 - [Parade du Jour du Souvenir](https://photos.app.goo.gl/YudUy5S9i3g9tjQVA)
+* décembre 2024 - [Parade du commandant](https://photos.app.goo.gl/5k34vgHamqCryDnm6)
+* janvier 2025 - [Parade du commandant](https://photos.app.goo.gl/1uzARADqDo5NNRFH8)
+* février 2025 - [Parade du commandant](https://photos.app.goo.gl/MUmDS8znKApTmBvu7)
+* mars 2025 - [Souper régimentaire](https://photos.app.goo.gl/1yyxwbjxHSrCSNRx8)
+  
