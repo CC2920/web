@@ -25,7 +25,8 @@ layout: "messages"
 - **28 mars** : Soirée d'instruction et parade du commandant (Les parents sont invités pour 20h20 dans le grand gymnase)
 - **30 mars** : Pratique de musique
 - **5 avril** : Jeux des cadets
-- **18 avril** : Date limite pour la commande des cotons ouatés 
+- **18 avril** : Date limite pour la commande des cotons ouatés
+- **Mi-Avril** : Les réponses des cxamps d'été
 
 ### Absence
 
@@ -49,7 +50,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 ## Jeux des cadets  
 
 - Qui :  Pour les cadets inscrits 
-- Heure : de 7h30 à 15h30, Samedi
+- Heure : Départ 7h30 et Retour 17h30, Samedi
 - Lieu : École Secondaire Hormidas Gamelin ([580 Rue Maclaren E, Gatineau, QC](https://maps.app.goo.gl/1xSARFd68rGgHGpt5))
 - Tenue : Civile
 - Informations supplémentaires : Seront publiées dans les messages de la semaine prochaine
