@@ -29,6 +29,7 @@ layout: "messages"
 - **7 avril** : Pratique de tir
 - **9 avril** : Pratique du peloton de précision
 - **11 avril** : Soirée de sports
+- **11 avril** : Date limite de commande pour la bague du CC 2920
 - **13 avril** : Pratique de musique
 - **18 avril** : Date limite pour la commande des cotons ouatés
 
@@ -69,5 +70,8 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 ## Commande des cotons ouatés
 
-Les cadets qui veulent commander des gilets cotons ouatés doivent le faire à la cantine au plus tard le 18 avril.
-  
+Les cadets qui veulent commander des gilets cotons. Ils peuvent le faire en effectuant un virement à (<cciv2920@gmail.com>) ou le commander à la cantine en précisant la grandeur pour au plus tard le 18 avril.
+
+## Commande de Bague du 2920
+
+Pour les cadets et cadettes qui veulent une bague du 2920 en acier chirurgical, personnalisé avec votre nom et numéro de production (ex.: S. Brunette 001, N.Martel 002).  c'est maintenant possible d'en acheter une pour 250$.  Pour la recevoir avant le cérémonial, il faut payer à la cantine ou faire un virement au (<cciv2920@gmail.com>) et confirmer la taille désirée, avant le 11 avril.
