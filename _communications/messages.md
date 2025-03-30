@@ -66,7 +66,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Heure : Départ 7h30 du 52 St-Rosaire et Retour 17h30 au 52 St-Rosaire, Samedi
 - Lieu : École Secondaire Hormidas Gamelin ([580 Rue Maclaren E, Gatineau, QC](https://maps.app.goo.gl/1xSARFd68rGgHGpt5))
 - Tenue : Civile avec le  gilet du corps de cadets
-- Informations supplémentaires : Tenue de sport pour la journée, vous pouvez vous apporter des collations et une cantine sera disponible sur place.
+- Informations supplémentaires : Tenue de sport pour la journée, vous pouvez vous apporter des collations et une cantine sera disponible sur place. Vous devez avoir votre carte d'assurance maladie avec vous.
 
 ## Commande des cotons ouatés
 
