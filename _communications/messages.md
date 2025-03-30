@@ -3,7 +3,7 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d'instruction 4 mai
+## Soirée d'instruction 4 avril
 - Qui : Tous les cadets
 - Heure : de 18h30 à 21h15, vendredi soir
 - Lieu : 52 St-Rosaire (Locaux d'instruction) 
