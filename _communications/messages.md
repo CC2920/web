@@ -76,11 +76,7 @@ Les cadets qui veulent commander des gilets cotons ouatés peuvent le faire en e
 
 ### Bague du 2920
 
-Pour les cadets et cadettes qui veulent une bague du 2920 en acier chirurgical, personnalisé avec votre nom et numéro de production (ex.: S. Brunette 001, N.Martel 002), c'est maintenant possible d'en acheter une pour 250$.  
-
-<img src="https://photos.app.goo.gl/gzQBVka2Ur7p1Vz6A" 
-  width="200"
-  alt="Bague du 2920">
+Pour les cadets et cadettes qui veulent une [bague du 2920](https://photos.app.goo.gl/gzQBVka2Ur7p1Vz6A) en acier chirurgical, personnalisé avec votre nom et numéro de production (ex.: S. Brunette 001, N.Martel 002), c'est maintenant possible d'en acheter une pour 250$.  
     
 Pour la recevoir avant le cérémonial, il faut payer à la cantine ou faire un virement au (<cciv2920@gmail.com>) et confirmer la taille désirée, avant le 11 avril.
 
