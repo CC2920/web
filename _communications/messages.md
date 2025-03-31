@@ -68,10 +68,20 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Tenue : Civile avec le  gilet du corps de cadets
 - Informations supplémentaires : Tenue de sport pour la journée, vous pouvez vous apporter des collations et une cantine sera disponible sur place. Vous devez avoir votre carte d'assurance maladie avec vous.
 
-## Commande des cotons ouatés
+## Commandes
 
-Les cadets qui veulent commander des gilets cotons. Ils peuvent le faire en effectuant un virement à (<cciv2920@gmail.com>) ou le commander à la cantine en précisant la grandeur pour au plus tard le 18 avril.
+### Cotons ouatés
 
-## Commande de Bague du 2920
+Les cadets qui veulent commander des gilets cotons ouatés peuvent le faire en effectuant un virement à (<cciv2920@gmail.com>) ou le commander à la cantine en précisant la grandeur pour au plus tard le 18 avril.
 
-Pour les cadets et cadettes qui veulent une bague du 2920 en acier chirurgical, personnalisé avec votre nom et numéro de production (ex.: S. Brunette 001, N.Martel 002).  c'est maintenant possible d'en acheter une pour 250$.  Pour la recevoir avant le cérémonial, il faut payer à la cantine ou faire un virement au (<cciv2920@gmail.com>) et confirmer la taille désirée, avant le 11 avril.
+### Bague du 2920
+
+Pour les cadets et cadettes qui veulent une bague du 2920 en acier chirurgical, personnalisé avec votre nom et numéro de production (ex.: S. Brunette 001, N.Martel 002), c'est maintenant possible d'en acheter une pour 250$.  
+
+<img src="https://photos.app.goo.gl/gzQBVka2Ur7p1Vz6A" 
+  width="200"
+  alt="Bague du 2920">
+    
+Pour la recevoir avant le cérémonial, il faut payer à la cantine ou faire un virement au (<cciv2920@gmail.com>) et confirmer la taille désirée, avant le 11 avril.
+
+
