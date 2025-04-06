@@ -3,15 +3,15 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d'instruction 4 avril
+## Soirée d'instruction 12 avril
 - Qui : Tous les cadets
 - Heure : de 18h30 à 21h15, vendredi soir
 - Lieu : 52 St-Rosaire (Locaux d'instruction) 
-  - Tenue niveau vert : Tenue C5 (tenue d'instruction)
-  - Tenue niveau rouge : Tenue C5 (tenue d'instruction)
-  - Tenue niveau argent : Tenue C5 (tenue d'instruction)
-  - Tenue niveau or : Tenue C5 (tenue d'instruction)
-  - Tenue cadets séniors : Tenue C5 (tenue d'instruction)
+  - Tenue niveau vert : Tenue de sport avec gillet du corps de cadets
+  - Tenue niveau rouge : Tenue de sport avec gillet du corps de cadets
+  - Tenue niveau argent :  Tenue de sport avec gillet du corps de cadets
+  - Tenue niveau or : Tenue de sport avec gillet du corps de cadets
+  - Tenue cadets séniors : Tenue de sport avec gillet du corps de cadets
     
 **Notes supplémentaires**  Apporter votre instrument de musique et vos partitions
 
@@ -20,18 +20,31 @@ layout: "messages"
 
 ### Activités à venir
 
-- **30 mars** : Pas de pratique de musique a cause des prévisions météorologique 
-- **31 mars** : Pratique de tir
-- **2 avril** : Pratique du peloton de précision
-- **4 avril** : Soirée d'instruction 
-- **5 avril** : Jeux des cadets
 - **6 avril** : Pratique de musique
 - **7 avril** : Pratique de tir
 - **9 avril** : Pratique du peloton de précision
 - **11 avril** : Soirée de sports
 - **11 avril** : Date limite de commande pour la bague du CC 2920
+- **12 avril** : Compétition d'exercice militaire
 - **13 avril** : Pratique de musique
-- **18 avril** : Date limite pour la commande des cotons ouatés
+- **14 avril** : Pratique de tir
+- **16 avril** : Pratique d'exercice militaire
+- **16 avril** : Date limite pour la commande des cotons ouatés
+- **16 avril** : Date limite pour le retour des réponses des camps
+- **18 avril** : Pas de cadets pour le congé de Pâques
+- **20 avril** : Pas de pratique de musique
+- **21 avril** : Pratique de tir
+- **23 avril** : Pratique d'exercice militaire
+- **23 avril** : Activité pour l'équipe de compétition de tir
+- **25 avril** : Soirée d'instruction
+- **26 avril** : Collecte de bouteilles [Sondage](https://docs.google.com/forms/d/1PI13J6a1jAA0qAe4Dp7VkUqK5AoEvx3oP6CKhJgfbQw/edit)
+- **27 avril** : Pratique de musique
+- **28 avril** : Pratique de tir
+- **30 avril** : Pratique de drill
+- **2 mai** : Soirée d'instruction
+- **3 mai** : Gala des cadets
+- **4 mai** : Pratique de musique
+- **24 mai** : Revue annuelle 
 
 ### Absence
 
@@ -60,13 +73,13 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Lieu : Manège militaire de Hull 
 - Tenue : Civile
 
-## Jeux des cadets  
+## Compétition d'exercice militaire
 
-- Qui :  Pour les cadets inscrits 
-- Heure : Départ 7h30 du 52 St-Rosaire et Retour 17h30 au 52 St-Rosaire, Samedi
-- Lieu : École Secondaire Hormidas Gamelin ([580 Rue Maclaren E, Gatineau, QC](https://maps.app.goo.gl/1xSARFd68rGgHGpt5))
-- Tenue : Civile avec le  gilet du corps de cadets
-- Informations supplémentaires : Tenue de sport pour la journée, vous pouvez vous apporter des collations et une cantine sera disponible sur place. Vous devez avoir votre carte d'assurance maladie avec vous.
+- Qui :  Pour les cadets de l'équipe d'exercicie militaire 
+- Heure : Départ 7h45 du 52 St-Rosaire et Retour 17h30 au 52 St-Rosaire, Samedi
+- Lieu : BFC St-Jean, Hangar 8 sur le base de Saint-Jean-sur-Richelieu, Quebec J3B 2X8
+- Tenue : C3
+- Informations supplémentaires : Vous devez avoir votre carte d'assurance maladie avec vous. La tenue pour le voyage vous sera confirmé lors de la pratique du 9 avril
 
 ## Commandes
 
