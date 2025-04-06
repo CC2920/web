@@ -45,8 +45,6 @@ layout: "messages"
 - **3 mai** : Gala des cadets
 - **4 mai** : Pratique de musique
 - **24 mai** : Revue annuelle 
-- 
-- 
 
 ### Absence
 
