@@ -44,7 +44,8 @@ layout: "messages"
 - **2 mai** : Soirée d'instruction
 - **3 mai** : Gala des cadets
 - **4 mai** : Pratique de musique
-- **24 mai** : Revue annuelle 
+- **24 mai** : Revue annuelle
+- **7 et 9 juin** : Activité de fin d'année [Sondage](https://docs.google.com/forms/d/13VIDFnLftRxhjTxa1oG-1B_-qwZGlW3dthlx6bIJdrk/edit)
 
 ### Absence
 
