@@ -26,7 +26,7 @@ semaine du 7 avril :
 - **11 avril** : Soirée de sports
 - **11 avril** : **Date limite** de commande pour la bague du CC 2920
 - **12 avril** : Compétition d'exercice militaire
-- **13 avril** : Pratique de musique
+- **13 avril** : Pratique de musique [Sondage](https://forms.office.com/r/TwZhZjWpv7)
 
 semaine du 14 avril : 
 
@@ -122,8 +122,3 @@ Pour la recevoir avant le cérémonial, il faut payer à la cantine ou faire un 
 - Lieu : BFC St-Jean, Hangar 8 sur la base de Saint-Jean-sur-Richelieu, Québec J3B 2X8
 - Tenue : C3
 - Informations supplémentaires : Vous devez avoir votre carte d'assurance maladie avec vous. La tenue pour le voyage vous sera confirmée lors de la pratique du 9 avril.
-- 
-## Sondage pour la musique pour la présence revue annuelle
-
-Les cadets de la musique doivent compléter le sondage suivants  [Participation}(https://forms.office.com/r/TwZhZjWpv7)
-
