@@ -124,5 +124,8 @@ Pour la recevoir avant le cérémonial, il faut payer à la cantine ou faire un 
 - Lieu : BFC St-Jean, Hangar 8 sur la base de Saint-Jean-sur-Richelieu, Québec J3B 2X8
 - Tenue : C3
 - Informations supplémentaires : Vous devez avoir votre carte d'assurance maladie avec vous. La tenue pour le voyage vous sera confirmée lors de la pratique du 9 avril.
+- 
+## Sondage pour la musique pour la présence aux revue annuelle
 
+Les cadets de la musique doivent compléter le sondage suivants  [Participation}(https://forms.office.com/r/TwZhZjWpv7)
 
