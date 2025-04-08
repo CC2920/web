@@ -22,8 +22,6 @@ layout: "messages"
 
 semaine du 7 avril :
 
-- **6 avril** : Pratique de musique
-- **7 avril** : Pratique de tir
 - **9 avril** : Pratique du peloton de précision
 - **11 avril** : Soirée de sports
 - **11 avril** : **Date limite** de commande pour la bague du CC 2920
@@ -41,7 +39,7 @@ semaine du 14 avril :
 
 semaine du 21 avril :
 
-- **21 avril** : Pratique de tir
+- **21 avril** : Pas de pratique de tir
 - **23 avril** : Pratique d'exercice militaire
 - **23 avril** : Activité pour l'équipe de compétition de tir
 - **25 avril** : Soirée d'instruction
@@ -125,7 +123,7 @@ Pour la recevoir avant le cérémonial, il faut payer à la cantine ou faire un 
 - Tenue : C3
 - Informations supplémentaires : Vous devez avoir votre carte d'assurance maladie avec vous. La tenue pour le voyage vous sera confirmée lors de la pratique du 9 avril.
 - 
-## Sondage pour la musique pour la présence aux revue annuelle
+## Sondage pour la musique pour la présence revue annuelle
 
 Les cadets de la musique doivent compléter le sondage suivants  [Participation}(https://forms.office.com/r/TwZhZjWpv7)
 
