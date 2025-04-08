@@ -62,9 +62,10 @@ activités futures :
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
 
+
 ## Collecte de bouteilles 📢
 
->Parents bénévole avec véhicules recherché 🛻🚗🚙
+*Parents bénévole avec véhicules recherché* 🛻🚗🚙
 
 Nous sollicitons l'aide des parents pour la prochaine collecte de bouteille, le samedi 26 avril.
 
@@ -81,6 +82,17 @@ Par exemple : *Parents avec caravane pouvant transporter 4 cadets*, ou *Aide au 
 
 Merci de votre soutien !
 
+## Commandes
+
+### Cotons ouatés (date limite: 16 avril)
+
+Les cadets qui veulent commander des gilets cotons ouatés peuvent le faire en effectuant un virement à (<cciv2920@gmail.com>) ou le commander à la cantine en précisant la grandeur pour au plus tard le 18 avril.
+
+### Bague du 2920 (date limite: 11 avril)
+
+Pour les cadets et cadettes qui veulent une [bague du 2920](https://photos.app.goo.gl/gzQBVka2Ur7p1Vz6A) en acier chirurgical, personnalisé avec votre nom et numéro de production (ex.: S. Brunette 001, N.Martel 002), c'est maintenant possible d'en acheter une pour 250$.  
+    
+Pour la recevoir avant le cérémonial, il faut payer à la cantine ou faire un virement au (<cciv2920@gmail.com>) et confirmer la taille désirée, avant le 11 avril.
 
 ## Pratique de tir
 
@@ -107,22 +119,10 @@ Merci de votre soutien !
 
 ## Compétition d'exercice militaire
 
-- Qui :  Pour les cadets de l'équipe d'exercicie militaire 
+- Qui :  Pour les cadets de l'équipe d'exercice militaire 
 - Heure : Départ à 7h45 du 52 St-Rosaire et retour à 17h30 au 52 St-Rosaire, samedi
-- Lieu : BFC St-Jean, Hangar 8 sur le base de Saint-Jean-sur-Richelieu, Quebec J3B 2X8
+- Lieu : BFC St-Jean, Hangar 8 sur la base de Saint-Jean-sur-Richelieu, Québec J3B 2X8
 - Tenue : C3
 - Informations supplémentaires : Vous devez avoir votre carte d'assurance maladie avec vous. La tenue pour le voyage vous sera confirmée lors de la pratique du 9 avril.
-
-## Commandes
-
-### Cotons ouatés (date limite: 16 avril)
-
-Les cadets qui veulent commander des gilets cotons ouatés peuvent le faire en effectuant un virement à (<cciv2920@gmail.com>) ou le commander à la cantine en précisant la grandeur pour au plus tard le 18 avril.
-
-### Bague du 2920 (date limite: 11 avril)
-
-Pour les cadets et cadettes qui veulent une [bague du 2920](https://photos.app.goo.gl/gzQBVka2Ur7p1Vz6A) en acier chirurgical, personnalisé avec votre nom et numéro de production (ex.: S. Brunette 001, N.Martel 002), c'est maintenant possible d'en acheter une pour 250$.  
-    
-Pour la recevoir avant le cérémonial, il faut payer à la cantine ou faire un virement au (<cciv2920@gmail.com>) et confirmer la taille désirée, avant le 11 avril.
 
 
