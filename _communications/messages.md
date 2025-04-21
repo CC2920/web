@@ -12,8 +12,6 @@ layout: "messages"
 - Tenue niveau Argent : C5 (tenue d'instruction)
 - Tenue niveau Or : C5 (tenue d'instruction)
 - Tenue séniors : C5 (tenue d'instruction)
-- 
-**Notes supplémentaires**  Pas de cadets pour la fin de semaine de Pâques
 
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
