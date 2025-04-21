@@ -89,7 +89,7 @@ Merci de votre soutien !
 - Lieu : Manège militaire de Hull
 - Tenue : Civil avec votre instrument et partitions
 
-#### Gala des cadetsQui : Uniquement les cadets de l'équipe de tir
+#### Gala des cadets
 
 - Qui : Tous les cadets et les parents sont invités à assister
 - Quand : Samedi 3 mai 
