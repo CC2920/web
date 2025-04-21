@@ -58,37 +58,43 @@ Par exemple : *Parents avec caravane pouvant transporter 4 cadets*, ou *Aide au 
 Merci de votre soutien !
 
 ### Pratique d'exercice militaire
-Qui : Tous les cadets de l'équipe d'exercice militaire
-Quand : Mercredi 23 avril
-Heure : 18h30 à 20h30
-Lieu : 100 La Baie (Ecole nouvel-Horizon)
+
+- Qui : Tous les cadets de l'équipe d'exercice militaire
+- Quand : Mercredi 23 avril
+- Heure : 18h30 à 20h30
+- Lieu : 100 La Baie (Ecole nouvel-Horizon)
 
 ### Activité équipe de tir 
-Qui : Uniquement les cadets de l'équipe de tir
-Quant : Mercredi 23 avril
-Heure : Départ 18h00 du 52 St-Rosaire et retour a 21h00 au 52 St-Rosire 
-Lieu : cette auront lieu dans les locaux de tir du corps de cadets Buckgkingam cette semaine.
-Details : Nous allons transporter les cadets aller-retour à l'endroit de l'activité.  
+
+- Qui : Uniquement les cadets de l'équipe de tir
+- Quand : Mercredi 23 avril
+- Heure : Départ 18h00 du 52 St-Rosaire et retour a 21h00 au 52 St-Rosire 
+- Lieu : cette auront lieu dans les locaux de tir du corps de cadets Buckgkingam cette semaine.
+- Détails : Nous allons transporter les cadets aller-retour à l'endroit de l'activité.  
 
 ### Collecte de bouteilles
-Qui : Tous les cadets 
-Quand : Samedi 26 avril
-Heure : 9h00 à 15h00
-Lieu : 52 St-Rosaire
-Tenue : Civil avec le gilet du corps de cadets
-Note : SVP compléter le sondage si cela n'a pas été déjà fait [sondage](https://docs.google.com/forms/d/1PI13J6a1jAA0qAe4Dp7VkUqK5AoEvx3oP6CKhJgfbQw/edit)
+
+- Qui : Tous les cadets 
+- Quand : Samedi 26 avril
+- Heure : 9h00 à 15h00
+- Lieu : 52 St-Rosaire
+- Tenue : Civil avec le gilet du corps de cadets
+- Note : SVP compléter le sondage si cela n'a pas été déjà fait [sondage](https://docs.google.com/forms/d/1PI13J6a1jAA0qAe4Dp7VkUqK5AoEvx3oP6CKhJgfbQw/edit)
 
 ### Pratique de musique
-Qui : Tous les cadets de l'équipe de la musique
-Quand : Dimanche 27 avril
-Heure : normal des pratiques
-Lieu : Manège militaire de Hull
+
+- Qui : Tous les cadets de l'équipe de la musique
+- Quand : Dimanche 27 avril
+- Heure : normal des pratiques
+- Lieu : Manège militaire de Hull
+- Tenue : Civil avec votre instrument et partitions
 
 #### Gala des cadetsQui : Uniquement les cadets de l'équipe de tir
-Qui : Tous les cadets et les parents sont invités à assister
-Quant : Samedi 3 mai 
-Heure : 18h30 à 22h00 
-Lieu : 100 Rue La Baie (Ecole Nouvel-Horizon)
-Tenue : C1A (tenue de cérémonie)
-Details :Lors de cette soirée nous allons prendre des photos individuelle de chaque cadets et les photos de groupe.  De plus, nous allons remettre des grades pour les cadets ayant complété leur niveau d'instruction.
+
+- Qui : Tous les cadets et les parents sont invités à assister
+- Quand : Samedi 3 mai 
+- Heure : 18h30 à 22h00 
+- Lieu : 100 Rue La Baie (Ecole Nouvel-Horizon)
+- Tenue : C1A (tenue de cérémonie)
+- Details :Lors de cette soirée nous allons prendre des photos individuelle de chaque cadets et les photos de groupe.  De plus, nous allons remettre des grades pour les cadets ayant complété leur niveau d'instruction.
 
