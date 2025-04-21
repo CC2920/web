@@ -20,7 +20,6 @@ layout: "messages"
 
 ## Activités à venir
 
-- **21 avril** : **Pas de pratique** de tir
 - **23 avril** : Pratique d'exercice militaire
 - **23 avril** : Activité pour l'équipe de compétition de tir
 - **25 avril** : Soirée d'instruction
