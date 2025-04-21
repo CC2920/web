@@ -3,11 +3,16 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d'instruction 18 avril (Congé de Pâques)
+## Soirée d'instruction 25 avril
 - Qui : Tous les cadets
 - Heure : de 18h30 à 21h15, vendredi soir
-- Lieu : 52 St-Rosaire (Locaux d'instruction) 
-
+- Lieu : 52 St-Rosaire (Locaux d'instruction)
+- Tenue niveau vert : C5 (tenue d'instruction)
+- Tenue niveau Rouge : C5 (tenue d'instruction)
+- Tenue niveau Argent : C5 (tenue d'instruction)
+- Tenue niveau Or : C5 (tenue d'instruction)
+- Tenue séniors : C5 (tenue d'instruction)
+- 
 **Notes supplémentaires**  Pas de cadets pour la fin de semaine de Pâques
 
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
@@ -15,18 +20,15 @@ layout: "messages"
 
 ### Activités à venir
 
-- **13 avril** : Pratique de musique [Sondage](https://forms.office.com/r/TwZhZjWpv7)
-- **14 avril** : Pratique de tir
-- **16 avril** : **Pas de pratique** d'exercice militaire
-- **16 avril** : **Date limite** pour la commande des cotons ouatés
-- **16 avril** : **Date limite** pour le retour des réponses des camps
-- **18 avril** : **Pas de cadets** pour le congé de Pâques
-- **20 avril** : **Pas pratique** de musique
 - **21 avril** : **Pas de pratique** de tir
 - **23 avril** : Pratique d'exercice militaire
 - **23 avril** : Activité pour l'équipe de compétition de tir
 - **25 avril** : Soirée d'instruction
 - **26 avril** : Collecte de bouteilles; [Sondage à remplir](https://docs.google.com/forms/d/1PI13J6a1jAA0qAe4Dp7VkUqK5AoEvx3oP6CKhJgfbQw/edit)
+- **27 avril** : Pratique de musique
+- **28 avril** : Pratique de tir
+- **30 avril** : Pratique d'exercice militaire
+- **2 mai** : Soirée d'instruction
 - **3 mai** : **Gala des cadets**
 - **24 mai** : **Revue annuelle**
 - **7 et 9 juin** : Activité de fin d'année; [Sondage à remplir](https://docs.google.com/forms/d/13VIDFnLftRxhjTxa1oG-1B_-qwZGlW3dthlx6bIJdrk/edit)
@@ -55,11 +57,44 @@ Par exemple : *Parents avec caravane pouvant transporter 4 cadets*, ou *Aide au 
 
 Merci de votre soutien !
 
-## Commandes
+### Pratique d'exercice militaire
 
-### Cotons ouatés (date limite: 16 avril)
+- Qui : Tous les cadets de l'équipe d'exercice militaire
+- Quand : Mercredi 23 avril
+- Heure : 18h30 à 20h30
+- Lieu : 100 La Baie (Ecole nouvel-Horizon)
 
-Les cadets qui veulent commander des gilets cotons ouatés peuvent le faire en effectuant un virement à (<cciv2920@gmail.com>) ou le commander à la cantine en précisant la grandeur pour au plus tard le 18 avril.
+### Activité équipe de tir 
 
+- Qui : Uniquement les cadets de l'équipe de tir
+- Quand : Mercredi 23 avril
+- Heure : Départ 18h00 du 52 St-Rosaire et retour a 21h00 au 52 St-Rosire 
+- Lieu : cette auront lieu dans les locaux de tir du corps de cadets Buckgkingam cette semaine.
+- Détails : Nous allons transporter les cadets aller-retour à l'endroit de l'activité.  
 
+### Collecte de bouteilles
+
+- Qui : Tous les cadets 
+- Quand : Samedi 26 avril
+- Heure : 9h00 à 15h00
+- Lieu : 52 St-Rosaire
+- Tenue : Civil avec le gilet du corps de cadets
+- Note : SVP compléter le sondage si cela n'a pas été déjà fait [sondage](https://docs.google.com/forms/d/1PI13J6a1jAA0qAe4Dp7VkUqK5AoEvx3oP6CKhJgfbQw/edit)
+
+### Pratique de musique
+
+- Qui : Tous les cadets de l'équipe de la musique
+- Quand : Dimanche 27 avril
+- Heure : normal des pratiques
+- Lieu : Manège militaire de Hull
+- Tenue : Civil avec votre instrument et partitions
+
+#### Gala des cadets
+
+- Qui : Tous les cadets et les parents sont invités à assister
+- Quand : Samedi 3 mai 
+- Heure : 18h30 à 22h00 
+- Lieu : 100 Rue La Baie (Ecole Nouvel-Horizon)
+- Tenue : C1A (tenue de cérémonie)
+- Details :Lors de cette soirée nous allons prendre des photos individuelle de chaque cadets et les photos de groupe.  De plus, nous allons remettre des grades pour les cadets ayant complété leur niveau d'instruction.
 
