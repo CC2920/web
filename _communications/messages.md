@@ -77,9 +77,9 @@ Merci de votre soutien !
 - Quand : Samedi 26 avril
 - Heure : 9h00 à 13h00
 - Lieu : 52 St-Rosaire
-- Tenue : Civil avec le gilet du corps de cadets
+- Tenue : C5 (Tenue d'instruction)
 - Note : SVP compléter le sondage si cela n'a pas été déjà fait [sondage](https://docs.google.com/forms/d/1PI13J6a1jAA0qAe4Dp7VkUqK5AoEvx3oP6CKhJgfbQw/edit)
-- Lunch : De la pizza sera servis aux participants cadets et accompagnateurs aux retour pour le diner
+- Lunch : De la pizza sera servis aux participants cadets et accompagnateurs pour le diner
   
 ## Pratique de musique
 
