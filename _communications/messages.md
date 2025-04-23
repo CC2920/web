@@ -75,11 +75,12 @@ Merci de votre soutien !
 
 - Qui : Tous les cadets 
 - Quand : Samedi 26 avril
-- Heure : 9h00 à 15h00
+- Heure : 9h00 à 13h00
 - Lieu : 52 St-Rosaire
 - Tenue : Civil avec le gilet du corps de cadets
 - Note : SVP compléter le sondage si cela n'a pas été déjà fait [sondage](https://docs.google.com/forms/d/1PI13J6a1jAA0qAe4Dp7VkUqK5AoEvx3oP6CKhJgfbQw/edit)
-
+- Lunch : De la pizza sera servis aux participants cadets et accompagnateurs aux retour pour le diner.
+  
 ## Pratique de musique
 
 - Qui : Tous les cadets de l'équipe de la musique
