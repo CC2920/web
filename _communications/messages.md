@@ -28,7 +28,7 @@ layout: "messages"
 - **2 mai** : Soirée d'instruction
 - **3 mai** : **Gala des cadets**
 - **24 mai** : **Revue annuelle**
-- **7 et 9 juin** : Activité de fin d'année; [Sondage à remplir](https://docs.google.com/forms/d/13VIDFnLftRxhjTxa1oG-1B_-qwZGlW3dthlx6bIJdrk/edit)
+- **7 et 8 juin** : Activité de fin d'année; [Sondage à remplir](https://docs.google.com/forms/d/13VIDFnLftRxhjTxa1oG-1B_-qwZGlW3dthlx6bIJdrk/edit)
 
 ## Absence
 
