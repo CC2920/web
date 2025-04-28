@@ -26,6 +26,7 @@ layout: "messages"
 - **4 mai** : Pratique de musique
 - **5 mai** : Tir pour les cadets de niveau vert
 - **5 mai**  Pratique de tir pour l'équipe de tir pour la démonstration de la revue annuelle
+- **6 mai** : Conseil de mérite pour le grade d'adjudant
 - **24 mai** : **Revue annuelle**
 - **7 et 8 juin** : Activité de fin d'année; [Sondage à remplir](https://docs.google.com/forms/d/13VIDFnLftRxhjTxa1oG-1B_-qwZGlW3dthlx6bIJdrk/edit)
 
