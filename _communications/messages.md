@@ -61,14 +61,13 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Tenue : C1A (tenue de cérémonie)
 - Details :Lors de cette soirée nous allons prendre des photos individuelles de chaque cadets et les photos des groupes.  De plus, nous allons remettre des grades et des insignes de compétences.
 
-## Conseil de mérite**
+## Conseil de mérite
+
 - Qui : Cadets qui sont sergent déjà
-- Details :
 - Les cadets qui veulent appliquer pour le grade d'adjudant doivent soumettree une lettre expliquant leur intentions d'obtenir le grade d'adjudant.  
 - il doivent décrire en une page leurs motivations et les raisons du pourquoi ils veulent obtenir ce grade.
 - La lettre doit etre envoyé par courriel à (<2920armee@cadets.gc.ca>) pour le 3 mai au plus tard.
-
--  Un conseil de mérite avec un entrevue en personne aura lieu de 6 mai au 52 St-Rosaire pour les cadets qui auront applique entre 18h30 et 21h00.
+- Un conseil de mérite avec un entrevue en personne aura lieu de 6 mai au 52 St-Rosaire pour les cadets qui auront applique entre 18h30 et 21h00.
  
 ## Pratique de musique
 
