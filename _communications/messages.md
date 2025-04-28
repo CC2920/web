@@ -88,5 +88,5 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 ## Revue annuelle
 
-- le 24 mai prochain aura lieu la revue annuelle du corps de cadets.  Dans le but de pouvoir planifier le nombre de place requises pour les spectateurs nous vous demandons de compléter le [sondage] (https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOERPQ01PUERORklVSEtTWVNISThRUUFNQiQlQCN0PWcu) pour au plus tard le 15 mai.
+- le 24 mai prochain aura lieu la revue annuelle du corps de cadets.  Dans le but de pouvoir planifier le nombre de place requises pour les spectateurs nous vous demandons de compléter le [sondage](https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOERPQ01PUERORklVSEtTWVNISThRUUFNQiQlQCN0PWcu) pour au plus tard le 15 mai.
 
