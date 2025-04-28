@@ -25,7 +25,7 @@ layout: "messages"
 - **3 mai** : Date limite pour soumettre lettre de présentation pour le conseil de mérite pour le grade d'adjudant
 - **4 mai** : Pratique de musique
 - **5 mai** : Tir pour les cadets de niveau vert
-- **5 mai**  Pratique de tir pour l'équipe de tir pour la démonstration de la revue annuelle
+- **5 mai**  Pratique de tir pour la démonstration de la revue annuelle
 - **6 mai** : Conseil de mérite pour le grade d'adjudant
 - **24 mai** : **Revue annuelle**
 - **7 et 8 juin** : Activité de fin d'année; [Sondage à remplir](https://docs.google.com/forms/d/13VIDFnLftRxhjTxa1oG-1B_-qwZGlW3dthlx6bIJdrk/edit)
@@ -86,7 +86,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Tenue : Civil
 - Details :Pour obtenir votre niveau vert avec succès, vous devez participer à un exercice de tir.
 
-- ## Revue annuelle
+## Revue annuelle
 
-- le 24 mai prochain aura lieu le revue annuelle du corps de cadets.  Dans le but de pouvoir planifier le nombre de place requises pour les spectateurs nous vous demandons compléter le [sondage] (https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOERPQ01PUERORklVSEtTWVNISThRUUFNQiQlQCN0PWcu) pour au plus tard le 15 mai.
+- le 24 mai prochain aura lieu la revue annuelle du corps de cadets.  Dans le but de pouvoir planifier le nombre de place requises pour les spectateurs nous vous demandons de compléter le [sondage] (https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOERPQ01PUERORklVSEtTWVNISThRUUFNQiQlQCN0PWcu) pour au plus tard le 15 mai.
 
