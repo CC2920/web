@@ -3,7 +3,7 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d'instruction 25 avril
+## Soirée d'instruction 2 mai
 - Qui : Tous les cadets
 - Heure : de 18h30 à 21h15, vendredi soir
 - Lieu : 52 St-Rosaire (Locaux d'instruction)
@@ -16,17 +16,17 @@ layout: "messages"
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 
-## Activités à venir
+## Activités cette semaine 
 
-- **23 avril** : Pratique d'exercice militaire
-- **23 avril** : Activité pour l'équipe de compétition de tir
-- **25 avril** : Soirée d'instruction
-- **26 avril** : Collecte de bouteilles; [Sondage à remplir](https://docs.google.com/forms/d/1PI13J6a1jAA0qAe4Dp7VkUqK5AoEvx3oP6CKhJgfbQw/edit)
-- **27 avril** : Pratique de musique
-- **28 avril** : Pratique de tir
+- **28 avril** : Activité de l'équipe de tir
 - **30 avril** : Pratique d'exercice militaire
-- **2 mai** : Soirée d'instruction
-- **3 mai** : **Gala des cadets**
+-  **2 mai** : Soirée d'instruction
+- **3 mai** : Gala des cadets
+- **3 mai** : Date limite pour soumettre lettre de présentation pour le conseil de mérite pour le grade d'adjudant
+- **4 mai** : Pratique de musique
+- **5 mai** : Tir pour les cadets de niveau vert
+- **5 mai**  Pratique de tir pour la démonstration de la revue annuelle
+- **6 mai** : Conseil de mérite pour le grade d'adjudant
 - **24 mai** : **Revue annuelle**
 - **7 et 8 juin** : Activité de fin d'année; [Sondage à remplir](https://docs.google.com/forms/d/13VIDFnLftRxhjTxa1oG-1B_-qwZGlW3dthlx6bIJdrk/edit)
 
@@ -35,52 +35,40 @@ layout: "messages"
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
 
 
-## Collecte de bouteilles 📢
+## Activité de l'équipe de tir 
 
-*Parents bénévole avec véhicules recherché* 🛻🚗🚙
-
-Nous sollicitons l'aide des parents pour la prochaine collecte de bouteille, le samedi 26 avril.
-
-## L'aide rechercher:
-
-- Parents avec un véhicule qui pourront transporter un groupe de  2 à 4 cadets
-- De l'aide au triage des bouteilles
-- Remorque rechercher pour aller porter les bouteilles amassées dans un centre de dépôt.
-
-S.V.P répondre au [sondage](https://docs.google.com/forms/d/1PI13J6a1jAA0qAe4Dp7VkUqK5AoEvx3oP6CKhJgfbQw/edit) le plus rapidement possible pour que nous puissions organiser la collection en fonction du nombre de cadet et de parent disponible.
-
-Vous pouvez aussi confirmer votre présence [par courriel](mailto:cciv2920@gmail.com)(<cciv2920@gmail.com>) en indiquant l'endroit ou vous souhaiter aider. 
-Par exemple : *Parents avec caravane pouvant transporter 4 cadets*, ou *Aide au triage de bouteilles*, etc.
-
-Merci de votre soutien !
+- Qui : Uniquement les cadets de l'équipe de tir
+- Quand : Lundi 28 avril
+- Heure : 18h00 à 20h30  
+- Lieu : 100 La Baie  (Ecole Nouvel-Horizon)
+- Tenue : Civil
+- Détails : Souper pizza et pratique pour le revue annuelle
 
 ## Pratique d'exercice militaire
 
 - Qui : Tous les cadets de l'équipe d'exercice militaire
-- Quand : Mercredi 23 avril
+- Quand : Mercredi 30 avril
 - Heure : 18h30 à 20h30
 - Lieu : 100 La Baie (Ecole nouvel-Horizon)
 - tenue : Civil
 
-## Activité équipe de tir 
+ ## Gala des cadets
 
-- Qui : Uniquement les cadets de l'équipe de tir
-- Quand : Mercredi 23 avril
-- Heure : Départ 18h00 du 52 St-Rosaire et retour a 21h00 au 52 St-Rosire 
-- Lieu : cette auront lieu dans les locaux de tir du corps de cadets Buckgkingam cette semaine.
-- Tenue : Civil
-- Détails : Nous allons transporter les cadets aller-retour à l'endroit de l'activité.  
+- Qui : Tous les cadets et les parents sont invités à assister
+- Quand : Samedi 3 mai 
+- Heure : 18h30 à 22h00 
+- Lieu : 100 Rue La Baie (Ecole Nouvel-Horizon)
+- Tenue : C1A (tenue de cérémonie)
+- Details :Lors de cette soirée nous allons prendre des photos individuelles de chaque cadets et les photos des groupes.  De plus, nous allons remettre des grades et des insignes de compétences.
 
-## Collecte de bouteilles
+## Conseil de mérite
 
-- Qui : Tous les cadets 
-- Quand : Samedi 26 avril
-- Heure : 9h00 à 13h00
-- Lieu : 52 St-Rosaire
-- Tenue : C5 (Tenue d'instruction)
-- Note : SVP compléter le sondage si cela n'a pas été déjà fait [sondage](https://docs.google.com/forms/d/1PI13J6a1jAA0qAe4Dp7VkUqK5AoEvx3oP6CKhJgfbQw/edit)
-- Lunch : De la pizza sera servis aux participants cadets et accompagnateurs pour le diner
-  
+- Qui : Cadets qui sont sergent déjà
+- Les cadets qui veulent appliquer pour le grade d'adjudant doivent soumettree une lettre expliquant leur intentions d'obtenir le grade d'adjudant.  
+- il doivent décrire en une page leurs motivations et les raisons du pourquoi ils veulent obtenir ce grade.
+- La lettre doit etre envoyé par courriel à (<2920armee@cadets.gc.ca>) pour le 3 mai au plus tard.
+- Un conseil de mérite avec un entrevue en personne aura lieu de 6 mai au 52 St-Rosaire pour les cadets qui auront applique entre 18h30 et 21h00.
+ 
 ## Pratique de musique
 
 - Qui : Tous les cadets de l'équipe de la musique
@@ -89,12 +77,16 @@ Merci de votre soutien !
 - Lieu : Manège militaire de Hull
 - Tenue : Civil avec votre instrument et partitions
 
-## Gala des cadets
+## Tir pour les cadets niveau vert
 
-- Qui : Tous les cadets et les parents sont invités à assister
-- Quand : Samedi 3 mai 
-- Heure : 18h30 à 22h00 
+- Qui : Tous les cadets du niveau verts qui ne sont pas venu tirer cette année et qui se sont inscrits avant le 31 mars
+- Quand : Lundi 5 mai 
+- Heure : 18h30 à 19h30 
 - Lieu : 100 Rue La Baie (Ecole Nouvel-Horizon)
-- Tenue : C1A (tenue de cérémonie)
-- Details :Lors de cette soirée nous allons prendre des photos individuelles de chaque cadets et les photos des groupes.  De plus, nous allons remettre des grades et des insignes de compétences.
+- Tenue : Civil
+- Details :Pour obtenir votre niveau vert avec succès, vous devez participer à un exercice de tir.
+
+## Revue annuelle
+
+- le 24 mai prochain aura lieu la revue annuelle du corps de cadets.  Dans le but de pouvoir planifier le nombre de place requises pour les spectateurs nous vous demandons de compléter le [sondage] (https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOERPQ01PUERORklVSEtTWVNISThRUUFNQiQlQCN0PWcu) pour au plus tard le 15 mai.
 
