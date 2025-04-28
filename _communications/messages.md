@@ -62,9 +62,10 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 ## Conseil de mérite**
 - Qui : Cadets qui sont sergent déjà
-- Details :  - Les cadets qui veulent appliquer pour le grade d'adjudant doivent soumettree une lettre expliquant leur intentions d'obtenir le grade d'adjudant.  
--            - il doivent décrire en une page leurs motivations et les raisons du pourquoi ils veulent obtenir ce grade.
--            - La lettre doit etre envoyé par courriel à <2920armee@cadets.gc.ca> pour le 3 mai au plus tard.
+- Details :
+- Les cadets qui veulent appliquer pour le grade d'adjudant doivent soumettree une lettre expliquant leur intentions d'obtenir le grade d'adjudant.  
+- il doivent décrire en une page leurs motivations et les raisons du pourquoi ils veulent obtenir ce grade.
+- La lettre doit etre envoyé par courriel à (<2920armee@cadets.gc.ca>) pour le 3 mai au plus tard.
 
 -  Un conseil de mérite avec un entrevue en personne aura lieu de 6 mai au 52 St-Rosaire pour les cadets qui auront applique entre 18h30 et 21h00.
  
@@ -87,5 +88,5 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 - ## Revue annuelle
 
-- le 24 mai prochain aura lieu le revue annuelle du corps de cadets.  Dans le but de pouvoir planifier le nombre de place requises pour les spectateurs nous vous demandons compléter le {sondage}(https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOERPQ01PUERORklVSEtTWVNISThRUUFNQiQlQCN0PWcu) pour au plus tard le 15 mai.
+- le 24 mai prochain aura lieu le revue annuelle du corps de cadets.  Dans le but de pouvoir planifier le nombre de place requises pour les spectateurs nous vous demandons compléter le [sondage}(https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOERPQ01PUERORklVSEtTWVNISThRUUFNQiQlQCN0PWcu) pour au plus tard le 15 mai.
 
