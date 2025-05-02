@@ -13,6 +13,8 @@ layout: "messages"
 - Tenue niveau Or : C5 (tenue d'instruction)
 - Tenue séniors : C5 (tenue d'instruction)
 
+- Les cadets doivent apporter leur uniforme de parade sur un support lors de la soirée d'instruction de vendredi le 2 mai
+  
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 
