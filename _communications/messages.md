@@ -83,14 +83,10 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - La Légion 58 La Baie offre deux bourses d'études aux cadets du corps de cadets 2920
 
 - Les critères sont :
-  . L'octroi de bourses d'études aux étudiants qui des enfants, petits-enfants, arrières-preits enfants de vétérans
-  . Les bourses sont offertes pour les jeunes qui sont ou seront aux études collégiale ou universitaire lors de la prochaine session
-  . le montant pour le collége est de 750 $  et pour l'université est de 1500 $
+  . L'octroi de bourses d'études aux étudiants qui des enfants, petits-enfants, arrières-preits enfants de vétérans. Les bourses sont offertes pour les jeunes qui sont ou seront aux études collégiales ou universitaires lors de la prochaine session. le montant pour le collége est de 750 $  et pour l'université est de 1500 $
 
 - comment appliquer :
- . Les candidats doivent soumettre une preuves d'admimission à un programme collégial ou universitaire
- . Une lettre expliquant en quoi le candidat(e) est éligible à la bourse doit être soumisse pour le 15 mai au plus tard par courriel en format Word en pièces attaché à <2920armee@cadets.gc.ca> (aucun liens web ne sera accepté)
- . Un preuve demontrant qu'il(elle) sont en lien avec un vétérans vérifiable est requise ( ex : Nom du vétéran, année de service, arbre généalogique. etc...)
+ . Les candidats doivent soumettre une preuve d'admimission à un programme collégial ou universitaire. Une lettre expliquant en quoi le candidat(e) est éligible à la bourse doit être soumisse pour le 15 mai au plus tard par courriel en format Word en pièces attaché à <2920armee@cadets.gc.ca> (aucun liens web ne sera accepté). Un preuve demontrant qu'il(elle) sont en lien avec un vétérans vérifiable est requise ( ex : Nom du vétéran, année de service, arbre généalogique. etc...)
   
   
 ## Revue annuelle
