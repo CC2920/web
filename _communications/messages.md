@@ -13,7 +13,7 @@ layout: "messages"
 - Tenue niveau Or : C5 (tenue d'instruction)
 - Tenue séniors : C5 (tenue d'instruction)
 
-- **Les cadets doivent apporter leur uniforme de parade sur un support avec les bottes de parafe lors de la soirée d'instruction de vendredi le 9 mai**
+- **Les cadets doivent apporter leur uniforme de parade sur un support avec les bottes de parade lors de la soirée d'instruction de vendredi, le 9 mai**
   
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
@@ -27,7 +27,7 @@ layout: "messages"
 - **7 mai** : Pratique du peloton de précision
 - **9 mai** : Soirée d'instruction
 - **10 mai** : Conseil de mérite de 9h00 à 12h00
-- **10 mai** : Les cadets de la musique doivent etre présent pour le pratique du cérémoniale du CC 2644 en civil la matin mais doivent apporter leur uniforme pour le parade en après-midi
+- **10 mai** : Les cadets de la musique doivent être présent pour le pratique du cérémoniale du CC 2644 en civil le matin mais doivent apporter leur uniforme pour la parade en après-midi
 - **11 mai** : Pas de pratique de musique
 - **15 mai** : Date limite de soumision des candidatures pour les bourses de la légion
 - **24 mai** : **Revue annuelle**
@@ -80,13 +80,13 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 ## Bourse de la légion
 
-- La Légion 58 La Baie offre deux bourses d'études aux cadets du corps de cadets 2920
+La Légion 58 La Baie offre deux bourses d'études aux cadets du corps de cadets 2920
 
 - Les critères sont :
-  . L'octroi de bourses d'études aux étudiants qui des enfants, petits-enfants, arrières-preits enfants de vétérans. Les bourses sont offertes pour les jeunes qui sont ou seront aux études collégiales ou universitaires lors de la prochaine session. le montant pour le collége est de 750 $  et pour l'université est de 1500 $
+L'octroi de bourses d'études aux étudiants qui sont des enfants, petits-enfants, arrières-preits enfants de vétérans. Les bourses sont offertes pour les jeunes qui sont ou seront aux études collégiales ou universitaires lors de la prochaine session. Le montant pour le collége est de 750&nbsp;$  et pour l'université est de 1500&nbsp;$.
 
 - comment appliquer :
- . Les candidats doivent soumettre une preuve d'admimission à un programme collégial ou universitaire. Une lettre expliquant en quoi le candidat(e) est éligible à la bourse doit être soumisse pour le 15 mai au plus tard par courriel en format Word en pièces attaché à <2920armee@cadets.gc.ca> (aucun liens web ne sera accepté). Un preuve demontrant qu'il(elle) sont en lien avec un vétérans vérifiable est requise ( ex : Nom du vétéran, année de service, arbre généalogique. etc...)
+Les candidats doivent soumettre une preuve d'admimission à un programme collégial ou universitaire. Une lettre expliquant en quoi le(la) candidat(e) est éligible à la bourse doit être soumisse pour le 15 mai au plus tard par courriel en format Word en pièces attachée à <2920armee@cadets.gc.ca> (aucun liens web ne sera accepté). Une preuve démontrant qu'il(elle) soit en lien avec un vétérans vérifiable est requise ( ex : Nom du vétéran, année de service, arbre généalogique. etc...)
   
   
 ## Revue annuelle
