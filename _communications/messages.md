@@ -76,9 +76,9 @@ Les candidats doivent soumettre une preuve d'admimission à un programme collég
   
 ## Revue annuelle
 
-. Le 24 mai prochain aura lieu la revue annuelle du corps de cadets.  
-. Les cadets pratiquerons le matin et le diner sera fournis pour les cadets.
-. La formation de la parade aura lieu a 13h300 et la cérémonie débutera a 14h00.
-. La parade devrait se terminer pour 16h00, mais nous demanderons aux cadets d'aider a ramasser la salle après la cérémonie.
-. Dans le but de pouvoir planifier le nombre de places requises pour les spectateurs nous vous demandons de compléter le [sondage](https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOERPQ01PUERORklVSEtTWVNISThRUUFNQiQlQCN0PWcu) pour au plus tard le 18 mai.
+- Le 24 mai prochain aura lieu la revue annuelle du corps de cadets.  
+- Les cadets pratiquerons le matin et le diner sera fournis pour les cadets.
+- La formation de la parade aura lieu a 13h300 et la cérémonie débutera a 14h00.
+- La parade devrait se terminer pour 16h00, mais nous demanderons aux cadets d'aider a ramasser la salle après la cérémonie.
+- Dans le but de pouvoir planifier le nombre de places requises pour les spectateurs nous vous demandons de compléter le [sondage](https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOERPQ01PUERORklVSEtTWVNISThRUUFNQiQlQCN0PWcu) pour au plus tard le 18 mai.
 
