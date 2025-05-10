@@ -3,7 +3,7 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d'instruction 9 mai
+## Soirée d'instruction 16 mai
 - Qui : Tous les cadets
 - Heure : de 18h30 à 21h15, vendredi soir
 - Lieu : 52 St-Rosaire (Locaux d'instruction)
@@ -13,43 +13,36 @@ layout: "messages"
 - Tenue niveau Or : C5 (tenue d'instruction)
 - Tenue séniors : C5 (tenue d'instruction)
 
-- **Les cadets doivent apporter leur uniforme de parade sur un support avec les bottes de parade lors de la soirée d'instruction de vendredi, le 9 mai**
+- **Les cadets doivent apporter leur uniforme de parade sur un support avec les bottes de parade lors de la soirée d'instruction de vendredi, le 16 mai**
   
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 
 ## Activités cette semaine 
 
-- **4 mai** : Pratique de musique
-- **5 mai** : Tir pour les cadets de niveau vert
-- **5 mai** : Pratique de tir pour la démonstration de la revue annuelle
-- **6 mai** : Le conseil de mérite pour le grade d'adjudant est reporté au 10 mai pour des raisons administratives
-- **7 mai** : Pratique du peloton de précision
-- **9 mai** : Soirée d'instruction
-- **10 mai** : Conseil de mérite de 9h00 à 12h00
-- **10 mai** : Les cadets de la musique doivent être présent pour le pratique du cérémoniale du CC 2644 en civil le matin mais doivent apporter leur uniforme pour la parade en après-midi
-- **11 mai** : Pas de pratique de musique
+- **12 mai** : Pratique de tir pour la démonstration de la revue annuelle
+- **14 mai** : Pratique du peloton de précision
+- **14 mai** : Retour équipement de biathlon entre 18h00 et 19h00
 - **15 mai** : Date limite de soumision des candidatures pour les bourses de la légion
+- **16 mai** : Soirée d'instruction
+- **16 mai** : Date limite pour le retour de l'équipement de biathlon
+- **18 mai** : Pas de pratique de musique
+- **19 mai** : Pratique de tir pour la démonstration de la revue annuelle
+- **21 mai** : Pratique de peloton de précision
+- **23 mai** : Pratique de la revue annuelle de 18h00 à 21h30 à l'école le Carrefour dans le grand gymnase (Les cadets doivent apporter leur uniforme complet)
+- **24 mai** : Pratique de la revue annuelle de 9h00 à 12h00 à l'école le Carrefour (Le diner sera fournis)
 - **24 mai** : **Revue annuelle**
-- **7 et 8 juin** : Activité de fin d'année; [Sondage à remplir](https://docs.google.com/forms/d/13VIDFnLftRxhjTxa1oG-1B_-qwZGlW3dthlx6bIJdrk/edit)
+- **7 et 8 juin** : Activité de fin d'année; (Details à confirmer, les inscriptions sont maintenant terminé) 
 
 ## Absence
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
 
 
-## Tir pour les cadets niveau vert 
-
-- Qui : Cadets niveau vert uniquement
-- Quand : Lundi 5 mai
-- Heure : 18h00 à 19h30  
-- Lieu : 100 rue La Baie (École Nouvel-Horizon)
-- Tenue : Civile
-
 ## Pratique de tir pour la démonstration
 
 - Qui : Equipe de tir et biathlon uniquement
-- Quand : Lundi 5 mai
+- Quand : Lundi 12 mai
 - Heure : 18h00 à 20h30  
 - Lieu : 100 rue La Baie (École Nouvel-Horizon)
 - Tenue : Civile
@@ -57,26 +50,18 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 ## Pratique d'exercice militaire
 
 - Qui : Tous les cadets de l'équipe d'exercice militaire
-- Quand : Mercredi 7 mai
+- Quand : Mercredi 14 mai
 - Heure : 18h30 à 20h30
 - Lieu : 100 rue La Baie (École Nouvel-Horizon)
 - tenue : Civile
 
-## Conseil de mérite
-
-- Qui : pour les candidats ayant soumis leur applications
-- Quand : 10 mai
-- Heure : Entre 9h30 à 12h00
-- Lieu : 52 St-Rosaire
-- Tenue : C1A
-  
 ## Musique
 
 - Qui : Tous les cadets de l'équipe de la musique
-- Quand : Samedi 10 mai
-- Heure : 9h00 à 17h00 environ
+- Quand : Samedi 18 mai
+- Heure : 9h00 à 13h00 environ
 - Lieu : Manège militaire de Hull
-- Tenue : Civile, avec votre instrument, partitions, uniforme de parade complet et bouteille d'eau
+- Tenue : Civile, avec votre instrument, partitions et bouteille d'eau
 
 ## Bourse de la légion
 
@@ -91,5 +76,8 @@ Les candidats doivent soumettre une preuve d'admimission à un programme collég
   
 ## Revue annuelle
 
-Le 24 mai prochain aura lieu la revue annuelle du corps de cadets.  Dans le but de pouvoir planifier le nombre de places requises pour les spectateurs nous vous demandons de compléter le [sondage](https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOERPQ01PUERORklVSEtTWVNISThRUUFNQiQlQCN0PWcu) pour au plus tard le 15 mai.
-
+- Le 24 mai prochain aura lieu la revue annuelle du corps de cadets.  
+- Les cadets pratiquerons le matin et le diner sera fournis pour les cadets.
+- La formation de la parade aura lieu a 13h30 et la cérémonie débutera a 14h00.
+- La parade devrait se terminer pour 16h00, mais nous demanderons aux cadets d'aider à ramasser la salle après la cérémonie.
+- Dans le but de pouvoir planifier le nombre de places requises pour les spectateurs assis sur le parterre nous vous demandons de compléter le [sondage](https://forms.office.com/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchOLv_dk-t_dHo8OkX3uOiO1UOERPQ01PUERORklVSEtTWVNISThRUUFNQiQlQCN0PWcu) pour au plus tard le 18 mai.
