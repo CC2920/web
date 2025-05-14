@@ -26,7 +26,7 @@ layout: "messages"
 - **15 mai** : Date limite de soumision des candidatures pour les bourses de la légion
 - **16 mai** : Soirée d'instruction
 - **16 mai** : Date limite pour le retour de l'équipement de biathlon
-- **18 mai** : Pas de pratique de musique
+- **18 mai** : Pratique de musique 
 - **19 mai** : Pratique de tir pour la démonstration de la revue annuelle
 - **21 mai** : Pratique de peloton de précision
 - **23 mai** : Pratique de la revue annuelle de 18h00 à 21h30 à l'école le Carrefour dans le grand gymnase (Les cadets doivent apporter leur uniforme complet)
@@ -58,7 +58,7 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 ## Musique
 
 - Qui : Tous les cadets de l'équipe de la musique
-- Quand : Samedi 18 mai
+- Quand : Dimanche 18 mai
 - Heure : 9h00 à 13h00 environ
 - Lieu : Manège militaire de Hull
 - Tenue : Civile, avec votre instrument, partitions et bouteille d'eau
