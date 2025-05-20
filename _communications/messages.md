@@ -61,8 +61,12 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Un photographe sera sur place pour prendre des photos durant la cérémonie
 - Il sera possible de prendre des photos des récipiendaires des récompences après la cérémonie.
 
-  ## Photo du gala
+## Photo du gala
 
-  - Pour les personnes qui veulent avoir la photo de leur cadets prise lors de la soirée du gala.
-  - Veuillez envoyer un courriel à (<2920armee@cadets.gc.ca.)
-  - les photos seront envoyé dans la semaine du 25 au 30 mai par courriel.
+Pour les personnes qui veulent avoir la photo de leur cadets prise lors de la soirée du gala, veuillez envoyer un courriel à <2920armee@cadets.gc.ca>.
+
+Les photos seront envoyées dans la semaine du 25 au 30 mai par courriel.
+
+## Récupération d'items commandés/attendus
+
+Rappel: Pour ceux et celles ayant commandé des items tel que des hoodies et bagues, ou attendent des items comme des t-shirt ou name tags, nous vous invitons de vérifier avec un membre du comité de soutien pour les récupérer, ce vendredi.
