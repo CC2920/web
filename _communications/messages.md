@@ -20,7 +20,7 @@ layout: "messages"
 
 - **26 mai** : Il n'y a pas de tir
 - **28 mai** : Activité du peloton de précision
-- **30 mai** : Prise de photo d'ensemble du corps de cadets et parade de promotion pour les cadets qui sont éligible à leur promotion durant l'été)
+- **30 mai** : Prise de photo d'ensemble du corps de cadets et parade de promotion pour les cadets qui seront éligibles à leur promotion durant l'été)
 - **1 juin** : Revue annuelle pour les cadets de la musique à l'escadron 500. 
 - **4 Juin** : Rencontre parents-cadets pour les camps d'été au centre communautaire Lafortune de 19h00 à 20h30
 - **6 Juin** : Soirée de sport (ce sera la derniëre soirée avant le congé pour la pause d'été)
