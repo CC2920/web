@@ -26,7 +26,8 @@ layout: "messages"
 
 Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
 
+
 ## Photo du gala
 
-Les photos seront dans vous courriel cette semaine pour les personnes qui en ont fait la demande.
+Les photos seront dans vos courriels cette semaine pour ceux qui en ont fait la demande.
 
