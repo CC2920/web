@@ -28,5 +28,5 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 
 ## Photo du gala
 
-Les photos seront dans vous courriel cette semaine pour les personnes qui en ont fait la demande.
+Les photos seront dans vos courriel cette semaine pour les personnes qui en ont fait la demande.
 
