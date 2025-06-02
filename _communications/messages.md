@@ -19,7 +19,7 @@ layout: "messages"
 ## Activités cette semaine 
 
 - **4 Juin** : Rencontre parents-cadets en civil pour les cadets qui ont été sélectionnés ou en attentes pour les camps d'été au centre communautaire Lafortune de 19h00 à 20h30.
-- **6 Juin** : Soirée de sport (ce sera la derniëre activitée avant le congé pour la pause d'été)
+- **6 Juin** : Soirée de sport (ce sera la derniëre activitée avant le congé pour la pause estivale)
 
 
 ## Absence
