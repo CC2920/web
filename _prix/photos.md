@@ -190,4 +190,6 @@ title: "Galerie de photos"
 * [Parade du commandant - fevrier 2025](https://photos.app.goo.gl/MUmDS8znKApTmBvu7)
 * [Souper régimentaire](https://photos.app.goo.gl/1yyxwbjxHSrCSNRx8)
 * [Parade du commandant - mars 2025](https://photos.app.goo.gl/ftXydu34uF8xmKiw9)
+* [Padade du commandant - mai  2025](https://photos.app.goo.gl/cz598xF5JGwGtehU7)
+* [Cérémonial - Revue annuelle 2025](https://photos.app.goo.gl/ZnEa81UaMXByEA1a6)
   
