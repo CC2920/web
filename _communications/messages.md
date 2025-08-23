@@ -3,31 +3,14 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d'instruction 6 juin
-- Qui : Tous les cadets
-- Heure : de 18h30 à 21h00, vendredi soir
-- Lieu : 52 St-Rosaire (Grand gymnaseet à l'extérieur) 
-- Tenue niveau vert : Civil avec le gilet du corps de cadets
-- Tenue niveau Rouge : Civil avec le gilet du corps de cadets
-- Tenue niveau Argent : Civil avec le gilet du corps de cadets
-- Tenue niveau Or : Civil avec le gilet du corps de cadets
-- Tenue séniors : Civil avec le gilet du corps de cadets
+## Soirée de la rentrée - 5 septembre à 18h30
 
-[Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
+Le Corps de cadets 2920 vous invite à sa soirée de la rentrée qui aura lieu le vendredi 5 septembre 2025.
 
+C’est l’occasion idéale pour rencontrer l’équipe, en apprendre davantage sur les activités à venir et accueillir les nouveaux cadets pour une nouvelle année remplie de découvertes et de défis!
 
-## Activités cette semaine 
+- Date : vendredi 5 septembre 2025
+- Lieu : 52 rue St-Rosaire, Gatineau
+- Heure : 18h30
 
-- **4 Juin** : Rencontre parents-cadets en civil pour les cadets qui ont été sélectionnés ou en attentes pour les camps d'été au centre communautaire Lafortune de 19h00 à 20h30.
-- **6 Juin** : Soirée de sport (ce sera la derniëre activitée avant le congé pour la pause estivale)
-
-
-## Absence
-
-Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet (<2920armee@cadets.gc.ca>) pour nous en informer.
-
-
-## Photo du gala
-
-Les photos seront dans vos courriels cette semaine pour ceux qui en ont fait la demande.
 
