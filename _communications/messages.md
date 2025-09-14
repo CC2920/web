@@ -41,11 +41,11 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Informations supplémentaires : Les recrues qui n’ont pas été mesurées encore peuvent se présenter pour se faire mesurer. Les anciens, essayez toutes vos pièces d’uniforme et si vous avez des pièces qui ne vous font plus, présentez-vous avec les pièces à échanger. Si vous avez des amis qui ont quitté, c’est le moment pour qu’ils rapportent leur uniforme à aussi.
 
 
-Si vous avez des questions, n’hésitez pas à nous contacter à <2920armee@cadets.gc.ca>.
-
-
 ## Rencontre de parents
 - Qui : Tous les parents
 - Quand : 24 septembre 19h00 à 20h30
 - Lieu : Centre communautaire Daniel-Lafortune situé au 448 rue de Pointe-Gatineau, Gatineau
 - Information complémentaire : Il s'agit d'une session d’information sur le fonctionnement du corps de cadets 2920 Gatineau.
+  
+
+Si vous avez des questions, n’hésitez pas à nous contacter à <2920armee@cadets.gc.ca>.
