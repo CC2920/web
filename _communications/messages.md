@@ -46,3 +46,6 @@ Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adres
 - Quand : 24 septembre 19h00 à 20h30
 - Lieu : Centre communautaire Daniel-Lafortune situé au 448 rue de Pointe-Gatineau, Gatineau
 - Information complémentaire : Il s'agit d'une session d’information sur le fonctionnement du corps de cadets 2920 Gatineau.
+  
+
+Si vous avez des questions, n’hésitez pas à nous contacter à <2920armee@cadets.gc.ca>.
