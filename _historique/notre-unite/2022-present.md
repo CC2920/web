@@ -35,4 +35,7 @@ title: "2022 à aujourd'hui Capitaine Mario Martel"
 * janvier 2025 - [Parade du commandant](https://photos.app.goo.gl/1uzARADqDo5NNRFH8)
 * février 2025 - [Parade du commandant](https://photos.app.goo.gl/MUmDS8znKApTmBvu7)
 * mars 2025 - [Souper régimentaire](https://photos.app.goo.gl/1yyxwbjxHSrCSNRx8)
+* [Parade du commandant - mars 2025](https://photos.app.goo.gl/ftXydu34uF8xmKiw9)
+* [Parade du commandant - mai  2025](https://photos.app.goo.gl/cz598xF5JGwGtehU7)
+* [Cérémonial - Revue annuelle 2025](https://photos.app.goo.gl/ZnEa81UaMXByEA1a6)
   
