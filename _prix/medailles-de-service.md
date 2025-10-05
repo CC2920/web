@@ -542,6 +542,28 @@ recipiendaires-medailles-cadets:
           - Adjum Lahmya Chapleau
           - Adjum Louick Lambert-Turcotte            
 
+    - periode: 2025
+      annees: 
+      - annees-de-services: 4
+        recipiendaires:
+          - Sgt Apelete Jack Atitsogbe
+          - Sgt Tayeb Belhabib
+          - Sgt Maxim Lauzon
+          - Sgt Malika Viau
+      - annees-de-services: 5
+        recipiendaires:
+          - Adjum Dominic Bogucki
+          - Adj Alexis Martel
+      - annees-de-services: 6
+        recipiendaires:
+          - Adj Tiffany Atitsogbé
+          - Adj Samuel Leduc            
+          - Adjum Sebastien Brunette
+          - Adjuc Zakaryanne Geron      
+      - annees-de-services: 7
+        recipiendaires:
+          - Adj Patrick Delaney-Dufour
+          
 # **********************************************************
 # Fin de la section de configuration. 
 # Rappel, les 3 tirets de la ligne suivante sont nécessaire
