@@ -1,5 +1,5 @@
 ---
-dates: "2022 -"
+dates: "2022 - 2025"
 cmdt: "Capitaine Mario Martel, CD2" 
 picture: "/docs/historique/CmdtMartelM.jpg"
 ---
