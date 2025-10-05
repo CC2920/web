@@ -15,7 +15,7 @@ prix:
 
 | Année | Nom |
 | --- | --- |
-| 2025 | Aucun récipiendaire |
+| 2025 | Peloton de precision |
 | 2024 | Méliane Legault |
 | 2023 | Équipe de tir |
 | 2022 | Jasmine Pilon |
