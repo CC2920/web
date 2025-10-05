@@ -13,6 +13,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2025 | Jr Victoria Rhéaume <br>Sr Samuel Leduc |
+| 2024 | Jr J.	Coudraye <br>Sr Samuel Leduc |
 | 2023 | Jr Samuel Leduc <br>Sr Louick Lambert-Turcotte |
 | 2022 | Jr Audrey Patenaude <br>Sr Julie-Anne Adam |
 | 2021 | Aucun récipiendaire |
