@@ -38,11 +38,8 @@ layout: "messages"
 
 
 ## Musique
-- **Qui :** tous les cadets intéressés  
-- **Quand :** les dimanches de 8h45 à 13h  
-- **Lieu :** 188 boulevard Alexandre-Taché, Gatineau
-- **Informations supplémentaires :** Apportez votre instrument si vous l’avez, et une bouteille d’eau, collation et partitions.
-
+- **Important :** Il n’y aura pas de musique en raison de l’exercice aventurier, du 10 au 12 octobre.
+  
 
 ## Habillement
 - **Qui :** tout cadet qui en a besoin et cadet ayant rendez-vous  
