@@ -43,6 +43,3 @@ cadets royaux de l’armée 2920 Gatineau.
 
 La Capitaine de corvette Gaudet est mariée à Ludger Himbeault depuis juin 1997.
 Ensemble, ils sont parents de trois enfants : Casey, Ariel et Francis.
-cadets royaux de l’armée 2920 Gatineau.
-La Capitaine de corvette Gaudet est mariée à Ludger Himbeault depuis juin 1997.
-Ensemble, ils sont parents de trois enfants : Casey, Ariel et Francis.
