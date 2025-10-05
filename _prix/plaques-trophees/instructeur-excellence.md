@@ -13,6 +13,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2025 | Dominic Bogucki |
+| 2024 | Méliane Legault |
 | 2023 | Patrick Delaney-Dufour |
 | 2022 | Jasmine Pilon |
 | 2021 | Alexy Bouchard-Couvrette |

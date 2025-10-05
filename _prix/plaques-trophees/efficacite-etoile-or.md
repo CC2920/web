@@ -16,6 +16,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2025 | Tayeb Belhabib |
+| 2024 | Alexis	Martel |
 | 2023 | Zakaryane Géron |
 | 2022 | Julie-Anne Adam |
 | 2021 | Jasmine Pilon |

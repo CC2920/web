@@ -17,6 +17,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2025 | Victoria Rhéaume |
+| 2024 | Nicolas Martel |
 | 2023 | Mathieu McGlashan |
 | 2022 | Audrey Patenaude |
 | 2021 | Zakaryane Geron |

@@ -13,6 +13,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2025 | Sébastien Brunette |
+| 2024 | Alexis	Martel |
 | 2023 | Sébastien Brunette |
 | 2022 | Jasmine Pilon |
 | 2021 | Mathilde Lambert-Turcotte |

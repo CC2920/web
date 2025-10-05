@@ -16,6 +16,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2025 | William Alain |
+| 2024 | M.	Mircioiu |
 | 2023 | Naomi Julie Paquette |
 | 2022 | Jack Atitsogbé |
 | 2021 | Dominic Bogucki |

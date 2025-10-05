@@ -17,6 +17,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2025 | Aucun récipiendaire |
+| 2024 | Jacob	St-Louis |
 | 2023 | Aucun récipiendaire |
 | 2022 | Aucun récipiendaire |
 | 2021 | Aucun récipiendaire |

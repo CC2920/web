@@ -14,6 +14,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2025 | Tayeb Belhabib |
+| 2024 | Milan Yoann Monney Mbedi |
 | 2023 | Meliane Legault |
 | 2022 | Ludovic Lavallée |
 | 2021 | Lahmya Chapleau |
