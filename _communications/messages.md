@@ -18,8 +18,9 @@ layout: "messages"
 ## Collecte de bouteilles
 - **Qui :** tous les cadets  
 - **Quand :** 18 octobre de 9h à 13h  
-- **Lieu :** 100 rue de la Baie, Gatineau  
-- **Informations supplémentaires :** Cette activité du comité de soutien est importante pour amasser des fonds, afin d’offrir des activités divertissantes aux cadets et cadettes. Pour que l’événement soit un succès, nous avons besoin de la présence de nombreux parents, cadets, et cadettes. Cette journée permettra également de tisser des liens avec la communauté. Afin d’aider avec la planification, veuillez, SVP, remplir le sondage suivant : [lien](https://forms.gle/Yhjfa3S54gJg8n8s8). Merci d’avance de votre participation. Votre contribution est importante pour nos cadets.
+- **Lieu :** 52 rue St-Rosaire, Gatineau  
+- **Informations supplémentaires :** Cette activité du comité de soutien est importante pour amasser des fonds, afin d’offrir des activités divertissantes aux cadets et cadettes. Pour que l’événement soit un succès, nous avons besoin de la présence de nombreux parents, cadets, et cadettes. Cette journée permettra également de tisser des liens avec la communauté. Au retour, le comité offrira gratuitement des hot-dogs à tous ceux qui auront participé à la collecte.  Merci d’avance de votre participation. Votre contribution est importante pour nos cadets.
+-  **IMPORTANT :** Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte et le BBQ : [sondage](https://forms.gle/Yhjfa3S54gJg8n8s8).
 
 
 ## Tir
