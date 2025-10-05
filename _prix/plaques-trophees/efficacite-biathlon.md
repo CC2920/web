@@ -13,6 +13,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2025 | Jr David Alain <br>Sr Alexis Martel |
+| 2024 | Jr Nicolas	Martel <br>Sr Jacob St-Louis |
 | 2023 | Jr Alexis Martel <br>Sr Jacob St-Louis |
 | 2022 | Jr Malika Viau <br>Sr Alexandre Bogucki |
 | 2021 | Aucun récipiendaire |
