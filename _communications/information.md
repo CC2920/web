@@ -8,15 +8,8 @@ Il est important d'apporter votre carte d'assurance maladie dès que vous en rec
 
 Si vous vous avez des corrections à votre numéro de téléphone ou adresse, vous devez aviser le plus tôt possible l'officier d'administration. 
 
-## Retour uniforme
-
-Les cadets qui ne désirent pas revenir cette année doivent rapporter leur uniforme. L'approvisionnement sera ouvert le mercredi soir entre 18h00 et 20h00 pour récupérer les uniformes.
-
-## Habillement
-
-Les cadets qui ont des pièces d'uniformes à échanger doivent visiter l'approvisionnement le vendredi soir entre 18h00 et 18h30 avec la pièce d'uniforme à échanger. L'officier d'approvisionnement regardera si la pièce est disponible immédiatement ou leur donnera un rendez-vous pour faire les échanges.
-
-*Aucun échanges d'uniformes sans rendez-vous cette année.*
+## Absence
+Si vous êtes absent le vendredi soir, vous devez envoyer un courriel à l'adresse du corps de cadet [(2920armee@cadets.gc.ca)](mailto:2920armee@cadets.gc.ca) pour nous en informer.
 
 ## Cadet365
 
