@@ -19,6 +19,8 @@
         <li class="{% if page.url contains 'citation' %} active{% endif %}"><a href="{{ urlpath }}/citation-annuelle/">Citation Annuelle</a></li>
         <li class="{% if page.url contains 'gervais' %} active{% endif %}"><a href="{{ urlpath }}/bgen-jean-gervais/">BGén J. Gervais</a></li>
         <li class="{% if page.url contains 'meloche' %} active{% endif %}"><a href="{{ urlpath }}/bgen-louis-meloche/">BGén L. Meloche</a></li>
+        <li class="{% if page.url contains 'dorais' %} active{% endif %}"><a href="{{ urlpath }}/major-mario-dorais/">Major Mario Dorais</a></li>
+        <li class="{% if page.url contains 'simard' %} active{% endif %}"><a href="{{ urlpath }}/lt-sylvie-simard/">Lt. Sylvie Simard</a></li>
         <li class="{% if page.url contains 'bourse' %} active{% endif %}"><a href="{{ urlpath }}/bourse-etudes/">Bourse d'études</a></li>
     </ul>
 </div>
