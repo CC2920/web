@@ -13,6 +13,8 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2025 | Mathieu McGlashan |
+| 2024 | Sébastien Brunette |
 | 2023 | Mathis Lalonde |
 | 2022 | Loïc Thibeault |
 | 2021 | Mélodie Lambert-Turcotte |
