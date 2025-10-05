@@ -19,12 +19,8 @@ les-cadets-major:
     - cadet:
       name: "Adjum Sébastien Brunette"
       title: "Adjudant-Maitre Instruction"
-      picture: 
-    
-    - cadet:
-      name: "Adjum Dominic Bogucki"
-      title: "Adjudant-Maitre de musique"
-      picture: 
+      picture: "/docs/cadets-cadres/CC2920-Adj-Brunette.JPG"
+
 
 
 
@@ -37,25 +33,54 @@ les-cadets-major:
 les-cadets-cadres:
     
     - cadet: 
-      name: Adj Patrick Delaney-Dufour
-      title: Cadet sénior responsable niveau Rouge
-      picture: "/docs/cadets-cadres/CC2920-Adj-Delaney-Dufour.JPG"
-
-        
-    - cadet: 
-      name: Adj Oluwafemi Bassowa
-      title: Cadet sénior responsable niveau Rouge
-      picture: "/docs/cadets-cadres/CC2920-Adj-Bassowa.JPG"
-
-    - cadet: 
-      name: Adj Ahoefa Tiffany Atitsogbe
-      title: Cadet sénior responsable niveau Vert
+      name: Adj Ahoefa Tiffany Atitsogbé 
+      title: Cadet sénior Instructeur spécialiste Exercice militaire
       picture: "/docs/cadets-cadres/CC2920-Adj-Atitsogbe.JPG"
-    
+
+    - cadet: 
+      name: Adj Apélété Jack Atitsogbé 
+      title: Cadet sénior senior Responsable de la musique
+      picture:
+
+    - cadet: 
+      name: Adj Alexis Martel 
+      title: Cadet sénior responsable du niveau Argent
+      picture: 
+      
+    - cadet: 
+      name: Adj Tamalia Hardy  
+      title: Cadet sénior responsable du niveau Rouge
+      picture: 
+
+    - cadet: 
+      name: Adj Tayeb Belhabib 
+      title: Cadet sénior responsable du niveau Vert
+      picture: 
+
+    - cadet: 
+      name: Adj Mallika Viau 
+      title: Cadet sénior responsable du niveau Vert
+      picture: 
+
+    - cadet: 
+      name: Adj Catherine Dumoulin 
+      title: Cadet sénior responsable des services (Admin/Appro)
+      picture: 
+          
     - cadet: 
       name: Adj Samuel Leduc
-      title: Cadet sénior responsable niveau Vert
+      title: Cadet sénior Instructeur
       picture: "/docs/cadets-cadres/CC2920-Adj-Leduc.JPG"
+
+    - cadet: 
+      name: Adj Maxim Lauzon
+      title: Cadet sénior Instructeur
+      picture:
+      
+    - cadet: 
+      name: Adj Renaud Metlej
+      title: Cadet sénior Instructeur
+      picture:
 ---
 
 
