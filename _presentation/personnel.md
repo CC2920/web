@@ -3,51 +3,76 @@ title:  "Le Personnel"
 
 le-personnel:
   - personnel:
-    picture: /docs/personnel/Martel.M.jpg
-    name: Capt Mario Martel CD2
+    picture: /docs/historique/CapcGaudetM.jpg
+    name: Capc Marylène Gaudet, CD
     title: Commandant
-    email: mario.martel@cadets.gc.ca
-      
+    email: marylene.gaudet@cadets.gc.ca
+
+  - personnel:
+    picture: 
+    name: Capt Zhebin Hu
+    title: Officier d'entrainement
+    email:
+    
+  - personnel:
+    picture: 
+    name: Lt Suree Roshan
+    title: Officier d'administration
+    email:
+    
+  - personnel:
+    picture: 
+    name: IC Marcelle Ngounou
+    title: Officier adjoint à l'administration
+    email:
+    
   - personnel:
     picture: 
     name: Lt Sylvie Simard
-    title: Officier d’approvisionnement
+    title: Officier d'approvisionnement et Entraineur tir et biathlon
     email: 
   
   - personnel:
     picture: 
-    name: Elof Amelie Joncas
-    title: Officier d'entrainement
-    email:
-  
-  - personnel:
-    picture: 
-    name: Cpl Bryan Laberge
+    name: 
     title: Responsable Niveau OR
     email:
 
   - personnel:
     picture: 
-    name: I.C. Frank Metlej
+    name: I.C. Samuel Tremblay-Germain
     title: Responsable Niveau Argent
     email: 
   
   - personnel:
     picture: 
-    name: I.C. Beata Rus
+    name: Slt Amélie Joncas
     title: Responsable Niveau Rouge
     email:
 
   - personnel:
-    picture:
-    name : I.C. Samuel Tremblay-Germain
-    title : Resppnsable Niveau Vert
-    email :
+    picture: 
+    name: I.C. Dominic Bogucki
+    title: Adjoint niveau Rouge et musique
+    email:
+
 
   - personnel:
     picture:
     name : I.C. Méliane Legault
-    title : Adjoint a l'approvisionnement
+    title : Responsable niveau Vert et Peloton de précision
+    email :
+
+  - personnel:
+    picture:
+    name : I.C. Beata Rus
+    title : Responsable niveau Vert et Musique
+    email :
+
+  - personnel:
+    picture:
+    name : I.C. Bryan Laberge
+    title : Soutien ponctuel
     email :
 ---
 
