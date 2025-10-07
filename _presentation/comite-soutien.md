@@ -20,10 +20,6 @@ le-comite-soutien:
       title: Secrétaire
 
     - member: 
-      name: M. François Sylvain
-      title: Webmestre, photographe et administrateur
-
-    - member: 
       name: Mme Sonia Desjardins 
       title: Administratrice
 
@@ -42,6 +38,10 @@ le-comite-soutien:
     - member:
       name: M. Patrick Picard
       title: Administratrice
+
+    - member: 
+      name: M. François Sylvain
+      title: Webmestre, photographe et administrateur
       
     - member:
       name: Mme Marie-Pascale Thibault
