@@ -12,28 +12,49 @@ le-comite-soutien:
       title: Vice-Présidente
 
     - member: 
-      name: Mme Marie-Paul Vincent
+      name: Mme Cynthia Blouin
       title: Trésorière
 
     - member: 
-      name: Mme Marie-Pascale Thibault 
+      name: Mme Mélanie Simard 
       title: Secrétaire
 
     - member: 
-      name: M. Denis Bogucki
-      title: Webmestre et Administrateur
+      name: M. François Sylvain
+      title: Webmestre, photographe et administrateur
 
     - member: 
-      name: Mme Cynthia Blouin 
+      name: Mme Sonia Desjardins 
       title: Administratrice
 
     - member: 
-      name: Mme Eliane Poulin
+      name: Mme Valentina Garnet
       title: Administratrice
 
     - member:
-      name: Mme Marie-eve Tessier
+      name: Mme Louise Gauthier
       title: Administratrice
+      
+    - member:
+      name: Mme Jacinthe Moreau
+      title: Administratrice
+      
+    - member:
+      name: M. Patrick Picard
+      title: Administratrice
+      
+    - member:
+      name: Mme Marie-Pascale Thibault
+      title: Administratrice
+            
+    - member:
+      name: Mme Annie Thibodeau
+      title: Administratrice
+            
+    - member:
+      name: M. Simon Venne
+      title: Administratrice
+
 ---
 
 
