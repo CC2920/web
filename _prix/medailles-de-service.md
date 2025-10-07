@@ -542,6 +542,27 @@ recipiendaires-medailles-cadets:
           - Adjum Lahmya Chapleau
           - Adjum Louick Lambert-Turcotte            
 
+    - periode: 2024
+      annees: 
+      - annees-de-services: 4
+        recipiendaires:
+          - Oluwafemi Bassowa
+          - Dominic Bogucki
+          - Samuel Lyon
+          - Alexis Martel
+          - Jacob St-Louis
+
+      - annees-de-services: 5
+        recipiendaires:
+          - Ahoéfa Tiffany Atitsogbé
+          - Alexandre Bogucki
+          - Raphaël Brière
+          - Sébastien Brunette
+          - Patrick Delaney-Dufour
+          - Zakaryane Géron
+          - Samuel Leduc
+          - Méliane Legault
+          
     - periode: 2025
       annees: 
       - annees-de-services: 4
