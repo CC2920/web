@@ -52,7 +52,7 @@ le-personnel:
 
   - personnel:
     picture: 
-    name: I.C. Dominic Bogucki
+    name: I.C. Alexandre Bogucki
     title: Adjoint niveau Rouge et musique
     email:
 
