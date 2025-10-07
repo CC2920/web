@@ -14,7 +14,7 @@ prix:
 | Année | Nom |
 | --- | --- |
 | 2025 | Jr Gabriel Fauteux <br>Sr Tristan Lafrenière |
-| 2024 | Jr A. Lamarche <br>Sr Mathieu McGlashan |
+| 2024 | Jr Antoine Lamarche <br>Sr Mathieu McGlashan |
 | 2023 | Ruici Qiu <br>Tyaeb Belhabib |
 | 2022 | Anaïs Desgroseilliers <br>Santiago De Moura |
 | 2021 | Aucun récipiendaire |
