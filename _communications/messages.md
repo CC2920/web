@@ -23,7 +23,7 @@ layout: "messages"
 
 ## Collecte de bouteilles
 **📣 Première levée de fonds de l’année 2025-2026!**
-Nous avons besoin de vous pour faire de cette collecte une réussite! Les fonds amassés permettront de financer un exercice de printemps ainsi qu’une activité de fin d’année mémorable pour nos cadets.
+Nous avons besoin de vous pour faire de cette collecte une réussite! Les fonds amassés permettront de financer un exercice de printemps ainsi qu’une activité de fin d’année mémorable pour nos cadets. De plus, cette collecte aide à soutenir financièrement les activités optionnelles telles que la musique, le biathlon et le sport.
 
 Nous sollicitons la participation **des cadets, des parents bénévoles (avec ou sans véhicule)** et du personnel. Tous sont bienvenus! Les cadets iront de porte en porte, accompagnés d’adultes. Des gants et sacs de plastique seront fournis sur place.
 
