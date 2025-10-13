@@ -3,11 +3,17 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Exercice aventurier 10 au 12 octobre
-- Qui : tous les cadets  
-- Pour toute l'information, voir [lien](https://drive.google.com/file/d/18VScKllQKGgN4ThAngl88Y-lrEOBNM6n/view?usp=sharing).
-- Pour les anciens, votre validation annuelle doit être à jour pour participer à l’exercice. Il est possible de l’apporter avant le départ.
-
+## Soirée d’instruction 17 octobre
+- **Qui :** Tous les cadets
+- **Heure :** de 18h30 à 21h15, vendredi soir
+- **Lieu :** 52 St-Rosaire (Locaux d’instruction)
+  - **Tenue niveau vert :** Tenue de sport avec chandail vert ou chandail rouge du corps de cadets
+  - **Tenue niveau rouge :** Tenue de sport avec chandail vert ou chandail rouge du corps de cadets
+  - **Tenue niveau argent:** Tenue de sport avec chandail vert ou chandail rouge du corps de cadets
+  - **Tenue niveau or :** Tenue C5 - Tenue d'entrainement
+  - **Tenue cadets séniors :** Tenue C5 - Tenue d'entrainement
+    
+[Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 ## Activités à venir
 - **15 octobre :** Peloton de précision pour recrues  
@@ -24,9 +30,7 @@ layout: "messages"
 
 
 ## Tir
-- **Qui :** les anciens cadets ayant déjà tiré l’an passé ou le lundi  
-- **Quand :** les lundis dès 18h15, selon les cadets présents  
-- **Lieu :** 100 rue de la Baie, Gatineau  
+- Pas de tir le 13 octobre
 
 
 ## Peloton de précision
@@ -38,7 +42,10 @@ layout: "messages"
 
 
 ## Musique
-- **Important :** Il n’y aura pas de musique en raison de l’exercice aventurier, du 10 au 12 octobre.
+- **Qui :** tous les cadets intéressés
+- **Quand :** les dimanches de 8h45 à 13h
+- **Lieu :** 188 boulevard Alexandre-Tâché, Gatineau
+- **Informations supplémentaires :** Apportez votre instrument si vous l’avez, et bouteille d’eau, collation et partitions. Tenue civile.
   
 
 ## Habillement
