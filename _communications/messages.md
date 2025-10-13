@@ -61,14 +61,14 @@ Un **dîner hot-dog gratuit** sera offert à **tous les participants** à la fin
 - **Qui :** tous les cadets intéressés
 - **Quand :** les dimanches de 8h45 à 13h
 - **Lieu :** 188 boulevard Alexandre-Tâché, Gatineau
-- **Informations supplémentaires :** Apportez votre instrument si vous l’avez, et bouteille d’eau, collation et partitions. Tenue civile.
+- **Informations supplémentaires :** Apportez votre instrument si vous l’avez, bouteille d’eau, collation et partitions. Tenue civile.
   
 
 ## Habillement
 - **Qui :** tout cadet qui en a besoin et cadet ayant rendez-vous  
 - **Quand :** ce mercredi 16h30 à 19h00 pour ceux sans rendez-vous, ou à l’heure de rendez-vous pour ceux qui ont un rendez-vous  
 - **Lieu :** 52 rue St-Rosaire, Gatineau  
-- **Informations supplémentaires :** Le sans rendez-vous est pour les recrues qui n’ont pas été mesurées encore, les anciens ayant des pièces à échanger et les cadets qui quittent doivent. Les rendez-vous sont pour la distribution de nouvel uniforme pour les recrues.
+- **Informations supplémentaires :** Le sans rendez-vous est pour les recrues qui n’ont pas été mesurées encore, les anciens ayant des pièces à échanger et les cadets qui quittent doivent aussi rapporter leur uniforme. Les rendez-vous sont pour la distribution de nouvel uniforme pour les recrues.
 
 
 Si vous avez des questions, n’hésitez pas à nous contacter à <2920armee@cadets.gc.ca>.
