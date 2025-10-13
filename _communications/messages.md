@@ -3,11 +3,17 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Exercice aventurier 10 au 12 octobre
-- Qui : tous les cadets  
-- Pour toute l'information, voir [lien](https://drive.google.com/file/d/18VScKllQKGgN4ThAngl88Y-lrEOBNM6n/view?usp=sharing).
-- Pour les anciens, votre validation annuelle doit être à jour pour participer à l’exercice. Il est possible de l’apporter avant le départ.
-
+## Soirée d’instruction 17 octobre
+- **Qui :** Tous les cadets
+- **Heure :** de 18h30 à 21h15, vendredi soir
+- **Lieu :** 52 St-Rosaire (Locaux d’instruction)
+  - **Tenue niveau vert :** Tenue de sport avec chandail vert ou chandail rouge du corps de cadets
+  - **Tenue niveau rouge :** Tenue de sport avec chandail vert ou chandail rouge du corps de cadets
+  - **Tenue niveau argent:** Tenue de sport avec chandail vert ou chandail rouge du corps de cadets
+  - **Tenue niveau or :** Tenue C5 - Tenue d'entrainement
+  - **Tenue cadets séniors :** Tenue C5 - Tenue d'entrainement
+    
+[Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 ## Activités à venir
 - **15 octobre :** Peloton de précision pour recrues  
@@ -16,17 +22,31 @@ layout: "messages"
 
 
 ## Collecte de bouteilles
+**📣 Première levée de fonds de l’année 2025-2026!**
+Nous avons besoin de vous pour faire de cette collecte une réussite! Les fonds amassés permettront de financer un exercice de printemps ainsi qu’une activité de fin d’année mémorable pour nos cadets.
+
+Nous sollicitons la participation **des cadets, des parents bénévoles (avec ou sans véhicule)** et du personnel. Tous sont bienvenus! Les cadets iront de porte en porte, accompagnés d’adultes. Des gants et sacs de plastique seront fournis sur place.
+
+Un **dîner hot-dog gratuit** sera offert à **tous les participants** à la fin de la collecte.
+
 - **Qui :** tous les cadets  
-- **Quand :** 18 octobre de 9h à 13h  
-- **Lieu :** 52 rue St-Rosaire, Gatineau  
-- **Informations supplémentaires :** Cette activité du comité de soutien est importante pour amasser des fonds, afin d’offrir des activités divertissantes aux cadets et cadettes. Pour que l’événement soit un succès, nous avons besoin de la présence de nombreux parents, cadets, et cadettes. Cette journée permettra également de tisser des liens avec la communauté. Au retour, le comité offrira gratuitement des hot-dogs à tous ceux qui auront participé à la collecte.  Merci d’avance de votre participation. Votre contribution est importante pour nos cadets.
--  **IMPORTANT :** Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte et le BBQ : [sondage](https://forms.gle/Yhjfa3S54gJg8n8s8).
+- **Quand :** 
+  - 🗓 Samedi 18 octobre 2025
+  - 🕘 Rassemblement à 9h00
+  - 🕤 Début de la collecte à 9h30
+  - 🌭 Dîner hot-dog à 13h00
+- **Lieu :** 52 St-Rosaire - Point de rencontre, point de départ et de retour. Ce sera également notre centre de tri.
+- **Tenue :** C5 - Uniforme de campagne avec chandail de laine vert sous la veste. Adaptez votre tenue à la météo (tuque, gants, manteau au besoin).
+- **Informations supplémentaires :**  N'oubliez pas votre bouteille d’eau et une collation.
+- **Responsables :** Pour toute question, contactez le comité à : cciv2920@gmail.com
+- **Inscription obligatoire :** <br />
+👉 Veuillez remplir le formulaire d’ici le 15 octobre 2025 afin de nous aider à planifier les équipes et le BBQ : [Formulaire de participation](https://forms.gle/Yhjfa3S54gJg8n8s8)
+
+🙏 Merci à l’avance pour votre précieuse collaboration! Votre contribution est importante pour nos cadets.
 
 
 ## Tir
-- **Qui :** les anciens cadets ayant déjà tiré l’an passé ou le lundi  
-- **Quand :** les lundis dès 18h15, selon les cadets présents  
-- **Lieu :** 100 rue de la Baie, Gatineau  
+- Pas de tir le 13 octobre
 
 
 ## Peloton de précision
@@ -38,7 +58,10 @@ layout: "messages"
 
 
 ## Musique
-- **Important :** Il n’y aura pas de musique en raison de l’exercice aventurier, du 10 au 12 octobre.
+- **Qui :** tous les cadets intéressés
+- **Quand :** les dimanches de 8h45 à 13h
+- **Lieu :** 188 boulevard Alexandre-Tâché, Gatineau
+- **Informations supplémentaires :** Apportez votre instrument si vous l’avez, et bouteille d’eau, collation et partitions. Tenue civile.
   
 
 ## Habillement
