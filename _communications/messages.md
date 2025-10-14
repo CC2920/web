@@ -12,7 +12,11 @@ layout: "messages"
   - **Tenue niveau argent:** Tenue de sport avec chandail vert ou chandail rouge du corps de cadets
   - **Tenue niveau or :** Tenue C5 - Tenue d'entrainement
   - **Tenue cadets séniors :** Tenue C5 - Tenue d'entrainement
-    
+
+Petite précision pour les étoiles Rouge et Argent:
+
+Ce vendredi, vous débuterez la soirée à l’extérieur. Assurez-vous de porter des vêtements de sport adaptés. Par la suite, vous poursuivrez à l’intérieur. N’oubliez pas votre gourde d’eau.
+
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 ## Activités à venir
