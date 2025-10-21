@@ -4,7 +4,16 @@ layout: "messages"
 ---
 
 ## Soirée d’instruction 24 octobre
-La tenue de la soirée d’instruction est incertaine en ce moment dû à un problème de disponibilité des locaux. Un autre message suivra plus tard durant la semaine dès que nous avons des nouvelles.
+- **Qui :** Niveau vert et or seulement
+- **Heure :** de 18h30 à 21h15, vendredi soir
+- **Lieu :** 100 rue de la Baie, Gatineau
+  - **Tenue niveau vert :** Tenue civile avec le chandail vert ou le chandail rouge du corps de cadets. Apportez votre béret et vos bottes d’uniforme dans un sac, pour ceux qui les ont déjà reçus.
+  - **Tenue niveau rouge :** Congé
+  - **Tenue niveau argent:** Congé, sauf pour les coachs de tir identifiés par la Lt Simard ce lundi
+  - **Tenue niveau or :** Tenue C5 - Tenue d'entrainement
+  - **Tenue cadets séniors :** Tenue C5 - Tenue d'entrainement
+
+[Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 
 ## Activités à venir
