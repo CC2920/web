@@ -49,8 +49,8 @@ title:  "Pour les instructeurs"
 * [Aide-mémoire Uniforme d'Exercice en Campagne (UEC) C5]({{ site.url }}{{ site.baseurl }}/docs/ressources/directive_UEC_2012-2013v2.pdf)  
       
     
-* [Évaluation de la condition physique des cadets (ECPC) Aide à l'emploi]({{ site.url }}{{ site.baseurl }}/docs/ressources/FR_250625_Évaluation de la condition physique des cadets_Aide à l'emploi.pdf)
-* [Évaluation de la condition physique des cadets -Calculateur de motivation_Personnel]({{ site.url }}{{ site.baseurl }}/docs/ressources/250501_Évaluation de la condition physique des cadets_Calculateur de motivation_Personnel_FR.xlsx)
+* [Évaluation de la condition physique des cadets (ECPC) - Aide à l'emploi]({{ site.url }}{{ site.baseurl }}/docs/ressources/FR_250625_Évaluation de la condition physique des cadets_Aide à l'emploi.pdf)
+* [Évaluation de la condition physique des cadets - Calculateur de motivation_Personnel]({{ site.url }}{{ site.baseurl }}/docs/ressources/250501_Évaluation de la condition physique des cadets_Calculateur de motivation_Personnel_FR.xlsx)
 
 * [Manuel du cérémonial]({{ site.url }}{{ site.baseurl }}/docs/ressources/manual_du_ceremonial_bilingue.pdf)
 * [Manuel d'exercice militaire]({{ site.url }}{{ site.baseurl }}/docs/ressources/manuel_exercice_militaire_adp201.pdf)
