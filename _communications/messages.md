@@ -3,35 +3,35 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d’instruction 31 octobre
+## Soirée d’instruction 7 novembre
 - **Qui :** tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue St-Rosaire, Gatineau
-- **Tenue pour tous :** costume d’Halloween
-- **Informations supplémentaires :** La soirée sera optionnelle comme nous sommes conscients le porte-à-porte d’Halloween est important pour certains cadets, mais sachez que les niveau or ont préparé une belle fête pour la soirée aussi.  Bonbons et des prix au menu, incluant un pour le meilleur déguisement!
+- **Tenue pour tous :** Tenue C5 - Tenue d'entrainement
+
+[Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 
 ## Activités à venir
-- **1, 2 et 8 novembre :** campagne de coquelicot. 
-- **9 novembre après-midi :** parade du jour du Souvenir
+- **8 novembre :** campagne de coquelicot. 
+- **9 novembre :** parade du jour du Souvenir
 - **29 novembre :** course d’orientation au lac Beauchamp
 
 
 ## Campagne du coquelicot
 - **Qui :** tous les cadets par inscription
-- **Quand :** 1, 2 et 8 novembre de 9h à 12h30 et de 12h30 à 16h
-- **Lieu :** 6 endroits à Gatineau (Musée canadien de l’histoire, Walmart de la Gappe, Super C Limbour, Super C Gréber, IGA Gréber, Maxi Maloney)
+- **Quand :** 8 novembre de 9h à 12h30 et de 12h30 à 16h
+- **Lieu :** 5 endroits à Gatineau (Musée canadien de l’histoire, Walmart de la Gappe, Super C Gréber, IGA Gréber, Maxi Maloney)
 - **Tenue :** uniforme de parade. Tenue civile propre pour ceux qui ne l’ont pas.
-- **Informations supplémentaires :** Participer fièrement à la campagne du coquelicot. C’est une belle occasion de démontrer votre engagement, de rendre hommage aux anciens combattants et de contribuer activement à notre communauté! Inscription en personne durant la soirée du 31 octobre.
+- **Informations supplémentaires :** Participer fièrement à la campagne du coquelicot. C’est une belle occasion de démontrer votre engagement, de rendre hommage aux anciens combattants et de contribuer activement à notre communauté! Inscription encore possible en personne le 7 novembre.
 
 
 ## Parade du Jour du Souvenir
 - **Qui :** tous les cadets 
-- **Quand :** 9 novembre en après-midi (heures exactes à être confirmées)
+- **Quand :** 9 novembre 13h à 16h
 - **Lieu :** 86 rue de la Baie, Gatineau
 - **Tenue :** uniforme de parade avec le manteau des cadets. Tenue civile propre pour ceux qui ne l’ont pas.
-- **Informations supplémentaires :** Les cadets participeront à la parade du Jour du Souvenir organisé par la Légion royal canadienne filiale 58. Pour les parents qui veulent voir leurs jeunes en action, le défilé partira du 86 rue de la Baie pour se diriger vers le cénotaphe angle Gréber et Saint-Louis, où une cérémonie aura lieu.
-
+- **Informations supplémentaires :** Les cadets participeront à la parade du Jour du Souvenir organisé par la Légion royal canadienne filiale 58. Pour les parents qui veulent voir leur jeune en action, le défilé partira du 86 rue de la Baie autour de 14h pour se diriger vers le cénotaphe angle Gréber et Saint-Louis, où une cérémonie aura lieu, suivi d’une réception.
   
 ## Tir
 - **Qui :** les anciens cadets ayant déjà tiré l’an passé pour ce lundi
