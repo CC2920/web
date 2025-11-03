@@ -34,6 +34,7 @@ layout: "messages"
 - **Informations supplémentaires :** Les cadets participeront à la parade du Jour du Souvenir organisé par la Légion royal canadienne filiale 58. Pour les parents qui veulent voir leur jeune en action, le défilé partira du 86 rue de la Baie autour de 14h pour se diriger vers le cénotaphe angle Gréber et Saint-Louis, où une cérémonie aura lieu, suivi d’une réception.
   
 ## Tir
+**La pratique de tir du 3 novembre est annulée!**
 - **Qui :** les anciens cadets ayant déjà tiré l’an passé pour ce lundi
 - **Quand :** les lundis début 18h15, heure de fin selon les cadets présents
 - **Lieu :** 100 rue de la Baie, Gatineau
