@@ -49,7 +49,7 @@ layout: "messages"
 
 ## Musique
 - **Qui :** tous les cadets intéressés
-- **Quand :** les dimanches de 8h45 à 13h
+- **Quand :** les dimanches de 8h45 à 12h
 - **Lieu :** 188 boulevard Alexandre-Tâché, Gatineau
 - **Informations supplémentaires :** Apportez votre instrument si vous l’avez, bouteille d’eau, collation et partitions. Tenue civile.
   
