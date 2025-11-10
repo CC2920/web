@@ -66,7 +66,7 @@ Pour assurer le bon déroulement de l’activité, nous avons besoin d’environ
 ## Hoodie officiel du Corps de cadets 2920
 
 Affichez vos couleurs avec le hoodie officiel du Corps de cadets 2920! Confortable, chaud et idéal pour représenter fièrement notre corps lors des activités et événements.<br /><br />
-Le coût est de 45 $ sans le nom de la cadette ou du cadet, et de 50 $ avec le nom. Le paiement peut être effectué à la cantine ou par virement à <cciv2920@gmail.com> avant 23 h 59 le 28 novembre.<br /><br />
+Le coût est de 45 $ sans le nom de la cadette ou du cadet, et de 50 $ avec le nom. Le paiement peut être effectué à la cantine ou par virement à <cciv2920@gmail.com> **avant 23 h 59 le 28 novembre.** <br /><br />
 Cliquez sur le lien ci-dessous pour accéder au formulaire de commande, choisir votre taille et compléter votre inscription.<br />
 Nous vous contacterons dès que les hoodies seront reçus.
 
