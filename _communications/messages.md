@@ -3,7 +3,7 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d’instruction 7 novembre
+## Soirée d’instruction 14 novembre
 - **Qui :** tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue St-Rosaire, Gatineau
@@ -13,29 +13,31 @@ layout: "messages"
 
 
 ## Activités à venir
-- **8 novembre :** campagne de coquelicot. 
-- **9 novembre :** parade du jour du Souvenir
+- **22 novembre :** guignolée
 - **29 novembre :** course d’orientation au lac Beauchamp
 
 
-## Campagne du coquelicot
-- **Qui :** tous les cadets par inscription
-- **Quand :** 8 novembre de 9h à 12h30 et de 12h30 à 16h
-- **Lieu :** 5 endroits à Gatineau (Musée canadien de l’histoire, Walmart de la Gappe, Super C Gréber, IGA Gréber, Maxi Maloney)
-- **Tenue :** uniforme de parade. Tenue civile propre pour ceux qui ne l’ont pas.
-- **Informations supplémentaires :** Participer fièrement à la campagne du coquelicot. C’est une belle occasion de démontrer votre engagement, de rendre hommage aux anciens combattants et de contribuer activement à notre communauté! Inscription encore possible en personne le 7 novembre.
+## Guignolée
+- **Qui :** cadets et parents, par inscription
+- **Quand :** 22 novembre 9h à 12h
+- **Lieu :** 52 rue St-Rosaire, Gatineau
+- **Tenue :** Tenue C5 - Tenue d'entrainement, avec manteau selon la météo
+- **Inscription :** [Formulaire](https://docs.google.com/forms/d/e/1FAIpQLSf4PP5Q2-lZDOVW2k8AH8Uzqe3IE6_ccXN1wwFO_1rM4pXgNg/viewform?usp=sharing&ouid=100070785425688122134) avant le 19 novembre
+- **Informations supplémentaires :** La Conférence Jean XXIII de la Société Saint-Vincent-de-Paul organise sa traditionnelle guignolée le 22 novembre et nous avons besoin de votre précieuse collaboration! La mission est simple mais essentielle : distribuer des enveloppes aux portes des résidents selon les parcours établis.<br /><br />
+Pour assurer le bon déroulement de l’activité, nous avons besoin d’environ 40 cadets et 15 à 20 parents accompagnateurs. Votre participation est précieuse pour faire de cette guignolée un succès et venir en aide à ceux qui en ont besoin. Au plaisir de vous voir en grand nombre!
 
 
-## Parade du Jour du Souvenir
+## Course d’orientation
 - **Qui :** tous les cadets 
-- **Quand :** 9 novembre 13h à 16h
-- **Lieu :** 86 rue de la Baie, Gatineau
+- **Quand :** 29 novembre 9h à 16h30
+- **Lieu :** parc du lac Beauchamp
 - **Tenue :** uniforme de parade avec le manteau des cadets. Tenue civile propre pour ceux qui ne l’ont pas.
-- **Informations supplémentaires :** Les cadets participeront à la parade du Jour du Souvenir organisé par la Légion royal canadienne filiale 58. Pour les parents qui veulent voir leur jeune en action, le défilé partira du 86 rue de la Baie autour de 14h pour se diriger vers le cénotaphe angle Gréber et Saint-Louis, où une cérémonie aura lieu, suivi d’une réception.
+- **Informations supplémentaires :** [Informations supplémentaires et liste de matériel](http://1drv.ms/b/c/eec907a8a97cc844/EYkBpWBG9b9LreSYWees1-EBugZTuM_mhPVYLR0eU-kJOw?e=r5T8Lj)
+
   
 ## Tir
 **La pratique de tir du 3 novembre est annulée!**
-- **Qui :** les anciens cadets ayant déjà tiré l’an passé pour ce lundi
+- **Qui :** tous les cadets intéressés
 - **Quand :** les lundis début 18h15, heure de fin selon les cadets présents
 - **Lieu :** 100 rue de la Baie, Gatineau
 
@@ -49,7 +51,7 @@ layout: "messages"
 
 ## Musique
 - **Qui :** tous les cadets intéressés
-- **Quand :** les dimanches de 8h45 à 12h
+- **Quand :** les dimanches de 8h45 à 13h
 - **Lieu :** 188 boulevard Alexandre-Tâché, Gatineau
 - **Informations supplémentaires :** Apportez votre instrument si vous l’avez, bouteille d’eau, collation et partitions. Tenue civile.
   
