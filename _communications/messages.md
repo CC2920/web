@@ -36,13 +36,13 @@ Pour assurer le bon déroulement de l’activité, nous avons besoin d’environ
 
   
 ## Tir
-**La pratique de tir du 3 novembre est annulée!**
 - **Qui :** tous les cadets intéressés
 - **Quand :** les lundis début 18h15, heure de fin selon les cadets présents
 - **Lieu :** 100 rue de la Baie, Gatineau
 
 
 ## Peloton de précision
+**La pratique du peloton de précision du 12 novembre est annulée!**
 - **Qui :** tous les cadets intéressés  
 - **Quand :** les mercredis de 18h30 à 20h30  
 - **Lieu :** 100 rue de la Baie, Gatineau  
