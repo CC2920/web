@@ -7,4 +7,3 @@ title: "2025 à aujourd'hui Capitaine de corvette Marylène Gaudet"
 * [Parade du commandant - septembre  2025](https://photos.app.goo.gl/KCox2AySGK2NrzPo8)
 * [Parade du commandant - octobre  2025](https://photos.app.goo.gl/dY6EEpRN4QPeWUcY7)
 * [Photos de la parade du Jour du Souvenir - novembre 2025](https://photos.app.goo.gl/9ukYK2eb17dJxgAG9)
-  
