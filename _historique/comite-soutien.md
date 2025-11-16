@@ -67,4 +67,5 @@ En septembre 2010, on comptait cinq membres du comité de soutien et quatre bén
 | 2022-2023 | Daniel Brunette |     | Capt. Steve Noël | Ann Delaney | Denis Bogucki, Josée Chénier, Marie-Ève Tessier, Jennifer Dostie, Jonathan Gauthier, Kim Grenier, Marie-Paul Vincent |
 | 2023-2024 | Daniel Brunette | Ann Delaney | Marie-Paul Vincent | Marie-Pascale Thibault | Denis Bogucki, Marie-Ève Tessier, Jonathan Gauthier, Cynthia Blouin, Lizanne Sarrazin Poirier |
 | 2024-2025 | Daniel Brunette | Ann Delaney | Marie-Paul Vincent/Cynthia Blouin | Marie-Pascale Thibault | Denis Bogucki, Marie-Ève Tessier, Eliane Poulin, Cynthia Blouin |
+| 2025-2026 | Daniel Brunette | Ann Delaney | Cynthia Blouin | Mélanie Simard | Sonia Desjardins, Valentina Garnet, Louise Gauthier, Jacinthe Moreau, Patrick Picard, François Sylvain, Marie-Pascale Thibault, Annie Thibodeau, Simon Venne |
 
