@@ -34,7 +34,6 @@ Pour assurer le bon déroulement de l’activité, nous avons besoin d’environ
 - **Qui :** tous les cadets 
 - **Quand :** 29 novembre 9h à 16h30
 - **Lieu :** parc du lac Beauchamp
-- **Tenue :** uniforme de parade avec le manteau des cadets. Tenue civile propre pour ceux qui ne l’ont pas.
 - **Informations supplémentaires :** [Informations supplémentaires et liste de matériel](https://drive.google.com/file/d/1F_heYGnwPNkjOtZmzVBRf25Gv-JYmXu1/view?usp=drive_link)
 
   
