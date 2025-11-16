@@ -3,18 +3,21 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d’instruction 14 novembre
+## Soirée d’instruction 21 novembre
 - **Qui :** tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue St-Rosaire, Gatineau
-- **Tenue pour tous :** Tenue C5 - Tenue d'entrainement
-
+- **Tenue pour tous :** Tenue C1 - Tenue de parade
+- **Informations supplémentaires :** Il y aura le changement du sergent-major régimentaire avec la promotion d’un nouvel adjudant-chef! Les parents et amis qui veulent assister à la parade sont invités à se présenter à 20h. La parade débutera vers 20h20.
+  
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 
 ## Activités à venir
 - **22 novembre :** guignolée
 - **29 novembre :** course d’orientation au lac Beauchamp
+- **19 décembre :** dernier vendredi avant les fêtes
+- **9 janvier :** reprise des activités après les fêtes
 
 
 ## Guignolée
