@@ -35,7 +35,7 @@ Pour assurer le bon déroulement de l’activité, nous avons besoin d’environ
 - **Quand :** 29 novembre 9h à 16h30
 - **Lieu :** parc du lac Beauchamp
 - **Tenue :** uniforme de parade avec le manteau des cadets. Tenue civile propre pour ceux qui ne l’ont pas.
-- **Informations supplémentaires :** [Informations supplémentaires et liste de matériel](http://1drv.ms/b/c/eec907a8a97cc844/EYkBpWBG9b9LreSYWees1-EBugZTuM_mhPVYLR0eU-kJOw?e=r5T8Lj)
+- **Informations supplémentaires :** [Informations supplémentaires et liste de matériel](https://drive.google.com/file/d/1F_heYGnwPNkjOtZmzVBRf25Gv-JYmXu1/view?usp=drive_link)
 
   
 ## Tir
@@ -45,7 +45,6 @@ Pour assurer le bon déroulement de l’activité, nous avons besoin d’environ
 
 
 ## Peloton de précision
-**La pratique du peloton de précision du 12 novembre est annulée!**
 - **Qui :** tous les cadets intéressés  
 - **Quand :** les mercredis de 18h30 à 20h30  
 - **Lieu :** 100 rue de la Baie, Gatineau  
