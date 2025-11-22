@@ -183,7 +183,7 @@ title: "Galerie de photos"
 
 #### 2024-2025
 * [Ouverture officielle du musée CC2920 - octobre 2024](https://photos.app.goo.gl/tbPFGDXRaEzdbocZ6)
-* [Parade de changement de cadet-commandant - octobre 2024](https://photos.app.goo.gl/SbGKhYeT2VyUXGPQ6)
+* [Parade de changement de Sergent-Major Régimentaire - octobre 2024](https://photos.app.goo.gl/SbGKhYeT2VyUXGPQ6)
 * [Parade du Jour du Souvenir - novembre 2024](https://photos.app.goo.gl/YudUy5S9i3g9tjQVA)
 * [Parade du commandant - décembre 2024](https://photos.app.goo.gl/5k34vgHamqCryDnm6)
 * [Parade du commandant - janvier 2025](https://photos.app.goo.gl/1uzARADqDo5NNRFH8)
@@ -198,3 +198,4 @@ title: "Galerie de photos"
 * [Parade du commandant - septembre  2025](https://photos.app.goo.gl/KCox2AySGK2NrzPo8)
 * [Parade du commandant - octobre  2025](https://photos.app.goo.gl/dY6EEpRN4QPeWUcY7)
 * [Photos de la parade du Jour du Souvenir - novembre 2025](https://photos.app.goo.gl/9ukYK2eb17dJxgAG9)
+* [Parade de changement de Sergent-Major Régimentaire - novembre 2025](https://photos.app.goo.gl/5oQDEt1nJi7cnh8d7)

@@ -218,9 +218,14 @@ les-cadets-commandants:
     picture: /docs/historique/adjuc43_Meliane-Legault.jpg
 
   - adjc:
-    year: 2024-
+    year: 2024-2025
     name: Adjudant-Chef Zakaryane Geron
-    picture: /docs/historique/adjuc44_Zakaryane-Geron.jpg 
+    picture: /docs/historique/adjuc44_Zakaryane-Geron.jpg
+
+  - adjc:
+    year: 2025-
+    name: Adjudant-Chef Sébastien Brunette
+    picture: /docs/historique/CC2920-Adjuc-Brunette.jpg 
     
 ---
   
