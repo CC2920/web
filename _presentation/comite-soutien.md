@@ -37,7 +37,7 @@ le-comite-soutien:
       
     - member:
       name: M. Patrick Picard
-      title: Administratrice
+      title: Administrateur
 
     - member: 
       name: M. François Sylvain
@@ -53,7 +53,7 @@ le-comite-soutien:
             
     - member:
       name: M. Simon Venne
-      title: Administratrice
+      title: Administrateur
 
 ---
 
