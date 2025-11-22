@@ -14,7 +14,7 @@ les-cadets-major:
     - cadet:
       name: "Adjuc Sébastien Brunette"
       title: "Cadet-commandant"
-      picture: "/docs/historique/CC2920-Adjuc-Brunette.jpg"
+      picture: "/docs/cadets-cadres/CC2920-Adjuc-Brunette.jpg"
 
     - cadet:
       name: "Adjum Ahoefa Tiffany Atitsogbé"
