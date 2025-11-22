@@ -225,7 +225,7 @@ les-cadets-commandants:
   - adjc:
     year: 2025-
     name: Adjudant-Chef Sébastien Brunette
-    picture: /docs/historique/CC2920-Adjuc-Brunette.jpg 
+    picture: "/docs/cadets-cadres/CC2920-Adjuc-Brunette.jpg"
     
 ---
   
