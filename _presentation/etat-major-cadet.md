@@ -12,14 +12,14 @@ navigationKey: presentation
 #
 les-cadets-major:
     - cadet:
-      name: "Adjuc Zakaryane Geron"
+      name: "Adjuc Sébastien Brunette"
       title: "Cadet-commandant"
-      picture: "/docs/historique/adjuc44_Zakaryane-Geron.jpg"
+      picture: "/docs/historique/CC2920-Adjuc-Brunette.jpg"
 
     - cadet:
-      name: "Adjum Sébastien Brunette"
-      title: "Adjudant-Maitre Instruction"
-      picture: "/docs/cadets-cadres/CC2920-Adj-Brunette.JPG"
+      name: "Adjum Ahoefa Tiffany Atitsogbé"
+      title: "Adjudant-Maitre Instructeur spécialiste Exercice militaire"
+      picture: "/docs/cadets-cadres/CC2920-Adj-Atitsogbe.JPG"
 
 
 
@@ -32,11 +32,6 @@ les-cadets-major:
 #
 les-cadets-cadres:
     
-    - cadet: 
-      name: Adj Ahoefa Tiffany Atitsogbé 
-      title: Cadet sénior Instructeur spécialiste Exercice militaire
-      picture: "/docs/cadets-cadres/CC2920-Adj-Atitsogbe.JPG"
-
     - cadet: 
       name: Adj Apélété Jack Atitsogbé 
       title: Cadet sénior senior Responsable de la musique
