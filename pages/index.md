@@ -10,7 +10,7 @@ title: Le CC2920
 widget1:
   title: "Messages de la semaine"
   url: '/communications/'
-  image: 'messages.jpg'
+  image: 'CC2920-cérémonial-2025-05-24_60.jpg'
   text: 'Consultez les messages de la semaine pour les dernières nouvelles du corps de cadet.'
 
 widget2:
@@ -22,7 +22,7 @@ widget2:
 widget3:
   title: "Financement"
   url: '/information/financement'
-  image: 'financement-billets.jpg'
+  image: 'panier_noel.jpg'
   text: 'Consultez les différentes options et campagnes de financement qui permettent de soutenir le CC2920 financièrement.'
 #
 # Use the call for action to show a button on the frontpage
