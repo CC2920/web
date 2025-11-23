@@ -17,7 +17,7 @@ widget2:
   title: "Comment nous rejoindre"
   url: '/information/comment-nous-rejoindre/'
   text: 'En personne, par téléphone ou via courriel, nous somme là pour adresser vos questions et supporter nos cadets !'
-  image: 'quartier-maitre.jpg'
+  image: 'CC2920-cérémonial-2025-05-24_60.jpg'
 
 widget3:
   title: "Financement"
