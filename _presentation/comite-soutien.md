@@ -26,7 +26,7 @@ le-comite-soutien:
     - member:
       name: Mme Annie Thibodeau
       title: Administratrice
-      picture: "/docs/comite/CC2920-AnnieThibodeau.jpg"
+      picture: 
 
     - member: 
       name: M. François Sylvain
