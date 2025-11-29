@@ -30,16 +30,6 @@ layout: "messages"
 - Tous les sous (comptant ou virement au <cciv2920@gmail.com>) et billets avec l'information des acheteurs, ou vides, doivent revenir au comité **d'ici le 19 décembre**, soir du tirage lors de l'activité de Noël. Il y aura aussi de prix pour les trois meilleurs vendeurs.
 
 
-## Hoodie officiel du Corps de cadets 2920
-
-Affichez vos couleurs avec le hoodie officiel du Corps de cadets 2920! Confortable, chaud et idéal pour représenter fièrement notre corps lors des activités et événements.<br /><br />
-Le coût est de 45 $ sans le nom de la cadette ou du cadet, et de 50 $ avec le nom. Le paiement peut être effectué à la cantine ou par virement à <cciv2920@gmail.com> **avant 23 h 59 le 28 novembre.** <br /><br />
-Cliquez sur le lien ci-dessous pour accéder au formulaire de commande, choisir votre taille et compléter votre inscription.<br />
-Nous vous contacterons dès que les hoodies seront reçus.
-
-👉 [Formulaire de commande](https://forms.gle/M92WiMyAqy8JGTWe7)
-
-
 ## Sondage pour Jeux des cadets
 - Les Jeux des cadets sont une compétition sportive réunissant les différentes unités de l’Outaouais qui aura lieu vers la fin de l’année. Les organisateurs veulent savoir les sports que les cadets voudraient avoir cette année.
 - Faites-nous part de vos suggestions au lien suivant.
