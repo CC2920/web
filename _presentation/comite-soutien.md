@@ -6,54 +6,73 @@ le-comite-soutien:
       name: M. Daniel Brunette
       title: Président
       email: cciv2920@gmail.com
+      picture: "/docs/comite/CC2920-DanielBrunette.jpg"
 
     - member: 
       name: Mme Ann Delaney
       title: Vice-Présidente
+      picture: "/docs/comite/CC2920-AnnDelaney.jpg"
 
     - member: 
       name: Mme Cynthia Blouin
       title: Trésorière
+      picture: "/docs/comite/CC2920-CynthiaBlouin.jpg"
 
     - member: 
       name: Mme Mélanie Simard 
       title: Secrétaire
-
-    - member: 
-      name: Mme Sonia Desjardins 
-      title: Administratrice
-
-    - member: 
-      name: Mme Valentina Garnet
-      title: Administratrice
+      picture: "/docs/comite/CC2920-MelanieSimard.jpg"
 
     - member:
-      name: Mme Louise Gauthier
+      name: Mme Annie Thibodeau
       title: Administratrice
-      
-    - member:
-      name: Mme Jacinthe Moreau
-      title: Administratrice
-      
-    - member:
-      name: M. Patrick Picard
-      title: Administrateur
+      picture: "/docs/comite/CC2920-AnnieThibodeau.jpg"
 
     - member: 
       name: M. François Sylvain
       title: Webmestre, photographe et administrateur
-      
+      picture: "/docs/comite/CC2920-FrancoisSylvain.jpg"
+
+    - member:
+      name: Mme Jacinthe Moreau
+      title: Administratrice
+      picture:
+
+    - member:
+      name: Mme Josette Bougbe
+      title: Administratrice
+      picture: "/docs/comite/CC2920-JosetteBougbe.jpg"
+
+    - member:
+      name: Mme Louise Gauthier
+      title: Administratrice
+      picture:
+
     - member:
       name: Mme Marie-Pascale Thibault
       title: Administratrice
-            
+      picture: "/docs/comite/CC2920-MariePascaleThibault.jpg"
+
     - member:
-      name: Mme Annie Thibodeau
-      title: Administratrice
-            
+      name: M. Patrick Picard
+      title: Administrateur
+      picture:
+      
     - member:
       name: M. Simon Venne
       title: Administrateur
+      picture: "/docs/comite/CC2920-SimonVenne.jpg"
+
+    - member: 
+      name: Mme Sonia Desjardins 
+      title: Administratrice
+      picture: "/docs/comite/CC2920-SoniaDesjardins.jpg"
+
+    - member: 
+      name: Mme Valentina Garnet
+      title: Administratrice
+      picture: "/docs/comite/CC2920-ValentinaGarnet.jpg"
+      
 
 ---
 
