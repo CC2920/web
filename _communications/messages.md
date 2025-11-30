@@ -13,7 +13,7 @@ layout: "messages"
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** **100 rue de la Baie, Gatineau**
 - **Tenue pour tous :** Tenue sportive intérieure et extérieure, bouteille d’eau
-- **Informations supplémentaires :** Ce sera la soirée de l’Évaluation de la condition physique des cadets (ECPC). Ceux qui sont curieux des composantes du test et des normes, vous pouvez les trouver [ici](http://www.cc2920.ca/docs/ressources/250501_%C3%89valuation%20de%20la%20condition%20physique%20des%20cadets_Calculateur%20de%20motivation_Personnel_FR.xlsx). À noter que les résultats de ce test pourraient être utilisés pour certaines activités par sélection dans le futur (dont certains camps d’été).
+- **Informations supplémentaires :** Ce sera la soirée de l’Évaluation de la condition physique des cadets (ECPC). Ceux qui sont curieux des composantes du test et des normes, vous pouvez les trouver [ici](/docs/ressources/250501_%C3%89valuation%20de%20la%20condition%20physique%20des%20cadets_Calculateur%20de%20motivation_Personnel_FR.xlsx). À noter que les résultats de ce test pourraient être utilisés pour certaines activités par sélection dans le futur (dont certains camps d’été).
   
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
