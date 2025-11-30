@@ -3,7 +3,7 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-> [!IMPORTANT]
+> **IMPORTANT :**
 > Veuillez noter que la soirée d’instruction du 5 décembre ne se tiendra pas à l’emplacement habituel.
 > L’activité aura lieu exceptionnellement à l’adresse suivante : **100 rue de la Baie, Gatineau**
 
