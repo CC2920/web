@@ -26,7 +26,7 @@ le-comite-soutien:
     - member:
       name: Mme Annie Thibodeau
       title: Administratrice
-      picture: 
+      picture: "/docs/comite/CC2920-AnnieThibodeau.jpg"
 
     - member: 
       name: M. François Sylvain
@@ -36,7 +36,7 @@ le-comite-soutien:
     - member:
       name: Mme Jacinthe Moreau
       title: Administratrice
-      picture:
+      picture: "/docs/comite/CC2920-JacintheMoreau.jpg"
 
     - member:
       name: Mme Josette Bougbe
@@ -46,7 +46,7 @@ le-comite-soutien:
     - member:
       name: Mme Louise Gauthier
       title: Administratrice
-      picture:
+      ppicture: "/docs/comite/CC2920-LouiseGauthier.jpg"
 
     - member:
       name: Mme Marie-Pascale Thibault
