@@ -46,7 +46,7 @@ le-comite-soutien:
     - member:
       name: Mme Louise Gauthier
       title: Administratrice
-      ppicture: "/docs/comite/CC2920-LouiseGauthier.jpg"
+      picture: "/docs/comite/CC2920-LouiseGauthier.jpg"
 
     - member:
       name: Mme Marie-Pascale Thibault
