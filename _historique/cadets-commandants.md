@@ -169,7 +169,7 @@ les-cadets-commandants:
   
   - adjc:
     year: 2015-2015
-    name: Adjudant-Chef Phylip Poirier 
+    name: Adjudant-Chef Philyp Poirier 
     picture: /docs/historique/adjuc34_poirier.jpg 
   
   - adjc:
