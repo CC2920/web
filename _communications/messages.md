@@ -3,17 +3,11 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-> **IMPORTANT :**
-> Veuillez noter que la soirée d’instruction du 5 décembre ne se tiendra pas à l’emplacement habituel.
-> L’activité aura lieu exceptionnellement à l’adresse suivante : **100 rue de la Baie, Gatineau**
-
-
-## Soirée d’instruction 5 décembre
+## Soirée d’instruction 12 décembre
 - **Qui :** tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
-- **Lieu :** **100 rue de la Baie, Gatineau**
-- **Tenue pour tous :** Tenue sportive intérieure et extérieure, bouteille d’eau
-- **Informations supplémentaires :** Ce sera la soirée de l’Évaluation de la condition physique des cadets (ECPC). Ceux qui sont curieux des composantes du test et des normes, vous pouvez les trouver [ici](/docs/ressources/250501_%C3%89valuation%20de%20la%20condition%20physique%20des%20cadets_Calculateur%20de%20motivation_Personnel_FR.xlsx). À noter que les résultats de ce test pourraient être utilisés pour certaines activités par sélection dans le futur (dont certains camps d’été).
+- **Lieu :** 52 rue St-Rosaire, Gatineau
+- **Tenue pour tous :** Tenue C3 pour tous
   
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
@@ -21,11 +15,22 @@ layout: "messages"
 ## Activités à venir
 - **19 décembre :** dernier vendredi avant les fêtes
 - **9 janvier :** reprise des activités après les fêtes
+- **17 janvier :** sortie à confirmer
+- **30 janvier au 1er février :** expédition étoile or, pour étoile or seulement
+- **14 au 16 février :** exercice hivernal
+
+
+## Inscription
+À partir du 6 décembre et jusqu’à avis contraire, les inscriptions de nouveaux cadets sont sur pause. Les inscriptions rouvriront lorsque nous en aurons la capacité d’accueillir plus de jeunes. Entre temps, si vous demeurez intéressés à vous joindre à nous, écrivez-nous au <2920armee@cadets.gc.ca> et nous pourrons vous envoyer un courriel lorsque des places seront disponibles. Vous pouvez aussi visiter le répertoire des unités pour trouver un autre corps de cadets au [app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html](https://app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html).
 
 
 ## Vente de billets pour le panier de Noël
 - Le comité de soutien organise sa vente annuelle de billets pour le tirage d'un panier d'items et de produits d'une valeur de +/- 250$. La participation est optionnelle mais nous invitons tous les cadets et cadettes à vendre au moins 30 billets à 0.99$ chacun. Il est possible d'en avoir plus à la cantine le vendredi soir.
 - Tous les sous (comptant ou virement au <cciv2920@gmail.com>) et billets avec l'information des acheteurs, ou vides, doivent revenir au comité **d'ici le 19 décembre**, soir du tirage lors de l'activité de Noël. Il y aura aussi de prix pour les trois meilleurs vendeurs.
+
+
+## Cours de cadet reporter
+Chaque unité peut avoir un ou quelques cadets reporter dont le rôle est de couvrir et valoriser les activités de l’unité à l’interne et à l’externe sur les médias traditionnels et sociaux. Ce poste est ouvert aux cadets de niveau argent et plus le désirant. Une formation virtuelle aura lieu sur 5 soirs les mardis ou mercredis du 27 janvier au 25 février. Les cadets intéressés sont priés d’en parler avec IC Legault le vendredi soir.
 
 
 ## Tir
