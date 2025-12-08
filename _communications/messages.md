@@ -28,6 +28,8 @@ layout: "messages"
 - Le comité de soutien organise sa vente annuelle de billets pour le tirage d'un panier d'items et de produits d'une valeur de +/- 250$. La participation est optionnelle mais nous invitons tous les cadets et cadettes à vendre au moins 30 billets à 0.99$ chacun. Il est possible d'en avoir plus à la cantine le vendredi soir.
 - Tous les sous (comptant ou virement au <cciv2920@gmail.com>) et billets avec l'information des acheteurs, ou vides, doivent revenir au comité **d'ici le 19 décembre**, soir du tirage lors de l'activité de Noël. Il y aura aussi de prix pour les trois meilleurs vendeurs.
 
+picture: '/images/panier_noel.jpg'
+
 
 ## Cours de cadet reporter
 Chaque unité peut avoir un ou quelques cadets reporter dont le rôle est de couvrir et valoriser les activités de l’unité à l’interne et à l’externe sur les médias traditionnels et sociaux. Ce poste est ouvert aux cadets de niveau argent et plus le désirant. Une formation virtuelle aura lieu sur 5 soirs les mardis ou mercredis du 27 janvier au 25 février. Les cadets intéressés sont priés d’en parler avec IC Legault le vendredi soir.
