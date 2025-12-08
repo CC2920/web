@@ -25,7 +25,7 @@ layout: "messages"
 
 
 ## Vente de billets pour le panier de Noël
-- Le comité de soutien organise sa vente annuelle de billets pour le tirage d'un panier d'items et de produits d'une valeur de +/- 250$. La participation est optionnelle mais nous invitons tous les cadets et cadettes à vendre au moins 30 billets à 0.99$ chacun. Il est possible d'en avoir plus à la cantine le vendredi soir.
+- Le comité de soutien organise sa vente annuelle de billets pour le tirage d'un panier d'items et de produits d'une valeur de +/- 275$. La participation est optionnelle mais nous invitons tous les cadets et cadettes à vendre au moins 30 billets à 0.99$ chacun. Il est possible d'en avoir plus à la cantine le vendredi soir.
 - Tous les sous (comptant ou virement au <cciv2920@gmail.com>) et billets avec l'information des acheteurs, ou vides, doivent revenir au comité **d'ici le 19 décembre**, soir du tirage lors de l'activité de Noël. Il y aura aussi de prix pour les trois meilleurs vendeurs.
 
 ![Panier de Noël](/images/panier_noel.jpg)
