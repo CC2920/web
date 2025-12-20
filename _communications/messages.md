@@ -29,7 +29,7 @@ layout: "messages"
 ## Journée sportive 
 - **Qui :** tous les cadets intéressés
 - **Quand :** 17 janvier
-- Deux choix d’activités seront offerts. Voir les détails ici [lien](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9lZWM5MDdhOGE5N2NjODQ0L0lRRE4wNUpEbFRCWFFxRjkwMzhkN1pvRkFkdjNqUnVGTGRYNFJYTVk2VW5CYmh3P2U9WW9mOFZo&cid=EEC907A8A97CC844&id=EEC907A8A97CC844%21s4392d3cd30954257a17dd37f1ded9a05&parId=EEC907A8A97CC844%2127678&o=OneUp)
+- Deux choix d’activités seront offerts. Voir les détails ici [lien](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2IvYy9lZWM5MDdhOGE5N2NjODQ0L0lRREVhd1RyWGFzR1NvUHd5c1lWNThXZUFSTVhsbkFuZXZZMGY2bGxqWWhKZFZ3P2U9RU0zZUFq&cid=EEC907A8A97CC844&id=EEC907A8A97CC844%21seb046bc4ab5d4a0683f0cac615e7c59e&parId=EEC907A8A97CC844%2127678&o=OneUp)
 - Faire votre choix d’activité ici [lien](https://forms.cloud.microsoft/pages/responsepage.aspx?id=-2oSqwzmL062z8c1DHbchCL_0lfedvVOotthXwu7NAZUNVM4TlM1MTFUSFo3QzRVRjQ1VTBCNFgzSC4u&route=shorturl)
 
 
