@@ -3,34 +3,36 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d’instruction 19 décembre
+## Soirée d’instruction 9 janvier
 - **Qui :** tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue St-Rosaire, Gatineau
-- **Tenue pour tous :** tenue civile avec thème soirée pyjama pour la fête de Noël
+- **Tenue pour tous :** C5 - Tenue d’entraînement
   
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 
 ## Activités à venir
-- **9 janvier :** reprise des activités après les fêtes
+- **7 janvier :** soirée de planification et d’entrevues pour cadet-cadre
 - **17 janvier :** journée sportive
 - **30 janvier au 1er février :** expédition étoile or, pour étoile or seulement
 - **14 au 16 février :** exercice hivernal
-
-
-## Vente de billets pour le panier de Noël
-- Le comité de soutien organise sa vente annuelle de billets pour le tirage d'un panier d'items et de produits d'une valeur de +/- 275$. La participation est optionnelle mais nous invitons tous les cadets et cadettes à vendre au moins 30 billets à 0.99$ chacun. Il est possible d'en avoir plus à la cantine le vendredi soir.
-- Tous les sous (comptant ou virement au <cciv2920@gmail.com>) et billets avec l'information des acheteurs, ou vides, doivent revenir au comité **d'ici le 19 décembre**, soir du tirage lors de l'activité de Noël. Il y aura aussi de prix pour les trois meilleurs vendeurs.
-
-![Panier de Noël](/images/panier_noel.jpg)
-
+- **28 février :** souper régimentaire
+ 
 
 ## Journée sportive 
 - **Qui :** tous les cadets intéressés
 - **Quand :** 17 janvier
 - Deux choix d’activités seront offerts. Voir les détails ici [lien](https://1drv.ms/b/c/eec907a8a97cc844/IQDEawTrXasGSoPwysYV58WeARMXlnAnevY0f6lljYhJdVw?e=EM3eAj)
 - Faire votre choix d’activité ici [lien](https://forms.cloud.microsoft/pages/responsepage.aspx?id=-2oSqwzmL062z8c1DHbchCL_0lfedvVOotthXwu7NAZUNVM4TlM1MTFUSFo3QzRVRjQ1VTBCNFgzSC4u&route=shorturl)
+- À noter qu’il y a eu des changements par rapport à la version du 14 décembre. Si vous avez mis un choix avant le 19 décembre, SVP ré-inscrire votre choix dans le formulaire.
+
+
+## Soirée de cadet-cadre
+- **Qui :** niveau or et plus
+- **Quand :** 7 janvier de 18h30 à 21h
+- **Lieu :** 52 rue St-Rosaire, Gatineau
+- Plus d’information vous seront communiquées sur le groupe des cadet-cadre.
 
 
 ## Cours de cadet reporter
@@ -42,28 +44,28 @@ Chaque unité peut avoir un ou quelques cadets reporter dont le rôle est de cou
 
 
 ## Tir
-- **Qui :** les cadets désirant faire partie de l’équipe de tir seulement
-- **Quand :** les lundis début 18h15, heure de fin selon les cadets présents
+- **Qui :** les cadets faisant partie de l’équipe de tir seulement, la sélection sera annoncée le 9 janvier
+- **Quand :** les lundis début 18h15, heure de fin selon les cadets présents, à partir du 12 janvier
 - **Lieu :** 100 rue de la Baie, Gatineau
 
 
 ## Peloton de précision
 - **Qui :** tous les cadets intéressés  
-- **Quand :** les mercredis de 18h30 à 20h30  
+- **Quand :** les mercredis de 18h30 à 20h30, à partir du 14 janvier  
 - **Lieu :** 100 rue de la Baie, Gatineau  
 - **Informations supplémentaires :** Tenue civile avec les bottes de parade si vous l’avez. Apportez une bouteille d’eau et des collations si vous le désirez.
 
 
 ## Musique
 - **Qui :** tous les cadets intéressés
-- **Quand :** les dimanches de 8h45 à 13h
+- **Quand :** les dimanches de 8h45 à 13h, à partir du 11 janvier
 - **Lieu :** 188 boulevard Alexandre-Tâché, Gatineau
 - **Informations supplémentaires :** Apportez votre instrument si vous l’avez, bouteille d’eau, collation et partitions. Tenue civile.
   
 
 ## Habillement
 - **Qui :** tout cadet qui en a besoin et cadet ayant rendez-vous  
-- **Quand :** ce mercredi 18h00 à 19h00 pour le sans rendez-vous, à votre heure de rendez-vous pour ceux qui ont un rendez-vous
+- **Quand :** les mercredis de 18h00 à 19h00 pour le sans rendez-vous, à votre heure de rendez-vous pour ceux qui ont un rendez-vous, à partir du 14 janvier
 - **Lieu :** 52 rue St-Rosaire, Gatineau  
 - **Informations supplémentaires :** Le sans rendez-vous est pour les recrues qui n’ont pas été mesurées encore, les anciens ayant des pièces à échanger et les cadets qui quittent doivent aussi rapporter leur uniforme. Les rendez-vous sont pour la distribution de nouvel uniforme pour les recrues.
 
