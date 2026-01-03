@@ -39,6 +39,19 @@ layout: "messages"
 Chaque unité peut avoir un ou quelques cadets reporter dont le rôle est de couvrir et valoriser les activités de l’unité à l’interne et à l’externe sur les médias traditionnels et sociaux. Ce poste est ouvert aux cadets de niveau argent et plus le désirant. Une formation virtuelle aura lieu sur 5 soirs les mardis ou mercredis du 27 janvier au 25 février. Les cadets intéressés sont priés d’en parler avec IC Legault le vendredi soir.
 
 
+## Souper régimentaire (Mess diner)
+- **Qui :** SEULEMENT pour les cadets qui se sont inscrit via le [sondage](https://forms.gle/39digCE8SU4uH3Pq7)
+- **Heure :** 17h30 à 21h30, samedi, 28 février
+- **Lieu :** 89 Rue Jean-René-Monette, Gatineau
+- **Tenue :** uniforme C2 (Uniforme de parade avec ruban et chemise blanche avec noeud papillon sans béret)
+- **Informations supplémentaires :** Les cadets qui n’ont pas de noeud papillon pourront en emprunter au Quartier maître du corps de cadets (quantité limité)
+- **Notes :** Aucune nouvelle inscription n'est possible après le 13 février 2026 à 23h59 car le comité doit faire la commande avec le traiteur. 
+
+[Guide d’information pour le mess diner](https://drive.google.com/file/d/1S0c_mragDOHg3LZv7JAsvuI4QyDoCh7r/view) 
+
+![Souper régimentaire](/images/CC2920-Souper-regimentaire-2025.JPG)
+
+
 ## Inscription
 À partir du 6 décembre et jusqu’à avis contraire, les inscriptions de nouveaux cadets sont sur pause. Les inscriptions rouvriront lorsque nous en aurons la capacité d’accueillir plus de jeunes. Entre temps, si vous demeurez intéressés à vous joindre à nous, écrivez-nous au <2920armee@cadets.gc.ca> et nous pourrons vous envoyer un courriel lorsque des places seront disponibles. Vous pouvez aussi visiter le répertoire des unités pour trouver un autre corps de cadets au [app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html](https://app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html).
 
