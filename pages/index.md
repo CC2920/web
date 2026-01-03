@@ -22,7 +22,7 @@ widget2:
 widget3:
   title: "Financement"
   url: '/information/financement'
-  image: 'panier_noel.jpg'
+  image: 'financement.jpg'
   text: 'Consultez les différentes options et campagnes de financement qui permettent de soutenir le CC2920 financièrement.'
 #
 # Use the call for action to show a button on the frontpage
