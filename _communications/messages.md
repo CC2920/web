@@ -49,7 +49,7 @@ Chaque unité peut avoir un ou quelques cadets reporter dont le rôle est de cou
 
 [Guide d’information pour le mess diner](https://drive.google.com/file/d/1S0c_mragDOHg3LZv7JAsvuI4QyDoCh7r/view) 
 
-![Souper régimentaire](/images/CC2920-Souper-regimentaire-2025.JPG)
+![Souper régimentaire](/images/CC2920SouperRegimentaire2025.jpg)
 
 
 ## Inscription
