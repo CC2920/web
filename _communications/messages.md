@@ -26,6 +26,7 @@ layout: "messages"
 - Deux choix d’activités seront offerts. Voir les détails ici [lien](https://1drv.ms/b/c/eec907a8a97cc844/IQDEawTrXasGSoPwysYV58WeARMXlnAnevY0f6lljYhJdVw?e=EM3eAj)
 - Faire votre choix d’activité ici [lien](https://forms.cloud.microsoft/pages/responsepage.aspx?id=-2oSqwzmL062z8c1DHbchCL_0lfedvVOotthXwu7NAZUNVM4TlM1MTFUSFo3QzRVRjQ1VTBCNFgzSC4u&route=shorturl)
 - À noter qu’il y a eu des changements par rapport à la version du 14 décembre. Si vous avez mis un choix avant le 19 décembre, SVP ré-inscrire votre choix dans le formulaire.
+- **Important**: Pour la journée sportive, vous devez choisir votre activité pour le 17 janvier **au plus tard ce vendredi 9 janvier**. 
 
 
 ## Soirée de cadet-cadre
