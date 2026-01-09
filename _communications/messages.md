@@ -76,7 +76,10 @@ Une vente aux enchères aura lieu durant la soirée. Les items d’une valeur de
 Si vous ou un membre de votre entourage souhaitez offrir un don (ex. certificat-cadeau ou autre item), n’hésitez pas à communiquer par courriel à <cciv2920@gmail.com> ou par téléphone au 873-354-8426.
 
 ### Remerciements
-Un grand merci à l’avance à tous les participants, aux commanditaires, aux donateurs de prix, aux bénévoles, ainsi qu’à la Légion royale canadienne filiale 58 – Gatineau, qui contribueront à faire de cette soirée un franc succès.
+Un grand merci à l’avance à tous les participants, aux commanditaires, aux donateurs de prix, aux bénévoles, ainsi qu’à la Légion royale canadienne filiale 58 - Gatineau, qui contribueront à faire de cette soirée un franc succès.
+
+![Souper spaghetti](/images/SouperSpaghetti.jpg)
+
 
 ## Inscription
 À partir du 6 décembre et jusqu’à avis contraire, les inscriptions de nouveaux cadets sont sur pause. Les inscriptions rouvriront lorsque nous en aurons la capacité d’accueillir plus de jeunes. Entre temps, si vous demeurez intéressés à vous joindre à nous, écrivez-nous au <2920armee@cadets.gc.ca> et nous pourrons vous envoyer un courriel lorsque des places seront disponibles. Vous pouvez aussi visiter le répertoire des unités pour trouver un autre corps de cadets au [app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html](https://app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html).
