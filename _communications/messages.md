@@ -53,6 +53,31 @@ Chaque unité peut avoir un ou quelques cadets reporter dont le rôle est de cou
 ![Souper régimentaire](/images/CC2920SouperRegimentaire2025.jpg)
 
 
+## Levée de fonds / Souper spaghetti et enchères
+Dans le but d’amasser des fonds afin de bonifier le programme de base des jeunes et leur offrir des expériences marquantes, nous sollicitons la participation de tous pour la vente des billets du souper spaghetti et des enchères qui auront lieu le 14 mars 2026 à la Légion royale canadienne, filiale 58 de Gatineau (86, rue de la Baie, Gatineau).
+
+Les profits serviront notamment à soutenir des activités et équipements tels que le souper régimentaire, de l’équipement de biathlon, des instruments de musique, les plaques aux cadets, ainsi que le repas du cérémonial de fin d’année.
+
+### Billets
+Les billets seront en vente à partir du vendredi 9 janvier 2026.
+
+⚠️ Nombre de places limité et aucune vente à la porte.
+
+- 20$ par adulte
+- 15$ par cadet(te) ou enfant de 12 ans et moins
+
+Les billets peuvent être payés comptant à la cantine au 52, rue St-Rosaire ou par virement électronique à <cciv2920@gmail.com> afin de réserver votre commande.
+
+Merci d’indiquer dans la note du virement le nom du cadet ou de la cadette, ainsi que le nombre de billets à 20$ et à 15$.
+
+### Enchères
+Une vente aux enchères aura lieu durant la soirée. Les items d’une valeur de plus de 250$ seront présentés lors de l’enchère à voix haute.
+
+Si vous ou un membre de votre entourage souhaitez offrir un don (ex. certificat-cadeau ou autre item), n’hésitez pas à communiquer par courriel à <cciv2920@gmail.com> ou par téléphone au 873-354-8426.
+
+### Remerciements
+Un grand merci à l’avance à tous les participants, aux commanditaires, aux donateurs de prix, aux bénévoles, ainsi qu’à la Légion royale canadienne filiale 58 – Gatineau, qui contribueront à faire de cette soirée un franc succès.
+
 ## Inscription
 À partir du 6 décembre et jusqu’à avis contraire, les inscriptions de nouveaux cadets sont sur pause. Les inscriptions rouvriront lorsque nous en aurons la capacité d’accueillir plus de jeunes. Entre temps, si vous demeurez intéressés à vous joindre à nous, écrivez-nous au <2920armee@cadets.gc.ca> et nous pourrons vous envoyer un courriel lorsque des places seront disponibles. Vous pouvez aussi visiter le répertoire des unités pour trouver un autre corps de cadets au [app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html](https://app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html).
 
