@@ -3,7 +3,7 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d’instruction 9 janvier
+## Soirée d’instruction 16 janvier
 - **Qui :** tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue St-Rosaire, Gatineau
@@ -13,11 +13,13 @@ layout: "messages"
 
 
 ## Activités à venir
-- **7 janvier :** soirée de planification et d’entrevues pour cadet-cadre
 - **17 janvier :** journée sportive
+- **30 janvier :** présentation sur les camps d’été
 - **30 janvier au 1er février :** expédition étoile or, pour étoile or seulement
 - **14 au 16 février :** exercice hivernal
 - **28 février :** souper régimentaire
+- **6 mars :** congé pour la semaine de relâche
+- **14 mars :** souper spaghetti
  
 
 ## Journée sportive 
@@ -25,19 +27,14 @@ layout: "messages"
 - **Quand :** 17 janvier
 - Deux choix d’activités seront offerts. Voir les détails ici [lien](https://1drv.ms/b/c/eec907a8a97cc844/IQDEawTrXasGSoPwysYV58WeARMXlnAnevY0f6lljYhJdVw?e=EM3eAj)
 - Faire votre choix d’activité ici [lien](https://forms.cloud.microsoft/pages/responsepage.aspx?id=-2oSqwzmL062z8c1DHbchCL_0lfedvVOotthXwu7NAZUNVM4TlM1MTFUSFo3QzRVRjQ1VTBCNFgzSC4u&route=shorturl)
-- À noter qu’il y a eu des changements par rapport à la version du 14 décembre. Si vous avez mis un choix avant le 19 décembre, SVP ré-inscrire votre choix dans le formulaire.
-- **Important**: Pour la journée sportive, vous devez choisir votre activité pour le 17 janvier **au plus tard ce vendredi 9 janvier**. 
+- Au moment de l’envoi de ces messages, le soccer-bulle de l’après-midi est plein et une sélection a été fait en fonction des taux de présence. Il reste quelques places pour raquette et soccer-bulle avant-midi, au premier arrivé premier servi. Si vous ne pouvez plus venir, merci de nous écrire pour libérer la place à quelqu’un d’autre. Une liste des inscriptions se trouve sur le groupe Facebook du corps de cadets et sera mis à jour régulièrement durant la semaine.
 
 
-## Soirée de cadet-cadre
-- **Qui :** niveau or et plus
-- **Quand :** 7 janvier de 18h30 à 21h
+## Présentation camp d’été
+- **Qui :** cadets des niveaux rouge à or et leurs parents
+- **Quand :** 30 janvier de 19h à 19h30
 - **Lieu :** 52 rue St-Rosaire, Gatineau
-- Plus d’information vous seront communiquées sur le groupe des cadet-cadre.
-
-
-## Cours de cadet reporter
-Chaque unité peut avoir un ou quelques cadets reporter dont le rôle est de couvrir et valoriser les activités de l’unité à l’interne et à l’externe sur les médias traditionnels et sociaux. Ce poste est ouvert aux cadets de niveau argent et plus le désirant. Une formation virtuelle aura lieu sur 5 soirs les mardis ou mercredis du 27 janvier au 25 février. Les cadets intéressés sont priés d’en parler avec IC Legault le vendredi soir.
+- Des camps sont disponibles cet été pour les cadets de niveau rouge à or. Une présentation sera faites aux cadets à ce moment, et les parents sont aussi invités à assister à la présentation. Les parents pourront aussi rester pour assister à la parade du commandant en fin de soirée.
 
 
 ## Souper régimentaire (Mess diner)
@@ -86,21 +83,21 @@ Un grand merci à l’avance à tous les participants, aux commanditaires, aux d
 
 
 ## Tir
-- **Qui :** les cadets faisant partie de l’équipe de tir seulement, la sélection sera annoncée le 9 janvier
-- **Quand :** les lundis début 18h15, heure de fin selon les cadets présents, à partir du 12 janvier
+- **Qui :** les cadets faisant partie de l’équipe de tir seulement
+- **Quand :** les lundis début 18h15, heure de fin selon les cadets présents
 - **Lieu :** 100 rue de la Baie, Gatineau
 
 
 ## Peloton de précision
 - **Qui :** tous les cadets intéressés  
-- **Quand :** les mercredis de 18h30 à 20h30, à partir du 14 janvier  
+- **Quand :** les mercredis de 18h30 à 20h30
 - **Lieu :** 100 rue de la Baie, Gatineau  
 - **Informations supplémentaires :** Tenue civile avec les bottes de parade si vous l’avez. Apportez une bouteille d’eau et des collations si vous le désirez.
 
 
 ## Musique
 - **Qui :** tous les cadets intéressés
-- **Quand :** les dimanches de 8h45 à 13h, à partir du 11 janvier
+- **Quand :** les dimanches de 8h45 à 13h
 - **Lieu :** 188 boulevard Alexandre-Tâché, Gatineau
 - **Informations supplémentaires :** Apportez votre instrument si vous l’avez, bouteille d’eau, collation et partitions. Tenue civile.
   
