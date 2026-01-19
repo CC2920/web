@@ -3,7 +3,7 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d’instruction 16 janvier
+## Soirée d’instruction 23 janvier
 - **Qui :** tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue St-Rosaire, Gatineau
@@ -13,22 +13,13 @@ layout: "messages"
 
 
 ## Activités à venir
-- **17 janvier :** journée sportive
 - **30 janvier :** présentation sur les camps d’été
-- **30 janvier au 1er février :** expédition étoile or, pour étoile or seulement
+- **30 janvier au 1er février :** expédition étoile or, pour étoile or seulement. Voir conversation des cadet-cadre pour les personnes concernées
 - **14 au 16 février :** exercice hivernal
 - **28 février :** souper régimentaire
 - **6 mars :** congé pour la semaine de relâche
 - **14 mars :** souper spaghetti
  
-
-## Journée sportive 
-- **Qui :** tous les cadets intéressés
-- **Quand :** 17 janvier
-- Deux choix d’activités seront offerts. Voir les détails ici [lien](https://1drv.ms/b/c/eec907a8a97cc844/IQDEawTrXasGSoPwysYV58WeARMXlnAnevY0f6lljYhJdVw?e=EM3eAj)
-- Faire votre choix d’activité ici [lien](https://forms.cloud.microsoft/pages/responsepage.aspx?id=-2oSqwzmL062z8c1DHbchCL_0lfedvVOotthXwu7NAZUNVM4TlM1MTFUSFo3QzRVRjQ1VTBCNFgzSC4u&route=shorturl)
-- Au moment de l’envoi de ces messages, le soccer-bulle de l’après-midi est plein et une sélection a été fait en fonction des taux de présence. Il reste quelques places pour raquette et soccer-bulle avant-midi, au premier arrivé premier servi. Si vous ne pouvez plus venir, merci de nous écrire pour libérer la place à quelqu’un d’autre. Une liste des inscriptions se trouve sur le groupe Facebook du corps de cadets et sera mis à jour régulièrement durant la semaine.
-
 
 ## Présentation camp d’été
 - **Qui :** cadets des niveaux rouge à or et leurs parents
@@ -36,6 +27,10 @@ layout: "messages"
 - **Lieu :** 52 rue St-Rosaire, Gatineau
 - Des camps sont disponibles cet été pour les cadets de niveau rouge à or. Une présentation sera faites aux cadets à ce moment, et les parents sont aussi invités à assister à la présentation. Les parents pourront aussi rester pour assister à la parade du commandant en fin de soirée.
 
+
+## Exercice hivernal
+- Il s’agit d’une activité du programme obligatoire pour tous les cadets.
+- Voir les détails ici [lien](https://1drv.ms/b/c/eec907a8a97cc844/IQA5iHgrK-z0S7VX4vA2aV_rAf1TrqRZ1vUEv7HDM7pPAOM?e=2dS8Sy)
 
 ## Souper régimentaire (Mess diner)
 - **Qui :** SEULEMENT pour les cadets qui se sont inscrit via le [sondage](https://forms.gle/39digCE8SU4uH3Pq7)
