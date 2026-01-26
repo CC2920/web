@@ -16,7 +16,7 @@ layout: "messages"
 
 ## Activités à venir
 - **30 janvier au 1er février :** expédition étoile or, pour étoile or seulement. 
-- **14 au 16 février :** exercice hivernal
+- **13 au 15 février :** exercice hivernal
 - **28 février :** souper régimentaire
 - **6 mars :** congé pour la semaine de relâche
 - **14 mars :** souper spaghetti
