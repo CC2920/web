@@ -29,6 +29,16 @@ layout: "messages"
 - Nous avons besoin de savoir qui sera là au plus tard le 2 février pour préparer le matériel et les repas. SVP remplir le sondage suivant pour signifier votre présence [lien](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchCL_0lfedvVOotthXwu7NAZUNDFOVFROQTlQVFZYVDVEVDJKME01WThFRS4u)
 
 
+## Hoodie officiel du Corps de cadets 2920
+
+Affichez vos couleurs avec le hoodie officiel du Corps de cadets 2920! Confortable, chaud et idéal pour représenter fièrement notre corps lors des activités et événements.<br /><br />
+Le coût est de 45 $ sans le nom de la cadette ou du cadet, et de 50 $ avec le nom. Le paiement peut être effectué à la cantine ou par virement à <cciv2920@gmail.com> **avant 23 h 59 le 20 février.** <br /><br />
+Cliquez sur le lien ci-dessous pour accéder au formulaire de commande, choisir votre taille et compléter votre inscription.<br />
+Nous vous contacterons dès que les hoodies seront reçus.
+
+👉 [Formulaire de commande](https://forms.gle/M92WiMyAqy8JGTWe7)
+
+
 ## Souper régimentaire (Mess diner)
 - **Qui :** SEULEMENT pour les cadets qui se sont inscrit via le [sondage](https://forms.gle/39digCE8SU4uH3Pq7)
 - **Heure :** 17h30 à 21h30, samedi, 28 février
