@@ -3,19 +3,16 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d’instruction 30 janvier
+## Soirée d’instruction 6 février
 - **Qui :** tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue St-Rosaire, Gatineau
-- **Tenue pour tous :** C1 - Tenue de parade
-- Les parents des cadets de niveau rouge à or sont invités à une présentation sur les camps d’été de 19h à 19h30. Ils pourront ensuite rester pour la parade qui devrait débuter vers 20h15. Les autres parents sont invités pour 20h en vue de la parade.
-- Pour les parents, apportez une chaise pliable si vous en avez une. Selon le nombre de personnes présentes, nous n’aurons peut-être pas assez de places assises pour tous.
+- **Tenue pour tous :** C5 – Tenue d’entraînement avec manteau, tuque et gants pour passer une partie de la soirée à l'extérieur.
   
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 
 ## Activités à venir
-- **30 janvier au 1er février :** expédition étoile or, pour étoile or seulement. 
 - **13 au 15 février :** exercice hivernal
 - **28 février :** souper régimentaire
 - **6 mars :** congé pour la semaine de relâche
@@ -28,6 +25,65 @@ layout: "messages"
 - Voir les détails ici [lien](https://1drv.ms/b/c/eec907a8a97cc844/IQA5iHgrK-z0S7VX4vA2aV_rAf1TrqRZ1vUEv7HDM7pPAOM?e=2dS8Sy)
 - Nous avons besoin de savoir qui sera là au plus tard le 2 février pour préparer le matériel et les repas. SVP remplir le sondage suivant pour signifier votre présence [lien](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchCL_0lfedvVOotthXwu7NAZUNDFOVFROQTlQVFZYVDVEVDJKME01WThFRS4u)
 
+Inscrits en date du 30 janvier 21h30
+
+
+| Grade  | Prénom              | Nom de famille                      |
+|-------|--------------------|----------------------------|
+| cplc  | Alain              | David                      |
+| cpl   | Alain              | William                    |
+| adjum | Atitsogbé          | Ahoéfa Tiffany             |
+| adj   | Atitsogbé          | Apélété Jack               |
+| adj   | Belhabib           | Tayeb                      |
+| cdt   | Bogmam Itoo        | M C Andrew                 |
+| adjuc | Brunette           | Sébastien                  |
+| cdt   | Chénier            | Nathaniel                  |
+| cdt   | de Cotret          | Gabriel William            |
+| cpl   | Fauteux            | Gabriel Xavier             |
+| cplc  | Fauteux            | Henry David                |
+| lcpl  | Fleury-Belisle     | Jayden                     |
+| sgt   | Gaudette           | Felix                      |
+| cplc  | Gnoto              | Jeremie                    |
+| cplc  | Gnoto              | Jonathan Cedric            |
+| cpl   | Goin               | Bi Zie Tim Rayane Imanouel |
+| cdt   | Kabungulu          | Clara Kabesha              |
+| cdt   | Kangolingoli       | Esther Jacqueline          |
+| cpl   | Kouaga             | Andreina Olive Kuikoua     |
+| cplc  | Lafrenière         | Tristan                    |
+| cpl   | Langlois           | Samuel                     |
+| cdt   | Lavoie             | Justin                     |
+| cdt   | Liu                | Zhihong                    |
+| lcpl  | Magne Tchuenkam    | Olivia                     |
+| cdt   | Mambo              | DANHO Yves Niko            |
+| cdt   | Mancilla Suarez    | Jonathan Enoc              |
+| cdt   | Mancilla Suárez    | Jérémy Eliud               |
+| cdt   | Martineau          | Zoey                       |
+| lcpl  | Mathews            | Thomas                     |
+| cpl   | Meudja             | Anaya                      |
+| cpl   | Meudja             | Otniel                     |
+| sgt   | Monney Mbedi       | Milan Yoann                |
+| cdt   | Nadeau             | Megan rose                 |
+| cdt   | Ndayishimiye       | Brian Shalom               |
+| cdt   | Nguemkam Tchuenkam | Obrayan Salomon            |
+| cdt   | Nkonmegne ntepdie  | Arsène Michel              |
+| cdt   | Oula               | Mamblehi Elsa Yoela        |
+| sgt   | Paquette           | Naomi Julie                |
+| cdt   | Parisien           | Matheo Michel              |
+| cdt   | Pawoano Donfack    | Hilary Lionnella           |
+| cdt   | Pedro              | Zoé                        |
+| cdt   | Preira             | Jean Pierre                |
+| cpl   | Rheaume            | Victoria                   |
+| cdt   | Ricard             | Antoine Gagné              |
+| cdt   | Richer             | Alexis                     |
+| cpl   | Roberge-Davakan    | Miric                      |
+| cdt   | Sarré              | Maguette                   |
+| cdt   | St Maurice         | Vincent                    |
+| cpl   | St-Jean            | Gaelle                     |
+| cdt   | Suntcha Tchuenkam  | Gabrielle Kellya           |
+| cplc  | Sylvain            | Félix                      |
+| cdt   | Vallée             | Alexandre                  |
+| adj   | Viau               | Malika                     |
+| cdt   | Vigneault          | Vincent                    |
 
 ## Hoodie officiel du Corps de cadets 2920
 
@@ -100,7 +156,7 @@ Un grand merci à l’avance à tous les participants, aux commanditaires, aux d
 ## Musique
 - **Qui :** tous les cadets intéressés
 - **Quand :** les dimanches de 8h45 à 13h
-- **Lieu :** 188 boulevard Alexandre-Tâché, Gatineau
+- **Lieu :** Centre commautaire St-Jean-de-Brébeuf au 70 rue Moreau, Gatineau, pour le 1er février seulement
 - **Informations supplémentaires :** Apportez votre instrument si vous l’avez, bouteille d’eau, collation et partitions. Tenue civile.
   
 
