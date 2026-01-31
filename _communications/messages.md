@@ -25,9 +25,8 @@ layout: "messages"
 - Voir les détails ici [lien](https://1drv.ms/b/c/eec907a8a97cc844/IQA5iHgrK-z0S7VX4vA2aV_rAf1TrqRZ1vUEv7HDM7pPAOM?e=2dS8Sy)
 - Nous avons besoin de savoir qui sera là au plus tard le 2 février pour préparer le matériel et les repas. SVP remplir le sondage suivant pour signifier votre présence [lien](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchCL_0lfedvVOotthXwu7NAZUNDFOVFROQTlQVFZYVDVEVDJKME01WThFRS4u)
 
-Inscrits en date du 30 janvier 21h30
 
-
+**Inscrits en date du 30 janvier 21h30**
 | Grade  | Prénom              | Nom de famille                      |
 |-------|--------------------|----------------------------|
 | cplc  | Alain              | David                      |
@@ -84,6 +83,64 @@ Inscrits en date du 30 janvier 21h30
 | cdt   | Vallée             | Alexandre                  |
 | adj   | Viau               | Malika                     |
 | cdt   | Vigneault          | Vincent                    |
+
+**Incertain**
+| Grade  | Prénom              | Nom de famille                      |
+|------|--------------------|------------------------|
+| cpl  | Beaulne-Desjardins | Tommy                  |
+| cpl  | Bouchard-Couvrette | Anaeve                 |
+| cpl  | Daigba             | Marvin                 |
+| cdt  | Ekra               | Ane Don Christ Junior  |
+| lcpl | Francois           | Leensay Russardly      |
+| sgt  | Martel             | Nicolas                |
+| cpl  | Mircioiu           | Maria Natalia          |
+| cdt  | Mubyayi            | Bennedict              |
+| cdt  | Mullen             | Zachary                |
+| cdt  | N'gbesso           | Christ Mondé           |
+| cdt  | Ndayishimiye       | Roni Biva              |
+| cdt  | Paquin             | Mia Rose Mélanie       |
+| cdt  | Pawoano Wamba      | Yoan Ethan             |
+| cdt  | Sarré              | Ahmadou Khadim         |
+| cdt  | Tjamack Itoo       | Yann Freddy            |
+| cpl  | Youmsi             | Nziko Paulin Enzo      |
+| cdt  | Kabungulu          | Clara Kabesha          |
+| cdt  | Kangolingoli       | Esther Jacqueline      |
+| cpl  | Kouaga             | Andreina Olive Kuikoua |
+| cplc | Lafrenière         | Tristan                |
+| cpl  | Langlois           | Samuel                 |
+| cdt  | Lavoie             | Justin                 |
+| cdt  | Liu                | Zhihong                |
+| lcpl | Magne Tchuenkam    | Olivia                 |
+| cdt  | Mambo              | DANHO Yves Niko        |
+| cdt  | Mancilla Suarez    | Jonathan Enoc          |
+| cdt  | Mancilla Suárez    | Jérémy Eliud           |
+| cdt  | Martineau          | Zoey                   |
+| lcpl | Mathews            | Thomas                 |
+| cpl  | Meudja             | Anaya                  |
+| cpl  | Meudja             | Otniel                 |
+| sgt  | Monney Mbedi       | Milan Yoann            |
+| cdt  | Nadeau             | Megan rose             |
+| cdt  | Ndayishimiye       | Brian Shalom           |
+| cdt  | Nguemkam Tchuenkam | Obrayan Salomon        |
+| cdt  | Nkonmegne ntepdie  | Arsène Michel          |
+| cdt  | Oula               | Mamblehi Elsa Yoela    |
+| sgt  | Paquette           | Naomi Julie            |
+| cdt  | Parisien           | Matheo Michel          |
+| cdt  | Pawoano Donfack    | Hilary Lionnella       |
+| cdt  | Pedro              | Zoé                    |
+| cdt  | Preira             | Jean Pierre            |
+| cpl  | Rheaume            | Victoria               |
+| cdt  | Ricard             | Antoine Gagné          |
+| cdt  | Richer             | Alexis                 |
+| cpl  | Roberge-Davakan    | Miric                  |
+| cdt  | Sarré              | Maguette               |
+| cdt  | St Maurice         | Vincent                |
+| cpl  | St-Jean            | Gaelle                 |
+| cdt  | Suntcha Tchuenkam  | Gabrielle Kellya       |
+| cplc | Sylvain            | Félix                  |
+| cdt  | Vallée             | Alexandre              |
+| adj  | Viau               | Malika                 |
+| cdt  | Vigneault          | Vincent                |
 
 ## Hoodie officiel du Corps de cadets 2920
 
