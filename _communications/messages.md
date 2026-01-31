@@ -85,6 +85,64 @@ Inscrits en date du 30 janvier 21h30
 | adj   | Viau               | Malika                     |
 | cdt   | Vigneault          | Vincent                    |
 
+Incertain
+| Grade  | Prénom              | Nom de famille                      |
+|------|--------------------|------------------------|
+| cpl  | Beaulne-Desjardins | Tommy                  |
+| cpl  | Bouchard-Couvrette | Anaeve                 |
+| cpl  | Daigba             | Marvin                 |
+| cdt  | Ekra               | Ane Don Christ Junior  |
+| lcpl | Francois           | Leensay Russardly      |
+| sgt  | Martel             | Nicolas                |
+| cpl  | Mircioiu           | Maria Natalia          |
+| cdt  | Mubyayi            | Bennedict              |
+| cdt  | Mullen             | Zachary                |
+| cdt  | N'gbesso           | Christ Mondé           |
+| cdt  | Ndayishimiye       | Roni Biva              |
+| cdt  | Paquin             | Mia Rose Mélanie       |
+| cdt  | Pawoano Wamba      | Yoan Ethan             |
+| cdt  | Sarré              | Ahmadou Khadim         |
+| cdt  | Tjamack Itoo       | Yann Freddy            |
+| cpl  | Youmsi             | Nziko Paulin Enzo      |
+| cdt  | Kabungulu          | Clara Kabesha          |
+| cdt  | Kangolingoli       | Esther Jacqueline      |
+| cpl  | Kouaga             | Andreina Olive Kuikoua |
+| cplc | Lafrenière         | Tristan                |
+| cpl  | Langlois           | Samuel                 |
+| cdt  | Lavoie             | Justin                 |
+| cdt  | Liu                | Zhihong                |
+| lcpl | Magne Tchuenkam    | Olivia                 |
+| cdt  | Mambo              | DANHO Yves Niko        |
+| cdt  | Mancilla Suarez    | Jonathan Enoc          |
+| cdt  | Mancilla Suárez    | Jérémy Eliud           |
+| cdt  | Martineau          | Zoey                   |
+| lcpl | Mathews            | Thomas                 |
+| cpl  | Meudja             | Anaya                  |
+| cpl  | Meudja             | Otniel                 |
+| sgt  | Monney Mbedi       | Milan Yoann            |
+| cdt  | Nadeau             | Megan rose             |
+| cdt  | Ndayishimiye       | Brian Shalom           |
+| cdt  | Nguemkam Tchuenkam | Obrayan Salomon        |
+| cdt  | Nkonmegne ntepdie  | Arsène Michel          |
+| cdt  | Oula               | Mamblehi Elsa Yoela    |
+| sgt  | Paquette           | Naomi Julie            |
+| cdt  | Parisien           | Matheo Michel          |
+| cdt  | Pawoano Donfack    | Hilary Lionnella       |
+| cdt  | Pedro              | Zoé                    |
+| cdt  | Preira             | Jean Pierre            |
+| cpl  | Rheaume            | Victoria               |
+| cdt  | Ricard             | Antoine Gagné          |
+| cdt  | Richer             | Alexis                 |
+| cpl  | Roberge-Davakan    | Miric                  |
+| cdt  | Sarré              | Maguette               |
+| cdt  | St Maurice         | Vincent                |
+| cpl  | St-Jean            | Gaelle                 |
+| cdt  | Suntcha Tchuenkam  | Gabrielle Kellya       |
+| cplc | Sylvain            | Félix                  |
+| cdt  | Vallée             | Alexandre              |
+| adj  | Viau               | Malika                 |
+| cdt  | Vigneault          | Vincent                |
+
 ## Hoodie officiel du Corps de cadets 2920
 
 Affichez vos couleurs avec le hoodie officiel du Corps de cadets 2920! Confortable, chaud et idéal pour représenter fièrement notre corps lors des activités et événements.<br /><br />
