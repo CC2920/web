@@ -25,9 +25,8 @@ layout: "messages"
 - Voir les détails ici [lien](https://1drv.ms/b/c/eec907a8a97cc844/IQA5iHgrK-z0S7VX4vA2aV_rAf1TrqRZ1vUEv7HDM7pPAOM?e=2dS8Sy)
 - Nous avons besoin de savoir qui sera là au plus tard le 2 février pour préparer le matériel et les repas. SVP remplir le sondage suivant pour signifier votre présence [lien](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchCL_0lfedvVOotthXwu7NAZUNDFOVFROQTlQVFZYVDVEVDJKME01WThFRS4u)
 
-Inscrits en date du 30 janvier 21h30
 
-
+**Inscrits en date du 30 janvier 21h30**
 | Grade  | Prénom              | Nom de famille                      |
 |-------|--------------------|----------------------------|
 | cplc  | Alain              | David                      |
@@ -85,7 +84,7 @@ Inscrits en date du 30 janvier 21h30
 | adj   | Viau               | Malika                     |
 | cdt   | Vigneault          | Vincent                    |
 
-Incertain
+**Incertain**
 | Grade  | Prénom              | Nom de famille                      |
 |------|--------------------|------------------------|
 | cpl  | Beaulne-Desjardins | Tommy                  |
