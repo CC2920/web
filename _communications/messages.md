@@ -105,44 +105,6 @@ layout: "messages"
 | cdt  | Sarré              | Ahmadou Khadim         |
 | cdt  | Tjamack Itoo       | Yann Freddy            |
 | cpl  | Youmsi             | Nziko Paulin Enzo      |
-| cdt  | Kabungulu          | Clara Kabesha          |
-| cdt  | Kangolingoli       | Esther Jacqueline      |
-| cpl  | Kouaga             | Andreina Olive Kuikoua |
-| cplc | Lafrenière         | Tristan                |
-| cpl  | Langlois           | Samuel                 |
-| cdt  | Lavoie             | Justin                 |
-| cdt  | Liu                | Zhihong                |
-| lcpl | Magne Tchuenkam    | Olivia                 |
-| cdt  | Mambo              | DANHO Yves Niko        |
-| cdt  | Mancilla Suarez    | Jonathan Enoc          |
-| cdt  | Mancilla Suárez    | Jérémy Eliud           |
-| cdt  | Martineau          | Zoey                   |
-| lcpl | Mathews            | Thomas                 |
-| cpl  | Meudja             | Anaya                  |
-| cpl  | Meudja             | Otniel                 |
-| sgt  | Monney Mbedi       | Milan Yoann            |
-| cdt  | Nadeau             | Megan rose             |
-| cdt  | Ndayishimiye       | Brian Shalom           |
-| cdt  | Nguemkam Tchuenkam | Obrayan Salomon        |
-| cdt  | Nkonmegne ntepdie  | Arsène Michel          |
-| cdt  | Oula               | Mamblehi Elsa Yoela    |
-| sgt  | Paquette           | Naomi Julie            |
-| cdt  | Parisien           | Matheo Michel          |
-| cdt  | Pawoano Donfack    | Hilary Lionnella       |
-| cdt  | Pedro              | Zoé                    |
-| cdt  | Preira             | Jean Pierre            |
-| cpl  | Rheaume            | Victoria               |
-| cdt  | Ricard             | Antoine Gagné          |
-| cdt  | Richer             | Alexis                 |
-| cpl  | Roberge-Davakan    | Miric                  |
-| cdt  | Sarré              | Maguette               |
-| cdt  | St Maurice         | Vincent                |
-| cpl  | St-Jean            | Gaelle                 |
-| cdt  | Suntcha Tchuenkam  | Gabrielle Kellya       |
-| cplc | Sylvain            | Félix                  |
-| cdt  | Vallée             | Alexandre              |
-| adj  | Viau               | Malika                 |
-| cdt  | Vigneault          | Vincent                |
 
 ## Hoodie officiel du Corps de cadets 2920
 
