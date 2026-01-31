@@ -27,6 +27,7 @@ layout: "messages"
 
 
 **Inscrits en date du 30 janvier 21h30**
+
 | Grade  | Prénom              | Nom de famille                      |
 |-------|--------------------|----------------------------|
 | cplc  | Alain              | David                      |
@@ -85,6 +86,7 @@ layout: "messages"
 | cdt   | Vigneault          | Vincent                    |
 
 **Incertain**
+
 | Grade  | Prénom              | Nom de famille                      |
 |------|--------------------|------------------------|
 | cpl  | Beaulne-Desjardins | Tommy                  |
