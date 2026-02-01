@@ -13,12 +13,12 @@ navigationKey: presentation
 les-cadets-major:
     - cadet:
       name: "Adjuc Sébastien Brunette"
-      title: "Cadet-commandant"
+      title: "Sergent-major régimentaire"
       picture: "/docs/cadets-cadres/CC2920-Adjuc-Brunette.jpg"
 
     - cadet:
       name: "Adjum Ahoefa Tiffany Atitsogbé"
-      title: "Adjudant-Maitre Instructeur spécialiste Exercice militaire"
+      title: "Sergent-major de compagnie"
       picture: "/docs/cadets-cadres/CC2920-Adj-Atitsogbe.JPG"
 
 
@@ -34,7 +34,7 @@ les-cadets-cadres:
     
     - cadet: 
       name: Adj Apélété Jack Atitsogbé 
-      title: Cadet sénior senior Responsable de la musique
+      title: Cadet sénior responsable du niveau rouge et de la musique
       picture:
 
     - cadet: 
@@ -66,16 +66,6 @@ les-cadets-cadres:
       name: Adj Samuel Leduc
       title: Cadet sénior Instructeur
       picture: "/docs/cadets-cadres/CC2920-Adj-Leduc.JPG"
-
-    - cadet: 
-      name: Adj Maxim Lauzon
-      title: Cadet sénior Instructeur
-      picture:
-      
-    - cadet: 
-      name: Adj Renaud Metlej
-      title: Cadet sénior Instructeur
-      picture:
 ---
 
 
