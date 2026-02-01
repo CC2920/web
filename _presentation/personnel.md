@@ -13,49 +13,54 @@ le-personnel:
     name: Capt Zhebin Hu
     title: Officier d'entrainement
     email:
-    
+
+  - personnel:
+    picture: 
+    name: Lt Sylvie Simard
+    title: Officier d'approvisionnement et Entraineur tir et biathlon
+    email:
+
   - personnel:
     picture: 
     name: Lt Suree Roshan
     title: Officier d'administration
     email:
-    
-  - personnel:
-    picture: 
-    name: IC Marcelle Ngounou
-    title: Officier adjoint à l'administration
-    email:
-    
-  - personnel:
-    picture: 
-    name: Lt Sylvie Simard
-    title: Officier d'approvisionnement et Entraineur tir et biathlon
-    email: 
   
   - personnel:
     picture: 
-    name: 
-    title: Responsable Niveau OR
+    name: IC Souleymane Boiro
+    title: Responsable Niveau Or
     email:
-
+    
   - personnel:
     picture: 
-    name: I.C. Samuel Tremblay-Germain
+    name: I.C. Marcelle Ngounou
     title: Responsable Niveau Argent
     email: 
-  
+
   - personnel:
     picture: 
-    name: Slt Amélie Joncas
-    title: Responsable Niveau Rouge
+    name: Ben Pierre Lafrance
+    title: Adjoint Niveau Argent
     email:
 
   - personnel:
     picture: 
-    name: I.C. Alexandre Bogucki
-    title: Adjoint niveau Rouge et musique
+    name: Ben Cydonie Sabourin
+    title: Adjoint Niveau Argent
+    email:
+    
+  - personnel:
+    picture: 
+    name: IC Béata Rus
+    title: Responsable Niveau Rouge et Musique
     email:
 
+  - personnel:
+    picture: 
+    name: Ben Alexandre Bogucki
+    title: Adjoint Niveau Rouge et Musique
+    email:
 
   - personnel:
     picture:
@@ -65,13 +70,19 @@ le-personnel:
 
   - personnel:
     picture:
-    name : I.C. Beata Rus
-    title : Responsable niveau Vert et Musique
+    name : Ben Philyp Poirier
+    title : Adjoint Niveau Vert
     email :
 
   - personnel:
     picture:
-    name : I.C. Bryan Laberge
+    name : Ben Guillaume St-Jean 
+    title : Instructeur de biathlon
+    email :
+    
+  - personnel:
+    picture:
+    name : Ben Mathieu St-Maurice
     title : Soutien ponctuel
     email :
 ---
