@@ -31,6 +31,8 @@ layout: "messages"
 | ----- | ------------------ | --------------------------- |
 | cplc  | Alain              | David                       |
 | cpl   | Alain              | William                     |
+| cpl   | Amoussou           | Founi Gloria                |
+| cdt   | Amoussou           | Modoukpe Naomi Yasmine      |
 | adjum | Atitsogbé          | Ahoéfa Tiffany              |
 | adj   | Atitsogbé          | Apélété Jack                |
 | adj   | Belhabib           | Tayeb                       |
@@ -45,6 +47,7 @@ layout: "messages"
 | cpl   | Diaha              | Samuel Nathan Zahiri        |
 | cpl   | Djokou Tansem      | Naomie Perla                |
 | cpl   | Doré               | Élise Sarah                 |
+| cdt   | Dumont             | Maximilien                  |
 | cdt   | Dzogang            | Romaric                     |
 | cdt   | Dzogang Tenkafo    | Yann Daniel                 |
 | cdt   | Ekra               | Ane Don Christ Junior       |
@@ -60,6 +63,7 @@ layout: "messages"
 | cpl   | Goin               | Bi Zie Tim Rayane Imanouel  |
 | cdt   | Kabungulu          | Clara Kabesha               |
 | cdt   | Kalou              | Lou Djenan                  |
+| cdt   | Kangolingoli       | Elizabeth Riziki            |
 | cdt   | Kangolingoli       | Esther Jacqueline           |
 | cplc  | Koblavi            | Névèmé-Eli-Alexandre        |
 | cpl   | Kouaga             | Andreina Olive Kuikoua      |
@@ -194,7 +198,7 @@ Un grand merci à l’avance à tous les participants, aux commanditaires, aux d
 ## Musique
 - **Qui :** tous les cadets intéressés
 - **Quand :** les dimanches de 8h45 à 13h
-- **Lieu :** Centre commautaire St-Jean-de-Brébeuf au 70 rue Moreau, Gatineau, pour le 1er février seulement
+- **Lieu :** Centre communautaire St-Jean-de-Brébeuf au 70 rue Moreau, Gatineau, jusqu’à nouvel avis
 - **Informations supplémentaires :** Apportez votre instrument si vous l’avez, bouteille d’eau, collation et partitions. Tenue civile.
   
 
