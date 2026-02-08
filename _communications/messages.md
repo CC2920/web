@@ -3,32 +3,16 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d’instruction 6 février
-- **Qui :** tous
-- **Heure :** de 18h30 à 21h15, vendredi soir
-- **Lieu :** 52 rue St-Rosaire, Gatineau
-- **Tenue pour tous :** C5 – Tenue d’entraînement avec manteau, tuque et gants pour passer une partie de la soirée à l'extérieur.
-  
-[Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
-
-
-## Activités à venir
-- **13 au 15 février :** exercice hivernal
-- **28 février :** souper régimentaire
-- **6 mars :** congé pour la semaine de relâche
-- **14 mars :** souper spaghetti
-- **3 avril :** soirée optionnelle activité de Pâques
- 
 
 ## Exercice hivernal
-- Il s’agit d’une activité du programme obligatoire pour tous les cadets.
 - Voir les détails ici [lien](https://1drv.ms/b/c/eec907a8a97cc844/IQA5iHgrK-z0S7VX4vA2aV_rAf1TrqRZ1vUEv7HDM7pPAOM?e=2dS8Sy)
-- Nous avons besoin de savoir qui sera là au plus tard le 2 février pour préparer le matériel et les repas. SVP remplir le sondage suivant pour signifier votre présence [lien](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchCL_0lfedvVOotthXwu7NAZUNDFOVFROQTlQVFZYVDVEVDJKME01WThFRS4u)
+- Les inscriptions sont maintenant fermés. Si vous voulez vous ajouter, écrivez-nous au <2920armee@cadets.gc.ca> et attendre notre confirmation s’il y a de la place. Si vous vous étiez inscrits et ne pouvez plus venir, veuillez nous écrire aussi afin de libérer la place à quelqu’un d’autre.
+- Pour ceux qui ne peuvent pas être présents du 13 au 15 février, nous avons la possibilité d’inscrire quelques cadets pour la même activité la fin de semaine suivante avec d’autres unités, du 20 au 22 février. L’autobus sera au 188 boul. Alexandre-Taché. Si cela vous intéresse, écrivez-nous sur notre adresse courriel.
 
-**Inscrits en date du 2 février janvier 21h**
+**Inscrits en date du 8 février janvier 15h**
 
-| Grade | Nom de famille     | Prénom                      |
-| ----- | ------------------ | --------------------------- |
+| Grade | Nom de famille      | Prénom              |
+| ----- | ----------- | --------------------------- |
 | cplc  | Alain              | David                       |
 | cpl   | Alain              | William                     |
 | cpl   | Amoussou           | Founi Gloria                |
@@ -40,8 +24,8 @@ layout: "messages"
 | adjuc | Brunette           | Sébastien                   |
 | cdt   | Burgos Mora        | Samuel Andres               |
 | cdt   | Chénier            | Nathaniel                   |
-| cpl   | Daigba             | Marvin                      |
 | cdt   | Daigba             | Dahion Maïlys Jenny-Sephora |
+| cpl   | Daigba             | Marvin                      |
 | cdt   | de Cotret          | Gabriel William             |
 | cdt   | Desmoulins         | Leyla Hillary               |
 | cpl   | Diaha              | Samuel Nathan Zahiri        |
@@ -52,8 +36,8 @@ layout: "messages"
 | cdt   | Dzogang Tenkafo    | Yann Daniel                 |
 | cdt   | Ekra               | Ane Don Christ Junior       |
 | lcpl  | Evina Evina        | Elie Shalom                 |
-| cplc  | Fauteux            | Henry David                 |
 | cpl   | Fauteux            | Gabriel Xavier              |
+| cplc  | Fauteux            | Henry David                 |
 | lcpl  | Fleury-Belisle     | Jayden                      |
 | lcpl  | Francois           | Leensay Russardly           |
 | lcpl  | Garnet             | Ilie                        |
@@ -61,11 +45,14 @@ layout: "messages"
 | cplc  | Gnoto              | Jeremie                     |
 | cplc  | Gnoto              | Jonathan Cedric             |
 | cpl   | Goin               | Bi Zie Tim Rayane Imanouel  |
+| cdt   | Guay               | Latika Giselle              |
 | cdt   | Kabungulu          | Clara Kabesha               |
 | cdt   | Kalou              | Lou Djenan                  |
 | cdt   | Kangolingoli       | Elizabeth Riziki            |
 | cdt   | Kangolingoli       | Esther Jacqueline           |
+| lcpl  | Kinghombe          | Aladin                      |
 | cplc  | Koblavi            | Névèmé-Eli-Alexandre        |
+| sgt   | Koblavi            | Xolalie                     |
 | cpl   | Kouaga             | Andreina Olive Kuikoua      |
 | lcpl  | Kouaga             | Wendi Veronique Zambezie    |
 | cplc  | Lafrenière         | Tristan                     |
@@ -92,39 +79,32 @@ layout: "messages"
 | cdt   | Nkuissi Djamen     | Adrien                      |
 | cdt   | Nwaha              | Charles Devon               |
 | cdt   | Nwaha              | Selena Yvanne Flora         |
+| lcpl  | Obilade            | Leila                       |
 | cdt   | Oula               | Guehassè Anais Emmanuella   |
 | cdt   | Oula               | Mamblehi Elsa Yoela         |
 | cdt   | Paladje            | Hilaire Wilfried            |
 | sgt   | Paquette           | Naomi Julie                 |
+| cdt   | Paquin             | Mia Rose Mélanie            |
 | cdt   | Parisien           | Matheo Michel               |
 | cdt   | Pawoano Donfack    | Hilary Lionnella            |
 | cdt   | Pawoano Wamba      | Yoan Ethan                  |
 | cdt   | Preira             | Jean Pierre                 |
 | cpl   | Rheaume            | Victoria                    |
 | cdt   | Ricard             | Antoine Gagné               |
-| cpl   | Roberge-Davakan    | Miric                       |
-| cdt   | Sarré              | Maguette                    |
-| cdt   | Sarré              | Ahmadou Khadim              |
-| cdt   | St Maurice         | Vincent                     |
-| cpl   | St-Jean            | Gaelle                      |
-| cdt   | Suntcha Tchuenkam  | Gabrielle Kellya            |
-| cplc  | Sylvain            | Félix                       |
-| cdt   | Vallée             | Alexandre                   |
-| adj   | Viau               | Malika                      |
-| cdt   | Vigneault          | Vincent                     |
+| cpl   | Roberg             |                             |
 
 
-**Incertain**
-
-| Grade | Nom de famille     | Prénom            |
-| ----- | ------------------ | ----------------- |
-| cpl   | Beaulne-Desjardins | Tommy             |
-| cpl   | Bouchard-Couvrette | Anaeve            |
-| cpl   | Mircioiu           | Maria Natalia     |
-| cdt   | Mullen             | Zachary           |
-| cdt   | Paquin             | Mia Rose Mélanie  |
-| cdt   | Tjamack Itoo       | Yann Freddy       |
-| cpl   | Youmsi             | Nziko Paulin Enzo |
+## Activités à venir
+- **13 au 15 février :** exercice hivernal
+- **28 février :** souper régimentaire
+- **6 mars :** congé pour la semaine de relâche
+- **14 mars :** souper spaghetti
+- **3 avril :** soirée optionnelle activité de Pâques
+ 
+## Camp d’été
+- Pour ceux qui n’ont pas donné leurs choix en personne le vendredi, vous pouvez encore le faire au lien suivant jusqu’au 15 février 18h. [lien](https://forms.office.com/r/XFWzfJvdAd?origin=lprLink)
+- Il y aura possibilité de s’inscrire en personne vendredi prochain avant le départ de l’exercice.
+- Revoici la présentation qui avait été donné le 30 janvier. [lien](https://1drv.ms/b/c/eec907a8a97cc844/IQBF01EgYaf6RodumJ7V9wPBAfAQwOnKIx71VWfTxknAW-Y?e=dZRjG1)
 
 
 ## Hoodie officiel du Corps de cadets 2920
