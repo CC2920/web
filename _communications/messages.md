@@ -12,7 +12,7 @@ layout: "messages"
 **Inscrits en date du 8 février janvier 15h**
 
 | Grade | Nom de famille      | Prénom              |
-| ----- | ----------- | --------------------------- |
+| ----- | ------------------ | --------------------------- |
 | cplc  | Alain              | David                       |
 | cpl   | Alain              | William                     |
 | cpl   | Amoussou           | Founi Gloria                |
@@ -91,7 +91,18 @@ layout: "messages"
 | cdt   | Preira             | Jean Pierre                 |
 | cpl   | Rheaume            | Victoria                    |
 | cdt   | Ricard             | Antoine Gagné               |
-| cpl   | Roberg             |                             |
+| cpl   | Roberge-Davakan    | Miric                       |
+| cdt   | Sarré              | Ahmadou Khadim              |
+| cdt   | Sarré              | Maguette                    |
+| cdt   | St Maurice         | Vincent                     |
+| cpl   | St-Jean            | Gaelle                      |
+| cdt   | Suntcha Tchuenkam  | Gabrielle Kellya            |
+| cplc  | Sylvain            | Félix                       |
+| cdt   | Tjamack Itoo       | Yann Freddy                 |
+| cdt   | Vallée             | Alexandre                   |
+| adj   | Viau               | Malika                      |
+| cdt   | Vigneault          | Vincent                     |
+| cpl   | Youmsi             | Nziko Paulin Enzo           |
 
 
 ## Activités à venir
