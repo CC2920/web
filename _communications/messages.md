@@ -7,7 +7,7 @@ layout: "messages"
 ## Exercice hivernal
 - Voir les détails ici [lien](https://1drv.ms/b/c/eec907a8a97cc844/IQA5iHgrK-z0S7VX4vA2aV_rAf1TrqRZ1vUEv7HDM7pPAOM?e=2dS8Sy)
 - Les inscriptions sont maintenant fermés. Si vous voulez vous ajouter, écrivez-nous au <2920armee@cadets.gc.ca> et attendre notre confirmation s’il y a de la place. Si vous vous étiez inscrits et ne pouvez plus venir, veuillez nous écrire aussi afin de libérer la place à quelqu’un d’autre.
-- Pour ceux qui ne peuvent pas être présents du 13 au 15 février, nous avons la possibilité d’inscrire quelques cadets pour la même activité la fin de semaine suivante avec d’autres unités, du 20 au 22 février. L’autobus sera au 188 boul. Alexandre-Taché. Si cela vous intéresse, écrivez-nous sur notre adresse courriel.
+
 
 **Inscrits en date du 8 février janvier 15h**
 
