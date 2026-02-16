@@ -36,7 +36,7 @@ Nous vous contacterons dès que les hoodies seront reçus.
 
 
 ## Souper régimentaire (Mess diner)
-- **Qui :** SEULEMENT pour les cadets qui se sont inscrit via le [sondage](https://forms.gle/39digCE8SU4uH3Pq7)
+- **Qui :** SEULEMENT pour les cadets qui se sont inscrit.
 - **Heure :** 17h30 à 21h30, samedi, 28 février
 - **Lieu :** 89 Rue Jean-René-Monette, Gatineau
 - **Tenue :** uniforme C2 (Uniforme de parade avec ruban et chemise blanche avec noeud papillon sans béret)
