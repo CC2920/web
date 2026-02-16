@@ -41,7 +41,7 @@ Nous vous contacterons dès que les hoodies seront reçus.
 - **Lieu :** 89 Rue Jean-René-Monette, Gatineau
 - **Tenue :** uniforme C2 (Uniforme de parade avec ruban et chemise blanche avec noeud papillon sans béret)
 - **Informations supplémentaires :** Les cadets qui n’ont pas de noeud papillon pourront en emprunter au Quartier maître du corps de cadets (quantité limité)
-- **Notes :** Aucune nouvelle inscription n'est possible après le 13 février 2026 à 23h59 car le comité doit faire la commande avec le traiteur. 
+- **Notes :** La période des inscriptions est terminée. Si vous aimeriez ajouter votre nom sur la liste d'attente au cas qu'il y a une place qui se libère, vous devez communiquer avec le <cciv2920@gmail.com>. 
 
 [Guide d’information pour le mess diner](https://drive.google.com/file/d/1S0c_mragDOHg3LZv7JAsvuI4QyDoCh7r/view) 
 
