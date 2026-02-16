@@ -4,118 +4,25 @@ layout: "messages"
 ---
 
 
-## Exercice hivernal
-- Voir les détails ici [lien](https://1drv.ms/b/c/eec907a8a97cc844/IQA5iHgrK-z0S7VX4vA2aV_rAf1TrqRZ1vUEv7HDM7pPAOM?e=2dS8Sy)
-- Les inscriptions sont maintenant fermés. Si vous voulez vous ajouter, écrivez-nous au <2920armee@cadets.gc.ca> et attendre notre confirmation s’il y a de la place. Si vous vous étiez inscrits et ne pouvez plus venir, veuillez nous écrire aussi afin de libérer la place à quelqu’un d’autre.
+## Soirée d’instruction 20 février
 
+- **Qui :** Tous
+- **Heure :** de 18h30 à 21h15, vendredi soir
+- **Lieu :** 52 rue St-Rosaire, Gatineau
+- **Tenue pour tous :** tenue sport intérieur niveaux vert et rouge, tenue C5 niveau argent
 
-**Inscrits en date du 8 février janvier 15h**
-
-| Grade | Nom de famille      | Prénom              |
-| ----- | ------------------ | --------------------------- |
-| cplc  | Alain              | David                       |
-| cpl   | Alain              | William                     |
-| cpl   | Amoussou           | Founi Gloria                |
-| cdt   | Amoussou           | Modoukpe Naomi Yasmine      |
-| adjum | Atitsogbé          | Ahoéfa Tiffany              |
-| adj   | Atitsogbé          | Apélété Jack                |
-| adj   | Belhabib           | Tayeb                       |
-| cdt   | Bogmam Itoo        | M C Andrew                  |
-| adjuc | Brunette           | Sébastien                   |
-| cdt   | Burgos Mora        | Samuel Andres               |
-| cdt   | Chénier            | Nathaniel                   |
-| cdt   | Daigba             | Dahion Maïlys Jenny-Sephora |
-| cpl   | Daigba             | Marvin                      |
-| cdt   | de Cotret          | Gabriel William             |
-| cdt   | Desmoulins         | Leyla Hillary               |
-| cpl   | Diaha              | Samuel Nathan Zahiri        |
-| cpl   | Djokou Tansem      | Naomie Perla                |
-| cpl   | Doré               | Élise Sarah                 |
-| cdt   | Dumont             | Maximilien                  |
-| cdt   | Dzogang            | Romaric                     |
-| cdt   | Dzogang Tenkafo    | Yann Daniel                 |
-| cdt   | Ekra               | Ane Don Christ Junior       |
-| lcpl  | Evina Evina        | Elie Shalom                 |
-| cpl   | Fauteux            | Gabriel Xavier              |
-| cplc  | Fauteux            | Henry David                 |
-| lcpl  | Fleury-Belisle     | Jayden                      |
-| lcpl  | Francois           | Leensay Russardly           |
-| lcpl  | Garnet             | Ilie                        |
-| sgt   | Gaudette           | Felix                       |
-| cplc  | Gnoto              | Jeremie                     |
-| cplc  | Gnoto              | Jonathan Cedric             |
-| cpl   | Goin               | Bi Zie Tim Rayane Imanouel  |
-| cdt   | Guay               | Latika Giselle              |
-| cdt   | Kabungulu          | Clara Kabesha               |
-| cdt   | Kalou              | Lou Djenan                  |
-| cdt   | Kangolingoli       | Elizabeth Riziki            |
-| cdt   | Kangolingoli       | Esther Jacqueline           |
-| lcpl  | Kinghombe          | Aladin                      |
-| cplc  | Koblavi            | Névèmé-Eli-Alexandre        |
-| sgt   | Koblavi            | Xolalie                     |
-| cpl   | Kouaga             | Andreina Olive Kuikoua      |
-| lcpl  | Kouaga             | Wendi Veronique Zambezie    |
-| cplc  | Lafrenière         | Tristan                     |
-| cpl   | Langlois           | Samuel                      |
-| cdt   | Lavoie             | Justin                      |
-| cdt   | Liu                | Zhihong                     |
-| cdt   | Mambo              | DANHO Yves Niko             |
-| cdt   | Mancilla Suarez    | Jonathan Enoc               |
-| cdt   | Mancilla Suárez    | Jérémy Eliud                |
-| cplc  | Marotta            | Gabriella                   |
-| cdt   | Martineau          | Zoey                        |
-| lcpl  | Mathews            | Thomas                      |
-| cpl   | Meudja             | Anaya                       |
-| cpl   | Meudja             | Otniel                      |
-| sgt   | Monney Mbedi       | Milan Yoann                 |
-| cdt   | Mubyayi            | Bennedict                   |
-| cdt   | Nadeau             | Megan rose                  |
-| cdt   | Ndayishimiye       | Brian Shalom                |
-| cdt   | Ndayishimiye       | Roni Biva                   |
-| cpl   | Néron              | Zackael                     |
-| cdt   | N'gbesso           | Christ Mondé                |
-| cdt   | Nguemkam Tchuenkam | Obrayan Salomon             |
-| cdt   | Nkonmegne ntepdie  | Arsène Michel               |
-| cdt   | Nkuissi Djamen     | Adrien                      |
-| cdt   | Nwaha              | Charles Devon               |
-| cdt   | Nwaha              | Selena Yvanne Flora         |
-| lcpl  | Obilade            | Leila                       |
-| cdt   | Oula               | Guehassè Anais Emmanuella   |
-| cdt   | Oula               | Mamblehi Elsa Yoela         |
-| cdt   | Paladje            | Hilaire Wilfried            |
-| sgt   | Paquette           | Naomi Julie                 |
-| cdt   | Paquin             | Mia Rose Mélanie            |
-| cdt   | Parisien           | Matheo Michel               |
-| cdt   | Pawoano Donfack    | Hilary Lionnella            |
-| cdt   | Pawoano Wamba      | Yoan Ethan                  |
-| cdt   | Preira             | Jean Pierre                 |
-| cpl   | Rheaume            | Victoria                    |
-| cdt   | Ricard             | Antoine Gagné               |
-| cpl   | Roberge-Davakan    | Miric                       |
-| cdt   | Sarré              | Ahmadou Khadim              |
-| cdt   | Sarré              | Maguette                    |
-| cdt   | St Maurice         | Vincent                     |
-| cpl   | St-Jean            | Gaelle                      |
-| cdt   | Suntcha Tchuenkam  | Gabrielle Kellya            |
-| cplc  | Sylvain            | Félix                       |
-| cdt   | Tjamack Itoo       | Yann Freddy                 |
-| cdt   | Vallée             | Alexandre                   |
-| adj   | Viau               | Malika                      |
-| cdt   | Vigneault          | Vincent                     |
-| cpl   | Youmsi             | Nziko Paulin Enzo           |
+[Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 
 ## Activités à venir
-- **13 au 15 février :** exercice hivernal
 - **28 février :** souper régimentaire
 - **6 mars :** congé pour la semaine de relâche
 - **14 mars :** souper spaghetti
 - **3 avril :** soirée optionnelle activité de Pâques
  
-## Camp d’été
-- Pour ceux qui n’ont pas donné leurs choix en personne le vendredi, vous pouvez encore le faire au lien suivant jusqu’au 15 février 18h. [lien](https://forms.office.com/r/XFWzfJvdAd?origin=lprLink)
-- Il y aura possibilité de s’inscrire en personne vendredi prochain avant le départ de l’exercice.
-- Revoici la présentation qui avait été donné le 30 janvier. [lien](https://1drv.ms/b/c/eec907a8a97cc844/IQBF01EgYaf6RodumJ7V9wPBAfAQwOnKIx71VWfTxknAW-Y?e=dZRjG1)
+## Suivi exercice hivernal
+- Il reste beaucoup d’objets perdus de la fin de semaine. Ils continueront d’être exposés vendredi prochain au corps de cadets et vous pourrez récupérer vos effets. Si vous avez trouvé du matériel qui ne vous appartient pas en dépaquetant, vous pouvez les y apporter aussi.
+- Ceux qui ont manqué l’exercice de la fin de semaine passée mais qui voudraient la reprendre, il y a possibilité pour nous d’inscrire quelques cadets à un exercice hivernal similaire du 20 au 22 février. Écrivez-nous au <2920armee@cadets.gc.ca> d’ici le 18 février si cela vous intéresse pour connaître les détails.
 
 
 ## Hoodie officiel du Corps de cadets 2920
@@ -170,7 +77,7 @@ Un grand merci à l’avance à tous les participants, aux commanditaires, aux d
 
 
 ## Inscription
-À partir du 23 janvier et jusqu’à avis contraire, l’inscription de nouveaux cadets est seulement pour les jeunes ayant 12 ou 13 ans. Nous ne prévoyons pas rouvrir l’inscription générale pour le reste de l’année. SI vous êtes plus âgé, vous pouvez nous revoir en septembre ou visiter le répertoire des unités pour trouver un autre corps de cadets au [app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html](https://app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html).
+À partir du 23 janvier et jusqu’à avis contraire, l’inscription de nouveaux cadets est seulement pour les jeunes ayant 12 ou 13 ans. Nous ne prévoyons pas rouvrir l’inscription générale pour le reste de l’année. Si vous êtes plus âgé, vous pouvez nous revoir en septembre ou visiter le répertoire des unités pour trouver un autre corps de cadets au [app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html](https://app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html).
 
 
 ## Tir
