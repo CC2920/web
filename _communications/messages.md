@@ -4,13 +4,12 @@ layout: "messages"
 ---
 
 
-## Soirée d’instruction 20 février
-
+## Soirée d’instruction 27 février
 - **Qui :** Tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue St-Rosaire, Gatineau
-- **Tenue pour tous :** tenue sport intérieur niveaux vert et rouge, tenue C5 niveau argent
-
+- **Tenue pour tous :**  tenue C1. Les parents sont invités pour 20h pour la parade du commandant qui débutera à 20h15.
+- 
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 
@@ -20,20 +19,6 @@ layout: "messages"
 - **14 mars :** souper spaghetti
 - **3 avril :** soirée optionnelle activité de Pâques
  
-## Suivi exercice hivernal
-- Il reste beaucoup d’objets perdus de la fin de semaine. Ils continueront d’être exposés vendredi prochain au corps de cadets et vous pourrez récupérer vos effets. Si vous avez trouvé du matériel qui ne vous appartient pas en dépaquetant, vous pouvez les y apporter aussi.
-- Ceux qui ont manqué l’exercice de la fin de semaine passée mais qui voudraient la reprendre, il y a possibilité pour nous d’inscrire quelques cadets à un exercice hivernal similaire du 20 au 22 février. Écrivez-nous au <2920armee@cadets.gc.ca> d’ici le 18 février si cela vous intéresse pour connaître les détails.
-
-
-## Hoodie officiel du Corps de cadets 2920
-
-Affichez vos couleurs avec le hoodie officiel du Corps de cadets 2920! Confortable, chaud et idéal pour représenter fièrement notre corps lors des activités et événements.<br /><br />
-Le coût est de 45 $ sans le nom de la cadette ou du cadet, et de 50 $ avec le nom. Le paiement peut être effectué à la cantine ou par virement à <cciv2920@gmail.com> **avant 23 h 59 le 20 février.** <br /><br />
-Cliquez sur le lien ci-dessous pour accéder au formulaire de commande, choisir votre taille et compléter votre inscription.<br />
-Nous vous contacterons dès que les hoodies seront reçus.
-
-👉 [Formulaire de commande](https://forms.gle/M92WiMyAqy8JGTWe7)
-
 
 ## Souper régimentaire (Mess diner)
 - **Qui :** SEULEMENT pour les cadets qui se sont inscrit.
