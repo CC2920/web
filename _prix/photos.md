@@ -201,3 +201,4 @@ title: "Galerie de photos"
 * [Parade de changement de Sergent-Major Régimentaire - novembre 2025](https://photos.app.goo.gl/5oQDEt1nJi7cnh8d7)
 * [Parade du commandant - décembre 2025](https://photos.app.goo.gl/nT86Yr18J16B7Tg79)
 * [Parade du commandant - janvier 2026](https://photos.app.goo.gl/ikUKpVqPxYknXwxG6)
+* [Parade du commandant - février 2026](https://photos.app.goo.gl/QckncFGrGYeL3PDD6)
