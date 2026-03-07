@@ -25,16 +25,7 @@ Dans le but d’amasser des fonds afin de bonifier le programme de base des jeun
 Les profits serviront notamment à soutenir des activités et équipements tels que le souper régimentaire, de l’équipement de biathlon, des instruments de musique, les plaques aux cadets, ainsi que le repas du cérémonial de fin d’année.
 
 ### Billets
-Les billets seront en vente à partir du vendredi 9 janvier 2026.
-
-⚠️ Nombre de places limité et aucune vente à la porte.
-
-- 20$ par adulte
-- 15$ par cadet(te) ou enfant de 12 ans et moins
-
-Les billets peuvent être payés comptant à la cantine au 52, rue St-Rosaire ou par virement électronique à <cciv2920@gmail.com> afin de réserver votre commande.
-
-Merci d’indiquer dans la note du virement le nom du cadet ou de la cadette, ainsi que le nombre de billets à 20$ et à 15$.
+Vente terminée et aucun billet à la porte, sauf ceux à ramasser qui sont déjà payés. Communiquez avec <cciv2920@gmail.com> en cas de questions ou pour donner un item pour la vente aux enchères.
 
 ### Enchères
 Une vente aux enchères aura lieu durant la soirée. Les items d’une valeur de plus de 250$ seront présentés lors de l’enchère à voix haute.
