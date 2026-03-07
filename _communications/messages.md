@@ -59,6 +59,8 @@ Un grand merci à l’avance à tous les participants, aux commanditaires, aux d
   
    **IMPORTANT :** Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte : [sondage](https://forms.gle/WRi3zCFyUW5XnJXx8).
 
+  **Note** : Il est également possible d’apporter des sacs de canettes ou des bouteilles avant et après cette date.
+
 
 ## Inscription
 À partir du 23 janvier et jusqu’à avis contraire, l’inscription de nouveaux cadets est seulement pour les jeunes ayant 12 ou 13 ans. Nous ne prévoyons pas rouvrir l’inscription générale pour le reste de l’année. SI vous êtes plus âgé, vous pouvez nous revoir en septembre ou visiter le répertoire des unités pour trouver un autre corps de cadets au [app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html](https://app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html).
