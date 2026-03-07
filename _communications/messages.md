@@ -57,7 +57,7 @@ Un grand merci à l’avance à tous les participants, aux commanditaires, aux d
 
    Merci d’avance de votre participation. Votre contribution est importante pour nos cadets.
   
-   **IMPORTANT :** Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte : [sondage](https://forms.gle/Yhjfa3S54gJg8n8s8).
+   **IMPORTANT :** Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte : [sondage](https://forms.gle/WRi3zCFyUW5XnJXx8).
 
 
 ## Inscription
