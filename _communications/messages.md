@@ -4,11 +4,11 @@ layout: "messages"
 ---
 
 
-## Semaine du 6 mars
-- Dans le cadre de la semaine relâche, il n’y aura pas de soirée d’instruction le vendredi.
-- La musique du dimanche et le tir du lundi ont encore lieu. Le QM sera aussi ouvert le mercredi.
-- Il n’y aura pas de peloton de précision le mercredi.
-- Pour ceux qui ont reçu leur premier écusson à la dernière parade, le guide des tenues indique où les coudre.
+## Soirée d’instruction 13 mars
+- **Qui :** Tous
+- **Heure :** de 18h30 à 21h15, vendredi soir
+- **Lieu :** 52 rue St-Rosaire, Gatineau
+- **Tenue pour tous :**  tenue C5.
 
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
@@ -16,6 +16,7 @@ layout: "messages"
 ## Activités à venir
 - **14 mars :** souper spaghetti
 - **3 avril :** soirée optionnelle activité de Pâques
+- **11 avril :** Collecte de bouteilles  
 - **25 avril :** Jeux des cadets (compétition sportive inter-unité)
  
 ## Levée de fonds / Souper spaghetti et enchères
@@ -44,6 +45,19 @@ Si vous ou un membre de votre entourage souhaitez offrir un don (ex. certificat-
 Un grand merci à l’avance à tous les participants, aux commanditaires, aux donateurs de prix, aux bénévoles, ainsi qu’à la Légion royale canadienne filiale 58 - Gatineau, qui contribueront à faire de cette soirée un franc succès.
 
 ![Souper spaghetti](/images/SouperSpaghetti.jpg)
+
+
+## Collecte de bouteilles
+- **Qui :** tous les cadets  
+- **Quand :** 11 avril de 9h à 12h30  
+- **Lieu :** 52 rue St-Rosaire, Gatineau  
+- **Informations supplémentaires :** Cette activité du comité de soutien est importante pour amasser des fonds, afin d’offrir des activités divertissantes aux cadets et cadettes. Pour que l’événement soit un succès, nous avons besoin de la présence de nombreux parents/tuteurs, cadets, et cadettes. Cette journée permettra également de tisser des liens avec la communauté.
+
+   Veuillez noter qu’aucun repas ne sera servi après la récolte.
+
+   Merci d’avance de votre participation. Votre contribution est importante pour nos cadets.
+  
+   **IMPORTANT :** Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte : [sondage](https://forms.gle/Yhjfa3S54gJg8n8s8).
 
 
 ## Inscription
