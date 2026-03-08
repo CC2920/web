@@ -8,12 +8,13 @@ layout: "messages"
 - **Qui :** Tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue St-Rosaire, Gatineau
-- **Tenue pour tous :**  tenue C5.
+- **Tenue pour tous :** C5 - Tenue d’entraînement.
 
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 
 ## Activités à venir
+- **9 mars**: Compétition de tir debout (équipes de tir seulement)
 - **14 mars :** Souper spaghetti
 - **15 mars :** Compétition régionale de tir (équipes de tir seulement)
 - **3 avril :** Soirée optionnelle activité de Pâques
@@ -60,13 +61,17 @@ Un grand merci à l’avance à tous les participants, aux commanditaires, aux d
 
 ## Tir
 - **Qui :** les cadets faisant partie de l’équipe de tir seulement
-- **Quand :** les lundis début 18h15, heure de fin selon les cadets présents
+- **Quand :** les lundis début 18h15, heure de fin selon les cadets présents.  
 - **Lieu :** 100 rue de la Baie, Gatineau
-
+- **Informations supplémentaires :**
+  - Exceptionnellement, il y aura aussi du tir pour l’équipe de tir le mercredi 11 mars.
+  - Compétition de tir debout lundi 9 mars.
+  - Compétition régionale de tir le 15 mars.
+  - Ensuite congé de tir jusqu'au 30 mars.
 
 ## Peloton de précision
 - **Qui :** tous les cadets intéressés  
-- **Quand :** les mercredis de 18h30 à 20h30 (annulé le 4 mars)
+- **Quand :** les mercredis de 18h30 à 20h30 (annulé les 11 et 18 mars)
 - **Lieu :** 100 rue de la Baie, Gatineau  
 - **Informations supplémentaires :** Tenue civile avec les bottes de parade si vous l’avez. Apportez une bouteille d’eau et des collations si vous le désirez.
 
@@ -80,7 +85,7 @@ Un grand merci à l’avance à tous les participants, aux commanditaires, aux d
 
 ## Habillement
 - **Qui :** tout cadet qui en a besoin et cadet ayant rendez-vous  
-- **Quand :** les mercredis de 18h00 à 19h00 pour le sans rendez-vous, à votre heure de rendez-vous pour ceux qui ont un rendez-vous, à partir du 14 janvier
+- **Quand :** les mercredis de 18h00 à 19h00 pour le sans rendez-vous, à votre heure de rendez-vous pour ceux qui ont un rendez-vous  (annulé les 11 et 18 mars).
 - **Lieu :** 52 rue St-Rosaire, Gatineau  
 - **Informations supplémentaires :** Le sans rendez-vous est pour les recrues qui n’ont pas été mesurées encore, les anciens ayant des pièces à échanger et les cadets qui quittent doivent aussi rapporter leur uniforme. Les rendez-vous sont pour la distribution de nouvel uniforme pour les recrues.
 
