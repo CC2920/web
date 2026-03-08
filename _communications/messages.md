@@ -14,8 +14,9 @@ layout: "messages"
 
 
 ## Activités à venir
-- **14 mars :** souper spaghetti
-- **3 avril :** soirée optionnelle activité de Pâques
+- **14 mars :** Souper spaghetti
+- **15 mars :** Compétition régionale de tir (équipes de tir seulement)
+- **3 avril :** Soirée optionnelle activité de Pâques
 - **11 avril :** Collecte de bouteilles  
 - **25 avril :** Jeux des cadets (compétition sportive inter-unité)
  
