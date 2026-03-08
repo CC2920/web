@@ -4,18 +4,21 @@ layout: "messages"
 ---
 
 
-## Semaine du 6 mars
-- Dans le cadre de la semaine relâche, il n’y aura pas de soirée d’instruction le vendredi.
-- La musique du dimanche et le tir du lundi ont encore lieu. Le QM sera aussi ouvert le mercredi.
-- Il n’y aura pas de peloton de précision le mercredi.
-- Pour ceux qui ont reçu leur premier écusson à la dernière parade, le guide des tenues indique où les coudre.
+## Soirée d’instruction 13 mars
+- **Qui :** Tous
+- **Heure :** de 18h30 à 21h15, vendredi soir
+- **Lieu :** 52 rue St-Rosaire, Gatineau
+- **Tenue pour tous :** C5 - Tenue d’entraînement.
 
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 
 ## Activités à venir
-- **14 mars :** souper spaghetti
-- **3 avril :** soirée optionnelle activité de Pâques
+- **9 mars**: Compétition de tir debout (équipes de tir seulement)
+- **14 mars :** Souper spaghetti
+- **15 mars :** Compétition régionale de tir (équipes de tir seulement)
+- **3 avril :** Soirée optionnelle activité de Pâques
+- **11 avril :** Collecte de bouteilles  
 - **25 avril :** Jeux des cadets (compétition sportive inter-unité)
  
 ## Levée de fonds / Souper spaghetti et enchères
@@ -24,16 +27,7 @@ Dans le but d’amasser des fonds afin de bonifier le programme de base des jeun
 Les profits serviront notamment à soutenir des activités et équipements tels que le souper régimentaire, de l’équipement de biathlon, des instruments de musique, les plaques aux cadets, ainsi que le repas du cérémonial de fin d’année.
 
 ### Billets
-Les billets seront en vente à partir du vendredi 9 janvier 2026.
-
-⚠️ Nombre de places limité et aucune vente à la porte.
-
-- 20$ par adulte
-- 15$ par cadet(te) ou enfant de 12 ans et moins
-
-Les billets peuvent être payés comptant à la cantine au 52, rue St-Rosaire ou par virement électronique à <cciv2920@gmail.com> afin de réserver votre commande.
-
-Merci d’indiquer dans la note du virement le nom du cadet ou de la cadette, ainsi que le nombre de billets à 20$ et à 15$.
+Vente terminée et aucun billet à la porte, sauf ceux à ramasser qui sont déjà payés. Communiquez avec <cciv2920@gmail.com> en cas de questions ou pour donner un item pour la vente aux enchères.
 
 ### Enchères
 Une vente aux enchères aura lieu durant la soirée. Les items d’une valeur de plus de 250$ seront présentés lors de l’enchère à voix haute.
@@ -46,19 +40,38 @@ Un grand merci à l’avance à tous les participants, aux commanditaires, aux d
 ![Souper spaghetti](/images/SouperSpaghetti.jpg)
 
 
+## Collecte de bouteilles
+- **Qui :** tous les cadets  
+- **Quand :** 11 avril de 9h à 12h30  
+- **Lieu :** 52 rue St-Rosaire, Gatineau  
+- **Informations supplémentaires :** Cette activité du comité de soutien est importante pour amasser des fonds, afin d’offrir des activités divertissantes aux cadets et cadettes. Pour que l’événement soit un succès, nous avons besoin de la présence de nombreux parents/tuteurs, cadets, et cadettes. Cette journée permettra également de tisser des liens avec la communauté.
+
+   Veuillez noter qu’aucun repas ne sera servi après la récolte.
+
+   Merci d’avance de votre participation. Votre contribution est importante pour nos cadets.
+  
+   **IMPORTANT :** Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte : [sondage](https://forms.gle/WRi3zCFyUW5XnJXx8).
+
+  **Note** : Il est également possible d’apporter des sacs de canettes ou des bouteilles avant et après cette date.
+
+
 ## Inscription
 À partir du 23 janvier et jusqu’à avis contraire, l’inscription de nouveaux cadets est seulement pour les jeunes ayant 12 ou 13 ans. Nous ne prévoyons pas rouvrir l’inscription générale pour le reste de l’année. SI vous êtes plus âgé, vous pouvez nous revoir en septembre ou visiter le répertoire des unités pour trouver un autre corps de cadets au [app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html](https://app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html).
 
 
 ## Tir
 - **Qui :** les cadets faisant partie de l’équipe de tir seulement
-- **Quand :** les lundis début 18h15, heure de fin selon les cadets présents
+- **Quand :** les lundis début 18h15, heure de fin selon les cadets présents.  
 - **Lieu :** 100 rue de la Baie, Gatineau
-
+- **Informations supplémentaires :**
+  - Exceptionnellement, il y aura aussi du tir pour l’équipe de tir le mercredi 11 mars.
+  - Compétition de tir debout lundi 9 mars.
+  - Compétition régionale de tir le 15 mars.
+  - Ensuite congé de tir jusqu'au 30 mars.
 
 ## Peloton de précision
 - **Qui :** tous les cadets intéressés  
-- **Quand :** les mercredis de 18h30 à 20h30 (annulé le 4 mars)
+- **Quand :** les mercredis de 18h30 à 20h30 (annulé les 11 et 18 mars)
 - **Lieu :** 100 rue de la Baie, Gatineau  
 - **Informations supplémentaires :** Tenue civile avec les bottes de parade si vous l’avez. Apportez une bouteille d’eau et des collations si vous le désirez.
 
@@ -72,7 +85,7 @@ Un grand merci à l’avance à tous les participants, aux commanditaires, aux d
 
 ## Habillement
 - **Qui :** tout cadet qui en a besoin et cadet ayant rendez-vous  
-- **Quand :** les mercredis de 18h00 à 19h00 pour le sans rendez-vous, à votre heure de rendez-vous pour ceux qui ont un rendez-vous, à partir du 14 janvier
+- **Quand :** les mercredis de 18h00 à 19h00 pour le sans rendez-vous, à votre heure de rendez-vous pour ceux qui ont un rendez-vous  (annulé les 11 et 18 mars).
 - **Lieu :** 52 rue St-Rosaire, Gatineau  
 - **Informations supplémentaires :** Le sans rendez-vous est pour les recrues qui n’ont pas été mesurées encore, les anciens ayant des pièces à échanger et les cadets qui quittent doivent aussi rapporter leur uniforme. Les rendez-vous sont pour la distribution de nouvel uniforme pour les recrues.
 
