@@ -78,10 +78,9 @@ Un grand merci à l’avance à tous les participants, aux commanditaires, aux d
 
 ## Musique
 - **Qui :** tous les cadets intéressés
-- **Quand :** les dimanches de 8h45 à 13h
+- **Quand :** Le 15 mars, il y aura une pratique intensive de 8h45 à 16h00, toujours au Centre communautaire St-Jean-de-Brébeuf. Les cadets doivent apporter leur dîner, des micro-ondes seront disponibles sur place.  
 - **Lieu :** Centre communautaire St-Jean-de-Brébeuf au 70 rue Moreau, Gatineau, jusqu’à nouvel avis
 - **Informations supplémentaires :** Apportez votre instrument si vous l’avez, bouteille d’eau, collation et partitions. Tenue civile.
-  
 
 ## Habillement
 - **Qui :** tout cadet qui en a besoin et cadet ayant rendez-vous  
