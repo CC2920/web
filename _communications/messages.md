@@ -96,7 +96,7 @@ Si vous avez des questions, n'hésitez-pas à nous écrire.
 - **Quand :** les lundis début 18h15, heure de fin selon les cadets présents.  
 - **Lieu :** 100 rue de la Baie, Gatineau
 - **Informations supplémentaires :**
-  - Exceptionnellement, il y aura aussi du tir pour l’équipe de tir le mercredi 11 mars. **Annulé en raison de la météo**
+  - Exceptionnellement, il y aura aussi du tir pour l’équipe de tir le mercredi 11 mars. * **Annulé en raison de la météo**
   - Compétition de tir debout lundi 9 mars.
   - Compétition régionale de tir le 15 mars.
   - Ensuite congé de tir jusqu'au 30 mars.
