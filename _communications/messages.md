@@ -17,6 +17,7 @@ layout: "messages"
 - **9 mars**: Compétition de tir debout (équipes de tir seulement)
 - **14 mars :** Souper spaghetti
 - **15 mars :** Compétition régionale de tir (équipes de tir seulement)
+- **21 mars :** Formation Musicale des Cadets de la Région de l'Est (FMCRE) 
 - **3 avril :** Soirée optionnelle activité de Pâques
 - **11 avril :** Collecte de bouteilles  
 - **25 avril :** Jeux des cadets (compétition sportive inter-unité)
@@ -53,6 +54,37 @@ Un grand merci à l’avance à tous les participants, aux commanditaires, aux d
    **IMPORTANT :** Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte : [sondage](https://forms.gle/WRi3zCFyUW5XnJXx8).
 
   **Note** : Il est également possible d’apporter des sacs de canettes ou des bouteilles avant et après cette date.
+
+
+## Formation Musicale des Cadets de la Région de l'Est (FMCRE) 
+Samedi le 21 mars aura lieu la Formation Musicale des Cadets de la Région de l'Est (FMCRE) communément appelé le Festival de musique ou la Compétition de musique. Contrairement à l'an dernier, nous n'allons pas dormir sur place. Ceci concerne uniquement les cadets musiciens, inscrits à l'activité.
+
+- **Date départ :** Samedi 21 mars
+- **Heure :** 6h30 AM (départ à 7h)
+   - Vous devez déjeuner avant le départ.
+- **Lieu de rassemblement :** Manège militaire de Salaberry (188 boul. Alexandre Taché, Gatineau)
+- **Tenue :** uniforme C3C avec T-shirt violet de la musique, si non reçu, le chandail d’élément. Apportez votre manteau de cadets.
+![uniforme C3C](/images/uniformeC3C.png)
+- **Date de retour :** samedi 21 mars
+- **Heure :** 22h15 PM
+- **Lieu :** Manège militaire de Salaberry
+
+### Liste de matériel
+- Carte d’assurance maladie
+- Instrument de musique ; pour les percussionnistes, à déterminer selon le cas
+- Partitions
+- Médicaments, au besoin
+- Bouteille d’eau réutilisable
+- Livre, jeu de cartes, devoirs ou autre pour occuper votre temps libre
+- Argent de poche si désiré pour la cantine. Le dîner et le souper sont fournis.
+   - Les collations ne sont pas permises, mais une cantine sera disponible sur place.
+
+### Spectateur
+Les spectateurs seront admis au FMCRE, mais ils devront manger à l’extérieur de l’école et ne pourront pas aller dans les salles de classe de l’académie. Ils devront laisser leur voiture dans le stationnement à gauche de la guérite. Ils seront accueillis à la porte principale du site et ils devront se présenter à la table d’accueil pour s’enregistrer et obtenir un laissez-passer de visiteur.
+- Notre prestation est prévue à 15h35 le samedi 21 mars.
+- Lieu : Auditorium de la Garnison St-Jean - Académie, 25 Grand-Bernier, Saint-Jean-sur-Richelieu, J0L 1R0
+
+Si vous avez des questions, n'hésitez-pas à nous écrire. 
 
 
 ## Inscription
