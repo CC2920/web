@@ -63,7 +63,7 @@ Samedi le 21 mars aura lieu la Formation Musicale des Cadets de la Région de l'
 - **Heure :** 6h30 AM (départ à 7h)
    - Vous devez déjeuner avant le départ.
 - **Lieu de rassemblement :** Manège militaire de Salaberry (188 boul. Alexandre Taché, Gatineau)
-- **Tenue :** uniforme C3C avec T-shirt violet de la musique, si non reçu, le chandail d’élément. Apportez votre manteau de cadets.
+- **Tenue :** uniforme C3C avec **T-shirt violet de la musique**, si non reçu, le chandail d’élément. Apportez votre manteau de cadets.
 ![uniforme C3C](/images/uniformeC3C.png)
 - **Date de retour :** samedi 21 mars
 - **Heure :** 22h15 PM
@@ -71,7 +71,7 @@ Samedi le 21 mars aura lieu la Formation Musicale des Cadets de la Région de l'
 
 ### Liste de matériel
 - Carte d’assurance maladie
-- Instrument de musique ; pour les percussionnistes, à déterminer selon le cas
+- **Instrument de musique** ; pour les percussionnistes, à déterminer selon le cas
 - Partitions
 - Médicaments, au besoin
 - Bouteille d’eau réutilisable
@@ -81,8 +81,8 @@ Samedi le 21 mars aura lieu la Formation Musicale des Cadets de la Région de l'
 
 ### Spectateur
 Les spectateurs seront admis au FMCRE, mais ils devront manger à l’extérieur de l’école et ne pourront pas aller dans les salles de classe de l’académie. Ils devront laisser leur voiture dans le stationnement à gauche de la guérite. Ils seront accueillis à la porte principale du site et ils devront se présenter à la table d’accueil pour s’enregistrer et obtenir un laissez-passer de visiteur.
-- Notre prestation est prévue à 15h35 le samedi 21 mars.
-- Lieu : Auditorium de la Garnison St-Jean - Académie, 25 Grand-Bernier, Saint-Jean-sur-Richelieu, J0L 1R0
+- Notre prestation est prévue à **15h35 le samedi 21 mars**.
+- **Lieu :** Auditorium de la Garnison St-Jean - Académie, 25 Grand-Bernier, Saint-Jean-sur-Richelieu, J0L 1R0
 
 Si vous avez des questions, n'hésitez-pas à nous écrire. 
 
@@ -96,7 +96,7 @@ Si vous avez des questions, n'hésitez-pas à nous écrire.
 - **Quand :** les lundis début 18h15, heure de fin selon les cadets présents.  
 - **Lieu :** 100 rue de la Baie, Gatineau
 - **Informations supplémentaires :**
-  - Exceptionnellement, il y aura aussi du tir pour l’équipe de tir le mercredi 11 mars.
+  - Exceptionnellement, il y aura aussi du tir pour l’équipe de tir le mercredi 11 mars. * **Annulé en raison de la météo**
   - Compétition de tir debout lundi 9 mars.
   - Compétition régionale de tir le 15 mars.
   - Ensuite congé de tir jusqu'au 30 mars.
