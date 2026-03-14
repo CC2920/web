@@ -8,7 +8,9 @@ layout: "messages"
 - **Qui :** Tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue St-Rosaire, Gatineau
-- **Tenue pour tous :** tenue sport d’intérieur.
+- **Tenue pour tous :**
+  - niveau vert, rouge et or: tenue sport intérieur
+  - niveau argent C5: tenue d'entraînement
 
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
