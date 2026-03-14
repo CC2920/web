@@ -17,7 +17,7 @@ layout: "messages"
 - **21 mars :** Formation Musicale des Cadets de la Région de l'Est (FMCRE) 
 - **3 avril :** Soirée optionnelle activité de Pâques
 - **11 avril :** Collecte de bouteilles  
-- **25 avril :** Jeux des cadets (compétition sportive inter-unité)
+- **25 avril :** Jeux des cadets
 - **15 mai :** Congé journée des Patriotes
 - **30 mai :** Cérémonial
 
