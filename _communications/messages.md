@@ -30,7 +30,7 @@ Samedi le 21 mars aura lieu la Formation Musicale des Cadets de la Région de l'
 - **Date départ :** Samedi 21 mars
 - **Heure :** 6h30 AM (départ à 7h)
    - Vous devez déjeuner avant le départ.
-- **Lieu de rassemblement :** Manège militaire de Salaberry (188 boul. Alexandre Taché, Gatineau)
+- **Lieu de rassemblement :** Manège militaire de Salaberry (188 boul. Alexandre Taché, Gatineau) 
 - **Tenue :** uniforme C3 avec rubans ; chemise, cravate, vareuse, ceinture, pantalons de parade, bottes, couvre-chef. Apportez votre manteau de cadets.
 ![uniforme C3C](/images/uniformeC3C.png)
 - **Date de retour :** samedi 21 mars
