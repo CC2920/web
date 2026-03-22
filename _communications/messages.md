@@ -4,55 +4,21 @@ layout: "messages"
 ---
 
 
-## Soirée d’instruction 20 mars
+## Soirée d’instruction 27 mars
 - **Qui :** Tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue St-Rosaire, Gatineau
-- **Tenue pour tous :**
-  - niveau vert, rouge et or: tenue sport intérieur
-  - niveau argent C5: tenue d'entraînement
+- **Tenue pour tous :** C1 – tenue de parade. Les parents sont invités pour 20h pour la parade du commandant qui débutera à 20h15.
 
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 
 ## Activités à venir
-- **21 mars :** Formation Musicale des Cadets de la Région de l'Est (FMCRE) 
 - **3 avril :** Soirée optionnelle activité de Pâques
 - **11 avril :** Collecte de bouteilles  
 - **25 avril :** Jeux des cadets
 - **15 mai :** Congé journée des Patriotes
 - **30 mai :** Cérémonial
-
-
-## Formation Musicale des Cadets de la Région de l'Est (FMCRE) 
-Samedi le 21 mars aura lieu la Formation Musicale des Cadets de la Région de l'Est (FMCRE) communément appelé le Festival de musique ou la Compétition de musique. Contrairement à l'an dernier, nous n'allons pas dormir sur place. Ceci concerne uniquement les cadets musiciens, inscrits à l'activité.
-
-- **Date départ :** Samedi 21 mars
-- **Heure :** 6h30 AM (départ à 7h)
-   - Vous devez déjeuner avant le départ.
-- **Lieu de rassemblement :** Manège militaire de Salaberry (188 boul. Alexandre Taché, Gatineau) 
-- **Tenue :** uniforme C3 avec rubans ; chemise, cravate, vareuse, ceinture, pantalons de parade, bottes, couvre-chef. Apportez votre manteau de cadets.
-![uniforme C3C](/images/uniformeC3C.png)
-- **Date de retour :** samedi 21 mars
-- **Heure :** 22h15 PM
-- **Lieu :** Manège militaire de Salaberry
-
-### Liste de matériel
-- Carte d’assurance maladie
-- **Instrument de musique** ; pour les percussionnistes, à déterminer selon le cas
-- Partitions
-- Médicaments, au besoin
-- Bouteille d’eau réutilisable
-- Livre, jeu de cartes, devoirs ou autre pour occuper votre temps libre
-- Argent de poche si désiré pour la cantine. Le dîner et le souper sont fournis.
-   - Les collations ne sont pas permises, mais une cantine sera disponible sur place.
-
-### Spectateur
-Les spectateurs seront admis au FMCRE, mais ils devront manger à l’extérieur de l’école et ne pourront pas aller dans les salles de classe de l’académie. Ils devront laisser leur voiture dans le stationnement à gauche de la guérite. Ils seront accueillis à la porte principale du site et ils devront se présenter à la table d’accueil pour s’enregistrer et obtenir un laissez-passer de visiteur.
-- Notre prestation est prévue à **15h35 le samedi 21 mars**.
-- **Lieu :** Auditorium de la Garnison St-Jean - Académie, 25 Grand-Bernier, Saint-Jean-sur-Richelieu, J0L 1R0
-
-Si vous avez des questions, n'hésitez-pas à nous écrire. 
 
 
 ## Collecte de bouteilles
@@ -76,12 +42,18 @@ Si vous avez des questions, n'hésitez-pas à nous écrire.
 - Les critères pour la médaille d’excellence de la Légion royale canadienne se trouvent sur <https://www.canada.ca/fr/ministere-defense-nationale/services/cadets-rangers-juniors-canadiens/politique-crjc/oaic/volume1/serie-13/13-16/13-16-e.html>. Il n’y a pas d’ancienneté minimale pour postuler mais elle est généralement remise à des cadets de niveau argent et plus. Pour les 3 activités communautaires à l’extérieur du corps de cadets, vous devez remettre avec votre lettre les coordonnées de superviseurs ou supérieurs qui peuvent attester de votre participation à chaque activité.
 
 
+## Jeux des cadets
+- **Qui :** les cadets inscrits seulement
+- **Quand :** samedi le 25 avril, heures à confirmer
+- **Lieu :** 580 rue Maclaren Est, avec transport en autobus à partir du 52 rue St-Rosaire
+- **Informations supplémentaires :** Il s’agit d’une compétition sportive réunissant les unités de l’Outaouais. Les sports seront le ballon-chasseur junior, ballon-chasseur senior, volleyball, basketball, kinball et Amazing race. L’inscription se fera en personne durant les soirées d’entraînement et une sélection pourrait avoir lieu s’il y a plus d’inscrits que de place disponible pour chaque activité.
+
 ## Inscription
 À partir du 23 janvier et jusqu’à avis contraire, l’inscription de nouveaux cadets est seulement pour les jeunes ayant 12 ou 13 ans. Nous ne prévoyons pas rouvrir l’inscription générale pour le reste de l’année. SI vous êtes plus âgé, vous pouvez nous revoir en septembre ou visiter le répertoire des unités pour trouver un autre corps de cadets au [app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html](https://app.cadets.gc.ca/directory-repertoirev3/fr/repertoire-cadets.html).
 
 
 ## Tir
-- **Qui :** Pas de tir les 16 et 23 mars. Tout cadet ayant déjà tiré les 30 mars et 6 avril. Toutes les recrues qui n’ont jamais tiré le 13 avril. Puis ouvert à tous.
+- **Qui :** Pas de tir le 23 mars. Tout cadet ayant déjà tiré. les 30 mars et 6 avril. Toutes les recrues qui n’ont jamais tiré, le 13 avril. Puis ouvert à tous.
 - **Quand :** les lundis début 18h15, heure de fin selon les cadets présents.  
 - **Lieu :** 100 rue de la Baie, Gatineau
 
@@ -95,7 +67,7 @@ Si vous avez des questions, n'hésitez-pas à nous écrire.
 
 ## Musique
 - **Qui :** tous les cadets intéressés
-- **Quand :** les dimanches de 8h45 à 13h. Pas de musique le 22 mars.
+- **Quand :** les dimanches de 8h45 à 13h. 
 - **Lieu :** Centre communautaire St-Jean-de-Brébeuf au 70 rue Moreau, Gatineau, jusqu’à nouvel avis
 - **Informations supplémentaires :** Apportez votre instrument si vous l’avez, bouteille d’eau, collation et partitions. Tenue civile.
 
