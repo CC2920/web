@@ -13,6 +13,4 @@ Le capitaine Chantale Perreault débute sa carrière en 1999 en tant qu'instruct
 
 Entre temps, elle fait partie de l'équipe d'entraîneurs du peloton de précision. Pendant la saison estivale, le capitaine Perreault occupe les postes d'acheteur et de régisseur au Centre d'instruction d'été des cadets de l'armée de Cap-Chat, puis celui d'officier des fonds non-publics et officier des fonds publics à Valcartier. À l'été 2009, elle a occupé le poste d'officier de finance et alimentation au Centre de coordination des déplacements des cadets à Montréal.
 
-Le capitaine Chantale Perreault détient un baccalauréat en sciences commerciales avec une spécialisation en comptabilité et a obtenu sa licence de CGA en août 2009. Elle travaille en tant qu'agent de gestion financière au sein du CSSS de Gatineau.
-
-Dans ses temps libres, le capitaine Chantale Perreault aime marcher, faire du vélo, lire et écouter de la musique.
+Le capitaine Chantale Perreault détient un baccalauréat en sciences commerciales avec une spécialisation en comptabilité.  Elle est membre de l'Ordre des CPA (CGA) depuis 2009.  Établie en Mauricie depuis 2012, elle a occupé la fonction de commandant au Corps de cadets 2931 Richelieu‑Louiseville de 2017 à 2020. Elle occupe actuellement le poste de spécialiste en procédés administratifs au sein du CIUSSS MCQ.
