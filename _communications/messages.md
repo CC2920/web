@@ -68,7 +68,7 @@ layout: "messages"
 ## Musique
 - **Qui :** tous les cadets intéressés
 - **Quand :** les dimanches de 8h45 à 13h. 
-- **Lieu :** Centre communautaire St-Jean-de-Brébeuf au 70 rue Moreau, Gatineau, jusqu’à nouvel avis
+- **Lieu :** Manège Militaire au 188 Boul. Alexandre-Taché, Gatineau, J8Y 3V7
 - **Informations supplémentaires :** Apportez votre instrument si vous l’avez, bouteille d’eau, collation et partitions. Tenue civile.
 
 
