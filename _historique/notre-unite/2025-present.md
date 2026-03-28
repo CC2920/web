@@ -12,3 +12,4 @@ title: "2025 à aujourd'hui Capitaine de corvette Marylène Gaudet"
 * [Parade du commandant - janvier 2026](https://photos.app.goo.gl/ikUKpVqPxYknXwxG6)
 * [Parade du commandant - février 2026](https://photos.app.goo.gl/QckncFGrGYeL3PDD6)
 * [Souper régimentaire](https://photos.app.goo.gl/5F5sxBgVrbM2tZSe7)
+* [Photos de la parade du commandant du 27 mars 2026](https://photos.app.goo.gl/th8ySTeEE1w4DDR86)
