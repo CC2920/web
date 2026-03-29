@@ -61,7 +61,7 @@ layout: "messages"
 
 
 ## Musique
-- **Qui :** tous les cadets intéressés
+- **Qui :** les cadets musiciens
 - **Quand :** les dimanches de 8h45 à 13h.  **Pas de pratique pour Pâques.**
 - **Lieu :** Centre communautaire St-Jean de Brébeuf au 70 rue Moreau, Gatineau
 - **Informations supplémentaires :** Apportez votre instrument si vous l’avez, bouteille d’eau, collation et partitions. Tenue civile.
