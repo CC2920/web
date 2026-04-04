@@ -4,12 +4,12 @@ layout: "messages"
 ---
 
 
-## Soirée d’instruction 3 avril
-- Nous tiendrons un parcours de style chasse aux œufs dans le parc de la Baie, mélangeant orientation et divers défis en cours de route.
-- **Qui :** soirée optionnelle. Tous les cadets sont invités, mais la présence n’est pas obligatoire vu le congé de Pâques.
+## Soirée d’instruction 10 avril
+- **Qui :** tous les cadets
 - **Heure :** de 18h30 à 21h15, vendredi soir
-- **Lieu :** **100 rue de la Baie, Gatineau**
-- **Matériel :** tenue civile pour passer la soirée à l’extérieur, incluant des bottes d’hiver vu qu’il risque de rester de la neige à certains endroits du parc. Apportez aussi une lampe frontale ou lampe de poche, et une bouteille d’eau.
+- **Lieu :** 52 rue Saint-Rosaire, Gatineau
+- **Matériel :** tenue sport pour intérieur et extérieur, bouteille d’eau
+- Ce sera l’Évaluation de la condition physique des cadets. Ceux qui voudraient avoir plus de détails sur l’ECPC, vous pouvez en trouver là : [Évaluation de la condition physique des cadets (ECPC) - Aide à l’emploi](https://www.cc2920.ca/docs/ressources/FR_250625_%C3%89valuation%20de%20la%20condition%20physique%20des%20cadets_Aide%20%C3%A0%20l'emploi.pdf)
 
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
@@ -18,7 +18,9 @@ layout: "messages"
 - **11 avril :** Collecte de bouteilles  
 - **25 avril :** Jeux des cadets
 - **15 mai :** Congé journée des Patriotes
+- **23 mai :** Gala
 - **30 mai :** Cérémonial
+- **6 juin :** Sortie de fin d’année
 
 
 ## Collecte de bouteilles
@@ -48,7 +50,7 @@ layout: "messages"
 
 
 ## Tir
-- **Qui :** Pour le 30 mars et le 6 avril, tout cadet ayant déjà tiré. Pour le 13 avril, toutes les recrues qui n’ont jamais tiré. Puis ouvert à tous.
+- **Qui :** pas de tir le 6 avril. Le 13 avril, il y aura les cours de tir de base pour toutes les recrues qui n’ont jamais tiré. Puis ouvert à tous. Toutes les recrues doivent avoir participé à une séance de tir pour passer leur niveau.
 - **Quand :** les lundis début 18h15, heure de fin selon les cadets présents.  
 - **Lieu :** 100 rue de la Baie, Gatineau
 
@@ -62,7 +64,7 @@ layout: "messages"
 
 ## Musique
 - **Qui :** les cadets musiciens
-- **Quand :** les dimanches de 8h45 à 13h.  **Pas de pratique pour Pâques.**
+- **Quand :** les dimanches de 8h45 à 13h. 
 - **Lieu :** Centre communautaire St-Jean de Brébeuf au 70 rue Moreau, Gatineau
 - **Informations supplémentaires :** Apportez votre instrument si vous l’avez, bouteille d’eau, collation et partitions. Tenue civile.
 
