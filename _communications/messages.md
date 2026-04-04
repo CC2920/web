@@ -4,7 +4,7 @@ layout: "messages"
 ---
 
 
-## Soirée d’instruction 10 avril
+## Soirée d’instruction 10 avril 
 - **Qui :** tous les cadets
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue Saint-Rosaire, Gatineau
