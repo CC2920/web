@@ -36,6 +36,7 @@ layout: "messages"
    **IMPORTANT :** Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte : [sondage](https://forms.gle/WRi3zCFyUW5XnJXx8).
 
   **Note** : Il est également possible d’apporter des sacs de canettes ou des bouteilles avant et après cette date.
+  **Note**: Les cadets doivent s’habiller en combat C5.
 
 
 ## Jeux des cadets
