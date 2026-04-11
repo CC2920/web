@@ -18,6 +18,7 @@ layout: "messages"
 - **11 avril :** Collecte de bouteilles  
 - **25 avril :** Jeux des cadets
 - **15 mai :** Congé journée des Patriotes
+- **16 mai :** Activité de rappel
 - **23 mai :** Gala (et photos officielles)
 - **30 mai :** Cérémonial
 - **6 juin :** Sortie de fin d’année
