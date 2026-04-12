@@ -4,47 +4,45 @@ layout: "messages"
 ---
 
 
-## Soirée d’instruction 10 avril 
+## Soirée d’instruction 17 avril 
 - **Qui :** tous les cadets
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue Saint-Rosaire, Gatineau
-- **Matériel :** tenue sport pour intérieur et extérieur, bouteille d’eau
-- Ce sera l’Évaluation de la condition physique des cadets. Ceux qui voudraient avoir plus de détails sur l’ECPC, vous pouvez en trouver là : [Évaluation de la condition physique des cadets (ECPC) - Aide à l’emploi](https://www.cc2920.ca/docs/ressources/FR_250625_%C3%89valuation%20de%20la%20condition%20physique%20des%20cadets_Aide%20%C3%A0%20l'emploi.pdf)
+- **Tenue pour tous :** C5 - tenue d’entraînement
 
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 
 ## Activités à venir
-- **11 avril :** Collecte de bouteilles  
 - **25 avril :** Jeux des cadets
-- **15 mai :** Congé journée des Patriotes
-- **16 mai :** Activité de rappel
+- **15 mai :** Il y aura une soirée d’instruction (changement)
+- **16 mai :** Descente en rappel
 - **23 mai :** Gala (et photos officielles)
 - **30 mai :** Cérémonial
 - **6 juin :** Sortie de fin d’année
 
 
-## Collecte de bouteilles
-- **Qui :** tous les cadets  
-- **Quand :** 11 avril de 9h à 12h30  
-- **Lieu :** 52 rue St-Rosaire, Gatineau  
-- **Informations supplémentaires :** Cette activité du comité de soutien est importante pour amasser des fonds, afin d’offrir des activités divertissantes aux cadets et cadettes. Pour que l’événement soit un succès, nous avons besoin de la présence de nombreux parents/tuteurs, cadets, et cadettes. Cette journée permettra également de tisser des liens avec la communauté.
+## Compétition d’exercice militaire
+- **Qui :** les cadets du peloton de précision, et tout cadet voulant encourager notre équipe
+- **Quand :** 18 avril de 7h40 à 10h
+- **Lieu :** 188 Alexandre-Taché, Gatineau
+- **Tenue :** C3
+- Les cadets qui ne sont pas dans le peloton de précision, parents et amis sont invités à assister à la prestation de notre unité qui est prévue de 9h à 9h20.
 
-   Veuillez noter qu’aucun repas ne sera servi après la récolte.
-
-   Merci d’avance de votre participation. Votre contribution est importante pour nos cadets.
   
-   **IMPORTANT :** Veuillez svp compléter le sondage afin de nous aider à bien planifier la collecte : [sondage](https://forms.gle/WRi3zCFyUW5XnJXx8).
-
-  **Note** : Il est également possible d’apporter des sacs de canettes ou des bouteilles avant et après cette date.
-  **Note**: Les cadets doivent s’habiller en combat C5.
-
-
 ## Jeux des cadets
-- **Qui :** les cadets inscrits seulement
+- **Qui :** ouvert à tous, par inscription
 - **Quand :** samedi le 25 avril de 7h15 à 17h30
-- **Lieu :** autobus au 52 rue St-Rosaire aux heures ci-dessus. L’activité sera au 580 rue Maclaren Est, Buckingham
+- **Lieu :** autobus au 52 rue St-Rosaire. L’activité sera au 580 rue Maclaren Est, Buckingham
 - **Informations supplémentaires :** Il s’agit d’une compétition sportive réunissant les unités de l’Outaouais. Les sports seront le ballon-chasseur junior, ballon-chasseur senior, volleyball, basketball, kinball et Amazing race. L’inscription se fera en personne durant les soirées d’entraînement et une sélection pourrait avoir lieu s’il y a plus d’inscrits que de place disponible pour chaque activité.
+
+
+## Descente en rappel
+- **Qui :** ouvert à tous, par inscription
+- **Quand :** 16 mai en après-midi, heures de l’autobus à confirmer
+- **Lieu :** autobus au 52 rue St-Rosaire. L’activité sera au centre d’entraînement de Connaught, 35 Shirley, Ottawa
+- **Tenue :** C5
+- Nous avons 45 places. Une inscription aura lieu en personne durant les soirées d’entraînement et une sélection pourrait être effectuée s’il y a plus d’inscrits que de places disponibles.
 
 
 ## Inscription
@@ -52,8 +50,8 @@ layout: "messages"
 
 
 ## Tir
-- **Qui :** pas de tir le 6 avril. Le 13 avril, il y aura les cours de tir de base pour toutes les recrues qui n’ont jamais tiré. Puis ouvert à tous. Toutes les recrues doivent avoir participé à une séance de tir pour passer leur niveau.
-- **Quand :** les lundis début 18h15, heure de fin selon les cadets présents.  
+- **Qui :** Le lundi 13 avril, il y aura une séance de tir de base pour toutes les recrues qui n’ont jamais tiré. Toutes les recrues doivent avoir participé à au moins une séance de tir afin de pouvoir passer leur niveau. L’équipe de compétition de tir doit également être présente.
+- **Quand :** Lundi 13 avril, de **18 h à 21 h**
 - **Lieu :** 100 rue de la Baie, Gatineau
 
 
@@ -65,7 +63,7 @@ layout: "messages"
 
 
 ## Musique
-- **Qui :** les cadets musiciens
+- **Qui :** tous les cadets intéressés
 - **Quand :** les dimanches de 8h45 à 13h. 
 - **Lieu :** Centre communautaire St-Jean de Brébeuf au 70 rue Moreau, Gatineau
 - **Informations supplémentaires :** Apportez votre instrument si vous l’avez, bouteille d’eau, collation et partitions. Tenue civile.
