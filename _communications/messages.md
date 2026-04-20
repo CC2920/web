@@ -15,6 +15,7 @@ layout: "messages"
 
 ## Activités à venir
 - **25 avril :** Jeux des cadets
+- **2 mai :** Concert de musique
 - **15 mai :** Il y aura une soirée d’instruction (changement)
 - **16 mai :** Descente en rappel
 - **23 mai :** Gala (et photos officielles)
@@ -27,6 +28,14 @@ layout: "messages"
 - **Quand :** samedi le 25 avril de 7h15 à 17h30
 - **Lieu :** autobus au 52 rue St-Rosaire. L’activité sera au 580 rue Maclaren Est, Buckingham
 - **Informations supplémentaires :** Il s’agit d’une compétition sportive réunissant les unités de l’Outaouais. Les sports seront le ballon-chasseur junior, ballon-chasseur senior, volleyball, basketball, kinball et Amazing race. L’inscription se fera en personne durant les soirées d’entraînement et une sélection pourrait avoir lieu s’il y a plus d’inscrits que de place disponible pour chaque activité.
+
+
+## Concert de musique
+- **Qui :** Cadets musiciens et invités (voir note)
+- **Quand :** Samedi le 2 mai de 18h30 - 20h30
+- **Lieu :** Monastère d'Aylmer au 161 rue Principale, Gatineau, J9H 3M9
+- **Tenue :** C1, uniforme de parade avec cravate et médailles
+- **Informations supplémentaires :** Arrivez pour 19h. L'entrée pour les cadets et le personnel cadet est gratuite. Pour les invités externes (parents, amis), l'entrée sera 5$. La tenue pour les spectateurs est civile propre.
 
 
 ## Descente en rappel
@@ -55,10 +64,10 @@ layout: "messages"
 
 
 ## Musique
-- **Qui :** tous les cadets intéressés
+- **Qui :** les cadets intéressés
 - **Quand :** les dimanches de 8h45 à 13h. 
 - **Lieu :** Centre communautaire St-Jean de Brébeuf au 70 rue Moreau, Gatineau
-- **Informations supplémentaires :** Apportez votre instrument si vous l’avez, bouteille d’eau, collation et partitions. Tenue civile.
+- **Informations supplémentaires :** Apportez votre instrument, bouteille d’eau, collation et partitions. Tenue civile.
 
 
 ## Habillement
