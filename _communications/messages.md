@@ -40,7 +40,7 @@ layout: "messages"
 
 ## Descente en rappel
 - **Qui :** ouvert à tous, par inscription
-- **Quand :** 16 mai en après-midi, heures de l’autobus à confirmer
+- **Quand :** 16 mai de 12h à 17h30
 - **Lieu :** autobus au 52 rue St-Rosaire. L’activité sera au centre d’entraînement de Connaught, 35 Shirley, Ottawa
 - **Tenue :** C5 ou civil
 - Nous avons 45 places. L’inscription a lieu en personne durant les soirées d’entraînement et une sélection pourrait avoir lieu s’il y a plus d’inscrits que de places disponibles. Voici la liste des cadets ayant donné leur nom : [Rappel.docx](https://1drv.ms/w/c/eec907a8a97cc844/IQB2ks8SKhAlT70tfENmrWFgAdlhvjX0ckIymtS2v90w1E0?e=Di9P71)
