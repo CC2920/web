@@ -4,11 +4,11 @@ layout: "messages"
 ---
 
 
-## Soirée d’instruction 17 avril 
+## Soirée d’instruction 24 avril 
 - **Qui :** tous les cadets
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue Saint-Rosaire, Gatineau
-- **Tenue pour tous :** C5 - tenue d’entraînement
+- **Tenue pour tous :** tenue sportive pour l’intérieur et l’extérieur, selon la météo
 
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
@@ -22,14 +22,6 @@ layout: "messages"
 - **6 juin :** Sortie de fin d’année
 
 
-## Compétition d’exercice militaire
-- **Qui :** les cadets du peloton de précision, et tout cadet voulant encourager notre équipe
-- **Quand :** 18 avril de 7h40 à 10h
-- **Lieu :** 188 Alexandre-Taché, Gatineau
-- **Tenue :** C3
-- Les cadets qui ne sont pas dans le peloton de précision, parents et amis sont invités à assister à la prestation de notre unité qui est prévue de 9h à 9h20.
-
-  
 ## Jeux des cadets
 - **Qui :** ouvert à tous, par inscription
 - **Quand :** samedi le 25 avril de 7h15 à 17h30
@@ -41,8 +33,8 @@ layout: "messages"
 - **Qui :** ouvert à tous, par inscription
 - **Quand :** 16 mai en après-midi, heures de l’autobus à confirmer
 - **Lieu :** autobus au 52 rue St-Rosaire. L’activité sera au centre d’entraînement de Connaught, 35 Shirley, Ottawa
-- **Tenue :** C5
-- Nous avons 45 places. Une inscription aura lieu en personne durant les soirées d’entraînement et une sélection pourrait être effectuée s’il y a plus d’inscrits que de places disponibles.
+- **Tenue :** C5 ou civil
+- Nous avons 45 places. L’inscription a lieu en personne durant les soirées d’entraînement et une sélection pourrait avoir lieu s’il y a plus d’inscrits que de places disponibles. Voici la liste des cadets ayant donné leur nom : [Rappel.docx](https://1drv.ms/w/c/eec907a8a97cc844/IQB2ks8SKhAlT70tfENmrWFgAdlhvjX0ckIymtS2v90w1E0?e=Di9P71)
 
 
 ## Inscription
@@ -50,8 +42,8 @@ layout: "messages"
 
 
 ## Tir
-- **Qui :** Le lundi 13 avril, il y aura une séance de tir de base pour toutes les recrues qui n’ont jamais tiré. Toutes les recrues doivent avoir participé à au moins une séance de tir afin de pouvoir passer leur niveau. L’équipe de compétition de tir doit également être présente.
-- **Quand :** Lundi 13 avril, de **18 h à 21 h**
+- **Qui :** Le lundi 20 avril, il y aura une séance de tir de base pour toutes les recrues qui n’ont jamais tiré. Toutes les recrues doivent avoir participé à au moins une séance de tir afin de pouvoir passer leur niveau. L’équipe de compétition de tir doit également être présente.
+- **Quand :** Lundi 20 avril, de **18 h à 21 h**
 - **Lieu :** 100 rue de la Baie, Gatineau
 
 
