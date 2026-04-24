@@ -66,7 +66,8 @@ layout: "messages"
 ## Musique
 - **Qui :** les cadets intéressés
 - **Quand :** les dimanches de 8h45 à 13h. 
-- **Lieu :** Centre communautaire St-Jean de Brébeuf au 70 rue Moreau, Gatineau
+- **Lieu :** Manège Militaire de Hull 188 boul. Alexandre-Taché
+
 - **Informations supplémentaires :** Apportez votre instrument, bouteille d’eau, collation et partitions. Tenue civile.
 
 
