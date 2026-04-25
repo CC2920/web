@@ -38,11 +38,11 @@ layout: "messages"
 
 
 ## Gala
-- Le gala est une soirée officielle et festive où de nombreux prix (incluant les étoiles de niveau) seront remis. Ce sera aussi l’occasion des photos officielles. Tous les cadets y sont attendus. Les heures et le lieu sont à confirmer, mais ce sera en soirée à Gatineau.
+Le gala est une soirée officielle et festive où de nombreux prix (incluant les étoiles de niveau) seront remis. Ce sera aussi l’occasion des photos officielles. Tous les cadets y sont attendus. Les heures et le lieu sont à confirmer, mais ce sera en soirée à Gatineau.
 
 
 ## Sortie de fin d’année
-- La sortie de fin d’année est une activité optionnelle pour récompenser les cadets pour leurs efforts durant l’année. L’activité sera à Arbraska Laflèche et deux activités seront proposées : exploration de caverne et arbre en arbre. Plus d’information à venir, et une inscription sera effectuée.
+La sortie de fin d’année est une activité optionnelle pour récompenser les cadets pour leurs efforts durant l’année. L’activité sera à Arbraska Laflèche et deux activités seront proposées : exploration de caverne et arbre en arbre. Plus d’information à venir, et une inscription sera effectuée.
 
 
 ## Inscription
