@@ -4,30 +4,21 @@ layout: "messages"
 ---
 
 
-## Soirée d’instruction 24 avril 
+## Soirée d’instruction 1er mai 
 - **Qui :** tous les cadets
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue Saint-Rosaire, Gatineau
-- **Tenue pour tous :** tenue sportive pour l’intérieur et l’extérieur, selon la météo
-
+- **Tenue pour tous :** C1 – tenue de parade. Les parents sont invités pour 20h pour la parade du commandant qui débutera à 20h15.
+  
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 
 ## Activités à venir
-- **25 avril :** Jeux des cadets
 - **2 mai :** Concert de musique
-- **15 mai :** Il y aura une soirée d’instruction (changement)
 - **16 mai :** Descente en rappel
 - **23 mai :** Gala (et photos officielles)
 - **30 mai :** Cérémonial
 - **6 juin :** Sortie de fin d’année
-
-
-## Jeux des cadets
-- **Qui :** ouvert à tous, par inscription
-- **Quand :** samedi le 25 avril de 7h15 à 17h30
-- **Lieu :** autobus au 52 rue St-Rosaire. L’activité sera au 580 rue Maclaren Est, Buckingham
-- **Informations supplémentaires :** Il s’agit d’une compétition sportive réunissant les unités de l’Outaouais. Les sports seront le ballon-chasseur junior, ballon-chasseur senior, volleyball, basketball, kinball et Amazing race. L’inscription se fera en personne durant les soirées d’entraînement et une sélection pourrait avoir lieu s’il y a plus d’inscrits que de place disponible pour chaque activité.
 
 
 ## Concert de musique
@@ -43,7 +34,15 @@ layout: "messages"
 - **Quand :** 16 mai de 12h à 17h30
 - **Lieu :** autobus au 52 rue St-Rosaire. L’activité sera au centre d’entraînement de Connaught, 35 Shirley, Ottawa
 - **Tenue :** C5 ou civil
-- Nous avons 45 places. L’inscription a lieu en personne durant les soirées d’entraînement et une sélection pourrait avoir lieu s’il y a plus d’inscrits que de places disponibles. Voici la liste des cadets ayant donné leur nom : [Rappel.docx](https://1drv.ms/w/c/eec907a8a97cc844/IQB2ks8SKhAlT70tfENmrWFgAdlhvjX0ckIymtS2v90w1E0?e=Di9P71)
+- Nous avons 45 places. Vous pouvez vous inscrire en personne les vendredi soirs ou écrire à <2920armee@cadets.gc.ca>. Une sélection pourrait avoir lieu s’il y a plus d’inscrits que de places disponibles. Voici la liste des cadets ayant donné leur nom : [Rappel.docx](https://1drv.ms/w/c/eec907a8a97cc844/IQB2ks8SKhAlT70tfENmrWFgAdlhvjX0ckIymtS2v90w1E0?e=Di9P71)
+
+
+## Gala
+- Le gala est une soirée officielle et festive où de nombreux prix (incluant les étoiles de niveau) seront remis. Ce sera aussi l’occasion des photos officielles. Tous les cadets y sont attendus. Les heures et le lieu sont à confirmer, mais ce sera en soirée à Gatineau.
+
+
+## Sortie de fin d’année
+- La sortie de fin d’année est une activité optionnelle pour récompenser les cadets pour leurs efforts durant l’année. L’activité sera à Arbraska Laflèche et deux activités seront proposées : exploration de caverne et arbre en arbre. Plus d’information à venir, et une inscription sera effectuée.
 
 
 ## Inscription
@@ -51,8 +50,8 @@ layout: "messages"
 
 
 ## Tir
-- **Qui :** Le lundi 20 avril, il y aura une séance de tir de base pour toutes les recrues qui n’ont jamais tiré. Toutes les recrues doivent avoir participé à au moins une séance de tir afin de pouvoir passer leur niveau. L’équipe de compétition de tir doit également être présente.
-- **Quand :** Lundi 20 avril, de **18 h à 21 h**
+- **Qui :** équipe de tir seulement
+- **Quand :** les lundis, de **18h15 à 20h45**
 - **Lieu :** 100 rue de la Baie, Gatineau
 
 
@@ -66,8 +65,7 @@ layout: "messages"
 ## Musique
 - **Qui :** les cadets intéressés
 - **Quand :** les dimanches de 8h45 à 13h. 
-- **Lieu :** Manège Militaire de Hull 188 boul. Alexandre-Taché
-
+- **Lieu :** Manège Militaire de Hull, 188 boul. Alexandre-Taché, Gatineau
 - **Informations supplémentaires :** Apportez votre instrument, bouteille d’eau, collation et partitions. Tenue civile.
 
 
