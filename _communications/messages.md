@@ -23,7 +23,7 @@ layout: "messages"
 
 ## Concert de musique
 - **Qui :** Cadets musiciens et invités (voir note)
-- **Quand :** Samedi le 2 mai de 18h30 - 20h30
+- **Quand :** Samedi le 2 mai de 18h00 - 20h30
 - **Lieu :** Monastère d'Aylmer au 161 rue Principale, Gatineau, J9H 3M9
 - **Tenue :** C1, uniforme de parade avec cravate et médailles
 - **Informations supplémentaires :** Arrivez pour 19h. L'entrée pour les cadets et le personnel cadet est gratuite. Pour les invités externes (parents, amis), l'entrée sera 5$. La tenue pour les spectateurs est civile propre.
