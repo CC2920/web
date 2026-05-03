@@ -28,6 +28,12 @@ le-personnel:
   
   - personnel:
     picture: 
+    name: Ben Bryan Laberge
+    title: Aviseur
+    email:
+
+  - personnel:
+    picture: 
     name: IC Souleymane Boiro
     title: Responsable Niveau Or
     email:
@@ -40,16 +46,10 @@ le-personnel:
 
   - personnel:
     picture: 
-    name: Ben Pierre Lafrance
+    name: IC Pierre Lafrance
     title: Adjoint Niveau Argent
     email:
 
-  - personnel:
-    picture: 
-    name: Ben Cydonie Sabourin
-    title: Adjoint Niveau Argent
-    email:
-    
   - personnel:
     picture: 
     name: IC Béata Rus
@@ -64,13 +64,13 @@ le-personnel:
 
   - personnel:
     picture:
-    name : I.C. Méliane Legault
-    title : Responsable niveau Vert et Peloton de précision
+    name : Ben Méliane Legault
+    title : Responsable Niveau Vert et Peloton de précision
     email :
 
   - personnel:
     picture:
-    name : Ben Philyp Poirier
+    name : Ben Olive Lowe
     title : Adjoint Niveau Vert
     email :
 
