@@ -17,11 +17,14 @@ les-cadets-major:
       picture: "/docs/cadets-cadres/CC2920-Adjuc-Brunette.jpg"
 
     - cadet:
-      name: "Adjum Ahoefa Tiffany Atitsogbé"
-      title: "Sergent-major de compagnie"
-      picture: "/docs/cadets-cadres/CC2920-Adj-Atitsogbe.JPG"
+      name: "Adjum Tayeb Belhabib"
+      title: "Cadet sénior responsable du niveau vert"
+      picture: 
 
-
+    - cadet:
+      name: "Adjum Malika Viau"
+      title: "Cadet sénior responsable du niveau vert"
+      picture: 
 
 
 # Chaque groupe contient une list d'items représentant un cadet(te).
@@ -42,21 +45,6 @@ les-cadets-cadres:
       title: Cadet sénior responsable du niveau Argent
       picture: 
       
-    - cadet: 
-      name: Adj Tamalia Hardy  
-      title: Cadet sénior responsable du niveau Rouge
-      picture: 
-
-    - cadet: 
-      name: Adj Tayeb Belhabib 
-      title: Cadet sénior responsable du niveau Vert
-      picture: 
-
-    - cadet: 
-      name: Adj Mallika Viau 
-      title: Cadet sénior responsable du niveau Vert
-      picture: 
-
     - cadet: 
       name: Adj Catherine Dumoulin 
       title: Cadet sénior responsable des services (Admin/Appro)
