@@ -10,7 +10,7 @@ layout: "messages"
 - **Lieu :** 52 rue Saint-Rosaire, Gatineau
 - **Tenue pour tous :** C3 – tenue de parade, col ouvert, cravate dans les poches.
   
-[Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
+[Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) 
 
 
 ## Activités à venir
