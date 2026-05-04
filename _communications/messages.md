@@ -41,7 +41,7 @@ La sortie de fin d’année est une activité optionnelle pour récompenser les 
 
 ## Tir
 - **Qui :** équipe de tir seulement
-- **Quand :** les lundis, de **18h15 à 20h45**
+- **Quand :** les lundis, de 18h15 à 20h45
 - **Lieu :** 100 rue de la Baie, Gatineau
 
 
