@@ -4,41 +4,31 @@ layout: "messages"
 ---
 
 
-## Soirée d’instruction 1er mai 
+## Soirée d’instruction 8 mai 
 - **Qui :** tous les cadets
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue Saint-Rosaire, Gatineau
-- **Tenue pour tous :** C1 – tenue de parade. Les parents sont invités pour 20h pour la parade du commandant qui débutera à 20h15.
+- **Tenue pour tous :** C3 – tenue de parade, col ouvert, cravate dans les poches.
   
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
 
 
 ## Activités à venir
-- **2 mai :** Concert de musique
-- **16 mai :** Descente en rappel
 - **23 mai :** Gala (et photos officielles)
 - **30 mai :** Cérémonial
 - **6 juin :** Sortie de fin d’année
 
 
-## Concert de musique
-- **Qui :** Cadets musiciens et invités (voir note)
-- **Quand :** Samedi le 2 mai de 18h00 - 20h30
-- **Lieu :** Monastère d'Aylmer au 161 rue Principale, Gatineau, J9H 3M9
-- **Tenue :** C1, uniforme de parade avec cravate et médailles
-- **Informations supplémentaires :** Arrivez pour 19h. L'entrée pour les cadets et le personnel cadet est gratuite. Pour les invités externes (parents, amis), l'entrée sera 5$. La tenue pour les spectateurs est civile propre.
-
-
 ## Descente en rappel
-- **Qui :** ouvert à tous, par inscription
-- **Quand :** 16 mai de 12h à 17h30
-- **Lieu :** autobus au 52 rue St-Rosaire. L’activité sera au centre d’entraînement de Connaught, 35 Shirley, Ottawa
-- **Tenue :** C5 ou civil
-- Nous avons 45 places. Vous pouvez vous inscrire en personne les vendredi soirs ou écrire à <2920armee@cadets.gc.ca>. Une sélection pourrait avoir lieu s’il y a plus d’inscrits que de places disponibles. Voici la liste des cadets ayant donné leur nom : [Rappel.docx](https://1drv.ms/w/c/eec907a8a97cc844/IQB2ks8SKhAlT70tfENmrWFgAdlhvjX0ckIymtS2v90w1E0?e=Di9P71)
+La journée de rappel du 16 mai est annulée dû à des contraintes d’accessibilité à la tour. Nous travaillons pour organiser une autre date.
 
 
 ## Gala
-Le gala est une soirée officielle et festive où de nombreux prix (incluant les étoiles de niveau) seront remis. Ce sera aussi l’occasion des photos officielles. Tous les cadets y sont attendus. Les heures et le lieu sont à confirmer, mais ce sera en soirée à Gatineau.
+- **Qui :** tous
+- **Quand :** 23 mai de 18h à 21h (à être confirmé)
+- **Lieu :** 100 rue de la Baie, Gatineau (à être confirmé)
+- **Tenue :** C1
+- Le gala est une soirée officielle et festive où de nombreux prix seront remis, incluant les étoiles de niveau. Ce sera aussi l’occasion des photos officielles.
 
 
 ## Sortie de fin d’année
