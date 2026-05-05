@@ -20,7 +20,7 @@ layout: "messages"
 
 
 ## Descente en rappel
-La journée de rappel du 16 mai est annulée dû à des contraintes d’accessibilité à la tour. Nous travaillons pour organiser une autre date.
+La journée de rappel du 16 mai est annulée dû à des contraintes d’accessibilité à la tour.
 
 
 ## Gala
