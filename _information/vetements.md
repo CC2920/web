@@ -33,10 +33,27 @@ Prix : 15.00 $
 
 ---
 
-### Casquette 
+### Casquette cadet
 
 Prix : 15.00 $
 
-![Casquette]({{ site.baseurl }}/docs/accessoires/casquette.jpg)
+![Casquette]({{ site.baseurl }}/docs/accessoires/casquette_cadet.jpg)
+
+---
+
+### Casquette staff
+
+Prix : 15.00 $
+
+![Casquette]({{ site.baseurl }}/docs/accessoires/casquette_staff.jpg)
+
+---
+
+### Casquette fan
+
+Prix : 15.00 $
+
+![Casquette]({{ site.baseurl }}/docs/accessoires/casquette_fan.jpg)
+
 
 
