@@ -4,7 +4,7 @@ layout: "messages"
 ---
 
 
-## Soirée d’instruction 8 mai 
+## Soirée d’instruction 15 mai 
 - **Qui :** tous les cadets
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue Saint-Rosaire, Gatineau
@@ -19,20 +19,39 @@ layout: "messages"
 - **6 juin :** Sortie de fin d’année
 
 
-## Descente en rappel
-La journée de rappel du 16 mai est annulée dû à des contraintes d’accessibilité à la tour.
-
-
 ## Gala
 - **Qui :** tous
-- **Quand :** 23 mai de 18h à 21h (à être confirmé)
-- **Lieu :** 100 rue de la Baie, Gatineau (à être confirmé)
+- **Quand :** 23 mai de 18h à 21h
+- **Lieu :** 100 rue de la Baie, Gatineau
 - **Tenue :** C1
 - Le gala est une soirée officielle et festive où de nombreux prix seront remis, incluant les étoiles de niveau. Ce sera aussi l’occasion des photos officielles.
 
 
+## Cérémonial 
+- **Qui :** tous
+- **Quand :** 30 mai de 9h15 à 16h30
+- **Lieu :** 50 chemin de la Savane, Gatineau
+- **Tenue :** C1
+Les parents et amis sont invités à 13h15 et sont priés de remplir le formulaire suivant pour indiquer leur présence.
+
+👉 [Formulaire](https://docs.google.com/forms/d/e/1FAIpQLSckTDfRYqDZCyy_Sc7ZNgVV-ri0zwzjKYxBl-2xXTge-4aUqw/viewform)
+
+
 ## Sortie de fin d’année
 La sortie de fin d’année est une activité optionnelle pour récompenser les cadets pour leurs efforts durant l’année. L’activité sera à Arbraska Laflèche et deux activités seront proposées : exploration de caverne et arbre en arbre. Plus d’information à venir, et une inscription sera effectuée.
+
+
+## Nouvelles casquettes officielles du Corps de cadets 2920
+
+Affichez fièrement les couleurs du Corps de cadets 2920 avec nos toutes nouvelles casquettes officielles!
+
+En plus des casquettes, la boutique officielle vous permettra également de commander des chandails, hoodies et tuques aux couleurs du corps de cadets.
+
+👉 [Lien vers la boutique]
+
+Il sera aussi possible de se procurer ces articles directement à la cantine lors des soirées d’instruction du vendredi.
+
+Pour tout achat effectué en ligne, un courriel contenant les instructions pour récupérer votre commande vous sera envoyé après votre achat.
 
 
 ## Inscription

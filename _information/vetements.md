@@ -6,6 +6,9 @@ title:  "Vêtements du Corps de Cadets"
 Tous les vendredis soirs, le comité de soutien vend à la cantine, les t-shirts, casquettes et tuques à l'effigie du Corps de cadets CC2920.
 Ils sont fortement recommandés afin de s'identifier lors de nos différentes activités.
 
+Il également possible d'acheter en-ligne ces articles dans notre la boutique officielle.  Pour tout achat effectué en ligne, un courriel contenant les instructions pour récupérer votre commande vous sera envoyé après votre achat.
+[Lien vers la boutique](https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029)
+
 ---
 ### T-shirt 
 
@@ -33,10 +36,19 @@ Prix : 15.00 $
 
 ---
 
-### Casquette 
+### Casquette réservée pour les cadets du CC2920
 
 Prix : 15.00 $
 
-![Casquette]({{ site.baseurl }}/docs/accessoires/casquette.jpg)
+![Casquette]({{ site.baseurl }}/docs/accessoires/casquette_cadet.jpg)
+
+---
+
+### Casquette pour le comité de soutien, parents, amis et autres fans du CC2920.
+
+Prix : 15.00 $
+
+![Casquette]({{ site.baseurl }}/docs/accessoires/casquette_fan.jpg)
+
 
 
