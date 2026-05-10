@@ -36,7 +36,7 @@ Prix : 15.00 $
 
 ---
 
-### Casquette cadet
+### Casquette réservée pour les cadets du CC2920
 
 Prix : 15.00 $
 
@@ -44,15 +44,7 @@ Prix : 15.00 $
 
 ---
 
-### Casquette staff
-
-Prix : 15.00 $
-
-![Casquette]({{ site.baseurl }}/docs/accessoires/casquette_staff.jpg)
-
----
-
-### Casquette fan
+### Casquette pour le comité de soutien, parents, amis et autres fans du CC2920.
 
 Prix : 15.00 $
 
