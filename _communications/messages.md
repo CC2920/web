@@ -47,7 +47,7 @@ Affichez fièrement les couleurs du Corps de cadets 2920 avec nos toutes nouvell
 
 En plus des casquettes, la boutique officielle vous permettra également de commander des chandails, hoodies et tuques aux couleurs du corps de cadets.
 
-👉 [Lien vers la boutique]
+👉 [Lien vers la boutique](https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029)
 
 Il sera aussi possible de se procurer ces articles directement à la cantine lors des soirées d’instruction du vendredi.
 
