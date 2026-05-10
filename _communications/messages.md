@@ -43,7 +43,7 @@ La sortie de fin d’année est une activité optionnelle pour récompenser les 
 
 ## Nouvelles casquettes officielles du Corps de cadets 2920
 
-Affichez fièrement les couleurs du Corps de cadets 2920 avec nos toutes nouvelles casquettes officielles, maintenant disponibles en 3 couleurs!
+Affichez fièrement les couleurs du Corps de cadets 2920 avec nos toutes nouvelles casquettes officielles!
 
 En plus des casquettes, la boutique officielle vous permettra également de commander des chandails, hoodies et tuques aux couleurs du corps de cadets.
 
