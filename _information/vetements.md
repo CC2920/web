@@ -28,14 +28,6 @@ Commande spéciale annuelle, seulement:
 
 ---
 
-### Tuque 
-
-Prix : 15.00 $
-
-![Tuque]({{ site.baseurl }}/docs/accessoires/tuque.jpg)
-
----
-
 ### Casquette réservée pour les cadets du CC2920
 
 Prix : 15.00 $
