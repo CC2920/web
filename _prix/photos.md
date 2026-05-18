@@ -155,11 +155,17 @@ title: "Galerie de photos"
 * [Photos de la revue annuelle 2020](https://photos.app.goo.gl/oXy4s9w3jqvPbUSo6)
 * [Photos des activités de 2020 - 2021](https://photos.app.goo.gl/TcU3BQDNiUeLSamKA)
 * [Photos de la revue annuelle 2021](https://photos.app.goo.gl/Ht6WZu6CbYgxHrGp9)
+
+### 2021-2022
+
+* [Changement de commandant et parade - septembre 2021](https://photos.app.goo.gl/1GpSijVLR3RPXbzp7)
+* [Souper régimentaire - avril 2022](https://)
+* [Parade du commandant - novembre 2021](https://photos.app.goo.gl/7LPwnD2jiGzUJq9o7)
 * [49e revue annuelle - juin 2022](https://photos.app.goo.gl/gFPQfYLVHjQow3Fr5)
 
-### 2022-present
+### 2022 - 2025 :
 
-#### 2022 - 2023 :
+#### 2022
 * [Parade du commandant - novembre 2022](https://photos.app.goo.gl/frSb64NAkAQsdMuZA)
 * [Parade du Souvenir - novembre 2022](https://photos.app.goo.gl/1MffXfa6gbsucscN9)
 * [Parade du 50e - janvier 2023](https://photos.app.goo.gl/htQx9BcGTKdMzmxp7)
@@ -168,7 +174,7 @@ title: "Galerie de photos"
 * [Gala - mai 2023](https://photos.app.goo.gl/7ymPZMjSz1PYLrHq9)
 * [Cérémonial 2023 (50e)](https://photos.app.goo.gl/QkHNrBXTNJNyW94v8)
 
-#### 2023 - 2024
+#### 2023
 * [Parade du commandant - septembre 2023](https://photos.app.goo.gl/iBau7ejWwCGdvKuGA)
 * [Parade du commandant - novembre 2023](https://photos.app.goo.gl/NGBgJUqdrbdvoLab8)
 * [Parade du Souvenir - novembre 2023](https://photos.app.goo.gl/iyeY7XVQ6BJ5TLp59)
@@ -181,7 +187,7 @@ title: "Galerie de photos"
 * [Gala - mai 2024](https://photos.app.goo.gl/UEDsEGFEafNoVv246)
 * [Cérémonial - revue annuelle 2024](https://photos.app.goo.gl/JNdk3sVVracBSvBd9)
 
-#### 2024-2025
+#### 2024
 * [Ouverture officielle du musée CC2920 - octobre 2024](https://photos.app.goo.gl/tbPFGDXRaEzdbocZ6)
 * [Parade de changement de Sergent-Major Régimentaire - octobre 2024](https://photos.app.goo.gl/SbGKhYeT2VyUXGPQ6)
 * [Parade du Jour du Souvenir - novembre 2024](https://photos.app.goo.gl/YudUy5S9i3g9tjQVA)
@@ -194,7 +200,9 @@ title: "Galerie de photos"
 * [Cérémonial - Revue annuelle 2025](https://photos.app.goo.gl/ZnEa81UaMXByEA1a6)
   *  [Album complet avec photos de familles et amis](https://photos.app.goo.gl/fq8qBiCxWUCiGzDd8)
 
-#### 2025-2026
+### 2025-present
+
+#### 2025
 * [Parade du commandant - septembre 2025](https://photos.app.goo.gl/KCox2AySGK2NrzPo8)
 * [Parade du commandant - octobre 2025](https://photos.app.goo.gl/dY6EEpRN4QPeWUcY7)
 * [Photos de la parade du Jour du Souvenir - novembre 2025](https://photos.app.goo.gl/9ukYK2eb17dJxgAG9)
