@@ -4,17 +4,18 @@ layout: "messages"
 ---
 
 
-## Soirée d’instruction 15 mai 
+## Soirée d’instruction 22 mai 
 - **Qui :** tous les cadets
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** 52 rue Saint-Rosaire, Gatineau
-- **Tenue pour tous :** C3 – tenue de parade, col ouvert, cravate dans les poches.
+- **Tenue pour tous :** C3 – tenue de parade, à moins que vous ne soyez contacté personnellement durant la semaine pour venir dans une autre tenue.
   
 [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) 
 
 
 ## Activités à venir
 - **23 mai :** Gala (et photos officielles)
+- **29 mai :** la soirée d’instruction aura lieu du 50 chemin de la Savane
 - **30 mai :** Cérémonial
 - **6 juin :** Sortie de fin d’année
 
@@ -60,7 +61,7 @@ Pour tout achat effectué en ligne, un courriel contenant les instructions pour 
 
 ## Tir
 - **Qui :** équipe de tir seulement
-- **Quand :** les lundis, de 18h15 à 20h45
+- **Quand :** Pas de tir le 18 mai. Les lundis, de 18h15 à 20h45
 - **Lieu :** 100 rue de la Baie, Gatineau
 
 
