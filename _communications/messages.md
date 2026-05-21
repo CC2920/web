@@ -39,7 +39,22 @@ Les parents et amis sont invités à 13h15 et sont priés de remplir le formulai
 
 
 ## Sortie de fin d’année
-La sortie de fin d’année est une activité optionnelle pour récompenser les cadets pour leurs efforts durant l’année. L’activité sera à Arbraska Laflèche et deux activités seront proposées : exploration de caverne et arbre en arbre. Plus d’information à venir, et une inscription sera effectuée.
+La sortie de fin d’année est une activité optionnelle visant à récompenser les cadets pour leurs efforts durant l’année. L’activité aura lieu à Arbraska Laflèche, à Val-des-Monts.
+
+Deux activités seront proposées :
+- Parcours dans les arbres et tyrolienne
+- Exploration de caverne et tyrolienne
+
+Tous les détails concernant les différentes options d’activités et le transport se retrouvent dans le formulaire d’inscription :
+
+👉[Formulaire d'inscription](https://forms.gle/qqbXiYbAhT1f5LDu6)
+
+> [!IMPORTANT]
+> - **Date limite pour l'inscription**: le mardi 2 juin, 2026
+> - **Apportez votre dîner**
+> - **Aucun autobus n’est prévu**, les cadets peuvent :
+>   - se rendre directement sur place pour 11h30 et revenir par leurs propres moyens, sans passer par le 52 Saint-Rosaire
+>   - ou se rendre au 52 Saint-Rosaire pour 10h30 afin de participer au covoiturage
 
 
 ## Nouvelles casquettes officielles du Corps de cadets 2920
