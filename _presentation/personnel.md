@@ -28,7 +28,7 @@ le-personnel:
   
   - personnel:
     picture: 
-    name: Ben Bryan Laberge
+    name: Bénévole Bryan Laberge
     title: Aviseur
     email:
 
@@ -58,31 +58,31 @@ le-personnel:
 
   - personnel:
     picture: 
-    name: Ben Alexandre Bogucki
+    name: Bénévole Alexandre Bogucki
     title: Adjoint Niveau Rouge et Musique
     email:
 
   - personnel:
     picture:
-    name : Ben Méliane Legault
+    name : Bénévole Méliane Legault
     title : Responsable Niveau Vert et Peloton de précision
     email :
 
   - personnel:
     picture:
-    name : Ben Olive Lowe
+    name : Bénévole Olive Lowe
     title : Adjoint Niveau Vert
     email :
 
   - personnel:
     picture:
-    name : Ben Guillaume St-Jean 
+    name : Bénévole Guillaume St-Jean 
     title : Instructeur de biathlon
     email :
     
   - personnel:
     picture:
-    name : Ben Mathieu St-Maurice
+    name : Bénévole Mathieu St-Maurice
     title : Soutien ponctuel
     email :
 ---
