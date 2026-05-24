@@ -82,7 +82,7 @@ Pour tout achat effectué en ligne, un courriel contenant les instructions pour 
 
 ## Tir
 - **Qui :** équipe de tir et de biathlon
-- **Quand :** Pas de tir le 18 mai. Les lundis, de 18h15 à 20h45
+- **Quand :** Pas de tir le 18 mai. Les lundis, de **18h00 à 20h45**
 - **Lieu :** 100 rue de la Baie, Gatineau
 - **Informations supplémentaires :**
    - Dernière pratique pour le cérémonial
