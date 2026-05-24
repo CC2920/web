@@ -4,28 +4,17 @@ layout: "messages"
 ---
 
 
-## Soirée d’instruction 22 mai 
+## Soirée d’instruction 29 mai 
 - **Qui :** tous les cadets
 - **Heure :** de 18h30 à 21h15, vendredi soir
-- **Lieu :** 52 rue Saint-Rosaire, Gatineau
-- **Tenue pour tous :** C3 – tenue de parade, à moins que vous ne soyez contacté personnellement durant la semaine pour venir dans une autre tenue.
-  
-[Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf) 
-
+- **Lieu :** 50 chemin de la Savane, Gatineau
+- **Tenue pour tous :** civil avec votre uniforme de parade sur un cintre
+- N’oubliez pas de coudre vos écussons; regardez dans le guide des tenues pour leur emplacement. [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
+- Voici ce que chacun d’entre vous devrait avoir sur votre uniforme en terme de grade, étoile, ECPC, secourisme et tir en vue du cérémonial. Si vous pensez qu’il y a une erreur dans le tableau, écrivez-nous au <2920armee@cadets.gc.ca> . S’il vous manque un écusson, allez voir au quartier-maître ce mercredi ou vendredi. [Ecussons.xlsx](https://1drv.ms/x/c/eec907a8a97cc844/IQD-erFTRiSsR5JPvoiT-8iEAQWg78QyoI1LF-ihYLAxXkc?e=WM4C0f)
 
 ## Activités à venir
-- **23 mai :** Gala (et photos officielles)
-- **29 mai :** la soirée d’instruction aura lieu du 50 chemin de la Savane
 - **30 mai :** Cérémonial
 - **6 juin :** Sortie de fin d’année
-
-
-## Gala
-- **Qui :** tous
-- **Quand :** 23 mai de 18h à 21h
-- **Lieu :** 100 rue de la Baie, Gatineau
-- **Tenue :** C1
-- Le gala est une soirée officielle et festive où de nombreux prix seront remis, incluant les étoiles de niveau. Ce sera aussi l’occasion des photos officielles.
 
 
 ## Cérémonial 
