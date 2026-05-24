@@ -84,6 +84,10 @@ Pour tout achat effectué en ligne, un courriel contenant les instructions pour 
 - **Qui :** équipe de tir seulement
 - **Quand :** Pas de tir le 18 mai. Les lundis, de 18h15 à 20h45
 - **Lieu :** 100 rue de la Baie, Gatineau
+- **Informations supplémentaires :**
+   - Dernière pratique pour le cérémonial
+   - Un souper pizza sera servi à 18h00
+   - Les cadets du biathlon sont invités
 
 
 ## Peloton de précision
