@@ -19,12 +19,12 @@ les-cadets-major:
     - cadet:
       name: "Adjum Tayeb Belhabib"
       title: "Cadet sénior responsable du niveau vert"
-      picture: 
+      picture: "/docs/cadets-cadres/CC2920-Adjum-Belhabib.jpg"
 
     - cadet:
       name: "Adjum Malika Viau"
       title: "Cadet sénior responsable du niveau vert"
-      picture: 
+      picture: "/docs/cadets-cadres/CC2920-Adjum-Viau.jpg"
 
 
 # Chaque groupe contient une list d'items représentant un cadet(te).
@@ -38,12 +38,12 @@ les-cadets-cadres:
     - cadet: 
       name: Adj Apélété Jack Atitsogbé 
       title: Cadet sénior responsable du niveau rouge et de la musique
-      picture:
+      picture: "/docs/cadets-cadres/CC2920-Adj-Atitsogbé.jpg"
 
     - cadet: 
       name: Adj Alexis Martel 
       title: Cadet sénior responsable du niveau Argent
-      picture: 
+      picture:  "/docs/cadets-cadres/CC2920-Adj-Martel.jpg"
       
     - cadet: 
       name: Adj Catherine Dumoulin 
