@@ -39,7 +39,7 @@ le-personnel:
     email:
     
   - personnel:
-    picture: /docs/personel/MarcelleNgounou.jpg
+    picture: /docs/personnel/MarcelleNgounou.jpg
     name: I.C. Marcelle Ngounou
     title: Responsable Niveau Argent
     email: 
@@ -51,19 +51,19 @@ le-personnel:
     email:
 
   - personnel:
-    picture: /docs/personel/BéataRus.jpg
+    picture: /docs/personnel/BéataRus.jpg
     name: IC Béata Rus
     title: Responsable Niveau Rouge et Musique
     email:
 
   - personnel:
-    picture: /docs/personel/AlexandreBogucki.jpg
+    picture: /docs/personnel/AlexandreBogucki.jpg
     name: Bénévole Alexandre Bogucki
     title: Adjoint Niveau Rouge et Musique
     email:
 
   - personnel:
-    picture: /docs/personel/MélianeLegault.jpg
+    picture: /docs/personnel/MélianeLegault.jpg
     name : Bénévole Méliane Legault
     title : Responsable Niveau Vert et Peloton de précision
     email :
