@@ -4,27 +4,11 @@ layout: "messages"
 ---
 
 
-## Soirée d’instruction 29 mai 
-- **Qui :** tous les cadets
-- **Heure :** de 18h30 à 21h15, vendredi soir
-- **Lieu :** 50 chemin de la Savane, Gatineau
-- **Tenue pour tous :** civil avec votre uniforme de parade sur un cintre
-- N’oubliez pas de coudre vos écussons; regardez dans le guide des tenues pour leur emplacement. [Guide des tenues](https://cc2920.ca/docs/ressources/guide_uniforme.v3.pdf)
-- Voici ce que chacun d’entre vous devrait avoir sur votre uniforme en terme de grade, étoile, ECPC, secourisme et tir en vue du cérémonial. Si vous pensez qu’il y a une erreur dans le tableau, écrivez-nous au <2920armee@cadets.gc.ca> . S’il vous manque un écusson, allez voir au quartier-maître ce mercredi ou vendredi. [Ecussons.xlsx](https://1drv.ms/x/c/eec907a8a97cc844/IQD-erFTRiSsR5JPvoiT-8iEAQWg78QyoI1LF-ihYLAxXkc?e=WM4C0f)
-
-## Activités à venir
-- **30 mai :** Cérémonial
-- **6 juin :** Sortie de fin d’année
-
-
-## Cérémonial 
-- **Qui :** tous
-- **Quand :** 30 mai de 9h15 à 16h30
-- **Lieu :** 50 chemin de la Savane, Gatineau
-- **Tenue :** C1
-Les parents et amis sont invités à 13h15 et sont priés de remplir le formulaire suivant pour indiquer leur présence.
-
-👉 [Formulaire](https://docs.google.com/forms/d/e/1FAIpQLSckTDfRYqDZCyy_Sc7ZNgVV-ri0zwzjKYxBl-2xXTge-4aUqw/viewform)
+## Bonne été 
+- L’instruction est maintenant terminée pour 2025-2026. Merci pour tous vos efforts et on vous souhaite bonnes études pour vos examens et un bel été par la suite.
+- Les cadets sélectionnés sur des camps d'été seront contactés par pour une rencontre virtuelle de préparation. Date et heure exactes à venir.
+- La rentrée est prévue le 4 septembre pour les anciens et les nouvelles inscriptions. Pour les nouveaux, on vous suggère de vous pré-inscrire au  [inscription.cadets.gc.ca/demarrer.html](https://inscription.cadets.gc.ca/demarrer.html). Plus de détails à venir durant le mois d’août.
+- Pour ceux qui seront niveau or et plus (donc si vous étiez niveau argent ou plus cette année), une formation pour cadet-cadre et préparation à l'année aura lieu les 28-29 août. Plus de détails à venir durant le mois d’août.
 
 
 ## Sortie de fin d’année
@@ -63,50 +47,10 @@ Tous les détails concernant les différentes options d’activités et le trans
 
 </div>
 
-## Nouvelles casquettes officielles du Corps de cadets 2920
 
-Affichez fièrement les couleurs du Corps de cadets 2920 avec nos toutes nouvelles casquettes officielles!
-
-En plus des casquettes, la boutique officielle vous permettra également de commander des chandails, hoodies et tuques aux couleurs du corps de cadets.
-
-👉 [Lien vers la boutique](https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029)
-
-Il sera aussi possible de se procurer ces articles directement à la cantine lors des soirées d’instruction du vendredi.
-
-Pour tout achat effectué en ligne, un courriel contenant les instructions pour récupérer votre commande vous sera envoyé après votre achat.
-
-
-## Inscription
-À partir du 29 mars, l’inscription de nouveaux cadets est suspendu pour le reste de l’année d’instruction. L’inscription reprendra en septembre. La date de retour sera annoncée sur notre site Internet durant le mois d’août.
-
-
-## Tir
-- **Qui :** équipe de tir et de biathlon
-- **Quand :** Pas de tir le 18 mai. Les lundis, de **18h00 à 20h45**
-- **Lieu :** 100 rue de la Baie, Gatineau
-- **Informations supplémentaires :**
-   - Dernière pratique pour le cérémonial
-   - Un souper pizza sera servi à 18h00
-   - Les cadets du biathlon sont invités
-
-
-## Peloton de précision
-- **Qui :** les cadets du peloton de précision  
-- **Quand :** les mercredis de 18h30 à 20h30. 
-- **Lieu :** 100 rue de la Baie, Gatineau  
-- **Informations supplémentaires :** Tenue civile avec les bottes de parade si vous l’avez. Apportez une bouteille d’eau et des collations si vous le désirez.
-
-
-## Musique
-- **Qui :** les cadets intéressés
-- **Quand :** les dimanches de 8h45 à 13h. 
-- **Lieu :** Manège Militaire de Hull, 188 boul. Alexandre-Taché, Gatineau
-- **Informations supplémentaires :** Apportez votre instrument, bouteille d’eau, collation et partitions. Tenue civile.
-
-
-## Habillement
-- **Qui :** tout cadet qui en a besoin et cadet ayant rendez-vous  
-- **Quand :** les mercredis de 18h00 à 19h00 pour le sans rendez-vous, à votre heure de rendez-vous pour ceux qui ont un rendez-vous.
+## Retour d’uniforme
+- **Qui :** les cadets qui ne prévoient pas revenir l’an prochain  
+- **Quand :** mercredi 3 juin de 18h00 à 19h00
 - **Lieu :** 52 rue St-Rosaire, Gatineau  
 
 Si vous avez des questions, n’hésitez pas à nous contacter à <2920armee@cadets.gc.ca>.
