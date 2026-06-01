@@ -215,3 +215,4 @@ title: "Galerie de photos"
 * [Parade du commandant - mai 2026](https://photos.app.goo.gl/tudfHBHKMTRD9Tav7)
 * [Gala - mai 2026](https://photos.app.goo.gl/LDT7R8zdP2p8or1q6)
   *  [Album complet avec photos officiels](https://photos.app.goo.gl/Juhd9BFbMjyfyFHA6)
+* [Cérémonial - Revue annuelle 2026](https://photos.app.goo.gl/1PpHxsYcAnC9uWqp7)
