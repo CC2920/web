@@ -4,9 +4,9 @@ layout: "messages"
 ---
 
 
-## Bonne été 
+## Bon été 
 - L’instruction est maintenant terminée pour 2025-2026. Merci pour tous vos efforts et on vous souhaite bonnes études pour vos examens et un bel été par la suite.
-- Les cadets sélectionnés sur des camps d'été seront contactés par pour une rencontre virtuelle de préparation. Date et heure exactes à venir.
+- Les cadets sélectionnés sur des camps d'été seront contactés pour une rencontre virtuelle de préparation. Date et heure exactes à venir.
 - La rentrée est prévue le 4 septembre pour les anciens et les nouvelles inscriptions. Pour les nouveaux, on vous suggère de vous pré-inscrire au  [inscription.cadets.gc.ca/demarrer.html](https://inscription.cadets.gc.ca/demarrer.html). Plus de détails à venir durant le mois d’août.
 - Pour ceux qui seront niveau or et plus (donc si vous étiez niveau argent ou plus cette année), une formation pour cadet-cadre et préparation à l'année aura lieu les 28-29 août. Plus de détails à venir durant le mois d’août.
 
