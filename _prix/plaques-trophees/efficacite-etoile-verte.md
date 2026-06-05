@@ -16,6 +16,7 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2026 | Jonathan Enoc Mancilla Suarez |
 | 2025 | William Alain |
 | 2024 | Maria-Natalia Mircioiu |
 | 2023 | Naomi Julie Paquette |
