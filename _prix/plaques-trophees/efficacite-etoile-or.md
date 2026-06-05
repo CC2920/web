@@ -16,6 +16,7 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2026 | Nicolas Martel |
 | 2025 | Tayeb Belhabib |
 | 2024 | Alexis	Martel |
 | 2023 | Zakaryane Géron |
