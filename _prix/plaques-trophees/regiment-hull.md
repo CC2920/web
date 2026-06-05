@@ -13,6 +13,7 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2026 | Sébastien Brunette |
 | 2025 | Mathieu McGlashan |
 | 2024 | Sébastien Brunette |
 | 2023 | Mathis Lalonde |
