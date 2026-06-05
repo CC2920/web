@@ -223,7 +223,7 @@ les-cadets-commandants:
     picture: /docs/historique/adjuc44_Zakaryane-Geron.jpg
 
   - adjc:
-    year: 2025-
+    year: 2025-2026
     name: Adjudant-Chef Sébastien Brunette
     picture: "/docs/cadets-cadres/CC2920-Adjuc-Brunette.jpg"
     
