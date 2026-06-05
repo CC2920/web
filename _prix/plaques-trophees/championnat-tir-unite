@@ -1,1 +1,17 @@
-Tmp
+---
+title: "Championnat de tir de l’unité"
+layout: plaques-et-trophees
+prix: 
+    images:
+      - filename: "tropheetir.jpg"
+        title: "Le Trophée du championnat de tir de l’unité"
+    title: "Le trophée du championnat de tir de l’unité"
+    description: "todo"
+---
+
+### Récipiendaires
+
+| Année | Nom |
+| --- | --- |
+| 2026 | Félix Sylvain |
+| 2025 | Samuel Leduc |
