@@ -15,6 +15,7 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2026 | David Alain |
 | 2025 | Félix Gaudette |
 | 2024 | Renaud	Metlej |
 | 2023 | Dominic Bogucki |
