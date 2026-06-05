@@ -13,6 +13,7 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2026 | Jr Félix Sylvain <br>Sr David Alain |
 | 2025 | Jr Victoria Rhéaume <br>Sr Samuel Leduc |
 | 2024 | Jr Julianne Coudraye <br>Sr Samuel Leduc |
 | 2023 | Jr Samuel Leduc <br>Sr Louick Lambert-Turcotte |

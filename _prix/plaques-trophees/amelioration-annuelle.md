@@ -14,6 +14,7 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2026 | Malika Viau |
 | 2025 | Tayeb Belhabib |
 | 2024 | Milan Yoann Monney Mbedi |
 | 2023 | Meliane Legault |

@@ -15,6 +15,7 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2026 | Victoria Rhéaume |
 | 2025 | Peloton de precision |
 | 2024 | Méliane Legault |
 | 2023 | Équipe de tir |

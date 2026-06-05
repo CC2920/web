@@ -15,4 +15,5 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2026 | David Alain |
 | 2025 | David Alain |

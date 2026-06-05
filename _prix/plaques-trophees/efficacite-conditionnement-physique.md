@@ -13,6 +13,7 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2026 | Jr Samuel Langlois <br>Sr Romaric Dzogang |
 | 2025 | Jr Gabriel Fauteux <br>Sr Tristan Lafrenière |
 | 2024 | Jr Antoine Lamarche <br>Sr Mathieu McGlashan |
 | 2023 | Ruici Qiu <br>Tyaeb Belhabib |

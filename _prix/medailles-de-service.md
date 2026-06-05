@@ -584,6 +584,30 @@ recipiendaires-medailles-cadets:
       - annees-de-services: 7
         recipiendaires:
           - Adj Patrick Delaney-Dufour
+
+    - periode: 2026
+      annees: 
+      - annees-de-services: 4
+        recipiendaires:
+          - Adj Catherine Dumoulin
+          - Sgt Lisa Girard
+          - Sgt Xolalie Koblavi
+          - Sgt Nicolas Martel
+          - Sgt Milan Yoann Monney Mbedi
+          - Sgt Naomie Julie Paquette
+      - annees-de-services: 5
+        recipiendaires:
+          - Adj Jack Apélété Atitsogbé
+          - Adj Tayeb Belhabib 
+          - Adj Malika Viau
+      - annees-de-services: 6
+        recipiendaires:
+          - Adj Alexis Martel
+      - annees-de-services: 7
+        recipiendaires:
+          - Adjuc Sébastien Brunette 
+          - Adj Samuel Leduc
+
           
 # **********************************************************
 # Fin de la section de configuration. 

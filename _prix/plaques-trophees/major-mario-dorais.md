@@ -17,4 +17,5 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+|2026 | Tayeb Belhabib |
 | 2025 | Alexis Martel |

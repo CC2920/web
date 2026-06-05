@@ -13,6 +13,7 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2026 | Milan Yoann Monney Mbedi |
 | 2025 | Sébastien Brunette |
 | 2024 | Alexis	Martel |
 | 2023 | Sébastien Brunette |
