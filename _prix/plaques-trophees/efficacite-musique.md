@@ -14,6 +14,7 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2026 | Jr Anaya Meudja  <br>Sr Wendi Veronique Zambezie Kouaga |
 | 2025 | Jr Otniel Meudja  <br>Sr Jack Atitsogbé |
 | 2024 | Jr Maxim Lauzon  <br>Sr Dominic Bogucki |
 | 2023 | Aucun récipiendaire |
