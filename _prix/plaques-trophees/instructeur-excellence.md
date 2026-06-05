@@ -13,6 +13,7 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+|2026 | Sébastien Brunette |
 | 2025 | Dominic Bogucki |
 | 2024 | Méliane Legault |
 | 2023 | Patrick Delaney-Dufour |
