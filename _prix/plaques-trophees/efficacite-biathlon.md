@@ -13,6 +13,7 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2026 | Jr Élise Sarah Doré <br>Sr Monney Mbedi Milan Yoann |
 | 2025 | Jr David Alain <br>Sr Alexis Martel |
 | 2024 | Jr Nicolas	Martel <br>Sr Jacob St-Louis |
 | 2023 | Jr Alexis Martel <br>Sr Jacob St-Louis |
