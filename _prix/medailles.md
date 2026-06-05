@@ -16,6 +16,7 @@ La Médaille Lord Strathcona est la plus haute récompense pouvant être décern
 
 | Année | Nom |
 | --- | --- |
+| 2026 | Adj Alexis Martel |
 | 2025 | Adjum Dominic Bogucki |
 | 2024 | Adj Sébastien Brunette |
 | 2023 | Adjum Jasmine Pilon |
@@ -80,6 +81,7 @@ Décernée annuellement à un cadet en reconnaissance d’efforts individuels da
 
 | Année | Nom |
 | --- | --- |
+| 2026 | Cplc Samuel Langlois |
 | 2025 | Adjum Sébastien Brunette |
 | 2024 | Adj Oluwafemi Bassowa |
 | 2023 | Sgt Mathis Lalonde |
