@@ -17,6 +17,7 @@ prix:
 
 | Année | Nom |
 | --- | --- |
+| 2026 | Olivier Beaulieu |
 | 2025 | Victoria Rhéaume |
 | 2024 | Nicolas Martel |
 | 2023 | Mathieu McGlashan |
