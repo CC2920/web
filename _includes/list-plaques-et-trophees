@@ -37,5 +37,6 @@
         <li class="{% if page.url contains 'biathlon' %} active{% endif %}"><a href="{{ urlpath }}/efficacite-biathlon/">Efficacité biathlon</a></li>
         <li class="{% if page.url contains 'musique' %} active{% endif %}"><a href="{{ urlpath }}/efficacite-musique/">Efficacité musique</a></li>
         <li class="{% if page.url contains 'physique' %} active{% endif %}"><a href="{{ urlpath }}/efficacite-conditionnement-physique/">Efficacité conditionnement physique</a></li>
+        <li class="{% if page.url contains 'championnat-tir-unite' %} active{% endif %}"><a href="{{ urlpath }}/championnat-tir-unite/">Championnat de tir de l’unité</a></li>
     </ul>
 </div>
