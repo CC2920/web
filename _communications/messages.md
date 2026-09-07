@@ -27,6 +27,14 @@ layout: "messages"
 - L’expédition étoile argent est une activité régionale qui réunit les cadets de niveau argent de toutes les unités de l’élément armée de l’Outaouais pour une fin de semaine de randonnée, vélo et canot. La participation est fortement recommandée et requise pour la participation à certains camps d’été et expéditions plus avancées. Si vous ne vous êtes pas inscrit en personne ou au téléphone et voulez participer, écrivez-nous au <2920rmee@cadets.gc.ca>. 
 
 
+## Aéro Gatineau 19 septembre
+- **Qui :** les anciens cadets
+- **Heure :** 9h45 à 17h50
+- **Lieu :** départ et retour de l’autobus au [52 rue Saint-Rosaire, Gatineau](https://www.google.com/maps/search/52+rue+Saint-Rosaire,+Gatineau?entry=gmail&source=g).
+- **Tenue :** C5A
+- Aéro Gatineau est un festival de spectacle aérien et d’expositions au sol  ayant lieu annuellement à l’aéroport de Gatineau. Apportez votre bouteille d’eau et lunch, ou ayez de l’argent pour vous acheter un dîner. La participation est facultative.
+Nous avons 46 places. Nous prenons les inscriptions pour les anciens cadets seulement pour le moment. S’il reste de l’espace, des places pourront être offertes aux recrues. Inscrivez-vous au lien suivant : [Aéro Gatineau](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchCL_0lfedvVOotthXwu7NAZUOUQ1M0VXMzlaUVZQSTA0QTlITkdUTTIwRi4u)
+
 ## Assemblée générale annuelle du comité de soutien 
 L'Assemblée générale annuelle du comité de soutien sera ce jeudi ce jeudi, 10 septembre, à 18h30 au 52 Saint-Rosaire. Si vous aimeriez vous impliquer dans ce comité, responsable des activités pour bonifier l'expérience des cadettes et cadets (cantine, financement, logistiques, etc.), nous vous invitons à y être! Si ce n'est possible pour vous ce jeudi, vous pouvez acheminer un courriel au <cciv2920@gmail.com> avec votre intérêt.
 
