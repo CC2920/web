@@ -16,6 +16,7 @@ layout: "messages"
 ## Activités à venir
 - 18 au 20 septembre : expédition étoile argent
 - 19 septembre : Aéro Gatineau
+- 17 octobre : Collecte de bouteilles
 - 23 au 25 octobre : exercice d’automne
 
 
