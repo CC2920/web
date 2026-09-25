@@ -25,18 +25,6 @@ layout: "messages"
 - **Tenue :** sport extérieur. Apportez collation et bouteille d’eau.
 - **Informations supplémentaires :** Le biathlon est un sport combinant tir et course qui pour cette année de cadets culmine en une compétition inter-unité le 21 novembre. Nous tiendrons des entraînements les samedis pour le volet cardiovasculaire d’ici cette compétition.
 
-## Cours de cadet reporter
-Le cadet reporter est un cadet senior qui soutient l’unité dans la couverture et la publicité des activités de l’unité dans les médias sociaux et traditionnels. La formation pour cela est offerte de début novembre à début décembre pour des cadets de niveau argent et plus intéressés à remplir ce rôle à notre unité. La formation consiste en 5 sessions virtuelles sur 5 semaines et quelques travaux liés. Pour plus d’information ou pour vous inscrire, voir IC Legault au plus tard le 9 octobre. D’autres formations seront disponibles à l’hiver aussi.
-
-## Sondage pour les activités sportives et optionnelles
-Pour les anciens cadets seulement, afin de faciliter la planification des activités sportives et optionnelles durant l’année, nous vous invitons à remplir les sondages suivants. 
-- [Soirée sport au CC 2920 – Remplir le formulaire](https://forms.cloud.microsoft/r/kjBEqGB9Wr)
-- [Intérêts des cadets à participer aux activités de l'année 2026-2027 – Remplir le formulaire](https://forms.cloud.microsoft/r/43zySX6z9S)
-
-
-## Bourse de la Légion
-Cette bourse est destinée à un cadet qui poursuit des études postsecondaires et dont un membre de la famille est ou a été militaire. C’est une manière de reconnaître non seulement le mérite individuel, mais aussi l’héritage de service et de sacrifice qui traverse les générations. Il y a la possibilité de remettre deux bourses à l'automne. Une bourse de 750$ pour des études collégiale et une bourse de 1500$ pour des études universitaires. Les candidats devront remettre une preuve d'admission ou d'horaire de leur lieu d'éducation, une lettre de candidature ainsi qu'un relevé de note. Les candidats devront soumettre leur candidature au lien suivant via leur compte Cadets365 avant le 22 septembre : [Candidature Bourse de la Légion 2026](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchBBEIFQ_HuhKp4os9dRIMxJUMzZNM1pOTThSQU1JUFVWWDFZQjA3RU5LMy4u).
-
 
 ## Collecte de bouteilles
 **📣 Première levée de fonds de l’année 2026-2027!**
@@ -56,6 +44,19 @@ Nous sollicitons la participation **des cadets, des parents bénévoles (avec ou
 👉 Veuillez remplir le formulaire d’ici le 14 octobre 2026 afin de nous aider à planifier les équipes: [Formulaire de participation](https://forms.gle/eXNEztvEjWq2ZRM67)
 
 🙏 Merci à l’avance pour votre précieuse collaboration! Votre contribution est importante pour nos cadets.
+
+
+## Cours de cadet reporter
+Le cadet reporter est un cadet senior qui soutient l’unité dans la couverture et la publicité des activités de l’unité dans les médias sociaux et traditionnels. La formation pour cela est offerte de début novembre à début décembre pour des cadets de niveau argent et plus intéressés à remplir ce rôle à notre unité. La formation consiste en 5 sessions virtuelles sur 5 semaines et quelques travaux liés. Pour plus d’information ou pour vous inscrire, voir IC Legault au plus tard le 9 octobre. D’autres formations seront disponibles à l’hiver aussi.
+
+## Sondage pour les activités sportives et optionnelles
+Pour les anciens cadets seulement, afin de faciliter la planification des activités sportives et optionnelles durant l’année, nous vous invitons à remplir les sondages suivants. 
+- [Soirée sport au CC 2920 – Remplir le formulaire](https://forms.cloud.microsoft/r/kjBEqGB9Wr)
+- [Intérêts des cadets à participer aux activités de l'année 2026-2027 – Remplir le formulaire](https://forms.cloud.microsoft/r/43zySX6z9S)
+
+
+## Bourse de la Légion
+Cette bourse est destinée à un cadet qui poursuit des études postsecondaires et dont un membre de la famille est ou a été militaire. C’est une manière de reconnaître non seulement le mérite individuel, mais aussi l’héritage de service et de sacrifice qui traverse les générations. Il y a la possibilité de remettre deux bourses à l'automne. Une bourse de 750$ pour des études collégiale et une bourse de 1500$ pour des études universitaires. Les candidats devront remettre une preuve d'admission ou d'horaire de leur lieu d'éducation, une lettre de candidature ainsi qu'un relevé de note. Les candidats devront soumettre leur candidature au lien suivant via leur compte Cadets365 avant le 22 septembre : [Candidature Bourse de la Légion 2026](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=-2oSqwzmL062z8c1DHbchBBEIFQ_HuhKp4os9dRIMxJUMzZNM1pOTThSQU1JUFVWWDFZQjA3RU5LMy4u).
 
 
 ## Habillement

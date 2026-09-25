@@ -3,15 +3,15 @@ title:  "Le comité de soutien"
 
 le-comite-soutien: 
     - member: 
-      name: M. Daniel Brunette
+      name: M. Simon Venne
       title: Président
       email: cciv2920@gmail.com
-      picture: "/docs/comite/CC2920-DanielBrunette.jpg"
+      picture: "/docs/comite/CC2920-SimonVenne.jpg"
 
     - member: 
-      name: Mme Ann Delaney
+      name: Mme Sonia Desjardins
       title: Vice-Présidente
-      picture: "/docs/comite/CC2920-AnnDelaney.jpg"
+      picture: "/docs/comite/CC2920-SoniaDesjardins.jpg"
 
     - member: 
       name: Mme Cynthia Blouin
@@ -22,6 +22,10 @@ le-comite-soutien:
       name: Mme Mélanie Simard 
       title: Secrétaire
       picture: "/docs/comite/CC2920-MelanieSimard.jpg"
+
+    - member:
+      name: Mme Amina Hufane
+      title: Administratrice
 
     - member:
       name: Mme Annie Thibodeau
@@ -44,31 +48,14 @@ le-comite-soutien:
       picture: "/docs/comite/CC2920-JosetteBougbe.jpg"
 
     - member:
-      name: Mme Louise Gauthier
+      name: Mme Majorie Normand-Desgagne
       title: Administratrice
-      picture: "/docs/comite/CC2920-LouiseGauthier.jpg"
 
     - member:
-      name: Mme Marie-Pascale Thibault
+      name: Mme Tiffany Atitsogbé
       title: Administratrice
-      picture: "/docs/comite/CC2920-MariePascaleThibault.jpg"
 
     - member:
-      name: M. Patrick Picard
-      title: Administrateur
-      picture:
-      
-    - member:
-      name: M. Simon Venne
-      title: Administrateur
-      picture: "/docs/comite/CC2920-SimonVenne.jpg"
-
-    - member: 
-      name: Mme Sonia Desjardins 
-      title: Administratrice
-      picture: "/docs/comite/CC2920-SoniaDesjardins.jpg"
-
-    - member: 
       name: Mme Valentina Garnet
       title: Administratrice
       picture: "/docs/comite/CC2920-ValentinaGarnet.jpg"
