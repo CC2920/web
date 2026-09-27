@@ -28,20 +28,20 @@ le-personnel:
 
   - personnel:
     picture: 
-    name: Lt Suree Roshan
+    name: Élof Marcelle Ngounou
     title: Officier d'administration
     email:
   
   - personnel:
     picture: 
-    name: Bénévole Bryan Laberge
-    title: Aviseur
+    name: "Bénévole Bryan Laberge"
+    title: "Aviseur"
     email:
 
   - personnel:
     picture: 
-    name: IC Souleymane Boiro
-    title: Responsable Niveau Or
+    name: "Élof Souleymane Boiro"
+    title: "Responsable Niveau Or et Sport"
     email:
     
   - personnel:
