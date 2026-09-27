@@ -2,7 +2,7 @@
 title:  "Le Personnel"  
 
 le-personnel:
-  - personnel:
+- personnel:
     picture: /docs/historique/CapcGaudetM.jpg
     name: Capc Marylène Gaudet, CD
     title: Commandant sortant
@@ -14,91 +14,91 @@ le-personnel:
     title: Commandant entrant
     email: 
 
-  - personnel:
+- personnel:
     picture: 
     name: Capt Zhébin Hu, CD 
     title: Officier d'entrainement
     email:
 
-  - personnel:
+- personnel:
     picture: 
     name: Lt Sylvie Simard
     title: Officier d'approvisionnement et Entraineur tir et biathlon
     email:
 
-  - personnel:
+- personnel:
     picture: 
     name: Élof Marcelle Ngounou
     title: Officier d'administration
     email:
   
-  - personnel:
+- personnel:
     picture: 
     name: Bénévole Bryan Laberge
     title: Aviseur
     email:
 
-  - personnel:
+- personnel:
     picture: 
     name: Élof Souleymane Boiro 
     title: Responsable Niveau Or et Sport
     email:
 
-  - personnel:
+- personnel:
     picture: /docs/personnel/BéataRus.jpg
     name: IC Béata Rus
     title: Responsable Niveau Argent et Musique
     email:
 
-  - personnel:
+- personnel:
     picture:
     name: Bénévole Daniel Brunette
     title: Responsable Niveau Argent 
     email:
 
-  - personnel:
+- personnel:
     picture:
     name: IC Sébastien Brunette
     title: Responsable Niveau Rouge 
     email:
 
-  - personnel:
+- personnel:
     picture:
     name: Bénévole Michel Drouin 
     title: Responsable Niveau Rouge et Adjoint Tir
     email:
     
-  - personnel:
+- personnel:
     picture: 
     name: IC Pierre Lafrance
     title: Adjoint Niveau Vert
     email:
 
-  - personnel:
+- personnel:
     picture: /docs/personnel/AlexandreBogucki.jpg
     name: Bénévole Alexandre Bogucki
     title: Responsable Niveau Vert et Adjoint Musique
     email:
 
-  - personnel:
+- personnel:
     picture: /docs/personnel/MélianeLegault.jpg
     name : Bénévole Méliane Legault
     title : Responsable Niveau Vert et Peloton de précision
     email :
 
-  - personnel:
+- personnel:
     picture:
     name : Bénévole Marie-Ève Barrette
     title : Responsable Niveau Vert et Biathlon
     email :
 
-  - personnel:
+- personnel:
     picture:
     name : Bénévole Guillaume St-Jean 
     title : Instructeur de biathlon
     email :
     
-  - personnel:
+- personnel:
     picture:
     name : Bénévole Mathieu St-Maurice
     title : Soutien ponctuel - spécialiste
