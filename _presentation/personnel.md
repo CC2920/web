@@ -2,106 +2,88 @@
 title:  "Le Personnel"  
 
 le-personnel:
-- personnel:
+  - personnel:
     picture: /docs/historique/CapcGaudetM.jpg
-    name: "Capc Marylène Gaudet, CD"
-    title: "Commandant sortant"
+    name: Capc Marylène Gaudet, CD
+    title: Commandant
     email: marylene.gaudet@cadets.gc.ca
 
-- personnel:
-    picture:
-    name: "Ltv Sonia Desalliers"
-    title: "Commandant entrant"
-    email: 
-
-- personnel:
+  - personnel:
     picture: 
-    name: "Capt Zhébin Hu, CD" 
-    title: "Officier d'entrainement"
+    name: Capt Zhebin Hu
+    title: Officier d'entrainement
     email:
 
-- personnel:
+  - personnel:
     picture: 
-    name: "Lt Sylvie Simard"
-    title: "Officier d'approvisionnement et Entraineur tir et biathlon"
+    name: Lt Sylvie Simard
+    title: Officier d'approvisionnement et Entraineur tir et biathlon
     email:
 
-- personnel:
+  - personnel:
     picture: 
-    name: "Élof Marcelle Ngounou"
-    title: "Officier d'administration"
+    name: Lt Suree Roshan
+    title: Officier d'administration
     email:
   
-- personnel:
+  - personnel:
     picture: 
-    name: "Bénévole Bryan Laberge"
-    title: "Aviseur"
+    name: Bénévole Bryan Laberge
+    title: Aviseur
     email:
 
-- personnel:
+  - personnel:
     picture: 
-    name: "Élof Souleymane Boiro"
-    title: "Responsable Niveau Or et Sport"
+    name: IC Souleymane Boiro
+    title: Responsable Niveau Or
+    email:
+    
+  - personnel:
+    picture: /docs/personnel/MarcelleNgounou.jpg
+    name: I.C. Marcelle Ngounou
+    title: Responsable Niveau Argent
+    email: 
+
+  - personnel:
+    picture: 
+    name: IC Pierre Lafrance
+    title: Adjoint Niveau Argent
     email:
 
-- personnel:
+  - personnel:
     picture: /docs/personnel/BéataRus.jpg
-    name: "IC Béata Rus"
-    title: "Responsable Niveau Argent et Musique"
+    name: IC Béata Rus
+    title: Responsable Niveau Rouge et Musique
     email:
 
-- personnel:
-    picture:
-    name: Bénévole Daniel Brunette
-    title: Responsable Niveau Argent 
-    email:
-
-- personnel:
-    picture:
-    name: "IC Sébastien Brunette"
-    title: "Responsable Niveau Rouge"
-    email:
-
-- personnel:
-    picture:
-    name: "Bénévole Michel Drouin"
-    title: "Responsable Niveau Rouge et Adjoint Tir"
-    email:
-    
-- personnel:
-    picture: 
-    name: "IC Pierre Lafrance"
-    title: "Adjoint Niveau Vert"
-    email:
-
-- personnel:
+  - personnel:
     picture: /docs/personnel/AlexandreBogucki.jpg
-    name: "Bénévole Alexandre Bogucki"
-    title: "Responsable Niveau Vert et Adjoint Musique"
+    name: Bénévole Alexandre Bogucki
+    title: Adjoint Niveau Rouge et Musique
     email:
 
-- personnel:
+  - personnel:
     picture: /docs/personnel/MélianeLegault.jpg
-    name : "Bénévole Méliane Legault"
-    title : "Responsable Niveau Vert et Peloton de précision"
+    name : Bénévole Méliane Legault
+    title : Responsable Niveau Vert et Peloton de précision
     email :
 
-- personnel:
+  - personnel:
     picture:
-    name : "Bénévole Marie-Ève Barrette"
-    title : "Responsable Niveau Vert et Biathlon"
+    name : Bénévole Olive Lowe
+    title : Adjoint Niveau Vert
     email :
 
-- personnel:
+  - personnel:
     picture:
-    name : "Bénévole Guillaume St-Jean"
-    title : "Instructeur de biathlon"
+    name : Bénévole Guillaume St-Jean 
+    title : Instructeur de biathlon
     email :
     
-- personnel:
+  - personnel:
     picture:
-    name : "Bénévole Mathieu St-Maurice"
-    title : "Soutien ponctuel - spécialiste"
+    name : Bénévole Mathieu St-Maurice
+    title : Soutien ponctuel
     email :
 ---
 
