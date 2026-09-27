@@ -43,49 +43,62 @@ le-personnel:
     name: "Élof Souleymane Boiro"
     title: "Responsable Niveau Or et Sport"
     email:
-    
-  - personnel:
-    picture: /docs/personnel/MarcelleNgounou.jpg
-    name: I.C. Marcelle Ngounou
-    title: Responsable Niveau Argent
-    email: 
-
-  - personnel:
-    picture: 
-    name: IC Pierre Lafrance
-    title: Adjoint Niveau Argent
-    email:
 
   - personnel:
     picture: /docs/personnel/BéataRus.jpg
-    name: IC Béata Rus
-    title: Responsable Niveau Rouge et Musique
+    name: "IC Béata Rus"
+    title: "Responsable Niveau Argent et Musique"
     email:
 
   - personnel:
-    picture: /docs/personnel/AlexandreBogucki.jpg
-    name: Bénévole Alexandre Bogucki
-    title: Adjoint Niveau Rouge et Musique
+    picture:
+    name: Bénévole Daniel Brunette
+    title: Responsable Niveau Argent 
     email:
 
   - personnel:
-    picture: /docs/personnel/MélianeLegault.jpg
-    name : Bénévole Méliane Legault
-    title : Responsable Niveau Vert et Peloton de précision
-    email :
+    picture:
+    name: "IC Sébastien Brunette"
+    title: "Responsable Niveau Rouge"
+    email:
 
   - personnel:
     picture:
-    name : Bénévole Olive Lowe
-    title : Adjoint Niveau Vert
-    email :
+    name: "Bénévole Michel Drouin"
+    title: "Responsable Niveau Rouge et Adjoint Tir"
+    email:
 
   - personnel:
-    picture:
-    name : Bénévole Guillaume St-Jean 
-    title : Instructeur de biathlon
-    email :
+    picture: 
+    name: "IC Pierre Lafrance"
+    title: "Adjoint Niveau Vert"
+    email:
+
+
+  - personnel:
+     picture: /docs/personnel/AlexandreBogucki.jpg
+    name: "Bénévole Alexandre Bogucki"
+    title: "Responsable Niveau Vert et Adjoint Musique"
+    email:
     
+  - personnel:
+   picture: /docs/personnel/MélianeLegault.jpg
+    name : "Bénévole Méliane Legault"
+    title : "Responsable Niveau Vert et Peloton de précision"
+    email :
+
+  - personnel:
+    picture:
+    name : "Bénévole Marie-Ève Barrette"
+    title : "Responsable Niveau Vert et Biathlon"
+    email :
+
+  - personnel:
+    picture:
+    name : "Bénévole Guillaume St-Jean"
+    title : "Instructeur de biathlon"
+    email :
+
   - personnel:
     picture:
     name : Bénévole Mathieu St-Maurice
