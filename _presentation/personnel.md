@@ -5,12 +5,18 @@ le-personnel:
   - personnel:
     picture: /docs/historique/CapcGaudetM.jpg
     name: Capc Marylène Gaudet, CD
-    title: Commandant
+    title: Commandant sortant
     email: marylene.gaudet@cadets.gc.ca
 
   - personnel:
     picture: 
-    name: Capt Zhebin Hu
+    name: Ltv Sonia Desalliers
+    title: Commandant entrant
+    email: 
+    
+  - personnel:
+    picture: 
+    name: Capt Zhebin Hu, CD
     title: Officier d'entrainement
     email:
 
