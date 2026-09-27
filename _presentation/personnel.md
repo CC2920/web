@@ -76,13 +76,13 @@ le-personnel:
 
 
   - personnel:
-     picture: /docs/personnel/AlexandreBogucki.jpg
+    picture: /docs/personnel/AlexandreBogucki.jpg
     name: "Bénévole Alexandre Bogucki"
     title: "Responsable Niveau Vert et Adjoint Musique"
     email:
     
   - personnel:
-   picture: /docs/personnel/MélianeLegault.jpg
+    picture: /docs/personnel/MélianeLegault.jpg
     name : "Bénévole Méliane Legault"
     title : "Responsable Niveau Vert et Peloton de précision"
     email :
