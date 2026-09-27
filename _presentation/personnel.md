@@ -5,12 +5,18 @@ le-personnel:
   - personnel:
     picture: /docs/historique/CapcGaudetM.jpg
     name: Capc Marylène Gaudet, CD
-    title: Commandant
+    title: Commandant sortant
     email: marylene.gaudet@cadets.gc.ca
+
+- personnel:
+    picture:
+    name: Ltv Sonia Desalliers
+    title: Commandant entrant
+    email: 
 
   - personnel:
     picture: 
-    name: Capt Zhebin Hu
+    name: Capt Zhébin Hu, CD 
     title: Officier d'entrainement
     email:
 
@@ -22,7 +28,7 @@ le-personnel:
 
   - personnel:
     picture: 
-    name: Lt Suree Roshan
+    name: Élof Marcelle Ngounou
     title: Officier d'administration
     email:
   
@@ -34,32 +40,44 @@ le-personnel:
 
   - personnel:
     picture: 
-    name: IC Souleymane Boiro
-    title: Responsable Niveau Or
-    email:
-    
-  - personnel:
-    picture: /docs/personnel/MarcelleNgounou.jpg
-    name: I.C. Marcelle Ngounou
-    title: Responsable Niveau Argent
-    email: 
-
-  - personnel:
-    picture: 
-    name: IC Pierre Lafrance
-    title: Adjoint Niveau Argent
+    name: Élof Souleymane Boiro 
+    title: Responsable Niveau Or et Sport
     email:
 
   - personnel:
     picture: /docs/personnel/BéataRus.jpg
     name: IC Béata Rus
-    title: Responsable Niveau Rouge et Musique
+    title: Responsable Niveau Argent et Musique
+    email:
+
+  - personnel:
+    picture:
+    name: Bénévole Daniel Brunette
+    title: Responsable Niveau Argent 
+    email:
+
+  - personnel:
+    picture:
+    name: IC Sébastien Brunette
+    title: Responsable Niveau Rouge 
+    email:
+
+  - personnel:
+    picture:
+    name: Bénévole Michel Drouin 
+    title: Responsable Niveau Rouge et Adjoint Tir
+    email:
+    
+  - personnel:
+    picture: 
+    name: IC Pierre Lafrance
+    title: Adjoint Niveau Vert
     email:
 
   - personnel:
     picture: /docs/personnel/AlexandreBogucki.jpg
     name: Bénévole Alexandre Bogucki
-    title: Adjoint Niveau Rouge et Musique
+    title: Responsable Niveau Vert et Adjoint Musique
     email:
 
   - personnel:
@@ -70,8 +88,8 @@ le-personnel:
 
   - personnel:
     picture:
-    name : Bénévole Olive Lowe
-    title : Adjoint Niveau Vert
+    name : Bénévole Marie-Ève Barrette
+    title : Responsable Niveau Vert et Biathlon
     email :
 
   - personnel:
@@ -83,7 +101,7 @@ le-personnel:
   - personnel:
     picture:
     name : Bénévole Mathieu St-Maurice
-    title : Soutien ponctuel
+    title : Soutien ponctuel - spécialiste
     email :
 ---
 
