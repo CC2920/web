@@ -17,7 +17,7 @@ Voici les instructions pour activer votre compte Cadet365 une fois que vous avez
 
 ## Comité de soutien
 
-Le comité de soutien est une organisation civile à but non lucratif qui a pour mission de soutenir le Corps de cadets de l’Armée 2920 Gatineau. Pour plus d’information sur les façons d’aider, veuillez communiquer avec Daniel Brunette par courriel au <cciv2920@gmail.com>.
+Le comité de soutien est une organisation civile à but non lucratif qui a pour mission de soutenir le Corps de cadets de l’Armée 2920 Gatineau. Pour plus d’information sur les façons d’aider, veuillez communiquer avec Simon Venne par courriel au <cciv2920@gmail.com>.
 
 ## Groupe Facebook du CC2920
 
