@@ -72,8 +72,7 @@ Afin d'assurer un encadrement sécuritaire et de qualité pour l'ensemble des ca
 ## Biathlon
 - **Qui :** tous les cadets intéressés
 - **Quand :** les samedis de 10h à 12h, du 3 octobre au 14 novembre, compétition inter-unité le 21 novembre
-- **Lieu :** Pour le 10 octobre, ce sera au parc René-Lévesque
-(https://maps.app.goo.gl/tt9wYYXfyjwofJny9)
+- **Lieu :** Pour le 10 octobre, ce sera au [parc René-Lévesque](https://maps.app.goo.gl/bCK4D2xEEmGaZjN48)
 - **Tenue :** sport extérieur. Apportez collation et bouteille d’eau.
 - Voici le plan d’entraînement proposé pour cette semaine : [Plan entrainement - semaine 1 - .docx](https://csdraveurs-my.sharepoint.com/:w:/g/personal/marieevebarrette_cssd_gouv_qc_ca/IQBuLDLcetKPRY4MUpR-igH_AUOyt7OQc-SNfGOEbIJMOS0?e=oykXvf)
 
