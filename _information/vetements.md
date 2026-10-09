@@ -12,7 +12,7 @@ Il également possible d'acheter en-ligne ces articles dans notre la boutique of
 ---
 ### T-shirt 
 
-Prix : 25.00 $
+Prix : 15.00 $
 
  ![T-shirt rouge]({{ site.baseurl }}/docs/accessoires/tshirt.jpg)
 
