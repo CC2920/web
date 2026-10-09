@@ -33,6 +33,7 @@ Nous sollicitons la participation **des cadets, des parents bénévoles (avec ou
   - 🗓 Samedi 17 octobre 2026
   - 🕘 Rassemblement à 9h00
   - 🕤 Début de la collecte à 9h30
+  - 🕤 Fin de la collecte à 12h30
 - **Lieu :** [52 rue Saint-Rosaire, Gatineau](https://maps.app.goo.gl/s8CkVfUYvJYYVzY17) - Point de rencontre, point de départ et de retour. Ce sera également notre centre de tri.
 - **Tenue :** C5 - Uniforme de campagne avec chandail de laine vert sous la veste. Adaptez votre tenue à la météo (tuque, gants, manteau au besoin).
 - **Informations supplémentaires :**  N'oubliez pas votre bouteille d’eau et une collation.
