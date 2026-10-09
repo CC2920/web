@@ -102,9 +102,9 @@ Vous souhaitez vous procurer des articles à l'effigie du CC2920? Visitez notre 
 
 * Les achats effectués en ligne doivent être récupérés à la cantine du CC2920 les vendredis soirs où il y a instruction des cadets.
 * Après votre achat en ligne, vous recevrez un courriel contenant les instructions pour récupérer votre commande.
-* Les articles, les tailles et les options disponibles sont indiqués dans la boutique officielle.
+* Les articles, les tailles et les options disponibles sont indiqués dans la [boutique officielle du CC2920](https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029).
 
-Les prix et la disponibilité des articles peuvent changer. Consultez la boutique Zeffy pour connaître les options offertes au moment de votre achat.
+Les prix et la disponibilité des articles peuvent changer. Consultez la [boutique officielle du CC2920](https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029) pour connaître les options offertes au moment de votre achat.
 
 ## ❤️ Une boutique qui soutient nos cadets
 
