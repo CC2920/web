@@ -9,7 +9,7 @@ Achetez des cartes-cadeaux via le site [Fundscrip](https://www.fundscrip.com/sou
 
 ### Canettes et bouteilles
 
-Si vous avez des canettes ou des bouteilles de vin, vous pouvez communiquer avec le comité de soutien au : [cciv2920@gmail.com](mailto:cciv2920@gmail.com)
+Si vous avez des canettes ou des bouteilles de bière, vous pouvez communiquer avec le comité de soutien au : [cciv2920@gmail.com](mailto:cciv2920@gmail.com)
 
 ### Items à la cantine (52 St. Rosaire)
 
@@ -41,7 +41,7 @@ Il est aussi possible de faire un don d’actions cotées en bourse et éviter d
 Libellez celui-ci au nom du *Comité civil du Corps de Cadets 2920 Gatineau* et envoyez au *CP 82029, Gatineau, Québec, J8T 8B6*
 
 #### Virement interac
-Envoyez celui-ci à l'adresse *cciv2920@gmail.com* avec la question de sécurité : *Corps de cadets?* Et la réponse doit être : *2920*. 
+Envoyez celui-ci à l'adresse [finances.cc2920@gmail.com](mailto:finances.cc2920@gmail.com) avec la question de sécurité : *Corps de cadets?* Et la réponse doit être : *2920*. 
 
 *SVP mettre la mention DON ainsi que votre information dans les notes (afin que nous puissions vous remercier !)*
 
