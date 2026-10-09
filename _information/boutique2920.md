@@ -90,7 +90,7 @@ Il est également possible de commander ces articles en ligne dans notre [boutiq
   </div>
 </div>
 
-## 🛒 Commander en ligne
+## Commander en ligne
 
 Vous souhaitez vous procurer des articles à l'effigie du CC2920? Visitez notre boutique officielle en ligne!
 
@@ -106,7 +106,7 @@ Vous souhaitez vous procurer des articles à l'effigie du CC2920? Visitez notre 
 
 Les prix et la disponibilité des articles peuvent changer. Consultez la [boutique officielle du CC2920](https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029) pour connaître les options offertes au moment de votre achat.
 
-## ❤️ Une boutique qui soutient nos cadets
+## Une boutique qui soutient nos cadets
 
 La boutique est une initiative du **comité de soutien du Corps de cadets 2920 Gatineau**.
 
