@@ -48,11 +48,7 @@ le-comite-soutien:
       picture: "/docs/comite/CC2920-JosetteBougbe.jpg"
 
     - member:
-      name: Mme Majorie Normand-Desgagne
-      title: Administratrice
-
-    - member:
-      name: Mme Tiffany Atitsogbé
+      name: Mme Tytler Antoinette
       title: Administratrice
 
     - member:
