@@ -13,7 +13,11 @@ Si vous avez des canettes ou des bouteilles de bière, vous pouvez communiquer a
 
 ### Items à la cantine (52 St. Rosaire)
 
-[Habillement civil du corps de cadets]({{ site.url }}{{ site.baseurl }}/information/vetements/) : Les gilets sont disponibles au coût de 25$, de même que des casquettes et tuques au coût de 15$.
+Sur place, à la cantine, vous trouverez également les articles à l'effigie du corps de cadets, une variété de friandises et de collations, des boissons et d'autres articles.
+
+### Boutique officielle du Corps de cadets 2920
+
+Consultez notre [boutique officielle du CC2920](https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029)boutique en ligne du Corps de cadets 2920 pour découvrir les articles à l'effigie du corps de cadets.
 
 ---
 
