@@ -3,13 +3,11 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d’instruction 9 octobre
-- **Qui :** optionnelle pour tous
+## Soirée d’instruction 16 octobre
+- **Qui :** tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** [52 rue Saint-Rosaire, Gatineau](https://maps.app.goo.gl/s8CkVfUYvJYYVzY17)
-- **Tenue pour tous :** sport avec t-shirt vert et t-shirt rouge de l’unité pour ceux qui les ont. Tenue sport pour les autres. Apportez votre bouteille d’eau remplie et des vêtements pour du sport extérieur aussi.
-- La soirée est optionnelle ce vendredi dans le contexte de la fin de semaine de l’Action de grâce.
-- Pour les recrues et leurs parents, nous vous invitons à rejoindre le groupe Facebook et à suivre la page Instagram du corps de cadets pour nos nouvelles et des photos de nos activités aux liens suivants : [Facebook](https://www.facebook.com/groups/cc2920Gatineau) [Instagram](https://www.instagram.com/corps_de_cadets_2920).
+- **Tenue pour tous :** C5
 
 [Guide des tenues](https://cc2920.us21.list-manage.com/track/click?u=eadebede776501f499284ae20&id=d92d722dc9&e=0b8a47f805)
 
@@ -19,7 +17,7 @@ layout: "messages"
 - 23 au 25 octobre : exercice d’automne
 - 31 octobre, 1 et 7 novembre : campagne du coquelicot
 - 8 novembre : parade du Jour du Souvenir
-- 14 novembre : instruction intensive pour recrues
+- 14 novembre : instruction intensive pour recrues, clinique de musique
 - 28 novembre : course d’orientation
 
 
@@ -50,35 +48,35 @@ Voici l’information pour l’exercice d’automne. Des copies papier seront di
 
 
 ## Campagne du coquelicot 31 octobre, 1 et 7 novembre
-Comme à chaque année, le corps de cadets 2920 participe à la Campagne du coquelicot de la Légion royale canadienne par la tenue de kiosques de distribution de coquelicots à divers endroits de Gatineau. Les heures et les lieux exacts sont à confirmer, mais la participation à un minimum d’une demi-journée par cadet est demandée afin de combler les postes et de rencontrer vos objectifs de service communautaire de votre programme d’instruction. L’inscription débutera le 2 octobre.
-
+- **Qui :** tous les cadets
+- **Quand :** 31 octobre, 1 et 7 novembre, 8h30 à 12h30 et 12h30 à 16h30
+- **Lieu :** Walmart - La Gappe, IGA - Gréber, Super C - Greber, Super C - Limbour, Musée de l’histoire, Maxi - Maloney
+- **Tenue :** C3 ou civil propre pour ceux n'ayant pas encore l’uniforme.
+- Le corps de cadets va appuyer la Légion royale canadienne filiale 58 pendant la campagne du coquelicot. Les cadets y seront aux lieux et heures ci-dessus en équipe de deux ou trois.
+- La participation compte comme du service communautaire afin de se qualifier pour son niveau et les cadets du niveau rouge et plus devraient faire au moins une demi-journée. Nous invitons aussi les nouveaux cadets et cadets de s'inscrire aussi pour vivre l'expérience et apprendre à connaître d'autres cadets. Il est possible de faire plusieurs quarts, donc de 1 à 6.
+- Si vous avez des questions, pour connaître les dates et endroits ayant encore besoin de participants ou pour vous inscrire, svp communiquer avec IC D Brunette en personne vendredi soir ou au <danielpbrunette@gmail.com>.
 
 ## Instruction intensive pour recrues 14 novembre
 Les recrues nées avant le 1er janvier 2013 ont l’opportunité de sauter de niveau d’instruction au niveau rouge ou argent afin d’être avec des jeunes de leur âge. Une journée d’instruction intensive aura lieu le 14 novembre pour bénéficier de cette transition. Heures et lieu exacts à venir.
 
 
 ## Limitation des inscriptions selon l'âge
-Afin d'assurer un encadrement sécuritaire et de qualité pour l'ensemble des cadets, nous devons respecter des ratios de supervision adaptés à l'âge et aux besoins des participants. En raison des capacités d'encadrement actuellement disponibles, nous ne sommes malheureusement plus en mesure d'accepter de nouvelles inscriptions de jeunes âgés de plus de 12 ans. Cette mesure vise à maintenir un environnement sécuritaire et à offrir une expérience positive à tous les cadets déjà inscrits. Nous comprenons que cette décision puisse être décevante et nous vous remercions de votre compréhension.
-
+fin d'assurer un encadrement sécuritaire et de qualité pour l'ensemble des cadets, nous devons respecter des ratios de supervision adaptés à l'âge et aux besoins des participants. En raison des capacités d'encadrement actuellement disponibles, nous ne sommes malheureusement plus en mesure d'accepter de nouvelles inscriptions de jeunes âgés de plus de 12 ans. Cette mesure vise à maintenir un environnement sécuritaire et à offrir une expérience positive à tous les cadets déjà inscrits. Nous comprenons que cette décision puisse être décevante et nous vous remercions de votre compréhension.
 
 
 ## Musique
 - **Qui :** tous les cadets intéressés
-- **Quand :** les dimanches. Pas de pratique le 11 octobre
+- **Quand :** les dimanches de 8h45 à 13h
 - **Lieu :** [188 Alexandre-Taché, Gatineau](https://maps.app.goo.gl/2P8uYhaVri9YqjkJA)
 - **Tenue :** civile
-- Il n’est pas nécessaire ni de posséder ni de savoir jouer un instrument d’avance pour rejoindre la musique du corps de cadets. Un prêt d’instrument est disponible.
 
   
 ## Biathlon
 - **Qui :** tous les cadets intéressés
-- **Quand :** les samedis de 10h à 12h, du 3 octobre au 14 novembre, compétition inter-unité le 21 novembre
-- **Lieu :** Pour le 10 octobre, ce sera au [parc René-Lévesque](https://maps.app.goo.gl/bCK4D2xEEmGaZjN48)
+- **Quand :** les samedis de 10h à 12h, compétition inter-unité le 21 novembre. Prochaine pratique le 31 octobre.
+- **Lieu :** lieu variable. Pour le 31 octobre, Polyvalente de l’Érablière [500 rue de Cannes](https://maps.app.goo.gl/bCK4D2xEEmGaZjN48)
 - **Tenue :** sport extérieur. Apportez collation et bouteille d’eau.
-- Voici le plan d’entraînement proposé pour cette semaine : [Plan entrainement - semaine 1 - .docx](https://csdraveurs-my.sharepoint.com/:w:/g/personal/marieevebarrette_cssd_gouv_qc_ca/IQBuLDLcetKPRY4MUpR-igH_AUOyt7OQc-SNfGOEbIJMOS0?e=oykXvf)
-
-
-## Habillement
-L’habillement sera ouvert de 18h30 à 20h le 30 septembre pour les échanges et les retours d’uniforme.
+- Voici le plan d’entraînement proposé pour cette semaine : [Plan entrainement - semaine 2 - .docx](https://csdraveurs-my.sharepoint.com/:w:/g/personal/marieevebarrette_cssd_gouv_qc_ca/IQA-awg8X7W-Tb1qVc2eQvkUAX7Mp8Mpyo7jcSPrKmItgeI?e=jDi5Av)
+- Aux participants, veuillez envoyer un courriel à l'adresse suivante afin de vous ajouter à notre groupe de discussion Messenger: <stjean.guillaume@gmail.com>.
 
 Si vous avez des questions, n’hésitez pas à nous contacter à <2920armee@cadets.gc.ca>.
