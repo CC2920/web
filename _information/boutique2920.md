@@ -9,25 +9,22 @@ Il est également possible de commander ces articles en ligne dans notre [boutiq
 
 <div class="boutique-grid">
 
-  <div class="boutique-item">
-    <div class="boutique-image">
-      <img src="/docs/accessoires/tshirt.jpg" alt="T-shirt du CC2920">
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+     class="boutique-lien"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="Commander le T-shirt du CC2920 sur Zeffy">
+    <div class="boutique-item">
+      <div class="boutique-image">
+        <img src="/docs/accessoires/tshirt.jpg"
+             alt="T-shirt du CC2920">
+      </div>
+      <div class="boutique-info">
+        <strong>T-shirt</strong>
+        <p>15 $</p>
+      </div>
     </div>
-    <div class="boutique-info">
-      <strong>T-shirt</strong>
-      <p>15 $</p>
-    </div>
-  </div>
-
-  <div class="boutique-item">
-    <div class="boutique-image">
-      <img src="/docs/accessoires/casquette_cadet.jpg" alt="Casquette des cadets">
-    </div>
-    <div class="boutique-info">
-      <strong>Casquette des cadets</strong>
-      <p>15 $</p>
-    </div>
-  </div>
+  </a>
 
   <div class="boutique-item">
     <div class="boutique-image">
