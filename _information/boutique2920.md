@@ -9,7 +9,7 @@ Il est également possible de commander ces articles en ligne dans notre [boutiq
 
 <div class="boutique-grid">
 
-  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029#:~:text=T-shirt du corps de cadets - coton"
      class="boutique-lien"
      target="_blank"
      rel="noopener noreferrer"
@@ -89,7 +89,7 @@ Il est également possible de commander ces articles en ligne dans notre [boutiq
     </div>
   </a>
 
-  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029#:~:text=Cire pour bottes de combat"
      class="boutique-lien"
      target="_blank"
      rel="noopener noreferrer"
