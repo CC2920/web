@@ -9,7 +9,7 @@ Il est également possible de commander ces articles en ligne dans notre [boutiq
 
 <div class="boutique-grid">
 
-  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029#:~:text=T-shirt du corps de cadets - coton"
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029#:~:text=T-shirt%20du%20corps%20de%20cadets%20%2D%20coton"
      class="boutique-lien"
      target="_blank"
      rel="noopener noreferrer"
@@ -25,7 +25,7 @@ Il est également possible de commander ces articles en ligne dans notre [boutiq
     </div>
   </a>
   
-  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029#:~:text=T-shirt%20du%20corps%20de%20cadets%20%2D%20polyester"
      class="boutique-lien"
      target="_blank"
      rel="noopener noreferrer"
@@ -41,7 +41,7 @@ Il est également possible de commander ces articles en ligne dans notre [boutiq
     </div>
   </a>
 
-  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029#:~:text=Casquette%20Cadet%20(verte)"
      class="boutique-lien"
      target="_blank"
      rel="noopener noreferrer"
@@ -57,7 +57,7 @@ Il est également possible de commander ces articles en ligne dans notre [boutiq
     </div>
   </a>
 
-  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029#:~:text=Casquette%20pour%20les%20sympathisants%20(beige)"
      class="boutique-lien"
      target="_blank"
      rel="noopener noreferrer"
@@ -73,7 +73,7 @@ Il est également possible de commander ces articles en ligne dans notre [boutiq
     </div>
   </a>
 
-  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029#:~:text=Casquette%20pour%20le%20personnel%20(noire)"
      class="boutique-lien"
      target="_blank"
      rel="noopener noreferrer"
@@ -105,7 +105,7 @@ Il est également possible de commander ces articles en ligne dans notre [boutiq
     </div>
   </a>
   
-  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029#:~:text=Cire%20pour%20bottes%20de%20parade"
      class="boutique-lien"
      target="_blank"
      rel="noopener noreferrer"
@@ -121,7 +121,7 @@ Il est également possible de commander ces articles en ligne dans notre [boutiq
     </div>
   </a>
 
-  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029#:~:text=Chandail%20coton%2Douaté"
      class="boutique-lien"
      target="_blank"
      rel="noopener noreferrer"
@@ -137,7 +137,7 @@ Il est également possible de commander ces articles en ligne dans notre [boutiq
     </div>
   </a>
   
-  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029#:~:text=Chandail%20coton%2Douaté%20personnalisé"
      class="boutique-lien"
      target="_blank"
      rel="noopener noreferrer"
