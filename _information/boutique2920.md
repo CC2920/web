@@ -13,79 +13,146 @@ Il est également possible de commander ces articles en ligne dans notre [boutiq
      class="boutique-lien"
      target="_blank"
      rel="noopener noreferrer"
-     aria-label="Commander le T-shirt du CC2920 sur Zeffy">
+     aria-label="Commander le T-shirt du CC2920 sur notre boutique en ligne">
     <div class="boutique-item">
       <div class="boutique-image">
-        <img src="/docs/accessoires/tshirt.jpg"
-             alt="T-shirt du CC2920">
+        <img src="/docs/accessoires/tshirt.jpg">
       </div>
       <div class="boutique-info">
-        <strong>T-shirt</strong>
+        <strong>T-shirt (coton)</strong>
+        <p>15 $</p>
+      </div>
+    </div>
+  </a>
+  
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+     class="boutique-lien"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="Commander le T-shirt du CC2920 sur notre boutique en ligne">
+    <div class="boutique-item">
+      <div class="boutique-image">
+        <img src="/docs/accessoires/tshirt.jpg">
+      </div>
+      <div class="boutique-info">
+        <strong>T-shirt (polyester)</strong>
         <p>15 $</p>
       </div>
     </div>
   </a>
 
-  <div class="boutique-item">
-    <div class="boutique-image">
-      <img src="/docs/accessoires/casquette_fan.jpg" alt="Casquette des sympathisants">
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+     class="boutique-lien"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="Commander la casquette des cadets du CC2920 sur notre boutique en ligne">
+    <div class="boutique-item">
+      <div class="boutique-image">
+        <img src="/docs/accessoires/casquette_cadet.jpg">
+      </div>
+      <div class="boutique-info">
+        <strong>Casquette des cadets</strong>
+        <p>15 $</p>
+      </div>
     </div>
-    <div class="boutique-info">
-      <strong>Casquette des sympathisants</strong>
-      <p>15 $</p>
-    </div>
-  </div>
+  </a>
 
-  <div class="boutique-item">
-    <div class="boutique-image">
-      <img src="/docs/accessoires/casquette_staff.jpg" alt="Casquette du personnel">
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+     class="boutique-lien"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="Commander la casquette des sympathisants du CC2920 sur notre boutique en ligne">
+    <div class="boutique-item">
+      <div class="boutique-image">
+        <img src="/docs/accessoires/casquette_fan.jpg">
+      </div>
+      <div class="boutique-info">
+        <strong>Casquette des sympathisants</strong>
+        <p>15 $</p>
+      </div>
     </div>
-    <div class="boutique-info">
-      <strong>Casquette du personnel</strong>
-      <p>15 $</p>
-    </div>
-  </div>
+  </a>
 
-  <div class="boutique-item">
-    <div class="boutique-image">
-      <img src="/docs/accessoires/cire-bottes-combat.jpg" alt="Cire pour bottes de combat">
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+     class="boutique-lien"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="Commander la casquette du personnel du CC2920 sur notre boutique en ligne">
+    <div class="boutique-item">
+      <div class="boutique-image">
+        <img src="/docs/accessoires/casquette_staff.jpg">
+      </div>
+      <div class="boutique-info">
+        <strong>Casquette du personnel</strong>
+        <p>15 $</p>
+      </div>
     </div>
-    <div class="boutique-info">
-      <strong>Cire pour bottes de combat</strong>
-      <p>5 $</p>
-    </div>
-  </div>
+  </a>
 
-  <div class="boutique-item">
-    <div class="boutique-image">
-      <img src="/docs/accessoires/cire-bottes-parade.jpg" alt="Cire pour bottes de parade">
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+     class="boutique-lien"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="Commander la cire pour bottes de combat sur notre boutique en ligne">
+    <div class="boutique-item">
+      <div class="boutique-image">
+        <img src="/docs/accessoires/cire-bottes-combat.jpg">
+      </div>
+      <div class="boutique-info">
+        <strong>Cire pour bottes de combat</strong>
+        <p>5 $</p>
+      </div>
     </div>
-    <div class="boutique-info">
-      <strong>Cire pour bottes de parade</strong>
-      <p>5 $</p>
-    </div>
-  </div>
+  </a>
 
-  <div class="boutique-item">
-    <div class="boutique-image">
-      <img src="/docs/accessoires/chandail-coton-ouate-rouge.jpg" alt="Chandail coton-ouaté">
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+     class="boutique-lien"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="Commander la cire pour bottes de parade sur notre boutique en ligne">
+    <div class="boutique-item">
+      <div class="boutique-image">
+        <img src="/docs/accessoires/cire-bottes-parade.jpg">
+      </div>
+      <div class="boutique-info">
+        <strong>Cire pour bottes de parade</strong>
+        <p>5 $</p>
+      </div>
     </div>
-    <div class="boutique-info">
-      <strong>Chandail coton-ouaté</strong>
-      <p>45 $</p>
+  </a>
+
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+     class="boutique-lien"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="Commander le coton-ouaté du CC2920 sur notre boutique en ligne">
+    <div class="boutique-item">
+      <div class="boutique-image">
+        <img src="/docs/accessoires/chandail-coton-ouate-rouge.jpg">
+      </div>
+      <div class="boutique-info">
+        <strong>Chandail coton-ouaté</strong>
+        <p>45 $</p>
+      </div>
     </div>
-  </div>
+  </a>
   
-  <div class="boutique-item">
-    <div class="boutique-image">
-      <img src="/docs/accessoires/chandail-coton-ouate-rouge_perso.jpg" alt="Chandail coton-ouaté personnalisé">
-    </div>
-    <div class="boutique-info">
-      <strong>Chandail coton-ouaté personnalisé</strong>
-      <p>50 $</p>
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
+     class="boutique-lien"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="Commander le coton-ouaté personnalisé du CC2920 sur notre boutique en ligne">
+    <div class="boutique-item">
+      <div class="boutique-image">
+        <img src="/docs/accessoires/chandail-coton-ouate-rouge_perso.jpg">
+      </div>
+      <div class="boutique-info">
+        <strong>Chandail coton-ouaté personnalisé</strong>
+        <p>50 $</p>
+      </div>
     </div>
   </div>
-</div>
+</a>
 
 ## Commander en ligne
 
