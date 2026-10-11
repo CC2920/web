@@ -104,7 +104,7 @@ Il est également possible de commander ces articles en ligne dans notre [boutiq
       </div>
     </div>
   </a>
-
+  
   <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029"
      class="boutique-lien"
      target="_blank"
@@ -151,8 +151,8 @@ Il est également possible de commander ces articles en ligne dans notre [boutiq
         <p>50 $</p>
       </div>
     </div>
-  </div>
-</a>
+  </a>
+</div>
 
 ## Commander en ligne
 
