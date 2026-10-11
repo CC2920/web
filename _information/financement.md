@@ -1,8 +1,6 @@
 ---
 title:  "Financement"
 ---
-
-
 ### Cartes-cadeaux - Achat (Fundscrip)
 
 Achetez des cartes-cadeaux via le site [Fundscrip](https://www.fundscrip.com/soutenir-un-groupe/3CKM2J) et encouragez le Corps de cadets du même coup. Pour chaque fournisseur, vous verrez un pourcentage, c'est le pourcentage de remise que le fournisseur remettra au CC2920. Plus vous achetez, plus c'est profitable pour nos cadets.
@@ -41,6 +39,10 @@ Il est aussi possible de faire un don d’actions cotées en bourse et éviter d
 
 ### Don (sans reçu fiscal)
 
+### Zeffy
+Pour faire un don, accédez à notre formulaire Zeffy, choisissez la fréquence de votre contribution (ponctuelle, mensuelle ou annuelle), puis sélectionnez ou saisissez le montant désiré. 
+[Soutenez notre mission](https://www.zeffy.com/fr-CA/donation-form/soutenez-notre-mission-415)
+
 #### Chèque (Sans reçu fiscal)
 Libellez celui-ci au nom du *Comité civil du Corps de Cadets 2920 Gatineau* et envoyez au *CP 82029, Gatineau, Québec, J8T 8B6*
 
@@ -55,5 +57,8 @@ Apportez votre don à la cantine au [52 St. Rosaire]({{ site.url }}/information/
 #### Dons en Cartes-cadeaux
 
 Nous invitons les entreprises de la région à contribuer des items, services ou certificats-cadeaux pour appuyer le financement par l’entremise de vente aux enchères etc.
+
+
+
 
 
