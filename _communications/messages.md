@@ -64,6 +64,19 @@ Les recrues nées avant le 1er janvier 2013 ont l’opportunité de sauter de ni
 fin d'assurer un encadrement sécuritaire et de qualité pour l'ensemble des cadets, nous devons respecter des ratios de supervision adaptés à l'âge et aux besoins des participants. En raison des capacités d'encadrement actuellement disponibles, nous ne sommes malheureusement plus en mesure d'accepter de nouvelles inscriptions de jeunes âgés de plus de 12 ans. Cette mesure vise à maintenir un environnement sécuritaire et à offrir une expérience positive à tous les cadets déjà inscrits. Nous comprenons que cette décision puisse être décevante et nous vous remercions de votre compréhension.
 
 
+## Tir
+- **Qui :** les cadets ayant fait partie de l’équipe de tir l’an dernier pour ce lundi.
+- **Quand :** les lundis début 18h15, heure de fin selon les cadets présents
+- **Lieu :** [100 rue de la Baie, Gatineau](https://maps.app.goo.gl/DnFTU7ALrTDhjDoQ9)
+
+
+## Peloton de précision
+- **Qui :** tous les cadets intéressés
+- **Quand :** les mercredis de 18h30 à 20h30
+- **Lieu :** [100 rue de la Baie, Gatineau](https://maps.app.goo.gl/DnFTU7ALrTDhjDoQ9)
+- **Informations supplémentaires :** Tenue civile avec les bottes de parade si vous l’avez. Apportez une bouteille d’eau et des collations si vous le désirez. 
+
+
 ## Musique
 - **Qui :** tous les cadets intéressés
 - **Quand :** les dimanches de 8h45 à 13h
