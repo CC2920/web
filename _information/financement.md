@@ -3,7 +3,17 @@ title:  "Financement"
 ---
 ### Cartes-cadeaux - Achat (Fundscrip)
 
-Achetez des cartes-cadeaux via le site [Fundscrip](https://www.fundscrip.com/soutenir-un-groupe/3CKM2J) et encouragez le Corps de cadets du même coup. Pour chaque fournisseur, vous verrez un pourcentage, c'est le pourcentage de remise que le fournisseur remettra au CC2920. Plus vous achetez, plus c'est profitable pour nos cadets.
+Achetez des cartes-cadeaux via le site [Fundscrip](https://www.fundscrip.com/soutenir-un-groupe/EWCCDU) et encouragez le Corps de cadets du même coup. Pour chaque fournisseur, vous verrez un pourcentage, c'est le pourcentage de remise que le fournisseur remettra au CC2920. Plus vous achetez, plus c'est profitable pour nos cadets.
+<div style="text-align: center;">
+  <a href="https://www.fundscrip.com/soutenir-un-groupe/EWCCDU">
+    <img
+      src="https://static.fundscrip.com/msm/FundScrip-Banniere-300x250.png"
+      width="300"
+      height="250"
+      alt="Support our group with FundScrip"
+    />
+  </a>
+</div>
 
 ### Canettes et bouteilles
 
