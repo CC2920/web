@@ -14,6 +14,7 @@ Achetez des cartes-cadeaux via le site [Fundscrip](https://www.fundscrip.com/sou
     />
   </a>
 </div>
+
 ### Canettes et bouteilles
 
 Si vous avez des canettes ou des bouteilles de bière, vous pouvez communiquer avec le comité de soutien au : [cciv2920@gmail.com](mailto:cciv2920@gmail.com)
