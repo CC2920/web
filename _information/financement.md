@@ -4,6 +4,10 @@ title:  "Financement"
 ### Cartes-cadeaux - Achat (Fundscrip)
 
 Achetez des cartes-cadeaux via le site [Fundscrip](https://www.fundscrip.com/soutenir-un-groupe/EWCCDU) et encouragez le Corps de cadets du même coup. Pour chaque fournisseur, vous verrez un pourcentage, c'est le pourcentage de remise que le fournisseur remettra au CC2920. Plus vous achetez, plus c'est profitable pour nos cadets.
+
+#### Comment ça marche ?
+Laissez-vous guider par ce petit manuel illustré pour configurer votre compte et faire vos premiers achats : [**Guide de démarrage rapide**](/docs/fundscrip-Guide%20de%20d%C3%A9marrage%20rapide.pdf) (PDF).
+
 <div style="text-align: center;">
   <a href="https://www.fundscrip.com/soutenir-un-groupe/EWCCDU">
     <img
@@ -49,7 +53,7 @@ Il est aussi possible de faire un don d’actions cotées en bourse et éviter d
 
 ### Don (sans reçu fiscal)
 
-### Zeffy
+#### Zeffy
 Pour faire un don, accédez à notre formulaire Zeffy, choisissez la fréquence de votre contribution (ponctuelle, mensuelle ou annuelle), puis sélectionnez ou saisissez le montant désiré. 
 [Soutenez notre mission](https://www.zeffy.com/fr-CA/donation-form/soutenez-notre-mission-415)
 
