@@ -38,6 +38,7 @@ Pour les prévisions météo, voir [ici](https://www.meteomedia.com/fr/ville/ca/
 - La participation compte comme du service communautaire afin de se qualifier pour son niveau et les cadets du niveau rouge et plus devraient faire au moins une demi-journée. Nous invitons aussi les nouveaux cadets et cadets de s'inscrire aussi pour vivre l'expérience et apprendre à connaître d'autres cadets. Il est possible de faire plusieurs quarts, donc de 1 à 6.
 - Si vous avez des questions, pour connaître les dates et endroits ayant encore besoin de participants ou pour vous inscrire, svp communiquer avec IC D Brunette en personne vendredi soir ou au <danielpbrunette@gmail.com>.
 - Il est possible que les cadets seniors devront changer d'endroit, pour assurer une présence et le mentorat des cadets plus juniors.
+  ![Coquelicot](/images/Coquelicot.png)
   
 
 ## Instruction intensive pour recrues 14 novembre
