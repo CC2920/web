@@ -77,4 +77,23 @@ Samedi dernier, le 17 octobre, le comité de soutien a tenu sa première collect
 ## Hoodie 
 Vous désirez augmenter votre sentiment d’appartenance au Corps de cadets 2920 Gatineau, nous lancerons très bientôt une vente de chandail de style « hoodie » aux couleurs du Corps de cadets. Le bon de commande officiel sera ajouté au message de la semaine et sur notre Facebook. Restez à l’affût.
 
+
+## Cartes-cadeaux - Achat (Fundscrip)
+
+Achetez des cartes-cadeaux via le site [Fundscrip](https://www.fundscrip.com/soutenir-un-groupe/EWCCDU) et encouragez le Corps de cadets du même coup. Pour chaque fournisseur, vous verrez un pourcentage, c'est le pourcentage de remise que le fournisseur remettra au CC2920. Plus vous achetez, plus c'est profitable pour nos cadets.
+
+#### Comment ça marche ?
+Laissez-vous guider par ce petit manuel illustré pour configurer votre compte et faire vos premiers achats : [**Guide de démarrage rapide**](/docs/fundscrip-Guide%20de%20d%C3%A9marrage%20rapide.pdf) (PDF).
+
+<div style="text-align: center;">
+  <a href="https://www.fundscrip.com/soutenir-un-groupe/EWCCDU">
+    <img
+      src="https://static.fundscrip.com/msm/FundScrip-Banniere-300x250.png"
+      width="300"
+      height="250"
+      alt="Support our group with FundScrip"
+    />
+  </a>
+</div>
+
 Si vous avez des questions, n’hésitez pas à nous contacter à <2920armee@cadets.gc.ca>.
