@@ -72,6 +72,7 @@ Pour les cadet-cadre inscrits du Programme de leadership avancé, les détails s
 - **Quand :** les samedis de 10h à 12h, compétition inter-unité le 21 novembre. Prochaine pratique le 31 octobre.
 - **Lieu :** lieu variable. Pour le 31 octobre, Polyvalente de l’Érablière [500 rue de Cannes](https://maps.app.goo.gl/bCK4D2xEEmGaZjN48)
 - **Tenue :** sport extérieur. Apportez collation et bouteille d’eau.
+- Voici le plan d’entraînement proposé pour cette semaine : [Plan d'entrainement - semaine 4](https://csdraveurs-my.sharepoint.com/:w:/g/personal/marieevebarrette_cssd_gouv_qc_ca/IQBoBYyXdkUxTJna5f7eWl-nAQ4nYLApZDn1z0bmbY2I9yE?e=VNAdIA)
 
 
 ## Hoodie 
