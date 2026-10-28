@@ -43,6 +43,7 @@ layout: "messages"
 - Il est possible que les cadets seniors devront changer d'endroit, pour assurer une présence et le mentorat des cadets plus juniors.
 - SVP prendre note que le Musée canadien de l'histoire à des heures différentes.
   ![Coquelicot](/images/Coquelicot.png)
+  Mise-à-jour: 28 octobre 2026
   
 
 ## Instruction intensive pour recrues 14 novembre
