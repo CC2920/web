@@ -76,8 +76,47 @@ Pour les cadet-cadre inscrits du Programme de leadership avancé, les détails s
 
 
 ## Hoodie 
-Vous désirez augmenter votre sentiment d’appartenance au Corps de cadets 2920 Gatineau, nous lancerons très bientôt une vente de chandail de style « hoodie » aux couleurs du Corps de cadets. Le bon de commande officiel sera ajouté au message de la semaine et sur notre Facebook. Restez à l’affût.
+Bonne nouvelle! Vous pouvez dès maintenant précommander votre chandail de style « hoodie » aux couleurs du Corps de cadets 2920 Gatineau! Une belle façon d’afficher votre fierté et votre sentiment d’appartenance au Corps de cadets.
+- **Comment commander?** Vous pouvez passer votre commande directement sur notre [boutique officielle du CC2920](https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029) en cliquant sur les liens plus bas ou en personne à la cantine du Corps de cadets, les vendredis soir.
+- **Date limite pour commander :** 15 novembre 2026
+- **Réception prévue :** dernière semaine de novembre ou première semaine de décembre.
 
+Une belle idée de cadeau de Noël! N’attendez pas trop longtemps pour réserver votre chandail et afficher vos couleurs!
+
+<div class="boutique-grid">
+
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029#:~:text=Chandail%20coton%2Douaté"
+     class="boutique-lien"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="Commander le coton-ouaté du CC2920 sur notre boutique en ligne">
+    <div class="boutique-item">
+      <div class="boutique-image">
+        <img src="/docs/accessoires/chandail-coton-ouate-rouge.jpg">
+      </div>
+      <div class="boutique-info">
+        <strong>Chandail coton-ouaté</strong>
+        <p>45 $</p>
+      </div>
+    </div>
+  </a>
+  
+  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029#:~:text=Chandail%20coton%2Douaté%20personnalisé"
+     class="boutique-lien"
+     target="_blank"
+     rel="noopener noreferrer"
+     aria-label="Commander le coton-ouaté personnalisé du CC2920 sur notre boutique en ligne">
+    <div class="boutique-item">
+      <div class="boutique-image">
+        <img src="/docs/accessoires/chandail-coton-ouate-rouge_perso.jpg">
+      </div>
+      <div class="boutique-info">
+        <strong>Chandail coton-ouaté personnalisé</strong>
+        <p>50 $</p>
+      </div>
+    </div>
+  </a>
+</div>
 
 ## Cartes-cadeaux - Achat (Fundscrip)
 Achetez des cartes-cadeaux via le site [Fundscrip](https://www.fundscrip.com/soutenir-un-groupe/EWCCDU) et encouragez le Corps de cadets du même coup. Pour chaque fournisseur, vous verrez un pourcentage, c'est le pourcentage de remise que le fournisseur remettra au CC2920. Plus vous achetez, plus c'est profitable pour nos cadets.
