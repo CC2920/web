@@ -123,7 +123,7 @@ Une belle idée de cadeau de Noël! N’attendez pas trop longtemps pour réserv
 
 ## Panier de Noël
 - Ce vendredi, après la parade de la commandante, le comité de soutien procédera à la remise des billets pour le tirage d'un panier de Noël. Il s'agit de notre 2e campagne de financement. 
-- Le coût des billets est de 0,99$ chacun et le panier est d'une valeur de 250$. La vente aura lieu du 6 nov au 11 dec. 2026. Le tirage aura lieu lors de notre activité de Noël, le 18 décembre prochain. 
+- Le coût des billets est de 0,99$ chacun et le panier est d'une valeur de 250$. La vente aura lieu du 6 novembre au 11 décembre 2026. Le tirage aura lieu lors de notre activité de Noël, le 18 décembre prochain. 
 - L'argent recueilli servira pour les activités et sortie de fin d'année des cadet.te.s
 
 
