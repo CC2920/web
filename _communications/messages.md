@@ -33,7 +33,7 @@ layout: "messages"
 - Il est possible que les cadets seniors devront changer d'endroit, pour assurer une présence et le mentorat des cadets plus juniors.
   
   ![Coquelicot](/images/Coquelicot.png)
-  Mise-à-jour: 31 octobre 2026
+  Mise-à-jour: 2 novembre 2026
   
 
 ## Instruction intensive pour recrues 14 novembre
