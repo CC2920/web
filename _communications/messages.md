@@ -7,8 +7,9 @@ layout: "messages"
 - **Qui :** tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** [52 rue Saint-Rosaire, Gatineau](https://www.google.com/maps/search/52+rue+Saint-Rosaire,+Gatineau)
-- **Tenue :** C1, tenue civile propre pour ceux qui n’ont pas leur uniforme encore (si possible chemise blanche et pantalon noir)
+- **Tenue :** C1 avec manteau pour ce vendredi, tenue civile propre pour ceux qui n’ont pas leur uniforme encore (si possible chemise blanche et pantalon noir)
 - Les parents qui veulent assister à la parade sont priés de se présenter vers 20h. La parade débute à 20h15.
+- Dorénavant, on vous demande de venir avec votre manteau aux soirées d'instruction. SVP écrivez votre nom sur un morceau de ruban à adhésif à l'intérieur du manteau pour l'identifier.
 
 [Guide des tenues](https://cc2920.us21.list-manage.com/track/click?u=eadebede776501f499284ae20&id=d92d722dc9&e=0b8a47f805)
 
