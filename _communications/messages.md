@@ -11,6 +11,13 @@ layout: "messages"
 - Les parents qui veulent assister à la parade sont priés de se présenter vers 20h. La parade débute à 20h15.
 - Dorénavant, on vous demande de venir avec votre manteau aux soirées d'instruction. SVP écrivez votre nom sur un morceau de ruban à adhésif à l'intérieur du manteau pour l'identifier.
 
+
+## Parade du Jour du Souvenir 8 novembre
+- **Qui :** tous
+- **Heure :** 12 h 45
+- **Lieu :** [86, rue de La Baie, Gatineau](https://www.google.com/maps/search/86,+rue+de+La+Baie)
+- **Tenue :** 1A
+
 [Guide des tenues](https://cc2920.us21.list-manage.com/track/click?u=eadebede776501f499284ae20&id=d92d722dc9&e=0b8a47f805)
 
 
@@ -77,6 +84,11 @@ layout: "messages"
 - **Tenue :** sport extérieur. Apportez collation et bouteille d’eau.
 - Voici le plan d’entraînement proposé pour cette semaine : [Plan d'entrainement - semaine 5](https://csdraveurs-my.sharepoint.com/:w:/g/personal/marieevebarrette_cssd_gouv_qc_ca/IQBoBYyXdkUxTJna5f7eWl-nAQ4nYLApZDn1z0bmbY2I9yE?e=VNAdIA)
 
+
+## Habillement
+- **Fermeture du QM :** Veuillez prendre note que le QM sera fermé le mercredi 11 novembre.
+- **Manteaux de biathlon :** Petit rappel aux cadets qui ont emprunté un manteau de biathlon, celui-ci doit être retourné au QM dans les meilleurs délais.
+  
 
 ## Hoodie 
 Bonne nouvelle! Vous pouvez dès maintenant précommander votre chandail de style « hoodie » aux couleurs du Corps de cadets 2920 Gatineau! Une belle façon d’afficher votre fierté et votre sentiment d’appartenance au Corps de cadets.
