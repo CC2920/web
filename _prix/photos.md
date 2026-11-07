@@ -219,3 +219,4 @@ title: "Galerie de photos"
 
 #### 2026
 * [Parade du commandant - octobre 2026](https://photos.app.goo.gl/yLmjQQe6nGMSzZYm8)
+* [Parade du commandant - Changement officiel de commandante - novembre 2026](https://photos.app.goo.gl/cBoYmCKN1MLU6kdPA)
