@@ -134,16 +134,36 @@ Une belle idée de cadeau de Noël! N’attendez pas trop longtemps pour réserv
 </div>
 
 
-## Panier de Noël
-- Ce vendredi, après la parade de la commandante, le comité de soutien procédera à la remise des billets pour le tirage d'un panier de Noël. Il s'agit de notre 2e campagne de financement. 
-- Le coût des billets est de 0,99$ chacun et le panier est d'une valeur de 250$. La vente aura lieu du 6 novembre au 11 décembre 2026. Le tirage aura lieu lors de notre activité de Noël, le 18 décembre prochain. 
-- L'argent recueilli servira pour les activités et sortie de fin d'année des cadet.te.s
+## Grand tirage du panier de Noël
+Le Comité de soutien du Corps de cadets 2920 de Gatineau organise une levée de fonds avec le tirage d'un magnifique **panier cadeau de Noël d'une valeur de 250 $**!
 
+Nos cadets ont reçu lors de la soirée du 6 novembre une enveloppe contenant **30 billets à vendre au coût de 0,99 $ chacun**. Voici comment participer à cette belle initiative!
+
+#### Comment fonctionne la vente ?
+- Chaque cadet reçoit 30 billets à vendre.
+- Les billets peuvent être proposés à la famille, aux amis, aux voisins, aux collègues de travail des parents, etc.
+- Chaque billet vendu coûte seulement 0,99 $.
+- Vous aimeriez en vendre davantage? Des billets supplémentaires sont disponibles à la cantine!
+
+#### Retour des billets et de l'argent
+
+Au plus tard le **11 décembre 2026**, chaque cadet doit remettre à la cantine :
+- Les billets vendus;
+- L'argent recueilli pour les billets vendus;
+- Tous les billets invendus.
+
+**Le tirage aura lieu le 18 décembre 2026**, lors de la parade en soirée.
+
+Un prix sera également remis aux **trois cadets ayant vendu le plus de billets**!
+
+Nous comptons sur la participation de nos cadets, de leurs familles et de leur entourage pour faire de cette collecte un succès. Chaque billet vendu contribue directement à soutenir les activités et les projets de nos jeunes.
+
+Merci de votre encouragement et bonne chance à tous! 
 
 ## Cartes-cadeaux - Achat (Fundscrip)
 Achetez des cartes-cadeaux via le site [Fundscrip](https://www.fundscrip.com/soutenir-un-groupe/EWCCDU) et encouragez le Corps de cadets du même coup. Pour chaque fournisseur, vous verrez un pourcentage, c'est le pourcentage de remise que le fournisseur remettra au CC2920. Plus vous achetez, plus c'est profitable pour nos cadets.
 
-#### Comment ça marche ?
+#### Comment ça fonctionne ?
 Laissez-vous guider par ce petit manuel illustré pour configurer votre compte et faire vos premiers achats : [**Guide de démarrage rapide**](/docs/fundscrip-Guide%20de%20d%C3%A9marrage%20rapide.pdf) (PDF).
 
 <div style="text-align: center;">
