@@ -50,11 +50,6 @@ le-comite-soutien:
     - member:
       name: Mme Tytler Antoinette
       title: Administratrice
-
-    - member:
-      name: Mme Valentina Garnet
-      title: Administratrice
-      picture: "/docs/comite/CC2920-ValentinaGarnet.jpg"
       
 
 ---
