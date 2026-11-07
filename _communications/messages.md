@@ -152,7 +152,7 @@ Au plus tard le **11 décembre 2026**, chaque cadet doit remettre à la cantine 
 - L'argent recueilli pour les billets vendus;
 - Tous les billets invendus.
 
-**Le tirage aura lieu le 18 décembre 2026**, lors de la parade en soirée.
+**Le tirage aura lieu dans la soirée du 18 décembre 2026**, lors de l'activité spéciale de Noël.
 
 Un prix sera également remis aux **trois cadets ayant vendu le plus de billets**!
 
