@@ -1,5 +1,5 @@
 ---
-dates: "2025 -"
+dates: "2025 - 2026"
 cmdt: "Capitaine de corvette Marylène Gaudet, CD" 
 picture: "/docs/historique/CapcGaudetM.jpg"
 ---
