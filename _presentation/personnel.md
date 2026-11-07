@@ -3,15 +3,9 @@ title:  "Le Personnel"
 
 le-personnel:
   - personnel:
-    picture: /docs/historique/CapcGaudetM.jpg
-    name: Capc Marylène Gaudet, CD
-    title: Commandant sortant
-    email: marylene.gaudet@cadets.gc.ca
-
-  - personnel:
-    picture: 
+    picture: /docs/historique/CmdtDesAlliersS.jpg
     name: Ltv Sonia Desalliers
-    title: Commandant entrant
+    title: Commandant
     email: 
     
   - personnel:
@@ -51,8 +45,8 @@ le-personnel:
     email:
 
   - personnel:
-    picture:
-    name: Bénévole Daniel Brunette
+    picture: /docs/comite/CC2920-DanielBrunette.jpg
+    name: IC Daniel Brunette
     title: Responsable Niveau Argent 
     email:
 
