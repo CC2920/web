@@ -51,7 +51,7 @@ layout: "messages"
 - **Quand :** les mercredis de 18h30 à 20h30
 - **Lieu :** [100 rue de la Baie, Gatineau](https://maps.app.goo.gl/DnFTU7ALrTDhjDoQ9)
 - **Tenue :** civile avec les bottes de parade si vous l’avez. Apportez une bouteille d’eau et des collations si vous le désirez.
-- 
+  
   
 ## Biathlon
 - **Qui :** tous les cadets intéressés
