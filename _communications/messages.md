@@ -3,45 +3,21 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d’instruction 6 novembre
+## Soirée d’instruction 13 novembre
 - **Qui :** tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** [52 rue Saint-Rosaire, Gatineau](https://www.google.com/maps/search/52+rue+Saint-Rosaire,+Gatineau)
-- **Tenue :** C1 avec manteau pour ce vendredi, tenue civile propre pour ceux qui n’ont pas leur uniforme encore (si possible chemise blanche et pantalon noir)
-- Les parents qui veulent assister à la parade sont priés de se présenter vers 20h. La parade débute à 20h15.
-- Dorénavant, on vous demande de venir avec votre manteau aux soirées d'instruction. SVP écrivez votre nom sur un morceau de ruban à adhésif à l'intérieur du manteau pour l'identifier.
-
-
-## Parade du Jour du Souvenir 8 novembre
-- **Qui :** tous
-- **Heure :** 12 h 45
-- **Lieu :** [86, rue de La Baie, Gatineau](https://www.google.com/maps/search/86,+rue+de+La+Baie)
-- **Tenue :** 1A
+- **Tenue :** sport intérieur et extérieur, bouteille d’eau.
 
 [Guide des tenues](https://cc2920.us21.list-manage.com/track/click?u=eadebede776501f499284ae20&id=d92d722dc9&e=0b8a47f805)
 
 
 ## Activités à venir
-- 7 novembre : Campagne du coquelicot
-- 8 novembre : parade du Jour du Souvenir
-- 14 novembre : instruction intensive pour recrues, clinique de musique, atelier PLA
+- 14 novembre : instruction intensive pour recrues, clinique de musique
 - 21 novembre : guignolée
 - 28 novembre : course d’orientation
 - 12-13 décembre : secourisme
 
-
-## Campagne du coquelicot 7 novembre
-- **Qui :** tous les cadets
-- **Quand :** 7 novembre, 8h30 à 12h30 et 12h30 à 16h30
-- **Lieu :** Walmart - La Gappe, IGA - Gréber, Super C - Greber, Super C - Limbour, Musée de l’histoire
-- **Tenue :** C3 ou civil propre pour ceux n'ayant pas encore l’uniforme.
-- Le corps de cadets va appuyer la Légion royale canadienne filiale 58 pendant la campagne du coquelicot. Les cadets y seront aux lieux et heures ci-dessus en équipe de deux ou trois.
-- Merci à ceux qui ont été présents la dernière fin de semaine. Il reste quelques quarts à combler pour le 7 novembre. Svp communiquer avec IC D Brunette en personne vendredi soir ou au <danielpbrunette@gmail.com>.
-- Il est possible que les cadets seniors devront changer d'endroit, pour assurer une présence et le mentorat des cadets plus juniors.
-  
-  ![Coquelicot](/images/Coquelicot.png)
-  Mise-à-jour: 2 novembre 2026
-  
 
 ## Instruction intensive pour recrues 14 novembre
 - **Qui :** les recrues nées avant le 1er janvier 2013
@@ -80,9 +56,9 @@ layout: "messages"
 ## Biathlon
 - **Qui :** tous les cadets intéressés
 - **Quand :** les samedis de 10h à 12h, compétition inter-unité le 21 novembre.
-- **Lieu :** lieu variable. Pour le 7 novembre, parc René-Lévesque, [323 chemin Lebaudy](https://www.google.com/maps/search/323+chemin+Lebaudy?entry=gmail&source=g)
+- **Lieu :**  variable. Pour le 14 novembre, 625 boul. du Carrefour](https://www.google.com/maps/search/625+boul.+du+Carrefour)
 - **Tenue :** sport extérieur. Apportez collation et bouteille d’eau.
-- Voici le plan d’entraînement proposé pour cette semaine : [Plan d'entrainement - semaine 5](https://csdraveurs-my.sharepoint.com/:w:/g/personal/marieevebarrette_cssd_gouv_qc_ca/IQBoBYyXdkUxTJna5f7eWl-nAQ4nYLApZDn1z0bmbY2I9yE?e=VNAdIA)
+- Voici le plan d’entraînement proposé pour cette semaine : [Plan d'entrainement - semaine ](https://csdraveurs-my.sharepoint.com/:w:/g/personal/marieevebarrette_cssd_gouv_qc_ca/IQA1RY5w_p4RRLf23GSypxdjAShLqH4Eyt1tX4YeGgUYdJI?e=1LKrEC)
 
 
 ## Habillement
@@ -91,12 +67,15 @@ layout: "messages"
   
 
 ## Hoodie 
-Bonne nouvelle! Vous pouvez dès maintenant précommander votre chandail de style « hoodie » aux couleurs du Corps de cadets 2920 Gatineau! Une belle façon d’afficher votre fierté et votre sentiment d’appartenance au Corps de cadets.
+C’est la **dernière semaine** pour passer votre commande! 
+
+Cadets, parents et membres du personnel, ne manquez pas l’occasion d’obtenir votre chandail à capuchon aux couleurs du Corps de cadets 2920 Gatineau. Une belle façon d’afficher votre fierté et votre sentiment d’appartenance!
+
 - **Comment commander?** Vous pouvez passer votre commande directement sur notre [boutique officielle du CC2920](https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029) en cliquant sur les liens plus bas ou en personne à la cantine du Corps de cadets, les vendredis soir.
 - **Date limite pour commander :** 15 novembre 2026
 - **Réception prévue :** dernière semaine de novembre ou première semaine de décembre.
 
-Une belle idée de cadeau de Noël! N’attendez pas trop longtemps pour réserver votre chandail et afficher vos couleurs!
+Une belle idée de cadeau de Noël! C’est votre dernière occasion de réserver votre hoodie. Ne tardez pas!
 
 <div class="boutique-grid">
 
