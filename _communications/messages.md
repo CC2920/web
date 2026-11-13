@@ -28,10 +28,10 @@ layout: "messages"
 
 
 ## Compétition de biathlon
-- **Qui :** Les cadets faisant parti de l'équipe de biathlon patrouilleur
+- **Qui :** Les cadets faisant partie de l'équipe de biathlon patrouilleur
 - **Quand :** 21 novembre à 9h45
 - **Lieu :** [Centre d'entraînement Connaught (CTC Connaught)](https://maps.app.goo.gl/5cavLgwDuEQte2eJ9)
-- **Transport :** Les familles devront prévoir le transport aller-retour, le covoiturage entre les familles est encouragé afin de faciliter les déplacements.
+- **Transport :** Les familles devront prévoir le transport aller-retour. Le covoiturage entre les familles est encouragé afin de faciliter les déplacements.
 - **Repas**: Les cadets devront apporter un dîner froid ainsi que des collations pour la journée.
 - **Important**: La date limite pour retourner le formulaire d'autorisation est la soirée d’instruction du **13 novembre**.
 - Les parents sont invités à consulter le document ci-dessous pour prendre connaissance de l'horaire, de la tenue et du matériel requis, ainsi que pour remplir le formulaire de confirmation de présence. [Lettre d'information - Compétition de biathlon](/docs/ressources/lettre-dinformation-biathlon.pdf)
