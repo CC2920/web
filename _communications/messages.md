@@ -129,6 +129,8 @@ Au plus tard le **11 décembre 2026**, chaque cadet doit remettre à la cantine 
 
 Un prix sera également remis aux **trois cadets ayant vendu le plus de billets**!
 
+<img src="/images/PanierNoel.png">
+
 Nous comptons sur la participation de nos cadets, de leurs familles et de leur entourage pour faire de cette collecte un succès. Chaque billet vendu contribue directement à soutenir les activités et les projets de nos jeunes.
 
 Merci de votre encouragement et bonne chance à tous! 
