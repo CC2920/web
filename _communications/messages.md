@@ -3,38 +3,31 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d’instruction 13 novembre
+## Soirée d’instruction 20 novembre
 - **Qui :** tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** [52 rue Saint-Rosaire, Gatineau](https://www.google.com/maps/search/52+rue+Saint-Rosaire,+Gatineau)
-- **Tenue :** sport intérieur et extérieur, bouteille d’eau.
+- **Tenue :** C5 avec manteau. N’oubliez pas de marquer votre nom à l’intérieur de votre manteau.
+Les recrues nées avant le 1er janvier 2013 pourront joindre leur nouveau niveau (2012 rouge, 2011 et avant argent). Dans le doute, allez voir votre cadet-cadre ou officier de niveau en début de soirée.
 
 [Guide des tenues](https://cc2920.us21.list-manage.com/track/click?u=eadebede776501f499284ae20&id=d92d722dc9&e=0b8a47f805)
 
 
 ## Activités à venir
-- 14 novembre : instruction intensive pour recrues, clinique de musique
-- 21 novembre : guignolée, compétition de biathlon
+- 21 novembre : guignolée
 - 28 novembre : course d’orientation
-- 12-13 décembre : secourisme
+- ~~12-13 décembre : secourisme~~ (annulé)
 
 
-## Instruction intensive pour recrues 14 novembre
-- **Qui :** les recrues nées avant le 1er janvier 2013
-- **Quand :** 14 novembre de 13h à 16h
-- **Lieu :** [100 rue de la Baie, Gatineau](https://maps.app.goo.gl/DnFTU7ALrTDhjDoQ9)
-- **Tenue :** C5
-- Les recrues nées plus âgées, vous avez l’opportunité de sauter de niveau d’instruction au niveau rouge ou argent afin d’être avec d’autres jeunes de votre âge. Cette journée d’instruction intensive se veut de vous préparer à cette transition. 
-
-
-## Compétition de biathlon
-- **Qui :** Les cadets faisant partie de l'équipe de biathlon patrouilleur
-- **Quand :** 21 novembre à 9h45
-- **Lieu :** [Centre d'entraînement Connaught (CTC Connaught)](https://maps.app.goo.gl/5cavLgwDuEQte2eJ9)
-- **Transport :** Les familles devront prévoir le transport aller-retour. Le covoiturage entre les familles est encouragé afin de faciliter les déplacements.
-- **Repas**: Les cadets devront apporter un dîner froid ainsi que des collations pour la journée.
-- **Important**: La date limite pour retourner le formulaire d'autorisation est la soirée d’instruction du **13 novembre**.
-- Les parents sont invités à consulter le document ci-dessous pour prendre connaissance de l'horaire, de la tenue et du matériel requis, ainsi que pour remplir le formulaire de confirmation de présence. [Lettre d'information - Compétition de biathlon](/docs/ressources/lettre-dinformation-biathlon.pdf)
+## Biathlon
+- **Qui :** tous les cadets intéressés
+- **Quand :** les samedis de 10h à 12h.
+- **Lieu :**  variable. Pour le 21 novembre, [625 boul. du Carrefour](https://www.google.com/maps/search/625+boul.+du+Carrefour)
+- **Tenue :** sport extérieur. Apportez collation et bouteille d’eau.
+- Voici le plan d’entraînement proposé pour cette semaine : [Plan d'entrainement - semaine 7](https://csdraveurs-my.sharepoint.com/:w:/g/personal/marieevebarrette_cssd_gouv_qc_ca/IQBFeK-mXs8KQocPjiPNJ5waAfxbSGIjGhfl-HlXIt098hA?e=S9mBQU)
+- La compétition régionale de biathlon prévue le samedi 21 novembre au Centre national d'instruction d'été des Cadets de l'Armée de Connaught est annulée en raison de circonstances hors de notre contrôle.
+- Soyez toutefois assurés que nous sommes à explorer l'organisation d'une compétition amicale maison, afin de permettre à nos jeunes de mettre en pratique leurs efforts et les apprentissages des dernières semaines.
+- Nous vous communiquerons les détails dès que l'organisation sera confirmée.
 
 
 ## Course d’orientation 28 novembre
@@ -43,7 +36,7 @@ layout: "messages"
 
 
 ## Tir 
-- **Qui :** tous les cadets ayant déjà passé l’évaluation de tir
+- **Qui :** pour les cadets du biathlon seulement le 16 novembre
 - **Quand :** les lundis de 18h15 à 21h
 - **Lieu :** [100 rue de la Baie, Gatineau](https://maps.app.goo.gl/DnFTU7ALrTDhjDoQ9)
 - **Tenue :** civile
@@ -61,18 +54,9 @@ layout: "messages"
 - **Quand :** les mercredis de 18h30 à 20h30
 - **Lieu :** [100 rue de la Baie, Gatineau](https://maps.app.goo.gl/DnFTU7ALrTDhjDoQ9)
 - **Tenue :** civile avec les bottes de parade si vous l’avez. Apportez une bouteille d’eau et des collations si vous le désirez.
-  
-  
-## Biathlon
-- **Qui :** tous les cadets intéressés
-- **Quand :** les samedis de 10h à 12h, compétition inter-unité le 21 novembre.
-- **Lieu :**  variable. Pour le 14 novembre, 625 boul. du Carrefour](https://www.google.com/maps/search/625+boul.+du+Carrefour)
-- **Tenue :** sport extérieur. Apportez collation et bouteille d’eau.
-- Voici le plan d’entraînement proposé pour cette semaine : [Plan d'entrainement - semaine ](https://csdraveurs-my.sharepoint.com/:w:/g/personal/marieevebarrette_cssd_gouv_qc_ca/IQA1RY5w_p4RRLf23GSypxdjAShLqH4Eyt1tX4YeGgUYdJI?e=1LKrEC)
 
 
 ## Habillement
-- **Fermeture du QM :** Veuillez prendre note que le QM sera fermé le mercredi 11 novembre.
 - **Manteaux de biathlon :** Petit rappel aux cadets qui ont emprunté un manteau de biathlon, celui-ci doit être retourné au QM dans les meilleurs délais.
   
 
@@ -124,7 +108,7 @@ Une belle idée de cadeau de Noël! C’est votre dernière occasion de réserve
 
 
 ## Grand tirage du panier de Noël
-Le Comité de soutien du Corps de cadets 2920 de Gatineau organise une levée de fonds avec le tirage d'un magnifique **panier cadeau de Noël d'une valeur de 250 $**!
+Le Comité de soutien du Corps de cadets 2920 de Gatineau organise une levée de fonds avec le tirage d'un magnifique **panier cadeau de Noël d'une valeur de 600 $**!
 
 Nos cadets ont reçu lors de la soirée du 6 novembre une enveloppe contenant **30 billets à vendre au coût de 0,99 $ chacun**. Voici comment participer à cette belle initiative!
 
@@ -144,6 +128,8 @@ Au plus tard le **11 décembre 2026**, chaque cadet doit remettre à la cantine 
 **Le tirage aura lieu dans la soirée du 18 décembre 2026**, lors de l'activité spéciale de Noël.
 
 Un prix sera également remis aux **trois cadets ayant vendu le plus de billets**!
+
+<img src="/images/PanierNoel.png">
 
 Nous comptons sur la participation de nos cadets, de leurs familles et de leur entourage pour faire de cette collecte un succès. Chaque billet vendu contribue directement à soutenir les activités et les projets de nos jeunes.
 
