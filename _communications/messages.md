@@ -66,7 +66,7 @@ Le Comité de soutien du Corps de cadets 2920 de Gatineau organise une levée de
 Nos cadets ont reçu lors de la soirée du 6 novembre une enveloppe contenant **30 billets à vendre au coût de 0,99 $ chacun**. Voici comment participer à cette belle initiative!
 
 
-#### Comment fonctionne la vente ?
+#### Comment fonctionne la vente?
 - Chaque cadet reçoit 30 billets à vendre.
 - Les billets peuvent être proposés à la famille, aux amis, aux voisins, aux collègues de travail des parents, etc.
 - Chaque billet vendu coûte seulement 0,99 $.
@@ -99,11 +99,11 @@ Que ce soit un chandail à capuchon, un t-shirt, une casquette ou une tuque, plu
 
 En plus de faire plaisir, chaque achat contribue à soutenir les initiatives et les activités du CC2920.
 
-**Comment commander ?**
+**Comment commander?**
 
 Visitez notre [**boutique virtuelle**](/information/boutique2920/) ou passez nous voir à la cantine les vendredis soir, lors des soirées d'instruction.
 
-Faites découvrir la fierté du CC2920 sous le sapin cette année !
+Faites découvrir la fierté du CC2920 sous le sapin cette année!
 
 
 ## Cartes-cadeaux - Achat (Fundscrip)
@@ -111,7 +111,7 @@ Avec le temps des Fêtes qui approche, voici une belle occasion d'encourager le 
 
 En achetant vos cartes-cadeaux sur le site [Fundscrip](https://www.fundscrip.com/soutenir-un-groupe/EWCCDU), vous contribuez directement au financement de nos activités. Pour chaque fournisseur, vous verrez un pourcentage de remise. Il s'agit de la portion que celui-ci remettra au CC2920 pour chaque achat effectué.
 
-#### Comment ça fonctionne ?
+#### Comment ça fonctionne?
 Laissez-vous guider par ce petit manuel illustré pour configurer votre compte et faire vos premiers achats : [**Guide de démarrage rapide**](/docs/fundscrip-Guide%20de%20d%C3%A9marrage%20rapide.pdf) (PDF).
 
 <div style="text-align: center;">
