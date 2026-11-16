@@ -60,63 +60,18 @@ Les recrues nées avant le 1er janvier 2013 pourront joindre leur nouveau niveau
 - **Manteaux de biathlon :** Petit rappel aux cadets qui ont emprunté un manteau de biathlon, celui-ci doit être retourné au QM dans les meilleurs délais.
   
 
-## Hoodie 
-C’est la **dernière semaine** pour passer votre commande! 
-
-Cadets, parents et membres du personnel, ne manquez pas l’occasion d’obtenir votre chandail à capuchon aux couleurs du Corps de cadets 2920 Gatineau. Une belle façon d’afficher votre fierté et votre sentiment d’appartenance!
-
-- **Comment commander?** Vous pouvez passer votre commande directement sur notre [boutique officielle du CC2920](https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029) en cliquant sur les liens plus bas ou en personne à la cantine du Corps de cadets, les vendredis soir.
-- **Date limite pour commander :** 15 novembre 2026
-- **Réception prévue :** dernière semaine de novembre ou première semaine de décembre.
-
-Une belle idée de cadeau de Noël! C’est votre dernière occasion de réserver votre hoodie. Ne tardez pas!
-
-<div class="boutique-grid">
-
-  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029#:~:text=Chandail%20coton%2Douaté"
-     class="boutique-lien"
-     target="_blank"
-     rel="noopener noreferrer"
-     aria-label="Commander le coton-ouaté du CC2920 sur notre boutique en ligne">
-    <div class="boutique-item">
-      <div class="boutique-image">
-        <img src="/docs/accessoires/chandail-coton-ouate-rouge.jpg">
-      </div>
-      <div class="boutique-info">
-        <strong>Chandail coton-ouaté</strong>
-        <p>45 $</p>
-      </div>
-    </div>
-  </a>
-  
-  <a href="https://www.zeffy.com/fr-CA/ticketing/casquettes-cc2029#:~:text=Chandail%20coton%2Douaté%20personnalisé"
-     class="boutique-lien"
-     target="_blank"
-     rel="noopener noreferrer"
-     aria-label="Commander le coton-ouaté personnalisé du CC2920 sur notre boutique en ligne">
-    <div class="boutique-item">
-      <div class="boutique-image">
-        <img src="/docs/accessoires/chandail-coton-ouate-rouge_perso.jpg">
-      </div>
-      <div class="boutique-info">
-        <strong>Chandail coton-ouaté personnalisé</strong>
-        <p>50 $</p>
-      </div>
-    </div>
-  </a>
-</div>
-
-
 ## Grand tirage du panier de Noël
 Le Comité de soutien du Corps de cadets 2920 de Gatineau organise une levée de fonds avec le tirage d'un magnifique **panier cadeau de Noël d'une valeur de 600 $**!
 
 Nos cadets ont reçu lors de la soirée du 6 novembre une enveloppe contenant **30 billets à vendre au coût de 0,99 $ chacun**. Voici comment participer à cette belle initiative!
 
-#### Comment fonctionne la vente ?
+
+#### Comment fonctionne la vente?
 - Chaque cadet reçoit 30 billets à vendre.
 - Les billets peuvent être proposés à la famille, aux amis, aux voisins, aux collègues de travail des parents, etc.
 - Chaque billet vendu coûte seulement 0,99 $.
 - Vous aimeriez en vendre davantage? Des billets supplémentaires sont disponibles à la cantine!
+
 
 #### Retour des billets et de l'argent
 
@@ -135,10 +90,28 @@ Nous comptons sur la participation de nos cadets, de leurs familles et de leur e
 
 Merci de votre encouragement et bonne chance à tous! 
 
-## Cartes-cadeaux - Achat (Fundscrip)
-Achetez des cartes-cadeaux via le site [Fundscrip](https://www.fundscrip.com/soutenir-un-groupe/EWCCDU) et encouragez le Corps de cadets du même coup. Pour chaque fournisseur, vous verrez un pourcentage, c'est le pourcentage de remise que le fournisseur remettra au CC2920. Plus vous achetez, plus c'est profitable pour nos cadets.
 
-#### Comment ça fonctionne ?
+## Boutique CC2920 - Des idées-cadeaux pour le temps des Fêtes
+
+Le temps des Fêtes approche! Vous cherchez une idée-cadeau originale pour un cadet ou une cadette? Les vêtements et accessoires à l'effigie du Corps de cadets 2920 Gatineau sont une belle façon de faire plaisir tout en affichant fièrement vos couleurs!
+
+Que ce soit un chandail à capuchon, un t-shirt, une casquette ou une tuque, plusieurs articles sont disponibles pour les cadets, leurs familles et leurs proches.
+
+En plus de faire plaisir, chaque achat contribue à soutenir les initiatives et les activités du CC2920.
+
+**Comment commander?**
+
+Visitez notre [**boutique virtuelle**](/information/boutique2920/) ou passez nous voir à la cantine les vendredis soir, lors des soirées d'instruction.
+
+Faites découvrir la fierté du CC2920 sous le sapin cette année!
+
+
+## Cartes-cadeaux - Achat (Fundscrip)
+Avec le temps des Fêtes qui approche, voici une belle occasion d'encourager le Corps de cadets 2920 Gatineau tout en faisant vos emplettes dans le confort de votre foyer!
+
+En achetant vos cartes-cadeaux sur le site [Fundscrip](https://www.fundscrip.com/soutenir-un-groupe/EWCCDU), vous contribuez directement au financement de nos activités. Pour chaque fournisseur, vous verrez un pourcentage de remise. Il s'agit de la portion que celui-ci remettra au CC2920 pour chaque achat effectué.
+
+#### Comment ça fonctionne?
 Laissez-vous guider par ce petit manuel illustré pour configurer votre compte et faire vos premiers achats : [**Guide de démarrage rapide**](/docs/fundscrip-Guide%20de%20d%C3%A9marrage%20rapide.pdf) (PDF).
 
 <div style="text-align: center;">
