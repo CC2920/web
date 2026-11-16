@@ -93,9 +93,9 @@ Merci de votre encouragement et bonne chance à tous!
 
 ## Boutique CC2920 - Des idées-cadeaux pour le temps des Fêtes
 
-Le temps des Fêtes approche! Vous cherchez une idée-cadeau originale pour un cadet ou une cadette? Les vêtements et accessoires à l'effigie du Corps de cadets 2920 Gatineau sont une belle façon de faire plaisir tout en affichant fièrement vos couleurs!
+Le temps des Fêtes approche! Vous cherchez une idée-cadeau originale pour une cadette ou un cadet? Les vêtements et accessoires à l'effigie du Corps de cadets 2920 Gatineau sont une belle façon de faire plaisir tout en affichant fièrement vos couleurs!
 
-Que ce soit un chandail à capuchon, un t-shirt, une casquette ou une tuque, plusieurs articles sont disponibles pour les cadets, leurs familles et leurs proches.
+Que ce soit un t-shirt, une casquette ou une tuque, plusieurs articles sont disponibles pour les cadets, leurs familles et leurs proches.
 
 En plus de faire plaisir, chaque achat contribue à soutenir les initiatives et les activités du CC2920.
 
