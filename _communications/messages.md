@@ -14,7 +14,7 @@ Les recrues nées avant le 1er janvier 2013 pourront joindre leur nouveau niveau
 
 
 ## Activités à venir
-- 21 novembre : guignolée, xompétition de biathlon
+- 21 novembre : guignolée, compétition de biathlon
 - 28 novembre : course d’orientation
 - ~~12-13 décembre : secourisme~~ (annulé)
 
@@ -49,9 +49,6 @@ Merci de votre soutien et de votre collaboration.
 - **Lieu :**  variable. Pour le 21 novembre, [625 boul. du Carrefour](https://www.google.com/maps/search/625+boul.+du+Carrefour)
 - **Tenue :** sport extérieur. Apportez collation et bouteille d’eau.
 - Voici le plan d’entraînement proposé pour cette semaine : [Plan d'entrainement - semaine 7](https://csdraveurs-my.sharepoint.com/:w:/g/personal/marieevebarrette_cssd_gouv_qc_ca/IQBFeK-mXs8KQocPjiPNJ5waAfxbSGIjGhfl-HlXIt098hA?e=S9mBQU)
-- La compétition régionale de biathlon prévue le samedi 21 novembre au Centre national d'instruction d'été des Cadets de l'Armée de Connaught est annulée en raison de circonstances hors de notre contrôle.
-- Soyez toutefois assurés que nous sommes à explorer l'organisation d'une compétition amicale maison, afin de permettre à nos jeunes de mettre en pratique leurs efforts et les apprentissages des dernières semaines.
-- Nous vous communiquerons les détails dès que l'organisation sera confirmée.
 
 
 ## Course d’orientation 28 novembre
