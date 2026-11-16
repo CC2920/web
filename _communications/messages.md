@@ -14,7 +14,7 @@ Les recrues nées avant le 1er janvier 2013 pourront joindre leur nouveau niveau
 
 
 ## Activités à venir
-- 21 novembre : guignolée, xompétition de biathlon
+- 21 novembre : guignolée, compétition de biathlon
 - 28 novembre : course d’orientation
 - ~~12-13 décembre : secourisme~~ (annulé)
 
