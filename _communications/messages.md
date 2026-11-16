@@ -14,9 +14,33 @@ Les recrues nées avant le 1er janvier 2013 pourront joindre leur nouveau niveau
 
 
 ## Activités à venir
-- 21 novembre : guignolée
+- 21 novembre : guignolée, xompétition de biathlon
 - 28 novembre : course d’orientation
 - ~~12-13 décembre : secourisme~~ (annulé)
+
+## Compétition amicale de biathlon – Samedi 21 novembre 2026
+Bonne nouvelle! À la suite de l'annulation de la compétition régionale, les trois unités de cadets hébergées au manège militaire de Salaberry ont décidé d'organiser une compétition amicale de biathlon, afin de permettre à nos jeunes de mettre en pratique les efforts investis dans leur entraînement et de vivre une belle expérience de compétition.
+
+Voici les informations importantes :
+
+- **Qui :** Les cadets faisant partie de l'équipe de biathlon patrouilleur
+- **Quand :** 21 novembre à 9h00
+- **Lieu :** [Manège militaire de Hull](https://maps.app.goo.gl/9K69APWbsgpoT57u9)
+- **Transport :** Les familles devront prévoir le transport aller-retour. Le covoiturage entre les familles est encouragé afin de faciliter les déplacements.
+- **Repas:** Les cadets devront apporter un dîner froid ainsi que des collations pour la journée.
+- **Horaire de la journée :**
+   - **9 h :** Arrivée des cadets et prise des présences.
+   - **9 h 15 à 10 h 15 :** Zérotage des armes et échauffement.
+   - **10 h 45 :** Explication du déroulement de la compétition et remise des dossards.
+   - **11 h 15 à 14 h 30 :** Déroulement des courses (différentes catégories).
+   - **14 h 30 :** Rangement et nettoyage.
+   - **15 h 30 :** Annonce des résultats et remise des médailles.
+
+La compétition comprendra **4 séances de tir et 3 boucles de course**, avec une boucle de pénalité.
+
+Nous sommes très heureux que cette activité puisse finalement avoir lieu et avons hâte de voir nos cadets relever ce défi.
+
+Merci de votre soutien et de votre collaboration.
 
 
 ## Biathlon
