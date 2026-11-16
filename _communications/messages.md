@@ -99,8 +99,7 @@ Que ce soit un t-shirt, une casquette ou une tuque, plusieurs articles sont disp
 
 En plus de faire plaisir, chaque achat contribue à soutenir les initiatives et les activités du CC2920.
 
-**Comment commander?**
-
+#### Comment commander?
 Visitez notre [**boutique virtuelle**](/information/boutique2920/) ou passez nous voir à la cantine les vendredis soir, lors des soirées d'instruction.
 
 Faites découvrir la fierté du CC2920 sous le sapin cette année!
