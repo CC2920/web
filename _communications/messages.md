@@ -43,14 +43,6 @@ Nous sommes très heureux que cette activité puisse finalement avoir lieu et av
 Merci de votre soutien et de votre collaboration.
 
 
-## Biathlon
-- **Qui :** tous les cadets intéressés
-- **Quand :** les samedis de 10h à 12h.
-- **Lieu :**  variable. Pour le 21 novembre, [625 boul. du Carrefour](https://www.google.com/maps/search/625+boul.+du+Carrefour)
-- **Tenue :** sport extérieur. Apportez collation et bouteille d’eau.
-- Voici le plan d’entraînement proposé pour cette semaine : [Plan d'entrainement - semaine 7](https://csdraveurs-my.sharepoint.com/:w:/g/personal/marieevebarrette_cssd_gouv_qc_ca/IQBFeK-mXs8KQocPjiPNJ5waAfxbSGIjGhfl-HlXIt098hA?e=S9mBQU)
-
-
 ## Course d’orientation 28 novembre
 - L’activité fait partie du programme d’instruction obligatoire pour tous les niveaux. Il s’agit d’un avant-midi de formation sur la navigation suivie d’une course d’orientation en après-midi.
 - L’information est disponible ici  : [Orienteering.pdf](https://1drv.ms/b/c/eec907a8a97cc844/IQAH8El7xFTuRp6RjGHCrgrhAck3kjAQyS5ij04fDA1EwFU?e=ChMQvS)
