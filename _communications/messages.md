@@ -3,44 +3,25 @@ title:  "Messages de la semaine"
 layout: "messages"
 ---
 
-## Soirée d’instruction 20 novembre
+## Soirée d’instruction 27 novembre
 - **Qui :** tous
 - **Heure :** de 18h30 à 21h15, vendredi soir
 - **Lieu :** [52 rue Saint-Rosaire, Gatineau](https://www.google.com/maps/search/52+rue+Saint-Rosaire,+Gatineau)
-- **Tenue :** C5 avec manteau. N’oubliez pas de marquer votre nom à l’intérieur de votre manteau.
-Les recrues nées avant le 1er janvier 2013 pourront joindre leur nouveau niveau (2012 rouge, 2011 et avant argent). Dans le doute, allez voir votre cadet-cadre ou officier de niveau en début de soirée.
+- **Tenue :** C5 avec manteau. 
 
 [Guide des tenues](https://cc2920.us21.list-manage.com/track/click?u=eadebede776501f499284ae20&id=d92d722dc9&e=0b8a47f805)
 
 
 ## Activités à venir
-- 21 novembre : guignolée, compétition de biathlon
 - 28 novembre : course d’orientation
-- ~~12-13 décembre : secourisme~~ (annulé)
+- 18 décembre : dernier vendredi avant les fêtes
 
-## Compétition amicale de biathlon – Samedi 21 novembre 2026
-Bonne nouvelle! À la suite de l'annulation de la compétition régionale, les trois unités de cadets hébergées au manège militaire de Salaberry ont décidé d'organiser une compétition amicale de biathlon, afin de permettre à nos jeunes de mettre en pratique les efforts investis dans leur entraînement et de vivre une belle expérience de compétition.
 
-Voici les informations importantes :
-
-- **Qui :** Les cadets faisant partie de l'équipe de biathlon patrouilleur
-- **Quand :** 21 novembre à 9h00
-- **Lieu :** [Manège militaire de Hull](https://maps.app.goo.gl/9K69APWbsgpoT57u9)
-- **Transport :** Les familles devront prévoir le transport aller-retour. Le covoiturage entre les familles est encouragé afin de faciliter les déplacements.
-- **Repas:** Les cadets devront apporter un dîner froid ainsi que des collations pour la journée.
-- **Horaire de la journée :**
-   - **9 h :** Arrivée des cadets et prise des présences.
-   - **9 h 15 à 10 h 15 :** Zérotage des armes et échauffement.
-   - **10 h 45 :** Explication du déroulement de la compétition et remise des dossards.
-   - **11 h 15 à 14 h 30 :** Déroulement des courses (différentes catégories).
-   - **14 h 30 :** Rangement et nettoyage.
-   - **15 h 30 :** Annonce des résultats et remise des médailles.
-
-La compétition comprendra **4 séances de tir et 3 boucles de course**, avec une boucle de pénalité.
-
-Nous sommes très heureux que cette activité puisse finalement avoir lieu et avons hâte de voir nos cadets relever ce défi.
-
-Merci de votre soutien et de votre collaboration.
+## Mots du commandant
+Pour donner suite aux récentes annonces, nous avons dû revoir la programmation du
+calendrier d'activités du corps de cadets. Le calendrier du site web est donc à jour pour
+le restant de l'année 2026. Les soirées de tir et de précision seront une semaine sur
+deux.
 
 
 ## Course d’orientation 28 novembre
@@ -48,9 +29,13 @@ Merci de votre soutien et de votre collaboration.
 - L’information est disponible ici  : [Orienteering.pdf](https://1drv.ms/b/c/eec907a8a97cc844/IQAH8El7xFTuRp6RjGHCrgrhAck3kjAQyS5ij04fDA1EwFU?e=ChMQvS)
 
 
+## Habillement
+Nous avons reçu des pièces d’uniforme pour plusieurs cadets. La liste a été envoyé par courriel et sur Facebook avec les messages de la semaine. Présentez-vous au 52 St-Rosaire avec un parent ce mercredi entre 18h30 et 19h pour ramasser votre uniforme.
+
+
 ## Tir 
 - **Qui :** pour les cadets du biathlon seulement le 16 novembre
-- **Quand :** les lundis de 18h15 à 21h
+- **Quand :** un lundi sur 2 de 18h15 à 21h. Pas de tir le 23 novembre
 - **Lieu :** [100 rue de la Baie, Gatineau](https://maps.app.goo.gl/DnFTU7ALrTDhjDoQ9)
 - **Tenue :** civile
 
@@ -64,13 +49,9 @@ Merci de votre soutien et de votre collaboration.
 
 ## Peloton de précision
 - **Qui :** tous les cadets intéressés
-- **Quand :** les mercredis de 18h30 à 20h30
+- **Quand :** un mercredi sur 2 de 18h30 à 20h30, incluant le 25 novembre
 - **Lieu :** [100 rue de la Baie, Gatineau](https://maps.app.goo.gl/DnFTU7ALrTDhjDoQ9)
 - **Tenue :** civile avec les bottes de parade si vous l’avez. Apportez une bouteille d’eau et des collations si vous le désirez.
-
-
-## Habillement
-- **Manteaux de biathlon :** Petit rappel aux cadets qui ont emprunté un manteau de biathlon, celui-ci doit être retourné au QM dans les meilleurs délais.
   
 
 ## Grand tirage du panier de Noël
